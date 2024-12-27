@@ -3,7 +3,7 @@
         "title": "anti-work /      shortest",
         "link": "https://github.com/login?return_to=%2Fanti-work%2Fshortest",
         "description": "QA via natural language AI tests",
-        "stars": "2,371",
+        "stars": "2,373",
         "forks": "134"
     },
     {
@@ -66,35 +66,35 @@
         "title": "ziglang /      zig",
         "link": "https://github.com/sponsors/ziglang",
         "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
-        "stars": "35,703",
+        "stars": "35,705",
         "forks": "2,597"
     },
     {
         "title": "OpenSPG /      KAG",
         "link": "https://github.com/login?return_to=%2FOpenSPG%2FKAG",
         "description": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.",
-        "stars": "1,526",
+        "stars": "1,530",
         "forks": "111"
     },
     {
         "title": "ruanyf /      weekly",
         "link": "https://github.com/login?return_to=%2Fruanyf%2Fweekly",
         "description": "科技爱好者周刊，每周五发布",
-        "stars": "50,429",
+        "stars": "50,430",
         "forks": "3,020"
     },
     {
         "title": "2dust /      v2rayN",
         "link": "https://github.com/login?return_to=%2F2dust%2Fv2rayN",
         "description": "A GUI client for Windows, Linux and macOS, support Xray core and sing-box-core and others",
-        "stars": "72,404",
+        "stars": "72,406",
         "forks": "11,843"
     },
     {
         "title": "practical-tutorials /      project-based-learning",
         "link": "https://github.com/login?return_to=%2Fpractical-tutorials%2Fproject-based-learning",
         "description": "Curated list of project-based tutorials",
-        "stars": "209,222",
+        "stars": "209,224",
         "forks": "27,294"
     }
 ]
