@@ -9,11 +9,11 @@ def fetch_trending(language=None, since='daily'):
     soup = BeautifulSoup(response.content, "html.parser")
     repos = []
     for article in soup.find_all('article', class_='Box-row'):
-        title = article.find('h1', class_='h3 lh-condensed').text.strip()
+        title = article.find('h2', class_='h3 lh-condensed').text.strip()
         link = "https://github.com" + article.find('a')['href']
         description = article.find('p', class_='col-9 color-fg-muted my-1 pr-4').text.strip() if article.find('p', class_='col-9 color-fg-muted my-1 pr-4') else "No description provided"
-        stars = article.find('a', class_="Link--muted d-inline-block mr-3").text.strip()
-        forks = article.find_all('a', class_="Link--muted d-inline-block mr-3")[1].text.strip() if len(article.find_all('a', class_="Link--muted d-inline-block mr-3")) > 1 else "0"
+        stars = article.find('a', class_="Link Link--muted d-inline-block mr-3").text.strip()
+        forks = article.find_all('a', class_="Link Link--muted d-inline-block mr-3")[1].text.strip() if len(article.find_all('a', class_="Link Link--muted d-inline-block mr-3")) > 1 else "0"
         repos.append({"title": title, "link": link, "description": description, "stars": stars, "forks": forks})
     return repos
 
