@@ -24,46 +24,9 @@ jobs:
         run: python fetch_trending.py
 
       - name: Commit and push changes
-        uses: actions/github-script@v6
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const fs = require('fs');
-            const now = new Date().toISOString().slice(0, 10);
-            const filename = `trending_${now}.json`;
-            if (fs.existsSync(filename)) {
-              const blob = await github.rest.git.createBlob({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                content: fs.readFileSync(filename, { encoding: 'base64' }),
-                encoding: 'base64'
-              });
-              const { data: tree } = await github.rest.git.createTree({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                tree: [
-                  {
-                    path: filename,
-                    mode: '100644',
-                    type: 'blob',
-                    sha: blob.data.sha,
-                  },
-                ],
-                base_tree: context.sha
-              });
-              const { data: commit } = await github.rest.git.createCommit({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                message: `Update trending data ${now}`,
-                tree: tree.sha,
-                parents: [context.sha],
-              });
-              await github.rest.git.updateRef({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                ref: 'heads/main', // 或 'heads/master'
-                sha: commit.sha,
-              });
-            } else {
-                console.log("No trending data file found.");
-            }
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions@github.com'
+          git add trending/*.json # 添加 trending 文件夹下的所有 JSON 文件
+          git commit -m "Update trending data $(date +%Y-%m-%d)"
+          git push origin main # 或 master，取决于你的默认分支
