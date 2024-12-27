@@ -25,6 +25,7 @@ def clean_text(text):
     """
     # 去除换行符 \n
     text = text.replace('\n', '')
+    text = text.replace(' /      ', '/')
     # 移除多余空格 (包括制表符 \t 等)
     text = text.strip()  # 去除首尾空格
     return text
