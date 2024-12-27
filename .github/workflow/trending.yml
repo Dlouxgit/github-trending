@@ -1,0 +1,33 @@
+name: GitHub Trending
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天 UTC 时间 00:00 运行 (北京时间早上 8:00)
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  fetch-trending:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9' # 或其他你需要的版本
+
+      - name: Install requirements
+        run: pip install requests beautifulsoup4
+
+      - name: Fetch and save trending data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # 用于提交更改
+        run: |
+          python fetch_trending.py
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-commit-and-push@v9
+        with:
+          commit_message: Update trending data
+          push: true
