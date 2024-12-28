@@ -1,0 +1,100 @@
+[
+    {
+        "title": "anti-work/shortest",
+        "link": "https://github.com/login?return_to=%2Fanti-work%2Fshortest",
+        "description": "QA via natural language AI tests",
+        "stars": "2,780",
+        "forks": "144"
+    },
+    {
+        "title": "imputnet/cobalt",
+        "link": "https://github.com/login?return_to=%2Fimputnet%2Fcobalt",
+        "description": "best way to save what you love",
+        "stars": "22,096",
+        "forks": "1,803"
+    },
+    {
+        "title": "lobehub/lobe-chat",
+        "link": "https://github.com/sponsors/lobehub",
+        "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.",
+        "stars": "50,130",
+        "forks": "10,827"
+    },
+    {
+        "title": "OpenSPG/KAG",
+        "link": "https://github.com/login?return_to=%2FOpenSPG%2FKAG",
+        "description": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.",
+        "stars": "1,662",
+        "forks": "118"
+    },
+    {
+        "title": "n8n-io/n8n",
+        "link": "https://github.com/login?return_to=%2Fn8n-io%2Fn8n",
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "stars": "52,951",
+        "forks": "9,120"
+    },
+    {
+        "title": "siyuan-note/siyuan",
+        "link": "https://github.com/login?return_to=%2Fsiyuan-note%2Fsiyuan",
+        "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+        "stars": "24,622",
+        "forks": "1,692"
+    },
+    {
+        "title": "langchain-ai/langchain",
+        "link": "https://github.com/login?return_to=%2Flangchain-ai%2Flangchain",
+        "description": "🦜🔗 Build context-aware reasoning applications",
+        "stars": "97,011",
+        "forks": "15,764"
+    },
+    {
+        "title": "codecrafters-io/build-your-own-x",
+        "link": "https://github.com/login?return_to=%2Fcodecrafters-io%2Fbuild-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "stars": "319,010",
+        "forks": "29,594"
+    },
+    {
+        "title": "shadps4-emu/shadPS4",
+        "link": "https://github.com/login?return_to=%2Fshadps4-emu%2FshadPS4",
+        "description": "PS4 emulator for Windows,Linux,MacOS",
+        "stars": "11,871",
+        "forks": "800"
+    },
+    {
+        "title": "apache/echarts",
+        "link": "https://github.com/login?return_to=%2Fapache%2Fecharts",
+        "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
+        "stars": "61,280",
+        "forks": "19,648"
+    },
+    {
+        "title": "dair-ai/Prompt-Engineering-Guide",
+        "link": "https://github.com/sponsors/dair-ai",
+        "description": "🐙 Guides, papers, lecture, notebooks and resources for prompt engineering",
+        "stars": "51,439",
+        "forks": "4,993"
+    },
+    {
+        "title": "phidatahq/phidata",
+        "link": "https://github.com/login?return_to=%2Fphidatahq%2Fphidata",
+        "description": "Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.",
+        "stars": "16,901",
+        "forks": "2,284"
+    },
+    {
+        "title": "teableio/teable",
+        "link": "https://github.com/login?return_to=%2Fteableio%2Fteable",
+        "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
+        "stars": "14,063",
+        "forks": "645"
+    },
+    {
+        "title": "microg/GmsCore",
+        "link": "https://github.com/login?return_to=%2Fmicrog%2FGmsCore",
+        "description": "Free implementation of Play Services",
+        "stars": "9,079",
+        "forks": "1,774"
+    }
+]
