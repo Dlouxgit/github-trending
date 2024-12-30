@@ -1,0 +1,135 @@
+[
+    {
+        "title": "EbookFoundation/free-programming-books",
+        "link": "https://github.com/sponsors/EbookFoundation",
+        "description": "📚 Freely available programming books",
+        "stars": "343,245",
+        "forks": "62,166"
+    },
+    {
+        "title": "public-apis/public-apis",
+        "link": "https://github.com/login?return_to=%2Fpublic-apis%2Fpublic-apis",
+        "description": "A collective list of free APIs",
+        "stars": "321,547",
+        "forks": "34,183"
+    },
+    {
+        "title": "ManimCommunity/manim",
+        "link": "https://github.com/login?return_to=%2FManimCommunity%2Fmanim",
+        "description": "A community-maintained Python framework for creating mathematical animations.",
+        "stars": "27,897",
+        "forks": "1,946"
+    },
+    {
+        "title": "pathwaycom/pathway",
+        "link": "https://github.com/login?return_to=%2Fpathwaycom%2Fpathway",
+        "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+        "stars": "9,922",
+        "forks": "194"
+    },
+    {
+        "title": "DrewThomasson/ebook2audiobook",
+        "link": "https://github.com/login?return_to=%2FDrewThomasson%2Febook2audiobook",
+        "description": "Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!",
+        "stars": "2,346",
+        "forks": "172"
+    },
+    {
+        "title": "trimstray/the-book-of-secret-knowledge",
+        "link": "https://github.com/login?return_to=%2Ftrimstray%2Fthe-book-of-secret-knowledge",
+        "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+        "stars": "152,965",
+        "forks": "9,730"
+    },
+    {
+        "title": "3b1b/manim",
+        "link": "https://github.com/login?return_to=%2F3b1b%2Fmanim",
+        "description": "Animation engine for explanatory math videos",
+        "stars": "72,945",
+        "forks": "6,383"
+    },
+    {
+        "title": "jwasham/coding-interview-university",
+        "link": "https://github.com/login?return_to=%2Fjwasham%2Fcoding-interview-university",
+        "description": "A complete computer science study plan to become a software engineer.",
+        "stars": "308,673",
+        "forks": "77,287"
+    },
+    {
+        "title": "siyuan-note/siyuan",
+        "link": "https://github.com/login?return_to=%2Fsiyuan-note%2Fsiyuan",
+        "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+        "stars": "25,037",
+        "forks": "1,716"
+    },
+    {
+        "title": "kangfenmao/cherry-studio",
+        "link": "https://github.com/login?return_to=%2Fkangfenmao%2Fcherry-studio",
+        "description": "🍒 Cherry Studio is a desktop client that supports for multiple LLM providers",
+        "stars": "2,546",
+        "forks": "140"
+    },
+    {
+        "title": "imputnet/cobalt",
+        "link": "https://github.com/login?return_to=%2Fimputnet%2Fcobalt",
+        "description": "best way to save what you love",
+        "stars": "23,154",
+        "forks": "1,886"
+    },
+    {
+        "title": "haydenbleasel/next-forge",
+        "link": "https://github.com/sponsors/haydenbleasel",
+        "description": "Production-grade Turborepo template for Next.js apps.",
+        "stars": "4,912",
+        "forks": "379"
+    },
+    {
+        "title": "opendatalab/MinerU",
+        "link": "https://github.com/login?return_to=%2Fopendatalab%2FMinerU",
+        "description": "A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。",
+        "stars": "22,532",
+        "forks": "1,629"
+    },
+    {
+        "title": "phidatahq/phidata",
+        "link": "https://github.com/login?return_to=%2Fphidatahq%2Fphidata",
+        "description": "Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.",
+        "stars": "17,081",
+        "forks": "2,295"
+    },
+    {
+        "title": "chiteroman/PlayIntegrityFix",
+        "link": "https://github.com/login?return_to=%2Fchiteroman%2FPlayIntegrityFix",
+        "description": "Fix Play Integrity (and SafetyNet) verdicts.",
+        "stars": "5,540",
+        "forks": "346"
+    },
+    {
+        "title": "mbadolato/iTerm2-Color-Schemes",
+        "link": "https://github.com/login?return_to=%2Fmbadolato%2FiTerm2-Color-Schemes",
+        "description": "Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, and many more",
+        "stars": "25,090",
+        "forks": "6,455"
+    },
+    {
+        "title": "dair-ai/Prompt-Engineering-Guide",
+        "link": "https://github.com/sponsors/dair-ai",
+        "description": "🐙 Guides, papers, lecture, notebooks and resources for prompt engineering",
+        "stars": "51,681",
+        "forks": "5,009"
+    },
+    {
+        "title": "521xueweihan/HelloGitHub",
+        "link": "https://github.com/sponsors/521xueweihan",
+        "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+        "stars": "96,718",
+        "forks": "9,747"
+    },
+    {
+        "title": "elizaOS/eliza",
+        "link": "https://github.com/login?return_to=%2FelizaOS%2Feliza",
+        "description": "Autonomous agents for everyone",
+        "stars": "6,588",
+        "forks": "1,952"
+    }
+]
