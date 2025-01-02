@@ -1,0 +1,121 @@
+[
+    {
+        "title": "bytedance/monolith",
+        "link": "https://github.com/login?return_to=%2Fbytedance%2Fmonolith",
+        "description": "A Lightweight Recommendation System",
+        "stars": "4,686",
+        "forks": "392"
+    },
+    {
+        "title": "deepseek-ai/DeepSeek-Coder",
+        "link": "https://github.com/login?return_to=%2Fdeepseek-ai%2FDeepSeek-Coder",
+        "description": "DeepSeek Coder: Let the Code Write Itself",
+        "stars": "8,125",
+        "forks": "563"
+    },
+    {
+        "title": "DrewThomasson/ebook2audiobook",
+        "link": "https://github.com/login?return_to=%2FDrewThomasson%2Febook2audiobook",
+        "description": "Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!",
+        "stars": "3,998",
+        "forks": "275"
+    },
+    {
+        "title": "EbookFoundation/free-programming-books",
+        "link": "https://github.com/sponsors/EbookFoundation",
+        "description": "📚 Freely available programming books",
+        "stars": "345,565",
+        "forks": "62,338"
+    },
+    {
+        "title": "CopilotKit/CopilotKit",
+        "link": "https://github.com/login?return_to=%2FCopilotKit%2FCopilotKit",
+        "description": "React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁",
+        "stars": "14,777",
+        "forks": "2,199"
+    },
+    {
+        "title": "krahets/hello-algo",
+        "link": "https://github.com/login?return_to=%2Fkrahets%2Fhello-algo",
+        "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+        "stars": "104,955",
+        "forks": "13,156"
+    },
+    {
+        "title": "janhq/jan",
+        "link": "https://github.com/login?return_to=%2Fjanhq%2Fjan",
+        "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)",
+        "stars": "24,906",
+        "forks": "1,437"
+    },
+    {
+        "title": "codecrafters-io/build-your-own-x",
+        "link": "https://github.com/login?return_to=%2Fcodecrafters-io%2Fbuild-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "stars": "320,806",
+        "forks": "29,749"
+    },
+    {
+        "title": "elizaOS/eliza",
+        "link": "https://github.com/login?return_to=%2FelizaOS%2Feliza",
+        "description": "Autonomous agents for everyone",
+        "stars": "8,153",
+        "forks": "2,188"
+    },
+    {
+        "title": "pathwaycom/pathway",
+        "link": "https://github.com/login?return_to=%2Fpathwaycom%2Fpathway",
+        "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+        "stars": "11,783",
+        "forks": "251"
+    },
+    {
+        "title": "RVC-Boss/GPT-SoVITS",
+        "link": "https://github.com/login?return_to=%2FRVC-Boss%2FGPT-SoVITS",
+        "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+        "stars": "37,743",
+        "forks": "4,281"
+    },
+    {
+        "title": "0xPlaygrounds/rig",
+        "link": "https://github.com/login?return_to=%2F0xPlaygrounds%2Frig",
+        "description": "⚙️🦀 Build portable, modular & lightweight Fullstack Agents",
+        "stars": "2,064",
+        "forks": "169"
+    },
+    {
+        "title": "Byaidu/PDFMathTranslate",
+        "link": "https://github.com/login?return_to=%2FByaidu%2FPDFMathTranslate",
+        "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker",
+        "stars": "12,785",
+        "forks": "926"
+    },
+    {
+        "title": "QwenLM/Qwen-Agent",
+        "link": "https://github.com/login?return_to=%2FQwenLM%2FQwen-Agent",
+        "description": "Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.",
+        "stars": "4,743",
+        "forks": "425"
+    },
+    {
+        "title": "goauthentik/authentik",
+        "link": "https://github.com/login?return_to=%2Fgoauthentik%2Fauthentik",
+        "description": "The authentication glue you need.",
+        "stars": "14,207",
+        "forks": "964"
+    },
+    {
+        "title": "crewAIInc/crewAI",
+        "link": "https://github.com/login?return_to=%2FcrewAIInc%2FcrewAI",
+        "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+        "stars": "23,586",
+        "forks": "3,222"
+    },
+    {
+        "title": "activepieces/activepieces",
+        "link": "https://github.com/login?return_to=%2Factivepieces%2Factivepieces",
+        "description": "Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative",
+        "stars": "10,639",
+        "forks": "1,331"
+    }
+]
