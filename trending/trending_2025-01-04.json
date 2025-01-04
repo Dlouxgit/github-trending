@@ -1,0 +1,114 @@
+[
+    {
+        "title": "stanford-oval/storm",
+        "link": "https://github.com/login?return_to=%2Fstanford-oval%2Fstorm",
+        "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+        "stars": "15,430",
+        "forks": "1,425"
+    },
+    {
+        "title": "Cinnamon/kotaemon",
+        "link": "https://github.com/login?return_to=%2FCinnamon%2Fkotaemon",
+        "description": "An open-source RAG-based tool for chatting with your documents.",
+        "stars": "19,052",
+        "forks": "1,465"
+    },
+    {
+        "title": "QwenLM/Qwen-Agent",
+        "link": "https://github.com/login?return_to=%2FQwenLM%2FQwen-Agent",
+        "description": "Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.",
+        "stars": "4,981",
+        "forks": "436"
+    },
+    {
+        "title": "deepseek-ai/DeepSeek-Coder",
+        "link": "https://github.com/login?return_to=%2Fdeepseek-ai%2FDeepSeek-Coder",
+        "description": "DeepSeek Coder: Let the Code Write Itself",
+        "stars": "9,446",
+        "forks": "627"
+    },
+    {
+        "title": "bytedance/monolith",
+        "link": "https://github.com/login?return_to=%2Fbytedance%2Fmonolith",
+        "description": "A Lightweight Recommendation System",
+        "stars": "6,300",
+        "forks": "471"
+    },
+    {
+        "title": "spaceandtimelabs/sxt-proof-of-sql",
+        "link": "https://github.com/login?return_to=%2Fspaceandtimelabs%2Fsxt-proof-of-sql",
+        "description": "Space and Time | Proof of SQL",
+        "stars": "4,265",
+        "forks": "157"
+    },
+    {
+        "title": "nvm-sh/nvm",
+        "link": "https://github.com/login?return_to=%2Fnvm-sh%2Fnvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "stars": "81,360",
+        "forks": "8,100"
+    },
+    {
+        "title": "janhq/jan",
+        "link": "https://github.com/login?return_to=%2Fjanhq%2Fjan",
+        "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+        "stars": "25,351",
+        "forks": "1,463"
+    },
+    {
+        "title": "louis-e/arnis",
+        "link": "https://github.com/login?return_to=%2Flouis-e%2Farnis",
+        "description": "Generate any location from the real world in Minecraft Java Edition with a high level of detail.",
+        "stars": "3,086",
+        "forks": "71"
+    },
+    {
+        "title": "f/awesome-chatgpt-prompts",
+        "link": "https://github.com/sponsors/f",
+        "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+        "stars": "115,370",
+        "forks": "15,713"
+    },
+    {
+        "title": "hashicorp/terraform",
+        "link": "https://github.com/login?return_to=%2Fhashicorp%2Fterraform",
+        "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+        "stars": "43,442",
+        "forks": "9,604"
+    },
+    {
+        "title": "elizaOS/eliza",
+        "link": "https://github.com/login?return_to=%2FelizaOS%2Feliza",
+        "description": "Autonomous agents for everyone",
+        "stars": "9,015",
+        "forks": "2,370"
+    },
+    {
+        "title": "loco-rs/loco",
+        "link": "https://github.com/login?return_to=%2Floco-rs%2Floco",
+        "description": "🚂 🦀 The one-person framework for Rust for side-projects and startups",
+        "stars": "5,908",
+        "forks": "263"
+    },
+    {
+        "title": "gitroomhq/postiz-app",
+        "link": "https://github.com/login?return_to=%2Fgitroomhq%2Fpostiz-app",
+        "description": "📨 The ultimate social media scheduling tool, with a bunch of AI 🤖",
+        "stars": "16,257",
+        "forks": "2,648"
+    },
+    {
+        "title": "Byaidu/PDFMathTranslate",
+        "link": "https://github.com/login?return_to=%2FByaidu%2FPDFMathTranslate",
+        "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker",
+        "stars": "13,432",
+        "forks": "981"
+    },
+    {
+        "title": "codecrafters-io/build-your-own-x",
+        "link": "https://github.com/login?return_to=%2Fcodecrafters-io%2Fbuild-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "stars": "321,974",
+        "forks": "29,852"
+    }
+]
