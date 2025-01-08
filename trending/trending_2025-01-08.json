@@ -1,0 +1,107 @@
+[
+    {
+        "title": "unclecode/crawl4ai",
+        "link": "https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai",
+        "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper",
+        "stars": "22,525",
+        "forks": "1,611"
+    },
+    {
+        "title": "khoj-ai/khoj",
+        "link": "https://github.com/sponsors/khoj-ai",
+        "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+        "stars": "20,914",
+        "forks": "1,084"
+    },
+    {
+        "title": "zaidmukaddam/miniperplx",
+        "link": "https://github.com/sponsors/zaidmukaddam",
+        "description": "A minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.",
+        "stars": "2,626",
+        "forks": "284"
+    },
+    {
+        "title": "serengil/deepface",
+        "link": "https://github.com/sponsors/serengil",
+        "description": "A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python",
+        "stars": "16,342",
+        "forks": "2,346"
+    },
+    {
+        "title": "prometheus/prometheus",
+        "link": "https://github.com/login?return_to=%2Fprometheus%2Fprometheus",
+        "description": "The Prometheus monitoring system and time series database.",
+        "stars": "56,636",
+        "forks": "9,269"
+    },
+    {
+        "title": "All-Hands-AI/OpenHands",
+        "link": "https://github.com/login?return_to=%2FAll-Hands-AI%2FOpenHands",
+        "description": "🙌 OpenHands: Code Less, Make More",
+        "stars": "41,809",
+        "forks": "4,631"
+    },
+    {
+        "title": "practical-tutorials/project-based-learning",
+        "link": "https://github.com/login?return_to=%2Fpractical-tutorials%2Fproject-based-learning",
+        "description": "Curated list of project-based tutorials",
+        "stars": "211,248",
+        "forks": "27,573"
+    },
+    {
+        "title": "projectdiscovery/nuclei",
+        "link": "https://github.com/login?return_to=%2Fprojectdiscovery%2Fnuclei",
+        "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+        "stars": "21,422",
+        "forks": "2,564"
+    },
+    {
+        "title": "CorentinTh/it-tools",
+        "link": "https://github.com/sponsors/CorentinTh",
+        "description": "Collection of handy online tools for developers, with great UX.",
+        "stars": "24,134",
+        "forks": "2,964"
+    },
+    {
+        "title": "zigbee2mqtt/hassio-zigbee2mqtt",
+        "link": "https://github.com/login?return_to=%2Fzigbee2mqtt%2Fhassio-zigbee2mqtt",
+        "description": "Official Zigbee2MQTT Home Assistant add-on",
+        "stars": "1,302",
+        "forks": "468"
+    },
+    {
+        "title": "mudler/LocalAI",
+        "link": "https://github.com/sponsors/mudler",
+        "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+        "stars": "27,845",
+        "forks": "2,097"
+    },
+    {
+        "title": "commaai/openpilot",
+        "link": "https://github.com/login?return_to=%2Fcommaai%2Fopenpilot",
+        "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.",
+        "stars": "51,446",
+        "forks": "9,273"
+    },
+    {
+        "title": "firebase/firebase-ios-sdk",
+        "link": "https://github.com/login?return_to=%2Ffirebase%2Ffirebase-ios-sdk",
+        "description": "Firebase SDK for Apple App Development",
+        "stars": "5,787",
+        "forks": "1,501"
+    },
+    {
+        "title": "chroma-core/chroma",
+        "link": "https://github.com/login?return_to=%2Fchroma-core%2Fchroma",
+        "description": "the AI-native open-source embedding database",
+        "stars": "16,656",
+        "forks": "1,384"
+    },
+    {
+        "title": "rectorphp/rector",
+        "link": "https://github.com/login?return_to=%2Frectorphp%2Frector",
+        "description": "Instant Upgrades and Automated Refactoring of any PHP 5.3+ code",
+        "stars": "9,033",
+        "forks": "696"
+    }
+]
