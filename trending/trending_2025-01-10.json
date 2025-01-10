@@ -1,0 +1,100 @@
+[
+    {
+        "title": "khoj-ai/khoj",
+        "link": "https://github.com/sponsors/khoj-ai",
+        "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+        "stars": "23,380",
+        "forks": "1,231"
+    },
+    {
+        "title": "srbhr/Resume-Matcher",
+        "link": "https://github.com/sponsors/srbhr",
+        "description": "Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.",
+        "stars": "6,942",
+        "forks": "2,554"
+    },
+    {
+        "title": "inkonchain/node",
+        "link": "https://github.com/login?return_to=%2Finkonchain%2Fnode",
+        "description": "How to run an Ink Node",
+        "stars": "17,856",
+        "forks": "242"
+    },
+    {
+        "title": "NVlabs/VILA",
+        "link": "https://github.com/login?return_to=%2FNVlabs%2FVILA",
+        "description": "VILA is a family of state-of-the-art vision language models (VLMs) for diverse multimodal AI tasks across the edge, data center, and cloud.",
+        "stars": "2,546",
+        "forks": "204"
+    },
+    {
+        "title": "unclecode/crawl4ai",
+        "link": "https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai",
+        "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper",
+        "stars": "23,600",
+        "forks": "1,696"
+    },
+    {
+        "title": "inkonchain/docs",
+        "link": "https://github.com/login?return_to=%2Finkonchain%2Fdocs",
+        "description": "Ink Documentation",
+        "stars": "17,785",
+        "forks": "180"
+    },
+    {
+        "title": "google/googletest",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Fgoogletest",
+        "description": "GoogleTest - Google Testing and Mocking Framework",
+        "stars": "35,195",
+        "forks": "10,225"
+    },
+    {
+        "title": "78/xiaozhi-esp32",
+        "link": "https://github.com/login?return_to=%2F78%2Fxiaozhi-esp32",
+        "description": "Build your own AI friend",
+        "stars": "2,039",
+        "forks": "342"
+    },
+    {
+        "title": "firebase/firebase-ios-sdk",
+        "link": "https://github.com/login?return_to=%2Ffirebase%2Ffirebase-ios-sdk",
+        "description": "Firebase SDK for Apple App Development",
+        "stars": "5,836",
+        "forks": "1,506"
+    },
+    {
+        "title": "pytorch/torchtune",
+        "link": "https://github.com/login?return_to=%2Fpytorch%2Ftorchtune",
+        "description": "PyTorch native post-training library",
+        "stars": "4,628",
+        "forks": "478"
+    },
+    {
+        "title": "gabime/spdlog",
+        "link": "https://github.com/login?return_to=%2Fgabime%2Fspdlog",
+        "description": "Fast C++ logging library.",
+        "stars": "24,983",
+        "forks": "4,639"
+    },
+    {
+        "title": "apache/thrift",
+        "link": "https://github.com/login?return_to=%2Fapache%2Fthrift",
+        "description": "Apache Thrift",
+        "stars": "10,538",
+        "forks": "4,038"
+    },
+    {
+        "title": "cline/cline",
+        "link": "https://github.com/login?return_to=%2Fcline%2Fcline",
+        "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+        "stars": "20,897",
+        "forks": "1,772"
+    },
+    {
+        "title": "bnb-chain/bsc",
+        "link": "https://github.com/login?return_to=%2Fbnb-chain%2Fbsc",
+        "description": "A BNB Smart Chain client based on the go-ethereum fork",
+        "stars": "2,868",
+        "forks": "1,590"
+    }
+]
