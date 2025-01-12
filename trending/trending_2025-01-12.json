@@ -1,0 +1,93 @@
+[
+    {
+        "title": "feder-cr/Jobs_Applier_AI_Agent",
+        "link": "https://github.com/sponsors/feder-cr",
+        "description": "Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.",
+        "stars": "25,072",
+        "forks": "3,723"
+    },
+    {
+        "title": "kamranahmedse/developer-roadmap",
+        "link": "https://github.com/sponsors/kamranahmedse",
+        "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+        "stars": "304,718",
+        "forks": "39,891"
+    },
+    {
+        "title": "Nutlope/llamacoder",
+        "link": "https://github.com/login?return_to=%2FNutlope%2Fllamacoder",
+        "description": "Open source Claude Artifacts – built with Llama 3.1 405B",
+        "stars": "4,762",
+        "forks": "1,042"
+    },
+    {
+        "title": "quickwit-oss/quickwit",
+        "link": "https://github.com/login?return_to=%2Fquickwit-oss%2Fquickwit",
+        "description": "Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.",
+        "stars": "8,775",
+        "forks": "379"
+    },
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "11,889",
+        "forks": "1,278"
+    },
+    {
+        "title": "firebase/firebase-ios-sdk",
+        "link": "https://github.com/login?return_to=%2Ffirebase%2Ffirebase-ios-sdk",
+        "description": "Firebase SDK for Apple App Development",
+        "stars": "5,891",
+        "forks": "1,513"
+    },
+    {
+        "title": "Canner/WrenAI",
+        "link": "https://github.com/login?return_to=%2FCanner%2FWrenAI",
+        "description": "🤖 Open-source AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, and BI. 📈📊📋🧑‍💻",
+        "stars": "3,598",
+        "forks": "316"
+    },
+    {
+        "title": "filamentphp/filament",
+        "link": "https://github.com/login?return_to=%2Ffilamentphp%2Ffilament",
+        "description": "A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.",
+        "stars": "20,575",
+        "forks": "3,104"
+    },
+    {
+        "title": "fixie-ai/ultravox",
+        "link": "https://github.com/login?return_to=%2Ffixie-ai%2Fultravox",
+        "description": "A fast multimodal LLM for real-time voice",
+        "stars": "1,957",
+        "forks": "143"
+    },
+    {
+        "title": "google/googletest",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Fgoogletest",
+        "description": "GoogleTest - Google Testing and Mocking Framework",
+        "stars": "35,267",
+        "forks": "10,230"
+    },
+    {
+        "title": "microsoft/vcpkg",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fvcpkg",
+        "description": "C++ Library Manager for Windows, Linux, and MacOS",
+        "stars": "23,748",
+        "forks": "6,550"
+    },
+    {
+        "title": "NVIDIA/nv-ingest",
+        "link": "https://github.com/login?return_to=%2FNVIDIA%2Fnv-ingest",
+        "description": "NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieval systems.",
+        "stars": "1,345",
+        "forks": "139"
+    },
+    {
+        "title": "gabime/spdlog",
+        "link": "https://github.com/login?return_to=%2Fgabime%2Fspdlog",
+        "description": "Fast C++ logging library.",
+        "stars": "25,027",
+        "forks": "4,643"
+    }
+]
