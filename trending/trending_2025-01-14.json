@@ -1,0 +1,114 @@
+[
+    {
+        "title": "FujiwaraChoki/MoneyPrinterV2",
+        "link": "https://github.com/sponsors/FujiwaraChoki",
+        "description": "Automate the process of making money online.",
+        "stars": "4,087",
+        "forks": "448"
+    },
+    {
+        "title": "fixie-ai/ultravox",
+        "link": "https://github.com/login?return_to=%2Ffixie-ai%2Fultravox",
+        "description": "A fast multimodal LLM for real-time voice",
+        "stars": "2,543",
+        "forks": "161"
+    },
+    {
+        "title": "TabbyML/tabby",
+        "link": "https://github.com/login?return_to=%2FTabbyML%2Ftabby",
+        "description": "Self-hosted AI coding assistant",
+        "stars": "24,216",
+        "forks": "1,106"
+    },
+    {
+        "title": "kamranahmedse/developer-roadmap",
+        "link": "https://github.com/sponsors/kamranahmedse",
+        "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+        "stars": "305,453",
+        "forks": "39,972"
+    },
+    {
+        "title": "yt-dlp/yt-dlp",
+        "link": "https://github.com/login?return_to=%2Fyt-dlp%2Fyt-dlp",
+        "description": "A feature-rich command-line audio/video downloader",
+        "stars": "96,300",
+        "forks": "7,548"
+    },
+    {
+        "title": "MagicMirrorOrg/MagicMirror",
+        "link": "https://github.com/login?return_to=%2FMagicMirrorOrg%2FMagicMirror",
+        "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
+        "stars": "20,585",
+        "forks": "4,258"
+    },
+    {
+        "title": "ubicloud/ubicloud",
+        "link": "https://github.com/login?return_to=%2Fubicloud%2Fubicloud",
+        "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.",
+        "stars": "4,176",
+        "forks": "136"
+    },
+    {
+        "title": "JoshuaC215/agent-service-toolkit",
+        "link": "https://github.com/login?return_to=%2FJoshuaC215%2Fagent-service-toolkit",
+        "description": "Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit",
+        "stars": "1,057",
+        "forks": "174"
+    },
+    {
+        "title": "feder-cr/Jobs_Applier_AI_Agent",
+        "link": "https://github.com/sponsors/feder-cr",
+        "description": "Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.",
+        "stars": "26,191",
+        "forks": "3,839"
+    },
+    {
+        "title": "automatisch/automatisch",
+        "link": "https://github.com/login?return_to=%2Fautomatisch%2Fautomatisch",
+        "description": "The open source Zapier alternative. Build workflow automation without spending time and money.",
+        "stars": "7,042",
+        "forks": "512"
+    },
+    {
+        "title": "kevmo314/scuda",
+        "link": "https://github.com/login?return_to=%2Fkevmo314%2Fscuda",
+        "description": "SCUDA is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.",
+        "stars": "1,131",
+        "forks": "39"
+    },
+    {
+        "title": "mufeedvh/code2prompt",
+        "link": "https://github.com/sponsors/mufeedvh",
+        "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.",
+        "stars": "3,077",
+        "forks": "188"
+    },
+    {
+        "title": "quickwit-oss/quickwit",
+        "link": "https://github.com/login?return_to=%2Fquickwit-oss%2Fquickwit",
+        "description": "Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.",
+        "stars": "9,297",
+        "forks": "402"
+    },
+    {
+        "title": "raycast/extensions",
+        "link": "https://github.com/login?return_to=%2Fraycast%2Fextensions",
+        "description": "Everything you need to extend Raycast.",
+        "stars": "5,678",
+        "forks": "3,296"
+    },
+    {
+        "title": "leerob/next-saas-starter",
+        "link": "https://github.com/login?return_to=%2Fleerob%2Fnext-saas-starter",
+        "description": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.",
+        "stars": "8,074",
+        "forks": "861"
+    },
+    {
+        "title": "mylinuxforwork/dotfiles",
+        "link": "https://github.com/login?return_to=%2Fmylinuxforwork%2Fdotfiles",
+        "description": "The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch and Fedora based Linux distributions.",
+        "stars": "1,560",
+        "forks": "117"
+    }
+]
