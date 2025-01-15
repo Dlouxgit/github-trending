@@ -1,0 +1,107 @@
+[
+    {
+        "title": "TabbyML/tabby",
+        "link": "https://github.com/login?return_to=%2FTabbyML%2Ftabby",
+        "description": "Self-hosted AI coding assistant",
+        "stars": "25,391",
+        "forks": "1,151"
+    },
+    {
+        "title": "RealKai42/qwerty-learner",
+        "link": "https://github.com/login?return_to=%2FRealKai42%2Fqwerty-learner",
+        "description": "为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers",
+        "stars": "16,555",
+        "forks": "1,600"
+    },
+    {
+        "title": "ubicloud/ubicloud",
+        "link": "https://github.com/login?return_to=%2Fubicloud%2Fubicloud",
+        "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.",
+        "stars": "4,420",
+        "forks": "148"
+    },
+    {
+        "title": "DrewThomasson/ebook2audiobook",
+        "link": "https://github.com/login?return_to=%2FDrewThomasson%2Febook2audiobook",
+        "description": "Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!",
+        "stars": "6,907",
+        "forks": "476"
+    },
+    {
+        "title": "dnhkng/GlaDOS",
+        "link": "https://github.com/login?return_to=%2Fdnhkng%2FGlaDOS",
+        "description": "This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve.",
+        "stars": "3,911",
+        "forks": "319"
+    },
+    {
+        "title": "automatisch/automatisch",
+        "link": "https://github.com/login?return_to=%2Fautomatisch%2Fautomatisch",
+        "description": "The open source Zapier alternative. Build workflow automation without spending time and money.",
+        "stars": "7,328",
+        "forks": "530"
+    },
+    {
+        "title": "JoshuaC215/agent-service-toolkit",
+        "link": "https://github.com/login?return_to=%2FJoshuaC215%2Fagent-service-toolkit",
+        "description": "Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit",
+        "stars": "1,289",
+        "forks": "191"
+    },
+    {
+        "title": "ChrisTitusTech/winutil",
+        "link": "https://github.com/sponsors/ChrisTitusTech",
+        "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
+        "stars": "27,071",
+        "forks": "1,606"
+    },
+    {
+        "title": "AppFlowy-IO/AppFlowy",
+        "link": "https://github.com/login?return_to=%2FAppFlowy-IO%2FAppFlowy",
+        "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
+        "stars": "59,671",
+        "forks": "3,960"
+    },
+    {
+        "title": "ItzCrazyKns/Perplexica",
+        "link": "https://github.com/login?return_to=%2FItzCrazyKns%2FPerplexica",
+        "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+        "stars": "18,531",
+        "forks": "1,777"
+    },
+    {
+        "title": "FujiwaraChoki/MoneyPrinterV2",
+        "link": "https://github.com/sponsors/FujiwaraChoki",
+        "description": "Automate the process of making money online.",
+        "stars": "5,035",
+        "forks": "542"
+    },
+    {
+        "title": "yt-dlp/yt-dlp",
+        "link": "https://github.com/login?return_to=%2Fyt-dlp%2Fyt-dlp",
+        "description": "A feature-rich command-line audio/video downloader",
+        "stars": "96,601",
+        "forks": "7,565"
+    },
+    {
+        "title": "nautechsystems/nautilus_trader",
+        "link": "https://github.com/login?return_to=%2Fnautechsystems%2Fnautilus_trader",
+        "description": "A high-performance algorithmic trading platform and event-driven backtester",
+        "stars": "2,798",
+        "forks": "558"
+    },
+    {
+        "title": "BuilderIO/gpt-crawler",
+        "link": "https://github.com/login?return_to=%2FBuilderIO%2Fgpt-crawler",
+        "description": "Crawl a site to generate knowledge files to create your own custom GPT from a URL",
+        "stars": "20,139",
+        "forks": "2,136"
+    },
+    {
+        "title": "AmruthPillai/Reactive-Resume",
+        "link": "https://github.com/sponsors/AmruthPillai",
+        "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+        "stars": "27,194",
+        "forks": "2,785"
+    }
+]
