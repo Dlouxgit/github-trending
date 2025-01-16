@@ -1,0 +1,114 @@
+[
+    {
+        "title": "TabbyML/tabby",
+        "link": "https://github.com/login?return_to=%2FTabbyML%2Ftabby",
+        "description": "Self-hosted AI coding assistant",
+        "stars": "26,916",
+        "forks": "1,215"
+    },
+    {
+        "title": "nautechsystems/nautilus_trader",
+        "link": "https://github.com/login?return_to=%2Fnautechsystems%2Fnautilus_trader",
+        "description": "A high-performance algorithmic trading platform and event-driven backtester",
+        "stars": "3,176",
+        "forks": "582"
+    },
+    {
+        "title": "JoshuaC215/agent-service-toolkit",
+        "link": "https://github.com/login?return_to=%2FJoshuaC215%2Fagent-service-toolkit",
+        "description": "Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit",
+        "stars": "1,478",
+        "forks": "211"
+    },
+    {
+        "title": "harry0703/MoneyPrinterTurbo",
+        "link": "https://github.com/login?return_to=%2Fharry0703%2FMoneyPrinterTurbo",
+        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+        "stars": "20,108",
+        "forks": "3,069"
+    },
+    {
+        "title": "automatisch/automatisch",
+        "link": "https://github.com/login?return_to=%2Fautomatisch%2Fautomatisch",
+        "description": "The open source Zapier alternative. Build workflow automation without spending time and money.",
+        "stars": "7,543",
+        "forks": "540"
+    },
+    {
+        "title": "sampotts/plyr",
+        "link": "https://github.com/sponsors/sampotts",
+        "description": "A simple HTML5, YouTube and Vimeo player",
+        "stars": "27,814",
+        "forks": "3,011"
+    },
+    {
+        "title": "mufeedvh/code2prompt",
+        "link": "https://github.com/sponsors/mufeedvh",
+        "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.",
+        "stars": "3,423",
+        "forks": "208"
+    },
+    {
+        "title": "FujiwaraChoki/MoneyPrinterV2",
+        "link": "https://github.com/sponsors/FujiwaraChoki",
+        "description": "Automate the process of making money online.",
+        "stars": "5,423",
+        "forks": "558"
+    },
+    {
+        "title": "steven2358/awesome-generative-ai",
+        "link": "https://github.com/login?return_to=%2Fsteven2358%2Fawesome-generative-ai",
+        "description": "A curated list of modern Generative Artificial Intelligence projects and services",
+        "stars": "6,519",
+        "forks": "701"
+    },
+    {
+        "title": "dnhkng/GlaDOS",
+        "link": "https://github.com/login?return_to=%2Fdnhkng%2FGlaDOS",
+        "description": "This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve.",
+        "stars": "4,076",
+        "forks": "322"
+    },
+    {
+        "title": "NVlabs/Sana",
+        "link": "https://github.com/login?return_to=%2FNVlabs%2FSana",
+        "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
+        "stars": "2,525",
+        "forks": "147"
+    },
+    {
+        "title": "ton-blockchain/ton",
+        "link": "https://github.com/login?return_to=%2Fton-blockchain%2Fton",
+        "description": "Main TON monorepo",
+        "stars": "3,242",
+        "forks": "1,068"
+    },
+    {
+        "title": "spree/spree",
+        "link": "https://github.com/login?return_to=%2Fspree%2Fspree",
+        "description": "An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev",
+        "stars": "13,400",
+        "forks": "4,973"
+    },
+    {
+        "title": "KoljaB/RealtimeSTT",
+        "link": "https://github.com/login?return_to=%2FKoljaB%2FRealtimeSTT",
+        "description": "A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.",
+        "stars": "2,801",
+        "forks": "261"
+    },
+    {
+        "title": "AppFlowy-IO/AppFlowy",
+        "link": "https://github.com/login?return_to=%2FAppFlowy-IO%2FAppFlowy",
+        "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
+        "stars": "59,893",
+        "forks": "3,974"
+    },
+    {
+        "title": "microsoft/vscode",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fvscode",
+        "description": "Visual Studio Code",
+        "stars": "166,241",
+        "forks": "30,051"
+    }
+]
