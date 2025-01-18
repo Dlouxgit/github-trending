@@ -1,0 +1,93 @@
+[
+    {
+        "title": "OpenBMB/MiniCPM-o",
+        "link": "https://github.com/login?return_to=%2FOpenBMB%2FMiniCPM-o",
+        "description": "MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone",
+        "stars": "14,821",
+        "forks": "1,059"
+    },
+    {
+        "title": "TabbyML/tabby",
+        "link": "https://github.com/login?return_to=%2FTabbyML%2Ftabby",
+        "description": "Self-hosted AI coding assistant",
+        "stars": "28,137",
+        "forks": "1,284"
+    },
+    {
+        "title": "nextcloud/server",
+        "link": "https://github.com/login?return_to=%2Fnextcloud%2Fserver",
+        "description": "☁️ Nextcloud server, a safe home for all your data",
+        "stars": "28,080",
+        "forks": "4,131"
+    },
+    {
+        "title": "fluentassertions/fluentassertions",
+        "link": "https://github.com/sponsors/fluentassertions",
+        "description": "A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3.",
+        "stars": "3,840",
+        "forks": "690"
+    },
+    {
+        "title": "mlabonne/llm-course",
+        "link": "https://github.com/login?return_to=%2Fmlabonne%2Fllm-course",
+        "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+        "stars": "41,956",
+        "forks": "4,503"
+    },
+    {
+        "title": "hashicorp/terraform",
+        "link": "https://github.com/login?return_to=%2Fhashicorp%2Fterraform",
+        "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+        "stars": "43,626",
+        "forks": "9,624"
+    },
+    {
+        "title": "spree/spree",
+        "link": "https://github.com/login?return_to=%2Fspree%2Fspree",
+        "description": "An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev",
+        "stars": "13,915",
+        "forks": "4,995"
+    },
+    {
+        "title": "Chainlit/chainlit",
+        "link": "https://github.com/login?return_to=%2FChainlit%2Fchainlit",
+        "description": "Build Conversational AI in minutes ⚡️",
+        "stars": "7,817",
+        "forks": "1,036"
+    },
+    {
+        "title": "KoljaB/RealtimeSTT",
+        "link": "https://github.com/login?return_to=%2FKoljaB%2FRealtimeSTT",
+        "description": "A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.",
+        "stars": "3,725",
+        "forks": "323"
+    },
+    {
+        "title": "metabase/metabase",
+        "link": "https://github.com/login?return_to=%2Fmetabase%2Fmetabase",
+        "description": "The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋",
+        "stars": "39,598",
+        "forks": "5,256"
+    },
+    {
+        "title": "public-apis/public-apis",
+        "link": "https://github.com/login?return_to=%2Fpublic-apis%2Fpublic-apis",
+        "description": "A collective list of free APIs",
+        "stars": "324,751",
+        "forks": "34,455"
+    },
+    {
+        "title": "f/awesome-chatgpt-prompts",
+        "link": "https://github.com/sponsors/f",
+        "description": "This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.",
+        "stars": "117,809",
+        "forks": "15,937"
+    },
+    {
+        "title": "facebook/folly",
+        "link": "https://github.com/login?return_to=%2Ffacebook%2Ffolly",
+        "description": "An open-source C++ library developed and used at Facebook.",
+        "stars": "28,800",
+        "forks": "5,622"
+    }
+]
