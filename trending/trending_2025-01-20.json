@@ -1,0 +1,128 @@
+[
+    {
+        "title": "OpenBMB/MiniCPM-o",
+        "link": "https://github.com/login?return_to=%2FOpenBMB%2FMiniCPM-o",
+        "description": "MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone",
+        "stars": "16,406",
+        "forks": "1,179"
+    },
+    {
+        "title": "mlabonne/llm-course",
+        "link": "https://github.com/login?return_to=%2Fmlabonne%2Fllm-course",
+        "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+        "stars": "42,548",
+        "forks": "4,569"
+    },
+    {
+        "title": "CopilotKit/CopilotKit",
+        "link": "https://github.com/login?return_to=%2FCopilotKit%2FCopilotKit",
+        "description": "React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁",
+        "stars": "15,601",
+        "forks": "2,285"
+    },
+    {
+        "title": "PathOfBuildingCommunity/PathOfBuilding",
+        "link": "https://github.com/login?return_to=%2FPathOfBuildingCommunity%2FPathOfBuilding",
+        "description": "Offline build planner for Path of Exile.",
+        "stars": "4,374",
+        "forks": "2,105"
+    },
+    {
+        "title": "siyuan-note/siyuan",
+        "link": "https://github.com/login?return_to=%2Fsiyuan-note%2Fsiyuan",
+        "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+        "stars": "27,866",
+        "forks": "1,831"
+    },
+    {
+        "title": "frappe/helpdesk",
+        "link": "https://github.com/login?return_to=%2Ffrappe%2Fhelpdesk",
+        "description": "Modern, Streamlined, Free and Open Source Customer Service Software",
+        "stars": "1,257",
+        "forks": "293"
+    },
+    {
+        "title": "Dokploy/dokploy",
+        "link": "https://github.com/sponsors/Dokploy",
+        "description": "Open Source Alternative to Vercel, Netlify and Heroku.",
+        "stars": "11,677",
+        "forks": "614"
+    },
+    {
+        "title": "OpenBB-finance/OpenBB",
+        "link": "https://github.com/login?return_to=%2FOpenBB-finance%2FOpenBB",
+        "description": "Investment Research for Everyone, Everywhere.",
+        "stars": "35,241",
+        "forks": "3,216"
+    },
+    {
+        "title": "nextcloud/server",
+        "link": "https://github.com/login?return_to=%2Fnextcloud%2Fserver",
+        "description": "☁️ Nextcloud server, a safe home for all your data",
+        "stars": "28,245",
+        "forks": "4,142"
+    },
+    {
+        "title": "KoljaB/RealtimeSTT",
+        "link": "https://github.com/login?return_to=%2FKoljaB%2FRealtimeSTT",
+        "description": "A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.",
+        "stars": "4,104",
+        "forks": "348"
+    },
+    {
+        "title": "emmabostian/developer-portfolios",
+        "link": "https://github.com/login?return_to=%2Femmabostian%2Fdeveloper-portfolios",
+        "description": "A list of developer portfolios for your inspiration",
+        "stars": "9,480",
+        "forks": "1,973"
+    },
+    {
+        "title": "emcie-co/parlant",
+        "link": "https://github.com/login?return_to=%2Femcie-co%2Fparlant",
+        "description": "The behavior guidance framework for customer-facing LLM agents",
+        "stars": "586",
+        "forks": "38"
+    },
+    {
+        "title": "web-infra-dev/midscene",
+        "link": "https://github.com/login?return_to=%2Fweb-infra-dev%2Fmidscene",
+        "description": "AI-Driven Browser Automation with Chrome Extensions, JavaScript, and YAML Scripts.",
+        "stars": "3,552",
+        "forks": "169"
+    },
+    {
+        "title": "bytedance/monolith",
+        "link": "https://github.com/login?return_to=%2Fbytedance%2Fmonolith",
+        "description": "A Lightweight Recommendation System",
+        "stars": "7,576",
+        "forks": "571"
+    },
+    {
+        "title": "echasnovski/mini.nvim",
+        "link": "https://github.com/login?return_to=%2Fechasnovski%2Fmini.nvim",
+        "description": "Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort",
+        "stars": "6,052",
+        "forks": "209"
+    },
+    {
+        "title": "freqtrade/freqtrade",
+        "link": "https://github.com/login?return_to=%2Ffreqtrade%2Ffreqtrade",
+        "description": "Free, open source crypto trading bot",
+        "stars": "34,770",
+        "forks": "6,861"
+    },
+    {
+        "title": "henrygd/beszel",
+        "link": "https://github.com/login?return_to=%2Fhenrygd%2Fbeszel",
+        "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+        "stars": "6,004",
+        "forks": "178"
+    },
+    {
+        "title": "Chainlit/chainlit",
+        "link": "https://github.com/login?return_to=%2FChainlit%2Fchainlit",
+        "description": "Build Conversational AI in minutes ⚡️",
+        "stars": "8,005",
+        "forks": "1,054"
+    }
+]
