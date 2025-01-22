@@ -1,0 +1,128 @@
+[
+    {
+        "title": "mlabonne/llm-course",
+        "link": "https://github.com/login?return_to=%2Fmlabonne%2Fllm-course",
+        "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+        "stars": "43,425",
+        "forks": "4,641"
+    },
+    {
+        "title": "PatrickJS/awesome-cursorrules",
+        "link": "https://github.com/sponsors/PatrickJS",
+        "description": "📄 A curated list of awesome .cursorrules files",
+        "stars": "7,452",
+        "forks": "496"
+    },
+    {
+        "title": "Dokploy/dokploy",
+        "link": "https://github.com/sponsors/Dokploy",
+        "description": "Open Source Alternative to Vercel, Netlify and Heroku.",
+        "stars": "14,355",
+        "forks": "738"
+    },
+    {
+        "title": "bytedance/monolith",
+        "link": "https://github.com/login?return_to=%2Fbytedance%2Fmonolith",
+        "description": "A Lightweight Recommendation System",
+        "stars": "8,097",
+        "forks": "616"
+    },
+    {
+        "title": "freqtrade/freqtrade",
+        "link": "https://github.com/login?return_to=%2Ffreqtrade%2Ffreqtrade",
+        "description": "Free, open source crypto trading bot",
+        "stars": "35,319",
+        "forks": "6,906"
+    },
+    {
+        "title": "yamadashy/repomix",
+        "link": "https://github.com/sponsors/yamadashy",
+        "description": "📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.",
+        "stars": "6,887",
+        "forks": "328"
+    },
+    {
+        "title": "codecrafters-io/build-your-own-x",
+        "link": "https://github.com/login?return_to=%2Fcodecrafters-io%2Fbuild-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "stars": "327,081",
+        "forks": "30,306"
+    },
+    {
+        "title": "linera-io/linera-protocol",
+        "link": "https://github.com/login?return_to=%2Flinera-io%2Flinera-protocol",
+        "description": "Main repository for the Linera protocol",
+        "stars": "4,216",
+        "forks": "309"
+    },
+    {
+        "title": "web-infra-dev/midscene",
+        "link": "https://github.com/login?return_to=%2Fweb-infra-dev%2Fmidscene",
+        "description": "AI-Driven Browser Automation with Chrome Extensions, JavaScript, and YAML Scripts.",
+        "stars": "3,880",
+        "forks": "181"
+    },
+    {
+        "title": "open-mmlab/Amphion",
+        "link": "https://github.com/login?return_to=%2Fopen-mmlab%2FAmphion",
+        "description": "Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.",
+        "stars": "8,243",
+        "forks": "628"
+    },
+    {
+        "title": "vllm-project/vllm",
+        "link": "https://github.com/sponsors/vllm-project",
+        "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+        "stars": "34,286",
+        "forks": "5,260"
+    },
+    {
+        "title": "livekit/agents",
+        "link": "https://github.com/login?return_to=%2Flivekit%2Fagents",
+        "description": "Build real-time multimodal AI applications 🤖🎙️📹",
+        "stars": "4,730",
+        "forks": "553"
+    },
+    {
+        "title": "danielmiessler/fabric",
+        "link": "https://github.com/sponsors/danielmiessler",
+        "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+        "stars": "27,492",
+        "forks": "2,902"
+    },
+    {
+        "title": "karpathy/minGPT",
+        "link": "https://github.com/login?return_to=%2Fkarpathy%2FminGPT",
+        "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+        "stars": "21,023",
+        "forks": "2,716"
+    },
+    {
+        "title": "emcie-co/parlant",
+        "link": "https://github.com/login?return_to=%2Femcie-co%2Fparlant",
+        "description": "The behavior guidance framework for customer-facing LLM agents",
+        "stars": "914",
+        "forks": "58"
+    },
+    {
+        "title": "getmaxun/maxun",
+        "link": "https://github.com/login?return_to=%2Fgetmaxun%2Fmaxun",
+        "description": "🔥 Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes [In Beta]",
+        "stars": "7,953",
+        "forks": "622"
+    },
+    {
+        "title": "OpenBMB/MiniCPM-o",
+        "link": "https://github.com/login?return_to=%2FOpenBMB%2FMiniCPM-o",
+        "description": "MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone",
+        "stars": "17,290",
+        "forks": "1,229"
+    },
+    {
+        "title": "solana-labs/solana",
+        "link": "https://github.com/login?return_to=%2Fsolana-labs%2Fsolana",
+        "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+        "stars": "13,706",
+        "forks": "4,517"
+    }
+]
