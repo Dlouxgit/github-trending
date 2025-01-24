@@ -1,0 +1,107 @@
+[
+    {
+        "title": "shadps4-emu/shadPS4",
+        "link": "https://github.com/login?return_to=%2Fshadps4-emu%2FshadPS4",
+        "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+        "stars": "15,396",
+        "forks": "959"
+    },
+    {
+        "title": "exo-explore/exo",
+        "link": "https://github.com/login?return_to=%2Fexo-explore%2Fexo",
+        "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+        "stars": "19,618",
+        "forks": "1,106"
+    },
+    {
+        "title": "teableio/teable",
+        "link": "https://github.com/login?return_to=%2Fteableio%2Fteable",
+        "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
+        "stars": "15,889",
+        "forks": "735"
+    },
+    {
+        "title": "piotrostr/listen",
+        "link": "https://github.com/login?return_to=%2Fpiotrostr%2Flisten",
+        "description": "Solana Swiss Army Knife",
+        "stars": "388",
+        "forks": "69"
+    },
+    {
+        "title": "mendableai/firecrawl",
+        "link": "https://github.com/login?return_to=%2Fmendableai%2Ffirecrawl",
+        "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+        "stars": "22,471",
+        "forks": "1,809"
+    },
+    {
+        "title": "deepseek-ai/DeepSeek-Coder",
+        "link": "https://github.com/login?return_to=%2Fdeepseek-ai%2FDeepSeek-Coder",
+        "description": "DeepSeek Coder: Let the Code Write Itself",
+        "stars": "10,752",
+        "forks": "718"
+    },
+    {
+        "title": "soxoj/maigret",
+        "link": "https://github.com/sponsors/soxoj",
+        "description": "🕵️‍♂️ Collect a dossier on a person by username from thousands of sites",
+        "stars": "14,234",
+        "forks": "961"
+    },
+    {
+        "title": "deepseek-ai/awesome-deepseek-integration",
+        "link": "https://github.com/login?return_to=%2Fdeepseek-ai%2Fawesome-deepseek-integration",
+        "description": "No description provided",
+        "stars": "2,050",
+        "forks": "194"
+    },
+    {
+        "title": "codecrafters-io/build-your-own-x",
+        "link": "https://github.com/login?return_to=%2Fcodecrafters-io%2Fbuild-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "stars": "327,998",
+        "forks": "30,386"
+    },
+    {
+        "title": "yamadashy/repomix",
+        "link": "https://github.com/sponsors/yamadashy",
+        "description": "📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.",
+        "stars": "7,307",
+        "forks": "340"
+    },
+    {
+        "title": "microsoft/generative-ai-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fgenerative-ai-for-beginners",
+        "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+        "stars": "67,093",
+        "forks": "34,675"
+    },
+    {
+        "title": "web-infra-dev/midscene",
+        "link": "https://github.com/login?return_to=%2Fweb-infra-dev%2Fmidscene",
+        "description": "AI-Driven Browser Automation with Chrome Extensions, JavaScript, and YAML Scripts.",
+        "stars": "4,336",
+        "forks": "208"
+    },
+    {
+        "title": "deepseek-ai/DeepSeek-LLM",
+        "link": "https://github.com/login?return_to=%2Fdeepseek-ai%2FDeepSeek-LLM",
+        "description": "DeepSeek LLM: Let there be answers",
+        "stars": "2,186",
+        "forks": "162"
+    },
+    {
+        "title": "anthropics/anthropic-cookbook",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fanthropic-cookbook",
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "stars": "9,788",
+        "forks": "1,136"
+    },
+    {
+        "title": "elizaOS/eliza",
+        "link": "https://github.com/login?return_to=%2FelizaOS%2Feliza",
+        "description": "Autonomous agents for everyone",
+        "stars": "12,858",
+        "forks": "3,697"
+    }
+]
