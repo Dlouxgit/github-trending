@@ -1,0 +1,65 @@
+[
+    {
+        "title": "maybe-finance/maybe",
+        "link": "https://github.com/login?return_to=%2Fmaybe-finance%2Fmaybe",
+        "description": "The OS for your personal finances",
+        "stars": "37,378",
+        "forks": "2,661"
+    },
+    {
+        "title": "onlook-dev/onlook",
+        "link": "https://github.com/login?return_to=%2Fonlook-dev%2Fonlook",
+        "description": "The open source Cursor for Designers. Design directly in your live React app and publish your changes to code.",
+        "stars": "5,733",
+        "forks": "323"
+    },
+    {
+        "title": "deepseek-ai/awesome-deepseek-integration",
+        "link": "https://github.com/login?return_to=%2Fdeepseek-ai%2Fawesome-deepseek-integration",
+        "description": "No description provided",
+        "stars": "4,072",
+        "forks": "428"
+    },
+    {
+        "title": "deepseek-ai/DeepSeek-Coder",
+        "link": "https://github.com/login?return_to=%2Fdeepseek-ai%2FDeepSeek-Coder",
+        "description": "DeepSeek Coder: Let the Code Write Itself",
+        "stars": "12,953",
+        "forks": "990"
+    },
+    {
+        "title": "ollama/ollama",
+        "link": "https://github.com/login?return_to=%2Follama%2Follama",
+        "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+        "stars": "111,780",
+        "forks": "8,884"
+    },
+    {
+        "title": "deepseek-ai/DeepSeek-LLM",
+        "link": "https://github.com/login?return_to=%2Fdeepseek-ai%2FDeepSeek-LLM",
+        "description": "DeepSeek LLM: Let there be answers",
+        "stars": "3,229",
+        "forks": "318"
+    },
+    {
+        "title": "meta-llama/llama-stack",
+        "link": "https://github.com/login?return_to=%2Fmeta-llama%2Fllama-stack",
+        "description": "Composable building blocks to build Llama Apps",
+        "stars": "6,790",
+        "forks": "818"
+    },
+    {
+        "title": "VikParuchuri/marker",
+        "link": "https://github.com/login?return_to=%2FVikParuchuri%2Fmarker",
+        "description": "Convert PDF to markdown + JSON quickly with high accuracy",
+        "stars": "19,836",
+        "forks": "1,185"
+    },
+    {
+        "title": "CorentinTh/it-tools",
+        "link": "https://github.com/sponsors/CorentinTh",
+        "description": "Collection of handy online tools for developers, with great UX.",
+        "stars": "25,921",
+        "forks": "3,128"
+    }
+]
