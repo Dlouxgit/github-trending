@@ -1,0 +1,107 @@
+[
+    {
+        "title": "block/goose",
+        "link": "https://github.com/login?return_to=%2Fblock%2Fgoose",
+        "description": "an open-source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "stars": "3,344",
+        "forks": "233"
+    },
+    {
+        "title": "QwenLM/Qwen2.5",
+        "link": "https://github.com/login?return_to=%2FQwenLM%2FQwen2.5",
+        "description": "Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.",
+        "stars": "12,925",
+        "forks": "833"
+    },
+    {
+        "title": "deepseek-ai/DeepSeek-LLM",
+        "link": "https://github.com/login?return_to=%2Fdeepseek-ai%2FDeepSeek-LLM",
+        "description": "DeepSeek LLM: Let there be answers",
+        "stars": "4,764",
+        "forks": "636"
+    },
+    {
+        "title": "deepseek-ai/DeepSeek-Coder-V2",
+        "link": "https://github.com/login?return_to=%2Fdeepseek-ai%2FDeepSeek-Coder-V2",
+        "description": "DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence",
+        "stars": "4,341",
+        "forks": "570"
+    },
+    {
+        "title": "n4ze3m/page-assist",
+        "link": "https://github.com/sponsors/n4ze3m",
+        "description": "Use your locally running AI models to assist you in your web browsing",
+        "stars": "2,325",
+        "forks": "214"
+    },
+    {
+        "title": "deepseek-ai/DeepSeek-Coder",
+        "link": "https://github.com/login?return_to=%2Fdeepseek-ai%2FDeepSeek-Coder",
+        "description": "DeepSeek Coder: Let the Code Write Itself",
+        "stars": "15,874",
+        "forks": "1,616"
+    },
+    {
+        "title": "ollama/ollama",
+        "link": "https://github.com/login?return_to=%2Follama%2Follama",
+        "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+        "stars": "115,454",
+        "forks": "9,196"
+    },
+    {
+        "title": "deepseek-ai/Janus",
+        "link": "https://github.com/login?return_to=%2Fdeepseek-ai%2FJanus",
+        "description": "Janus-Series: Unified Multimodal Understanding and Generation Models",
+        "stars": "12,630",
+        "forks": "1,502"
+    },
+    {
+        "title": "deepseek-ai/DeepSeek-Math",
+        "link": "https://github.com/login?return_to=%2Fdeepseek-ai%2FDeepSeek-Math",
+        "description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "stars": "1,900",
+        "forks": "310"
+    },
+    {
+        "title": "deepseek-ai/DreamCraft3D",
+        "link": "https://github.com/login?return_to=%2Fdeepseek-ai%2FDreamCraft3D",
+        "description": "[ICLR 2024] Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior",
+        "stars": "2,632",
+        "forks": "247"
+    },
+    {
+        "title": "unslothai/unsloth",
+        "link": "https://github.com/sponsors/unslothai",
+        "description": "Finetune Llama 3.3, Mistral, Phi-4, Qwen 2.5 & Gemma LLMs 2-5x faster with 70% less memory",
+        "stars": "22,429",
+        "forks": "1,560"
+    },
+    {
+        "title": "polarsource/polar",
+        "link": "https://github.com/login?return_to=%2Fpolarsource%2Fpolar",
+        "description": "An open source Merchant of Record. Sell SaaS and digital products in minutes.",
+        "stars": "4,058",
+        "forks": "196"
+    },
+    {
+        "title": "github/docs",
+        "link": "https://github.com/login?return_to=%2Fgithub%2Fdocs",
+        "description": "The open-source repo for docs.github.com",
+        "stars": "16,749",
+        "forks": "60,688"
+    },
+    {
+        "title": "aws-samples/amazon-bedrock-samples",
+        "link": "https://github.com/login?return_to=%2Faws-samples%2Famazon-bedrock-samples",
+        "description": "This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available foundational models",
+        "stars": "777",
+        "forks": "359"
+    },
+    {
+        "title": "QwenLM/Qwen2.5-VL",
+        "link": "https://github.com/login?return_to=%2FQwenLM%2FQwen2.5-VL",
+        "description": "Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
+        "stars": "5,300",
+        "forks": "368"
+    }
+]
