@@ -1,0 +1,121 @@
+[
+    {
+        "title": "oumi-ai/oumi",
+        "link": "https://github.com/login?return_to=%2Foumi-ai%2Foumi",
+        "description": "Everything you need to build state-of-the-art foundation models, end-to-end.",
+        "stars": "1,225",
+        "forks": "84"
+    },
+    {
+        "title": "QwenLM/Qwen2.5-VL",
+        "link": "https://github.com/login?return_to=%2FQwenLM%2FQwen2.5-VL",
+        "description": "Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
+        "stars": "6,065",
+        "forks": "429"
+    },
+    {
+        "title": "block/goose",
+        "link": "https://github.com/login?return_to=%2Fblock%2Fgoose",
+        "description": "an open-source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "stars": "5,041",
+        "forks": "318"
+    },
+    {
+        "title": "github/docs",
+        "link": "https://github.com/login?return_to=%2Fgithub%2Fdocs",
+        "description": "The open-source repo for docs.github.com",
+        "stars": "16,879",
+        "forks": "60,715"
+    },
+    {
+        "title": "penpot/penpot",
+        "link": "https://github.com/login?return_to=%2Fpenpot%2Fpenpot",
+        "description": "Penpot: The open-source design tool for design and code collaboration",
+        "stars": "35,145",
+        "forks": "1,799"
+    },
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "14,236",
+        "forks": "1,522"
+    },
+    {
+        "title": "google/meridian",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Fmeridian",
+        "description": "Meridian is an MMM framework that enables advertisers to set up and run their own in-house models.",
+        "stars": "603",
+        "forks": "53"
+    },
+    {
+        "title": "QwenLM/Qwen2.5",
+        "link": "https://github.com/login?return_to=%2FQwenLM%2FQwen2.5",
+        "description": "Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.",
+        "stars": "14,310",
+        "forks": "945"
+    },
+    {
+        "title": "open-webui/open-webui",
+        "link": "https://github.com/login?return_to=%2Fopen-webui%2Fopen-webui",
+        "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+        "stars": "65,119",
+        "forks": "7,737"
+    },
+    {
+        "title": "QwenLM/Qwen",
+        "link": "https://github.com/login?return_to=%2FQwenLM%2FQwen",
+        "description": "The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.",
+        "stars": "16,165",
+        "forks": "1,335"
+    },
+    {
+        "title": "containers/ramalama",
+        "link": "https://github.com/login?return_to=%2Fcontainers%2Framalama",
+        "description": "The goal of RamaLama is to make working with AI boring.",
+        "stars": "809",
+        "forks": "89"
+    },
+    {
+        "title": "MystenLabs/sui",
+        "link": "https://github.com/login?return_to=%2FMystenLabs%2Fsui",
+        "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+        "stars": "6,537",
+        "forks": "11,289"
+    },
+    {
+        "title": "ollama/ollama",
+        "link": "https://github.com/login?return_to=%2Follama%2Follama",
+        "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+        "stars": "117,158",
+        "forks": "9,337"
+    },
+    {
+        "title": "juspay/hyperswitch",
+        "link": "https://github.com/login?return_to=%2Fjuspay%2Fhyperswitch",
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "stars": "13,170",
+        "forks": "1,384"
+    },
+    {
+        "title": "tensorflow/tensorflow",
+        "link": "https://github.com/login?return_to=%2Ftensorflow%2Ftensorflow",
+        "description": "An Open Source Machine Learning Framework for Everyone",
+        "stars": "187,629",
+        "forks": "74,472"
+    },
+    {
+        "title": "documenso/documenso",
+        "link": "https://github.com/login?return_to=%2Fdocumenso%2Fdocumenso",
+        "description": "The Open Source DocuSign Alternative.",
+        "stars": "9,409",
+        "forks": "1,359"
+    },
+    {
+        "title": "getsentry/sentry",
+        "link": "https://github.com/login?return_to=%2Fgetsentry%2Fsentry",
+        "description": "Developer-first error tracking and performance monitoring",
+        "stars": "39,848",
+        "forks": "4,255"
+    }
+]
