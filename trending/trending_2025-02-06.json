@@ -1,0 +1,107 @@
+[
+    {
+        "title": "ocrmypdf/OCRmyPDF",
+        "link": "https://github.com/login?return_to=%2Focrmypdf%2FOCRmyPDF",
+        "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
+        "stars": "16,182",
+        "forks": "1,128"
+    },
+    {
+        "title": "lucide-icons/lucide",
+        "link": "https://github.com/login?return_to=%2Flucide-icons%2Flucide",
+        "description": "Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.",
+        "stars": "13,130",
+        "forks": "603"
+    },
+    {
+        "title": "monasticacademy/httptap",
+        "link": "https://github.com/login?return_to=%2Fmonasticacademy%2Fhttptap",
+        "description": "View HTTP/HTTPS requests made by any Linux program",
+        "stars": "2,531",
+        "forks": "34"
+    },
+    {
+        "title": "Huanshere/VideoLingo",
+        "link": "https://github.com/login?return_to=%2FHuanshere%2FVideoLingo",
+        "description": "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+        "stars": "10,114",
+        "forks": "972"
+    },
+    {
+        "title": "dotnet/aspnetcore",
+        "link": "https://github.com/login?return_to=%2Fdotnet%2Faspnetcore",
+        "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+        "stars": "36,022",
+        "forks": "10,209"
+    },
+    {
+        "title": "metabase/metabase",
+        "link": "https://github.com/login?return_to=%2Fmetabase%2Fmetabase",
+        "description": "The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋",
+        "stars": "40,271",
+        "forks": "5,323"
+    },
+    {
+        "title": "n8n-io/self-hosted-ai-starter-kit",
+        "link": "https://github.com/login?return_to=%2Fn8n-io%2Fself-hosted-ai-starter-kit",
+        "description": "The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.",
+        "stars": "5,845",
+        "forks": "1,162"
+    },
+    {
+        "title": "elastic/integrations",
+        "link": "https://github.com/login?return_to=%2Felastic%2Fintegrations",
+        "description": "No description provided",
+        "stars": "252",
+        "forks": "468"
+    },
+    {
+        "title": "oumi-ai/oumi",
+        "link": "https://github.com/login?return_to=%2Foumi-ai%2Foumi",
+        "description": "Everything you need to build state-of-the-art foundation models, end-to-end.",
+        "stars": "5,763",
+        "forks": "375"
+    },
+    {
+        "title": "lobehub/lobe-chat",
+        "link": "https://github.com/sponsors/lobehub",
+        "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.",
+        "stars": "53,384",
+        "forks": "11,493"
+    },
+    {
+        "title": "assafelovic/gpt-researcher",
+        "link": "https://github.com/login?return_to=%2Fassafelovic%2Fgpt-researcher",
+        "description": "LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.",
+        "stars": "16,691",
+        "forks": "2,251"
+    },
+    {
+        "title": "maybe-finance/maybe",
+        "link": "https://github.com/login?return_to=%2Fmaybe-finance%2Fmaybe",
+        "description": "The OS for your personal finances",
+        "stars": "39,170",
+        "forks": "2,780"
+    },
+    {
+        "title": "aws/aws-sdk-go-v2",
+        "link": "https://github.com/login?return_to=%2Faws%2Faws-sdk-go-v2",
+        "description": "AWS SDK for the Go programming language.",
+        "stars": "2,869",
+        "forks": "670"
+    },
+    {
+        "title": "llvm/llvm-project",
+        "link": "https://github.com/login?return_to=%2Fllvm%2Fllvm-project",
+        "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+        "stars": "30,685",
+        "forks": "12,610"
+    },
+    {
+        "title": "huggingface/lerobot",
+        "link": "https://github.com/login?return_to=%2Fhuggingface%2Flerobot",
+        "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+        "stars": "8,610",
+        "forks": "917"
+    }
+]
