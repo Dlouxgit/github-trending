@@ -1,0 +1,93 @@
+[
+    {
+        "title": "Physical-Intelligence/openpi",
+        "link": "https://github.com/login?return_to=%2FPhysical-Intelligence%2Fopenpi",
+        "description": "No description provided",
+        "stars": "1,585",
+        "forks": "106"
+    },
+    {
+        "title": "Mintplex-Labs/anything-llm",
+        "link": "https://github.com/sponsors/Mintplex-Labs",
+        "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.",
+        "stars": "34,089",
+        "forks": "3,359"
+    },
+    {
+        "title": "ocrmypdf/OCRmyPDF",
+        "link": "https://github.com/login?return_to=%2Focrmypdf%2FOCRmyPDF",
+        "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
+        "stars": "17,264",
+        "forks": "1,175"
+    },
+    {
+        "title": "GoogleCloudPlatform/generative-ai",
+        "link": "https://github.com/login?return_to=%2FGoogleCloudPlatform%2Fgenerative-ai",
+        "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+        "stars": "9,258",
+        "forks": "2,573"
+    },
+    {
+        "title": "infiniflow/ragflow",
+        "link": "https://github.com/login?return_to=%2Finfiniflow%2Fragflow",
+        "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+        "stars": "32,235",
+        "forks": "2,970"
+    },
+    {
+        "title": "krahets/hello-algo",
+        "link": "https://github.com/login?return_to=%2Fkrahets%2Fhello-algo",
+        "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+        "stars": "108,518",
+        "forks": "13,519"
+    },
+    {
+        "title": "sgl-project/sglang",
+        "link": "https://github.com/login?return_to=%2Fsgl-project%2Fsglang",
+        "description": "SGLang is a fast serving framework for large language models and vision language models.",
+        "stars": "8,831",
+        "forks": "859"
+    },
+    {
+        "title": "ChatGPTNextWeb/NextChat",
+        "link": "https://github.com/login?return_to=%2FChatGPTNextWeb%2FNextChat",
+        "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows",
+        "stars": "79,844",
+        "forks": "60,493"
+    },
+    {
+        "title": "songquanpeng/one-api",
+        "link": "https://github.com/login?return_to=%2Fsongquanpeng%2Fone-api",
+        "description": "LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.",
+        "stars": "21,600",
+        "forks": "4,645"
+    },
+    {
+        "title": "asdf-vm/asdf",
+        "link": "https://github.com/login?return_to=%2Fasdf-vm%2Fasdf",
+        "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+        "stars": "22,697",
+        "forks": "811"
+    },
+    {
+        "title": "rustdesk/rustdesk",
+        "link": "https://github.com/sponsors/rustdesk",
+        "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+        "stars": "81,396",
+        "forks": "11,406"
+    },
+    {
+        "title": "ollama/ollama",
+        "link": "https://github.com/login?return_to=%2Follama%2Follama",
+        "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+        "stars": "122,111",
+        "forks": "9,800"
+    },
+    {
+        "title": "deepseek-ai/awesome-deepseek-integration",
+        "link": "https://github.com/login?return_to=%2Fdeepseek-ai%2Fawesome-deepseek-integration",
+        "description": "No description provided",
+        "stars": "8,645",
+        "forks": "1,017"
+    }
+]
