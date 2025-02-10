@@ -1,0 +1,121 @@
+[
+    {
+        "title": "langgenius/dify",
+        "link": "https://github.com/login?return_to=%2Flanggenius%2Fdify",
+        "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+        "stars": "64,064",
+        "forks": "9,448"
+    },
+    {
+        "title": "infiniflow/ragflow",
+        "link": "https://github.com/login?return_to=%2Finfiniflow%2Fragflow",
+        "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+        "stars": "33,328",
+        "forks": "3,043"
+    },
+    {
+        "title": "unslothai/unsloth",
+        "link": "https://github.com/sponsors/unslothai",
+        "description": "Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory",
+        "stars": "25,046",
+        "forks": "1,706"
+    },
+    {
+        "title": "lobehub/lobe-chat",
+        "link": "https://github.com/sponsors/lobehub",
+        "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.",
+        "stars": "54,503",
+        "forks": "11,701"
+    },
+    {
+        "title": "zhayujie/chatgpt-on-wechat",
+        "link": "https://github.com/login?return_to=%2Fzhayujie%2Fchatgpt-on-wechat",
+        "description": "基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT-o1/ DeepSeek/Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+        "stars": "33,880",
+        "forks": "8,706"
+    },
+    {
+        "title": "microsoft/terminal",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fterminal",
+        "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+        "stars": "96,901",
+        "forks": "8,448"
+    },
+    {
+        "title": "RockChinQ/LangBot",
+        "link": "https://github.com/login?return_to=%2FRockChinQ%2FLangBot",
+        "description": "😎丰富生态、🧩支持扩展、🦄多模态 - 大模型原生即时通信机器人平台 🤖 | 适配 QQ / 微信（企业微信、个人微信）/ 飞书（feishu）/ Discord / OneBot 等消息平台 | 支持 OpenAI GPT、ChatGPT、DeepSeek、Dify、Claude、Gemini、Ollama、LM Studio、SiliconFlow、Qwen、Moonshot、ChatGLM 等 LLM 的机器人 / Agent | LLM-based instant messaging bots platform, supports Discord, WeChat, Lark, QQ platform, OpenAI ChatGPT, DeepSeek.",
+        "stars": "6,385",
+        "forks": "422"
+    },
+    {
+        "title": "songquanpeng/one-api",
+        "link": "https://github.com/login?return_to=%2Fsongquanpeng%2Fone-api",
+        "description": "LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.",
+        "stars": "21,821",
+        "forks": "4,671"
+    },
+    {
+        "title": "mendableai/firecrawl",
+        "link": "https://github.com/login?return_to=%2Fmendableai%2Ffirecrawl",
+        "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+        "stars": "24,404",
+        "forks": "1,991"
+    },
+    {
+        "title": "AUTOMATIC1111/stable-diffusion-webui",
+        "link": "https://github.com/login?return_to=%2FAUTOMATIC1111%2Fstable-diffusion-webui",
+        "description": "Stable Diffusion web UI",
+        "stars": "147,261",
+        "forks": "27,549"
+    },
+    {
+        "title": "Mintplex-Labs/anything-llm",
+        "link": "https://github.com/sponsors/Mintplex-Labs",
+        "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.",
+        "stars": "35,087",
+        "forks": "3,424"
+    },
+    {
+        "title": "yamadashy/repomix",
+        "link": "https://github.com/sponsors/yamadashy",
+        "description": "📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.",
+        "stars": "8,442",
+        "forks": "396"
+    },
+    {
+        "title": "Bin-Huang/chatbox",
+        "link": "https://github.com/login?return_to=%2FBin-Huang%2Fchatbox",
+        "description": "User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)",
+        "stars": "29,079",
+        "forks": "2,791"
+    },
+    {
+        "title": "open-webui/open-webui",
+        "link": "https://github.com/login?return_to=%2Fopen-webui%2Fopen-webui",
+        "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+        "stars": "70,922",
+        "forks": "8,387"
+    },
+    {
+        "title": "deepseek-ai/awesome-deepseek-integration",
+        "link": "https://github.com/login?return_to=%2Fdeepseek-ai%2Fawesome-deepseek-integration",
+        "description": "No description provided",
+        "stars": "10,065",
+        "forks": "1,128"
+    },
+    {
+        "title": "n4ze3m/page-assist",
+        "link": "https://github.com/sponsors/n4ze3m",
+        "description": "Use your locally running AI models to assist you in your web browsing",
+        "stars": "3,627",
+        "forks": "313"
+    },
+    {
+        "title": "practical-tutorials/project-based-learning",
+        "link": "https://github.com/login?return_to=%2Fpractical-tutorials%2Fproject-based-learning",
+        "description": "Curated list of project-based tutorials",
+        "stars": "216,669",
+        "forks": "28,235"
+    }
+]
