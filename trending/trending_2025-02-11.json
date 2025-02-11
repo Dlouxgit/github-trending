@@ -1,0 +1,107 @@
+[
+    {
+        "title": "unslothai/unsloth",
+        "link": "https://github.com/sponsors/unslothai",
+        "description": "Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory",
+        "stars": "26,517",
+        "forks": "1,771"
+    },
+    {
+        "title": "mendableai/firecrawl",
+        "link": "https://github.com/login?return_to=%2Fmendableai%2Ffirecrawl",
+        "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+        "stars": "24,820",
+        "forks": "2,020"
+    },
+    {
+        "title": "AUTOMATIC1111/stable-diffusion-webui",
+        "link": "https://github.com/login?return_to=%2FAUTOMATIC1111%2Fstable-diffusion-webui",
+        "description": "Stable Diffusion web UI",
+        "stars": "147,423",
+        "forks": "27,571"
+    },
+    {
+        "title": "ChrisTitusTech/winutil",
+        "link": "https://github.com/sponsors/ChrisTitusTech",
+        "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
+        "stars": "28,952",
+        "forks": "1,676"
+    },
+    {
+        "title": "infiniflow/ragflow",
+        "link": "https://github.com/login?return_to=%2Finfiniflow%2Fragflow",
+        "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+        "stars": "34,106",
+        "forks": "3,076"
+    },
+    {
+        "title": "albertan017/LLM4Decompile",
+        "link": "https://github.com/login?return_to=%2Falbertan017%2FLLM4Decompile",
+        "description": "Reverse Engineering: Decompiling Binary Code with Large Language Models",
+        "stars": "4,171",
+        "forks": "290"
+    },
+    {
+        "title": "vercel/ai-chatbot",
+        "link": "https://github.com/login?return_to=%2Fvercel%2Fai-chatbot",
+        "description": "A full-featured, hackable Next.js AI chatbot built by Vercel",
+        "stars": "11,741",
+        "forks": "3,113"
+    },
+    {
+        "title": "unionlabs/union",
+        "link": "https://github.com/login?return_to=%2Funionlabs%2Funion",
+        "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+        "stars": "21,355",
+        "forks": "1,367"
+    },
+    {
+        "title": "potpie-ai/potpie",
+        "link": "https://github.com/login?return_to=%2Fpotpie-ai%2Fpotpie",
+        "description": "Prompt-To-Agent : Create custom engineering agents for your codebase",
+        "stars": "1,466",
+        "forks": "139"
+    },
+    {
+        "title": "langgenius/dify",
+        "link": "https://github.com/login?return_to=%2Flanggenius%2Fdify",
+        "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+        "stars": "65,114",
+        "forks": "9,552"
+    },
+    {
+        "title": "browser-use/browser-use",
+        "link": "https://github.com/login?return_to=%2Fbrowser-use%2Fbrowser-use",
+        "description": "Make websites accessible for AI agents",
+        "stars": "26,591",
+        "forks": "2,660"
+    },
+    {
+        "title": "n0-computer/iroh",
+        "link": "https://github.com/login?return_to=%2Fn0-computer%2Firoh",
+        "description": "peer-2-peer that just works",
+        "stars": "3,687",
+        "forks": "196"
+    },
+    {
+        "title": "firefly-iii/firefly-iii",
+        "link": "https://github.com/login?return_to=%2Ffirefly-iii%2Ffirefly-iii",
+        "description": "Firefly III: a personal finances manager",
+        "stars": "17,586",
+        "forks": "1,574"
+    },
+    {
+        "title": "godotengine/godot",
+        "link": "https://github.com/login?return_to=%2Fgodotengine%2Fgodot",
+        "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+        "stars": "93,761",
+        "forks": "21,622"
+    },
+    {
+        "title": "T8RIN/ImageToolbox",
+        "link": "https://github.com/login?return_to=%2FT8RIN%2FImageToolbox",
+        "description": "🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options",
+        "stars": "5,169",
+        "forks": "236"
+    }
+]
