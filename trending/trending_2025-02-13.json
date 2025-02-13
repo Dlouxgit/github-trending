@@ -1,0 +1,114 @@
+[
+    {
+        "title": "microsoft/data-formulator",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fdata-formulator",
+        "description": "🪄 Create rich visualizations with AI",
+        "stars": "5,082",
+        "forks": "392"
+    },
+    {
+        "title": "unslothai/unsloth",
+        "link": "https://github.com/sponsors/unslothai",
+        "description": "Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory! 🦥",
+        "stars": "28,378",
+        "forks": "1,875"
+    },
+    {
+        "title": "landing-ai/vision-agent",
+        "link": "https://github.com/login?return_to=%2Flanding-ai%2Fvision-agent",
+        "description": "Vision agent",
+        "stars": "2,383",
+        "forks": "278"
+    },
+    {
+        "title": "juspay/hyperswitch",
+        "link": "https://github.com/login?return_to=%2Fjuspay%2Fhyperswitch",
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "stars": "13,454",
+        "forks": "1,405"
+    },
+    {
+        "title": "codecrafters-io/build-your-own-x",
+        "link": "https://github.com/login?return_to=%2Fcodecrafters-io%2Fbuild-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "stars": "332,506",
+        "forks": "30,790"
+    },
+    {
+        "title": "andrewyng/aisuite",
+        "link": "https://github.com/login?return_to=%2Fandrewyng%2Faisuite",
+        "description": "Simple, unified interface to multiple Generative AI providers",
+        "stars": "10,639",
+        "forks": "1,018"
+    },
+    {
+        "title": "Oliveriver/5d-diplomacy-with-multiverse-time-travel",
+        "link": "https://github.com/login?return_to=%2FOliveriver%2F5d-diplomacy-with-multiverse-time-travel",
+        "description": "5D Diplomacy With Multiverse Time Travel",
+        "stars": "507",
+        "forks": "51"
+    },
+    {
+        "title": "firefly-iii/firefly-iii",
+        "link": "https://github.com/login?return_to=%2Ffirefly-iii%2Ffirefly-iii",
+        "description": "Firefly III: a personal finances manager",
+        "stars": "17,898",
+        "forks": "1,587"
+    },
+    {
+        "title": "MystenLabs/walrus-docs",
+        "link": "https://github.com/login?return_to=%2FMystenLabs%2Fwalrus-docs",
+        "description": "Documentation and examples for the Walrus decentralized storage system",
+        "stars": "452",
+        "forks": "112"
+    },
+    {
+        "title": "onlook-dev/onlook",
+        "link": "https://github.com/login?return_to=%2Fonlook-dev%2Fonlook",
+        "description": "The open source Cursor for Designers. Design directly in your live React app and publish your changes to code.",
+        "stars": "7,751",
+        "forks": "412"
+    },
+    {
+        "title": "datawhalechina/llm-cookbook",
+        "link": "https://github.com/login?return_to=%2Fdatawhalechina%2Fllm-cookbook",
+        "description": "面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版",
+        "stars": "14,119",
+        "forks": "1,795"
+    },
+    {
+        "title": "infiniflow/ragflow",
+        "link": "https://github.com/login?return_to=%2Finfiniflow%2Fragflow",
+        "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+        "stars": "35,121",
+        "forks": "3,157"
+    },
+    {
+        "title": "Azure/Azure-Sentinel",
+        "link": "https://github.com/login?return_to=%2FAzure%2FAzure-Sentinel",
+        "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+        "stars": "4,804",
+        "forks": "3,108"
+    },
+    {
+        "title": "antonputra/tutorials",
+        "link": "https://github.com/sponsors/antonputra",
+        "description": "DevOps Tutorials",
+        "stars": "3,592",
+        "forks": "2,609"
+    },
+    {
+        "title": "labring/FastGPT",
+        "link": "https://github.com/login?return_to=%2Flabring%2FFastGPT",
+        "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+        "stars": "20,681",
+        "forks": "5,367"
+    },
+    {
+        "title": "albertan017/LLM4Decompile",
+        "link": "https://github.com/login?return_to=%2Falbertan017%2FLLM4Decompile",
+        "description": "Reverse Engineering: Decompiling Binary Code with Large Language Models",
+        "stars": "4,736",
+        "forks": "316"
+    }
+]
