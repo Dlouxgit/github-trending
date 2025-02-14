@@ -1,0 +1,114 @@
+[
+    {
+        "title": "microsoft/data-formulator",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fdata-formulator",
+        "description": "🪄 Create rich visualizations with AI",
+        "stars": "5,756",
+        "forks": "431"
+    },
+    {
+        "title": "block/goose",
+        "link": "https://github.com/login?return_to=%2Fblock%2Fgoose",
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "stars": "7,611",
+        "forks": "489"
+    },
+    {
+        "title": "labring/FastGPT",
+        "link": "https://github.com/login?return_to=%2Flabring%2FFastGPT",
+        "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+        "stars": "20,922",
+        "forks": "5,399"
+    },
+    {
+        "title": "nocodb/nocodb",
+        "link": "https://github.com/sponsors/nocodb",
+        "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+        "stars": "51,590",
+        "forks": "3,567"
+    },
+    {
+        "title": "cypress-io/cypress",
+        "link": "https://github.com/login?return_to=%2Fcypress-io%2Fcypress",
+        "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+        "stars": "47,916",
+        "forks": "3,234"
+    },
+    {
+        "title": "codecrafters-io/build-your-own-x",
+        "link": "https://github.com/login?return_to=%2Fcodecrafters-io%2Fbuild-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "stars": "333,279",
+        "forks": "30,848"
+    },
+    {
+        "title": "Oliveriver/5d-diplomacy-with-multiverse-time-travel",
+        "link": "https://github.com/login?return_to=%2FOliveriver%2F5d-diplomacy-with-multiverse-time-travel",
+        "description": "5D Diplomacy With Multiverse Time Travel",
+        "stars": "637",
+        "forks": "58"
+    },
+    {
+        "title": "juspay/hyperswitch",
+        "link": "https://github.com/login?return_to=%2Fjuspay%2Fhyperswitch",
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "stars": "13,633",
+        "forks": "1,417"
+    },
+    {
+        "title": "datawhalechina/llm-cookbook",
+        "link": "https://github.com/login?return_to=%2Fdatawhalechina%2Fllm-cookbook",
+        "description": "面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版",
+        "stars": "14,470",
+        "forks": "1,821"
+    },
+    {
+        "title": "Kong/kong",
+        "link": "https://github.com/login?return_to=%2FKong%2Fkong",
+        "description": "🦍 The Cloud-Native API Gateway and AI Gateway.",
+        "stars": "40,039",
+        "forks": "4,853"
+    },
+    {
+        "title": "RexanWONG/text-behind-image",
+        "link": "https://github.com/login?return_to=%2FRexanWONG%2Ftext-behind-image",
+        "description": "https://textbehindimage.rexanwong.xyz - create text behind image designs easily",
+        "stars": "1,576",
+        "forks": "280"
+    },
+    {
+        "title": "landing-ai/vision-agent",
+        "link": "https://github.com/login?return_to=%2Flanding-ai%2Fvision-agent",
+        "description": "Vision agent",
+        "stars": "2,636",
+        "forks": "300"
+    },
+    {
+        "title": "potpie-ai/potpie",
+        "link": "https://github.com/login?return_to=%2Fpotpie-ai%2Fpotpie",
+        "description": "Prompt-To-Agent : Create custom engineering agents for your codebase",
+        "stars": "2,196",
+        "forks": "193"
+    },
+    {
+        "title": "netdata/netdata",
+        "link": "https://github.com/login?return_to=%2Fnetdata%2Fnetdata",
+        "description": "Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!",
+        "stars": "73,383",
+        "forks": "6,006"
+    },
+    {
+        "title": "ant-design/ant-design",
+        "link": "https://github.com/sponsors/ant-design",
+        "description": "An enterprise-class UI design language and React UI library",
+        "stars": "93,577",
+        "forks": "51,117"
+    },
+    {
+        "title": "OpenZeppelin/openzeppelin-contracts",
+        "link": "https://github.com/login?return_to=%2FOpenZeppelin%2Fopenzeppelin-contracts",
+        "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+        "stars": "25,373",
+        "forks": "11,945"
+    }
+]
