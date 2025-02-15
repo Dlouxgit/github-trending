@@ -1,0 +1,79 @@
+[
+    {
+        "title": "kuchin/awesome-cto",
+        "link": "https://github.com/login?return_to=%2Fkuchin%2Fawesome-cto",
+        "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
+        "stars": "27,778",
+        "forks": "1,665"
+    },
+    {
+        "title": "codecrafters-io/build-your-own-x",
+        "link": "https://github.com/login?return_to=%2Fcodecrafters-io%2Fbuild-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "stars": "333,887",
+        "forks": "30,905"
+    },
+    {
+        "title": "juspay/hyperswitch",
+        "link": "https://github.com/login?return_to=%2Fjuspay%2Fhyperswitch",
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "stars": "13,741",
+        "forks": "1,426"
+    },
+    {
+        "title": "golang/go",
+        "link": "https://github.com/login?return_to=%2Fgolang%2Fgo",
+        "description": "The Go programming language",
+        "stars": "125,796",
+        "forks": "17,869"
+    },
+    {
+        "title": "zaidmukaddam/scira",
+        "link": "https://github.com/sponsors/zaidmukaddam",
+        "description": "Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.",
+        "stars": "5,182",
+        "forks": "618"
+    },
+    {
+        "title": "Zipstack/unstract",
+        "link": "https://github.com/login?return_to=%2FZipstack%2Funstract",
+        "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+        "stars": "3,769",
+        "forks": "289"
+    },
+    {
+        "title": "cypress-io/cypress",
+        "link": "https://github.com/login?return_to=%2Fcypress-io%2Fcypress",
+        "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+        "stars": "48,062",
+        "forks": "3,244"
+    },
+    {
+        "title": "go-playground/validator",
+        "link": "https://github.com/login?return_to=%2Fgo-playground%2Fvalidator",
+        "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+        "stars": "17,541",
+        "forks": "1,343"
+    },
+    {
+        "title": "microsoft/markitdown",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fmarkitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "stars": "37,016",
+        "forks": "1,678"
+    },
+    {
+        "title": "Oliveriver/5d-diplomacy-with-multiverse-time-travel",
+        "link": "https://github.com/login?return_to=%2FOliveriver%2F5d-diplomacy-with-multiverse-time-travel",
+        "description": "5D Diplomacy With Multiverse Time Travel",
+        "stars": "750",
+        "forks": "67"
+    },
+    {
+        "title": "GitHubDaily/GitHubDaily",
+        "link": "https://github.com/login?return_to=%2FGitHubDaily%2FGitHubDaily",
+        "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
+        "stars": "34,295",
+        "forks": "3,698"
+    }
+]
