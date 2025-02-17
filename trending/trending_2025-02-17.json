@@ -1,0 +1,107 @@
+[
+    {
+        "title": "microsoft/OmniParser",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FOmniParser",
+        "description": "A simple screen parsing tool towards pure vision based GUI agent",
+        "stars": "8,043",
+        "forks": "647"
+    },
+    {
+        "title": "FujiwaraChoki/MoneyPrinterV2",
+        "link": "https://github.com/sponsors/FujiwaraChoki",
+        "description": "Automate the process of making money online.",
+        "stars": "7,998",
+        "forks": "806"
+    },
+    {
+        "title": "microsoft/markitdown",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fmarkitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "stars": "37,463",
+        "forks": "1,721"
+    },
+    {
+        "title": "zaidmukaddam/scira",
+        "link": "https://github.com/sponsors/zaidmukaddam",
+        "description": "Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.",
+        "stars": "5,835",
+        "forks": "699"
+    },
+    {
+        "title": "codecrafters-io/build-your-own-x",
+        "link": "https://github.com/login?return_to=%2Fcodecrafters-io%2Fbuild-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "stars": "335,349",
+        "forks": "31,045"
+    },
+    {
+        "title": "Zipstack/unstract",
+        "link": "https://github.com/login?return_to=%2FZipstack%2Funstract",
+        "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+        "stars": "4,096",
+        "forks": "310"
+    },
+    {
+        "title": "unionlabs/union",
+        "link": "https://github.com/login?return_to=%2Funionlabs%2Funion",
+        "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+        "stars": "25,649",
+        "forks": "1,585"
+    },
+    {
+        "title": "Stirling-Tools/Stirling-PDF",
+        "link": "https://github.com/login?return_to=%2FStirling-Tools%2FStirling-PDF",
+        "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+        "stars": "50,645",
+        "forks": "4,175"
+    },
+    {
+        "title": "cordx56/rustowl",
+        "link": "https://github.com/sponsors/cordx56",
+        "description": "Visualize Ownership and Lifetimes in Rust",
+        "stars": "1,709",
+        "forks": "26"
+    },
+    {
+        "title": "pointfreeco/swift-composable-architecture",
+        "link": "https://github.com/login?return_to=%2Fpointfreeco%2Fswift-composable-architecture",
+        "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+        "stars": "12,898",
+        "forks": "1,495"
+    },
+    {
+        "title": "yt-dlp/yt-dlp",
+        "link": "https://github.com/login?return_to=%2Fyt-dlp%2Fyt-dlp",
+        "description": "A feature-rich command-line audio/video downloader",
+        "stars": "100,500",
+        "forks": "7,872"
+    },
+    {
+        "title": "GitHubDaily/GitHubDaily",
+        "link": "https://github.com/login?return_to=%2FGitHubDaily%2FGitHubDaily",
+        "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
+        "stars": "34,712",
+        "forks": "3,725"
+    },
+    {
+        "title": "mongodb-developer/GenAI-Showcase",
+        "link": "https://github.com/login?return_to=%2Fmongodb-developer%2FGenAI-Showcase",
+        "description": "GenAI Cookbook",
+        "stars": "1,313",
+        "forks": "246"
+    },
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "16,168",
+        "forks": "1,785"
+    },
+    {
+        "title": "kuchin/awesome-cto",
+        "link": "https://github.com/login?return_to=%2Fkuchin%2Fawesome-cto",
+        "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
+        "stars": "28,477",
+        "forks": "1,712"
+    }
+]
