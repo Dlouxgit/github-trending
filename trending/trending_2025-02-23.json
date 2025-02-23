@@ -1,0 +1,100 @@
+[
+    {
+        "title": "mastra-ai/mastra",
+        "link": "https://github.com/login?return_to=%2Fmastra-ai%2Fmastra",
+        "description": "the TypeScript AI agent framework",
+        "stars": "4,196",
+        "forks": "178"
+    },
+    {
+        "title": "treetrum/amazon-kindle-bulk-downloader",
+        "link": "https://github.com/login?return_to=%2Ftreetrum%2Famazon-kindle-bulk-downloader",
+        "description": "Allows you to bulk download all your Kindle eBook in a more automated fashion. This tool allows you to create backup copies of the books you've already purchased.",
+        "stars": "638",
+        "forks": "42"
+    },
+    {
+        "title": "NationalSecurityAgency/ghidra",
+        "link": "https://github.com/login?return_to=%2FNationalSecurityAgency%2Fghidra",
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "stars": "54,384",
+        "forks": "6,120"
+    },
+    {
+        "title": "NVIDIA/cutlass",
+        "link": "https://github.com/login?return_to=%2FNVIDIA%2Fcutlass",
+        "description": "CUDA Templates for Linear Algebra Subroutines",
+        "stars": "6,411",
+        "forks": "1,086"
+    },
+    {
+        "title": "geekan/MetaGPT",
+        "link": "https://github.com/login?return_to=%2Fgeekan%2FMetaGPT",
+        "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+        "stars": "47,174",
+        "forks": "5,612"
+    },
+    {
+        "title": "ossu/computer-science",
+        "link": "https://github.com/login?return_to=%2Fossu%2Fcomputer-science",
+        "description": "🎓 Path to a free self-taught education in Computer Science!",
+        "stars": "175,742",
+        "forks": "22,292"
+    },
+    {
+        "title": "nndl/nndl.github.io",
+        "link": "https://github.com/login?return_to=%2Fnndl%2Fnndl.github.io",
+        "description": "《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning",
+        "stars": "17,925",
+        "forks": "3,617"
+    },
+    {
+        "title": "nexus-xyz/network-api",
+        "link": "https://github.com/login?return_to=%2Fnexus-xyz%2Fnetwork-api",
+        "description": "High-performance interface for supplying compute to the Nexus network.",
+        "stars": "607",
+        "forks": "229"
+    },
+    {
+        "title": "koide3/glim",
+        "link": "https://github.com/login?return_to=%2Fkoide3%2Fglim",
+        "description": "GLIM: versatile and extensible range-based 3D localization and mapping framework",
+        "stars": "791",
+        "forks": "97"
+    },
+    {
+        "title": "wangrongding/wechat-bot",
+        "link": "https://github.com/login?return_to=%2Fwangrongding%2Fwechat-bot",
+        "description": "🤖一个基于 WeChaty 结合 DeepSeek / ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...",
+        "stars": "7,204",
+        "forks": "913"
+    },
+    {
+        "title": "psf/black",
+        "link": "https://github.com/sponsors/psf",
+        "description": "The uncompromising Python code formatter",
+        "stars": "39,747",
+        "forks": "2,535"
+    },
+    {
+        "title": "78/xiaozhi-esp32",
+        "link": "https://github.com/login?return_to=%2F78%2Fxiaozhi-esp32",
+        "description": "Build your own AI friend",
+        "stars": "5,984",
+        "forks": "1,010"
+    },
+    {
+        "title": "browser-use/browser-use",
+        "link": "https://github.com/login?return_to=%2Fbrowser-use%2Fbrowser-use",
+        "description": "Make websites accessible for AI agents",
+        "stars": "31,145",
+        "forks": "3,223"
+    },
+    {
+        "title": "harry0703/MoneyPrinterTurbo",
+        "link": "https://github.com/login?return_to=%2Fharry0703%2FMoneyPrinterTurbo",
+        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+        "stars": "23,819",
+        "forks": "3,480"
+    }
+]
