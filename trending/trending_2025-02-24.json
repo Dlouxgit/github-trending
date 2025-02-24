@@ -1,0 +1,65 @@
+[
+    {
+        "title": "mastra-ai/mastra",
+        "link": "https://github.com/login?return_to=%2Fmastra-ai%2Fmastra",
+        "description": "the TypeScript AI agent framework",
+        "stars": "5,171",
+        "forks": "221"
+    },
+    {
+        "title": "browser-use/browser-use",
+        "link": "https://github.com/login?return_to=%2Fbrowser-use%2Fbrowser-use",
+        "description": "Make websites accessible for AI agents",
+        "stars": "31,686",
+        "forks": "3,270"
+    },
+    {
+        "title": "sinaptik-ai/pandas-ai",
+        "link": "https://github.com/login?return_to=%2Fsinaptik-ai%2Fpandas-ai",
+        "description": "Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.",
+        "stars": "15,720",
+        "forks": "1,510"
+    },
+    {
+        "title": "shadps4-emu/shadPS4",
+        "link": "https://github.com/login?return_to=%2Fshadps4-emu%2FshadPS4",
+        "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+        "stars": "18,458",
+        "forks": "1,137"
+    },
+    {
+        "title": "FreeTubeApp/FreeTube",
+        "link": "https://github.com/login?return_to=%2FFreeTubeApp%2FFreeTube",
+        "description": "An Open Source YouTube app for privacy",
+        "stars": "14,558",
+        "forks": "923"
+    },
+    {
+        "title": "NationalSecurityAgency/ghidra",
+        "link": "https://github.com/login?return_to=%2FNationalSecurityAgency%2Fghidra",
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "stars": "54,587",
+        "forks": "6,136"
+    },
+    {
+        "title": "codecrafters-io/build-your-own-x",
+        "link": "https://github.com/login?return_to=%2Fcodecrafters-io%2Fbuild-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "stars": "339,820",
+        "forks": "31,449"
+    },
+    {
+        "title": "godotengine/godot",
+        "link": "https://github.com/login?return_to=%2Fgodotengine%2Fgodot",
+        "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+        "stars": "94,334",
+        "forks": "21,751"
+    },
+    {
+        "title": "yamadashy/repomix",
+        "link": "https://github.com/sponsors/yamadashy",
+        "description": "📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.",
+        "stars": "10,517",
+        "forks": "466"
+    }
+]
