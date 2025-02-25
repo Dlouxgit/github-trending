@@ -1,0 +1,121 @@
+[
+    {
+        "title": "vllm-project/aibrix",
+        "link": "https://github.com/sponsors/vllm-project",
+        "description": "Cost-efficient and pluggable Infrastructure components for GenAI inference",
+        "stars": "1,356",
+        "forks": "130"
+    },
+    {
+        "title": "mastra-ai/mastra",
+        "link": "https://github.com/login?return_to=%2Fmastra-ai%2Fmastra",
+        "description": "the TypeScript AI agent framework",
+        "stars": "6,314",
+        "forks": "271"
+    },
+    {
+        "title": "FreeTubeApp/FreeTube",
+        "link": "https://github.com/login?return_to=%2FFreeTubeApp%2FFreeTube",
+        "description": "An Open Source YouTube app for privacy",
+        "stars": "15,166",
+        "forks": "957"
+    },
+    {
+        "title": "al1abb/invoify",
+        "link": "https://github.com/login?return_to=%2Fal1abb%2Finvoify",
+        "description": "An invoice generator app built using Next.js, Typescript, and Shadcn",
+        "stars": "3,053",
+        "forks": "323"
+    },
+    {
+        "title": "shadps4-emu/shadPS4",
+        "link": "https://github.com/login?return_to=%2Fshadps4-emu%2FshadPS4",
+        "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+        "stars": "18,738",
+        "forks": "1,144"
+    },
+    {
+        "title": "mishushakov/llm-scraper",
+        "link": "https://github.com/login?return_to=%2Fmishushakov%2Fllm-scraper",
+        "description": "Turn any webpage into structured data using LLMs",
+        "stars": "3,919",
+        "forks": "224"
+    },
+    {
+        "title": "Flowseal/zapret-discord-youtube",
+        "link": "https://github.com/login?return_to=%2FFlowseal%2Fzapret-discord-youtube",
+        "description": "No description provided",
+        "stars": "10,616",
+        "forks": "613"
+    },
+    {
+        "title": "browser-use/browser-use",
+        "link": "https://github.com/login?return_to=%2Fbrowser-use%2Fbrowser-use",
+        "description": "Make websites accessible for AI agents",
+        "stars": "32,492",
+        "forks": "3,337"
+    },
+    {
+        "title": "sinaptik-ai/pandas-ai",
+        "link": "https://github.com/login?return_to=%2Fsinaptik-ai%2Fpandas-ai",
+        "description": "Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.",
+        "stars": "16,217",
+        "forks": "1,544"
+    },
+    {
+        "title": "neovim/neovim",
+        "link": "https://github.com/sponsors/neovim",
+        "description": "Vim-fork focused on extensibility and usability",
+        "stars": "86,573",
+        "forks": "5,893"
+    },
+    {
+        "title": "langchain-ai/open_deep_research",
+        "link": "https://github.com/login?return_to=%2Flangchain-ai%2Fopen_deep_research",
+        "description": "No description provided",
+        "stars": "1,259",
+        "forks": "195"
+    },
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "17,417",
+        "forks": "1,946"
+    },
+    {
+        "title": "yamadashy/repomix",
+        "link": "https://github.com/sponsors/yamadashy",
+        "description": "📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.",
+        "stars": "11,073",
+        "forks": "483"
+    },
+    {
+        "title": "rustdesk/rustdesk",
+        "link": "https://github.com/sponsors/rustdesk",
+        "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+        "stars": "82,844",
+        "forks": "11,581"
+    },
+    {
+        "title": "bregman-arie/devops-exercises",
+        "link": "https://github.com/sponsors/bregman-arie",
+        "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+        "stars": "68,551",
+        "forks": "15,322"
+    },
+    {
+        "title": "codecrafters-io/build-your-own-x",
+        "link": "https://github.com/login?return_to=%2Fcodecrafters-io%2Fbuild-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "stars": "340,730",
+        "forks": "31,531"
+    },
+    {
+        "title": "yt-dlp/yt-dlp",
+        "link": "https://github.com/login?return_to=%2Fyt-dlp%2Fyt-dlp",
+        "description": "A feature-rich command-line audio/video downloader",
+        "stars": "101,659",
+        "forks": "7,961"
+    }
+]
