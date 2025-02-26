@@ -1,0 +1,107 @@
+[
+    {
+        "title": "vllm-project/aibrix",
+        "link": "https://github.com/sponsors/vllm-project",
+        "description": "Cost-efficient and pluggable Infrastructure components for GenAI inference",
+        "stars": "2,058",
+        "forks": "180"
+    },
+    {
+        "title": "al1abb/invoify",
+        "link": "https://github.com/login?return_to=%2Fal1abb%2Finvoify",
+        "description": "An invoice generator app built using Next.js, Typescript, and Shadcn",
+        "stars": "3,759",
+        "forks": "378"
+    },
+    {
+        "title": "FreeTubeApp/FreeTube",
+        "link": "https://github.com/login?return_to=%2FFreeTubeApp%2FFreeTube",
+        "description": "An Open Source YouTube app for privacy",
+        "stars": "15,641",
+        "forks": "983"
+    },
+    {
+        "title": "NirDiamant/GenAI_Agents",
+        "link": "https://github.com/sponsors/NirDiamant",
+        "description": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.",
+        "stars": "6,711",
+        "forks": "910"
+    },
+    {
+        "title": "bregman-arie/devops-exercises",
+        "link": "https://github.com/sponsors/bregman-arie",
+        "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+        "stars": "69,146",
+        "forks": "15,394"
+    },
+    {
+        "title": "sinaptik-ai/pandas-ai",
+        "link": "https://github.com/login?return_to=%2Fsinaptik-ai%2Fpandas-ai",
+        "description": "Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.",
+        "stars": "16,558",
+        "forks": "1,557"
+    },
+    {
+        "title": "laravel/laravel",
+        "link": "https://github.com/login?return_to=%2Flaravel%2Flaravel",
+        "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.",
+        "stars": "79,947",
+        "forks": "24,194"
+    },
+    {
+        "title": "browser-use/browser-use",
+        "link": "https://github.com/login?return_to=%2Fbrowser-use%2Fbrowser-use",
+        "description": "Make websites accessible for AI agents",
+        "stars": "33,286",
+        "forks": "3,395"
+    },
+    {
+        "title": "siyuan-note/siyuan",
+        "link": "https://github.com/login?return_to=%2Fsiyuan-note%2Fsiyuan",
+        "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+        "stars": "31,932",
+        "forks": "1,957"
+    },
+    {
+        "title": "codecrafters-io/build-your-own-x",
+        "link": "https://github.com/login?return_to=%2Fcodecrafters-io%2Fbuild-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "stars": "341,539",
+        "forks": "31,600"
+    },
+    {
+        "title": "geekan/MetaGPT",
+        "link": "https://github.com/login?return_to=%2Fgeekan%2FMetaGPT",
+        "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+        "stars": "47,828",
+        "forks": "5,671"
+    },
+    {
+        "title": "NVIDIA/cutlass",
+        "link": "https://github.com/login?return_to=%2FNVIDIA%2Fcutlass",
+        "description": "CUDA Templates for Linear Algebra Subroutines",
+        "stars": "6,644",
+        "forks": "1,098"
+    },
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "17,741",
+        "forks": "1,981"
+    },
+    {
+        "title": "langgenius/dify",
+        "link": "https://github.com/login?return_to=%2Flanggenius%2Fdify",
+        "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+        "stars": "72,875",
+        "forks": "10,624"
+    },
+    {
+        "title": "DS4SD/docling",
+        "link": "https://github.com/login?return_to=%2FDS4SD%2Fdocling",
+        "description": "Get your documents ready for gen AI",
+        "stars": "22,452",
+        "forks": "1,273"
+    }
+]
