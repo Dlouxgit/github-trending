@@ -1,0 +1,72 @@
+[
+    {
+        "title": "vllm-project/aibrix",
+        "link": "https://github.com/sponsors/vllm-project",
+        "description": "Cost-efficient and pluggable Infrastructure components for GenAI inference",
+        "stars": "2,460",
+        "forks": "214"
+    },
+    {
+        "title": "al1abb/invoify",
+        "link": "https://github.com/login?return_to=%2Fal1abb%2Finvoify",
+        "description": "An invoice generator app built using Next.js, Typescript, and Shadcn",
+        "stars": "4,265",
+        "forks": "425"
+    },
+    {
+        "title": "NirDiamant/GenAI_Agents",
+        "link": "https://github.com/sponsors/NirDiamant",
+        "description": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.",
+        "stars": "7,098",
+        "forks": "944"
+    },
+    {
+        "title": "deepseek-ai/awesome-deepseek-integration",
+        "link": "https://github.com/login?return_to=%2Fdeepseek-ai%2Fawesome-deepseek-integration",
+        "description": "No description provided",
+        "stars": "22,546",
+        "forks": "2,432"
+    },
+    {
+        "title": "mishushakov/llm-scraper",
+        "link": "https://github.com/login?return_to=%2Fmishushakov%2Fllm-scraper",
+        "description": "Turn any webpage into structured data using LLMs",
+        "stars": "4,320",
+        "forks": "249"
+    },
+    {
+        "title": "drawdb-io/drawdb",
+        "link": "https://github.com/login?return_to=%2Fdrawdb-io%2Fdrawdb",
+        "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+        "stars": "24,633",
+        "forks": "1,746"
+    },
+    {
+        "title": "ggerganov/ggwave",
+        "link": "https://github.com/sponsors/ggerganov",
+        "description": "Tiny data-over-sound library",
+        "stars": "4,579",
+        "forks": "256"
+    },
+    {
+        "title": "maybe-finance/maybe",
+        "link": "https://github.com/login?return_to=%2Fmaybe-finance%2Fmaybe",
+        "description": "The OS for your personal finances",
+        "stars": "41,374",
+        "forks": "2,929"
+    },
+    {
+        "title": "langgenius/dify",
+        "link": "https://github.com/login?return_to=%2Flanggenius%2Fdify",
+        "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+        "stars": "73,897",
+        "forks": "10,766"
+    },
+    {
+        "title": "FreeTubeApp/FreeTube",
+        "link": "https://github.com/login?return_to=%2FFreeTubeApp%2FFreeTube",
+        "description": "An Open Source YouTube app for privacy",
+        "stars": "16,077",
+        "forks": "1,007"
+    }
+]
