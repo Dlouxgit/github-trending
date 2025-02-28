@@ -1,0 +1,79 @@
+[
+    {
+        "title": "ggerganov/ggwave",
+        "link": "https://github.com/sponsors/ggerganov",
+        "description": "Tiny data-over-sound library",
+        "stars": "5,146",
+        "forks": "279"
+    },
+    {
+        "title": "modelscope/DiffSynth-Studio",
+        "link": "https://github.com/login?return_to=%2Fmodelscope%2FDiffSynth-Studio",
+        "description": "Enjoy the magic of Diffusion models!",
+        "stars": "7,163",
+        "forks": "653"
+    },
+    {
+        "title": "NVIDIA/cutlass",
+        "link": "https://github.com/login?return_to=%2FNVIDIA%2Fcutlass",
+        "description": "CUDA Templates for Linear Algebra Subroutines",
+        "stars": "6,846",
+        "forks": "1,117"
+    },
+    {
+        "title": "NirDiamant/GenAI_Agents",
+        "link": "https://github.com/sponsors/NirDiamant",
+        "description": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.",
+        "stars": "7,455",
+        "forks": "977"
+    },
+    {
+        "title": "Soulter/AstrBot",
+        "link": "https://github.com/login?return_to=%2FSoulter%2FAstrBot",
+        "description": "✨易上手的多平台 LLM 聊天机器人及开发框架✨。支持 QQ、QQ频道、Telegram、微信个人号(Gewechat)、企业微信、飞书、内置 Web Chat，OpenAI GPT、DeepSeek、Ollama、Llama、GLM、Gemini、硅基流动、月之暗面、OneAPI、LLMTuner，支持 LLM Agent 插件开发，可视化面板。一键部署。支持 Dify 工作流、代码执行器、Whisper 语音转文字。",
+        "stars": "3,800",
+        "forks": "215"
+    },
+    {
+        "title": "allenai/olmocr",
+        "link": "https://github.com/login?return_to=%2Fallenai%2Folmocr",
+        "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+        "stars": "1,963",
+        "forks": "132"
+    },
+    {
+        "title": "twentyhq/twenty",
+        "link": "https://github.com/login?return_to=%2Ftwentyhq%2Ftwenty",
+        "description": "Building a modern alternative to Salesforce, powered by the community.",
+        "stars": "26,026",
+        "forks": "2,766"
+    },
+    {
+        "title": "langgenius/dify",
+        "link": "https://github.com/login?return_to=%2Flanggenius%2Fdify",
+        "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+        "stars": "74,668",
+        "forks": "10,882"
+    },
+    {
+        "title": "freddyaboulton/fastrtc",
+        "link": "https://github.com/login?return_to=%2Ffreddyaboulton%2Ffastrtc",
+        "description": "The python library for real-time communication",
+        "stars": "873",
+        "forks": "83"
+    },
+    {
+        "title": "maybe-finance/maybe",
+        "link": "https://github.com/login?return_to=%2Fmaybe-finance%2Fmaybe",
+        "description": "The OS for your personal finances",
+        "stars": "41,676",
+        "forks": "2,944"
+    },
+    {
+        "title": "FreeTubeApp/FreeTube",
+        "link": "https://github.com/login?return_to=%2FFreeTubeApp%2FFreeTube",
+        "description": "An Open Source YouTube app for privacy",
+        "stars": "16,439",
+        "forks": "1,033"
+    }
+]
