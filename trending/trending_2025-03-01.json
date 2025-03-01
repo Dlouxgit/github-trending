@@ -1,0 +1,65 @@
+[
+    {
+        "title": "allenai/olmocr",
+        "link": "https://github.com/login?return_to=%2Fallenai%2Folmocr",
+        "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+        "stars": "3,576",
+        "forks": "227"
+    },
+    {
+        "title": "Soulter/AstrBot",
+        "link": "https://github.com/login?return_to=%2FSoulter%2FAstrBot",
+        "description": "✨易上手的多平台 LLM 聊天机器人及开发框架✨。支持 QQ、QQ频道、Telegram、微信个人号(Gewechat)、企业微信、飞书、内置 Web Chat，OpenAI GPT、DeepSeek、Ollama、Llama、GLM、Gemini、硅基流动、月之暗面、OneAPI、LLMTuner，支持 LLM Agent 插件开发，可视化面板。一键部署。支持 Dify 工作流、代码执行器、Whisper 语音转文字。",
+        "stars": "4,187",
+        "forks": "238"
+    },
+    {
+        "title": "landing-ai/vision-agent",
+        "link": "https://github.com/login?return_to=%2Flanding-ai%2Fvision-agent",
+        "description": "Vision agent",
+        "stars": "3,265",
+        "forks": "371"
+    },
+    {
+        "title": "NirDiamant/GenAI_Agents",
+        "link": "https://github.com/sponsors/NirDiamant",
+        "description": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.",
+        "stars": "7,737",
+        "forks": "996"
+    },
+    {
+        "title": "SoftFever/OrcaSlicer",
+        "link": "https://github.com/sponsors/SoftFever",
+        "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+        "stars": "8,829",
+        "forks": "1,066"
+    },
+    {
+        "title": "freddyaboulton/fastrtc",
+        "link": "https://github.com/login?return_to=%2Ffreddyaboulton%2Ffastrtc",
+        "description": "The python library for real-time communication",
+        "stars": "1,244",
+        "forks": "105"
+    },
+    {
+        "title": "fish-shell/fish-shell",
+        "link": "https://github.com/login?return_to=%2Ffish-shell%2Ffish-shell",
+        "description": "The user-friendly command line shell.",
+        "stars": "28,413",
+        "forks": "1,993"
+    },
+    {
+        "title": "drawdb-io/drawdb",
+        "link": "https://github.com/login?return_to=%2Fdrawdb-io%2Fdrawdb",
+        "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+        "stars": "25,029",
+        "forks": "1,761"
+    },
+    {
+        "title": "langgenius/dify",
+        "link": "https://github.com/login?return_to=%2Flanggenius%2Fdify",
+        "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+        "stars": "75,365",
+        "forks": "10,986"
+    }
+]
