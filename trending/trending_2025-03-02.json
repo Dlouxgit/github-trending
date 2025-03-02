@@ -1,0 +1,65 @@
+[
+    {
+        "title": "LadybirdBrowser/ladybird",
+        "link": "https://github.com/login?return_to=%2FLadybirdBrowser%2Fladybird",
+        "description": "Truly independent web browser",
+        "stars": "29,954",
+        "forks": "1,269"
+    },
+    {
+        "title": "Soulter/AstrBot",
+        "link": "https://github.com/login?return_to=%2FSoulter%2FAstrBot",
+        "description": "✨易上手的多平台 LLM 聊天机器人及开发框架✨。支持 QQ、QQ频道、Telegram、微信个人号(Gewechat)、企业微信、飞书、内置 Web Chat，OpenAI GPT、DeepSeek、Ollama、Llama、GLM、Gemini、硅基流动、月之暗面、OneAPI、LLMTuner，支持 LLM Agent 插件开发，可视化面板。一键部署。支持 Dify 工作流、代码执行器、Whisper 语音转文字。",
+        "stars": "4,436",
+        "forks": "254"
+    },
+    {
+        "title": "landing-ai/vision-agent",
+        "link": "https://github.com/login?return_to=%2Flanding-ai%2Fvision-agent",
+        "description": "Vision agent",
+        "stars": "3,441",
+        "forks": "386"
+    },
+    {
+        "title": "freddyaboulton/fastrtc",
+        "link": "https://github.com/login?return_to=%2Ffreddyaboulton%2Ffastrtc",
+        "description": "The python library for real-time communication",
+        "stars": "1,572",
+        "forks": "135"
+    },
+    {
+        "title": "clash-verge-rev/clash-verge-rev",
+        "link": "https://github.com/sponsors/clash-verge-rev",
+        "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+        "stars": "48,988",
+        "forks": "3,831"
+    },
+    {
+        "title": "modelscope/DiffSynth-Studio",
+        "link": "https://github.com/login?return_to=%2Fmodelscope%2FDiffSynth-Studio",
+        "description": "Enjoy the magic of Diffusion models!",
+        "stars": "7,471",
+        "forks": "670"
+    },
+    {
+        "title": "allenai/olmocr",
+        "link": "https://github.com/login?return_to=%2Fallenai%2Folmocr",
+        "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+        "stars": "4,954",
+        "forks": "302"
+    },
+    {
+        "title": "fish-shell/fish-shell",
+        "link": "https://github.com/login?return_to=%2Ffish-shell%2Ffish-shell",
+        "description": "The user-friendly command line shell.",
+        "stars": "28,612",
+        "forks": "1,998"
+    },
+    {
+        "title": "twentyhq/twenty",
+        "link": "https://github.com/login?return_to=%2Ftwentyhq%2Ftwenty",
+        "description": "Building a modern alternative to Salesforce, powered by the community.",
+        "stars": "26,529",
+        "forks": "2,812"
+    }
+]
