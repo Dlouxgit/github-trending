@@ -1,0 +1,58 @@
+[
+    {
+        "title": "LadybirdBrowser/ladybird",
+        "link": "https://github.com/login?return_to=%2FLadybirdBrowser%2Fladybird",
+        "description": "Truly independent web browser",
+        "stars": "31,385",
+        "forks": "1,326"
+    },
+    {
+        "title": "freddyaboulton/fastrtc",
+        "link": "https://github.com/login?return_to=%2Ffreddyaboulton%2Ffastrtc",
+        "description": "The python library for real-time communication",
+        "stars": "1,846",
+        "forks": "158"
+    },
+    {
+        "title": "allenai/olmocr",
+        "link": "https://github.com/login?return_to=%2Fallenai%2Folmocr",
+        "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+        "stars": "5,730",
+        "forks": "364"
+    },
+    {
+        "title": "immich-app/immich",
+        "link": "https://github.com/login?return_to=%2Fimmich-app%2Fimmich",
+        "description": "High performance self-hosted photo and video management solution.",
+        "stars": "59,311",
+        "forks": "3,127"
+    },
+    {
+        "title": "Soulter/AstrBot",
+        "link": "https://github.com/login?return_to=%2FSoulter%2FAstrBot",
+        "description": "✨易上手的多平台 LLM 聊天机器人及开发框架✨。支持 QQ、QQ频道、Telegram、微信个人号(Gewechat)、企业微信、飞书、内置 Web Chat，OpenAI GPT、DeepSeek、Ollama、Llama、GLM、Gemini、硅基流动、月之暗面、OneAPI、LLMTuner，支持 LLM Agent 插件开发，可视化面板。一键部署。支持 Dify 工作流、代码执行器、Whisper 语音转文字。",
+        "stars": "4,669",
+        "forks": "281"
+    },
+    {
+        "title": "unionlabs/union",
+        "link": "https://github.com/login?return_to=%2Funionlabs%2Funion",
+        "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+        "stars": "33,930",
+        "forks": "2,000"
+    },
+    {
+        "title": "landing-ai/vision-agent",
+        "link": "https://github.com/login?return_to=%2Flanding-ai%2Fvision-agent",
+        "description": "Vision agent",
+        "stars": "3,626",
+        "forks": "404"
+    },
+    {
+        "title": "praydog/REFramework",
+        "link": "https://github.com/sponsors/praydog",
+        "description": "Scripting platform, modding framework and VR support for all RE Engine games",
+        "stars": "3,194",
+        "forks": "380"
+    }
+]
