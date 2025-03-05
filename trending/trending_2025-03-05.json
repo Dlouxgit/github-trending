@@ -1,0 +1,114 @@
+[
+    {
+        "title": "hedge-dev/UnleashedRecomp",
+        "link": "https://github.com/login?return_to=%2Fhedge-dev%2FUnleashedRecomp",
+        "description": "An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.",
+        "stars": "2,601",
+        "forks": "102"
+    },
+    {
+        "title": "virattt/ai-hedge-fund",
+        "link": "https://github.com/login?return_to=%2Fvirattt%2Fai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "stars": "9,564",
+        "forks": "1,964"
+    },
+    {
+        "title": "LadybirdBrowser/ladybird",
+        "link": "https://github.com/login?return_to=%2FLadybirdBrowser%2Fladybird",
+        "description": "Truly independent web browser",
+        "stars": "33,880",
+        "forks": "1,410"
+    },
+    {
+        "title": "ocrmypdf/OCRmyPDF",
+        "link": "https://github.com/login?return_to=%2Focrmypdf%2FOCRmyPDF",
+        "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
+        "stars": "20,165",
+        "forks": "1,313"
+    },
+    {
+        "title": "immich-app/immich",
+        "link": "https://github.com/login?return_to=%2Fimmich-app%2Fimmich",
+        "description": "High performance self-hosted photo and video management solution.",
+        "stars": "60,088",
+        "forks": "3,164"
+    },
+    {
+        "title": "nicbarker/clay",
+        "link": "https://github.com/sponsors/nicbarker",
+        "description": "High performance UI layout library in C.",
+        "stars": "11,800",
+        "forks": "409"
+    },
+    {
+        "title": "tw93/Pake",
+        "link": "https://github.com/sponsors/tw93",
+        "description": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+        "stars": "36,347",
+        "forks": "6,463"
+    },
+    {
+        "title": "hashicorp/terraform",
+        "link": "https://github.com/login?return_to=%2Fhashicorp%2Fterraform",
+        "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+        "stars": "44,392",
+        "forks": "9,715"
+    },
+    {
+        "title": "webdriverio/webdriverio",
+        "link": "https://github.com/sponsors/webdriverio",
+        "description": "Next-gen browser and mobile automation test framework for Node.js",
+        "stars": "9,319",
+        "forks": "2,554"
+    },
+    {
+        "title": "jackfrued/Python-100-Days",
+        "link": "https://github.com/login?return_to=%2Fjackfrued%2FPython-100-Days",
+        "description": "Python - 100天从新手到大师",
+        "stars": "161,675",
+        "forks": "53,058"
+    },
+    {
+        "title": "apache/gravitino",
+        "link": "https://github.com/login?return_to=%2Fapache%2Fgravitino",
+        "description": "World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.",
+        "stars": "1,317",
+        "forks": "410"
+    },
+    {
+        "title": "hoppscotch/hoppscotch",
+        "link": "https://github.com/sponsors/hoppscotch",
+        "description": "Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)",
+        "stars": "68,977",
+        "forks": "4,731"
+    },
+    {
+        "title": "acmesh-official/acme.sh",
+        "link": "https://github.com/login?return_to=%2Facmesh-official%2Facme.sh",
+        "description": "A pure Unix shell script implementing ACME client protocol",
+        "stars": "41,449",
+        "forks": "5,158"
+    },
+    {
+        "title": "Soulter/AstrBot",
+        "link": "https://github.com/login?return_to=%2FSoulter%2FAstrBot",
+        "description": "✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。",
+        "stars": "5,184",
+        "forks": "304"
+    },
+    {
+        "title": "Floorp-Projects/Floorp",
+        "link": "https://github.com/login?return_to=%2FFloorp-Projects%2FFloorp",
+        "description": "All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊",
+        "stars": "6,703",
+        "forks": "191"
+    },
+    {
+        "title": "jjleng/copilot-more",
+        "link": "https://github.com/login?return_to=%2Fjjleng%2Fcopilot-more",
+        "description": "GPT-4o and Claude-3.7-Sonnet APIs for coding.",
+        "stars": "379",
+        "forks": "71"
+    }
+]
