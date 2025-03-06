@@ -1,0 +1,107 @@
+[
+    {
+        "title": "virattt/ai-hedge-fund",
+        "link": "https://github.com/login?return_to=%2Fvirattt%2Fai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "stars": "10,452",
+        "forks": "2,083"
+    },
+    {
+        "title": "gorhill/uBlock",
+        "link": "https://github.com/login?return_to=%2Fgorhill%2FuBlock",
+        "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+        "stars": "50,654",
+        "forks": "3,323"
+    },
+    {
+        "title": "hoppscotch/hoppscotch",
+        "link": "https://github.com/sponsors/hoppscotch",
+        "description": "Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)",
+        "stars": "69,284",
+        "forks": "4,748"
+    },
+    {
+        "title": "grpc-ecosystem/grpc-gateway",
+        "link": "https://github.com/login?return_to=%2Fgrpc-ecosystem%2Fgrpc-gateway",
+        "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+        "stars": "18,653",
+        "forks": "2,275"
+    },
+    {
+        "title": "kubernetes-sigs/kubespray",
+        "link": "https://github.com/login?return_to=%2Fkubernetes-sigs%2Fkubespray",
+        "description": "Deploy a Production Ready Kubernetes Cluster",
+        "stars": "16,669",
+        "forks": "6,569"
+    },
+    {
+        "title": "TanStack/form",
+        "link": "https://github.com/login?return_to=%2FTanStack%2Fform",
+        "description": "🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.",
+        "stars": "4,343",
+        "forks": "377"
+    },
+    {
+        "title": "influxdata/telegraf",
+        "link": "https://github.com/login?return_to=%2Finfluxdata%2Ftelegraf",
+        "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+        "stars": "15,306",
+        "forks": "5,634"
+    },
+    {
+        "title": "commixproject/commix",
+        "link": "https://github.com/login?return_to=%2Fcommixproject%2Fcommix",
+        "description": "Automated All-in-One OS Command Injection Exploitation Tool.",
+        "stars": "4,991",
+        "forks": "853"
+    },
+    {
+        "title": "KRTirtho/spotube",
+        "link": "https://github.com/login?return_to=%2FKRTirtho%2Fspotube",
+        "description": "🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!",
+        "stars": "36,194",
+        "forks": "1,498"
+    },
+    {
+        "title": "cloudwego/eino",
+        "link": "https://github.com/login?return_to=%2Fcloudwego%2Feino",
+        "description": "The ultimate LLM/AI application development framework in Golang.",
+        "stars": "1,814",
+        "forks": "114"
+    },
+    {
+        "title": "cypress-io/cypress",
+        "link": "https://github.com/login?return_to=%2Fcypress-io%2Fcypress",
+        "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+        "stars": "48,345",
+        "forks": "3,263"
+    },
+    {
+        "title": "hashicorp/terraform",
+        "link": "https://github.com/login?return_to=%2Fhashicorp%2Fterraform",
+        "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+        "stars": "44,500",
+        "forks": "9,725"
+    },
+    {
+        "title": "stretchr/testify",
+        "link": "https://github.com/login?return_to=%2Fstretchr%2Ftestify",
+        "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+        "stars": "24,156",
+        "forks": "1,616"
+    },
+    {
+        "title": "open-mmlab/mmsegmentation",
+        "link": "https://github.com/login?return_to=%2Fopen-mmlab%2Fmmsegmentation",
+        "description": "OpenMMLab Semantic Segmentation Toolbox and Benchmark.",
+        "stars": "8,645",
+        "forks": "2,667"
+    },
+    {
+        "title": "coturn/coturn",
+        "link": "https://github.com/login?return_to=%2Fcoturn%2Fcoturn",
+        "description": "coturn TURN server project",
+        "stars": "11,934",
+        "forks": "2,076"
+    }
+]
