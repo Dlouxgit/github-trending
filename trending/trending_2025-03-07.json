@@ -1,0 +1,79 @@
+[
+    {
+        "title": "virattt/ai-hedge-fund",
+        "link": "https://github.com/login?return_to=%2Fvirattt%2Fai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "stars": "12,023",
+        "forks": "2,248"
+    },
+    {
+        "title": "hashicorp/terraform",
+        "link": "https://github.com/login?return_to=%2Fhashicorp%2Fterraform",
+        "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+        "stars": "44,602",
+        "forks": "9,739"
+    },
+    {
+        "title": "unionlabs/union",
+        "link": "https://github.com/login?return_to=%2Funionlabs%2Funion",
+        "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+        "stars": "40,567",
+        "forks": "2,205"
+    },
+    {
+        "title": "grpc-ecosystem/grpc-gateway",
+        "link": "https://github.com/login?return_to=%2Fgrpc-ecosystem%2Fgrpc-gateway",
+        "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+        "stars": "18,775",
+        "forks": "2,285"
+    },
+    {
+        "title": "microsoft/generative-ai-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fgenerative-ai-for-beginners",
+        "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+        "stars": "73,068",
+        "forks": "37,864"
+    },
+    {
+        "title": "sadmann7/shadcn-table",
+        "link": "https://github.com/login?return_to=%2Fsadmann7%2Fshadcn-table",
+        "description": "Shadcn table with server-side sorting, filtering, and pagination.",
+        "stars": "4,031",
+        "forks": "341"
+    },
+    {
+        "title": "clockworklabs/SpacetimeDB",
+        "link": "https://github.com/login?return_to=%2Fclockworklabs%2FSpacetimeDB",
+        "description": "Multiplayer at the speed of light",
+        "stars": "5,648",
+        "forks": "143"
+    },
+    {
+        "title": "gorhill/uBlock",
+        "link": "https://github.com/login?return_to=%2Fgorhill%2FuBlock",
+        "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+        "stars": "50,944",
+        "forks": "3,345"
+    },
+    {
+        "title": "microsoft/PowerToys",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FPowerToys",
+        "description": "Windows system utilities to maximize productivity",
+        "stars": "115,533",
+        "forks": "6,809"
+    },
+    {
+        "title": "zigtools/zls",
+        "link": "https://github.com/sponsors/zigtools",
+        "description": "A Zig language server supporting Zig developers with features like autocomplete and goto definition",
+        "stars": "3,462",
+        "forks": "333"
+    },
+    {
+        "title": "Plachtaa/seed-vc",
+        "link": "https://github.com/login?return_to=%2FPlachtaa%2Fseed-vc",
+        "description": "zero-shot voice conversion & singing voice conversion, with real-time support",
+        "stars": "1,369",
+        "forks": "163"
+    }
+]
