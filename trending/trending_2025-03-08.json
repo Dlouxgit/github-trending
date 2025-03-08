@@ -1,0 +1,128 @@
+[
+    {
+        "title": "virattt/ai-hedge-fund",
+        "link": "https://github.com/login?return_to=%2Fvirattt%2Fai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "stars": "13,618",
+        "forks": "2,437"
+    },
+    {
+        "title": "ComposioHQ/composio",
+        "link": "https://github.com/login?return_to=%2FComposioHQ%2Fcomposio",
+        "description": "Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling",
+        "stars": "23,361",
+        "forks": "4,307"
+    },
+    {
+        "title": "microsoft/generative-ai-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fgenerative-ai-for-beginners",
+        "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+        "stars": "73,736",
+        "forks": "38,034"
+    },
+    {
+        "title": "KRTirtho/spotube",
+        "link": "https://github.com/login?return_to=%2FKRTirtho%2Fspotube",
+        "description": "🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!",
+        "stars": "36,737",
+        "forks": "1,511"
+    },
+    {
+        "title": "EFForg/rayhunter",
+        "link": "https://github.com/login?return_to=%2FEFForg%2Frayhunter",
+        "description": "Rust tool to detect cell site simulators on an orbic mobile hotspot",
+        "stars": "749",
+        "forks": "43"
+    },
+    {
+        "title": "grpc-ecosystem/grpc-gateway",
+        "link": "https://github.com/login?return_to=%2Fgrpc-ecosystem%2Fgrpc-gateway",
+        "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+        "stars": "18,871",
+        "forks": "2,290"
+    },
+    {
+        "title": "unionlabs/union",
+        "link": "https://github.com/login?return_to=%2Funionlabs%2Funion",
+        "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+        "stars": "41,413",
+        "forks": "2,241"
+    },
+    {
+        "title": "patchy631/ai-engineering-hub",
+        "link": "https://github.com/sponsors/patchy631",
+        "description": "No description provided",
+        "stars": "3,929",
+        "forks": "773"
+    },
+    {
+        "title": "clockworklabs/SpacetimeDB",
+        "link": "https://github.com/login?return_to=%2Fclockworklabs%2FSpacetimeDB",
+        "description": "Multiplayer at the speed of light",
+        "stars": "6,115",
+        "forks": "149"
+    },
+    {
+        "title": "microsoft/PowerToys",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FPowerToys",
+        "description": "Windows system utilities to maximize productivity",
+        "stars": "115,754",
+        "forks": "6,819"
+    },
+    {
+        "title": "zigtools/zls",
+        "link": "https://github.com/sponsors/zigtools",
+        "description": "A Zig language server supporting Zig developers with features like autocomplete and goto definition",
+        "stars": "3,529",
+        "forks": "336"
+    },
+    {
+        "title": "stanford-oval/storm",
+        "link": "https://github.com/login?return_to=%2Fstanford-oval%2Fstorm",
+        "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+        "stars": "22,855",
+        "forks": "1,987"
+    },
+    {
+        "title": "cloudwego/eino",
+        "link": "https://github.com/login?return_to=%2Fcloudwego%2Feino",
+        "description": "The ultimate LLM/AI application development framework in Golang.",
+        "stars": "1,980",
+        "forks": "128"
+    },
+    {
+        "title": "GuijiAI/duix.ai",
+        "link": "https://github.com/login?return_to=%2FGuijiAI%2Fduix.ai",
+        "description": "No description provided",
+        "stars": "4,432",
+        "forks": "656"
+    },
+    {
+        "title": "moby/moby",
+        "link": "https://github.com/login?return_to=%2Fmoby%2Fmoby",
+        "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+        "stars": "69,337",
+        "forks": "18,709"
+    },
+    {
+        "title": "linera-io/linera-protocol",
+        "link": "https://github.com/login?return_to=%2Flinera-io%2Flinera-protocol",
+        "description": "Main repository for the Linera protocol",
+        "stars": "19,427",
+        "forks": "1,168"
+    },
+    {
+        "title": "microsoft/vscode",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fvscode",
+        "description": "Visual Studio Code",
+        "stars": "168,323",
+        "forks": "30,874"
+    },
+    {
+        "title": "vllm-project/vllm",
+        "link": "https://github.com/sponsors/vllm-project",
+        "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+        "stars": "40,679",
+        "forks": "6,126"
+    }
+]
