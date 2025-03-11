@@ -1,0 +1,107 @@
+[
+    {
+        "title": "thalissonvs/pydoll",
+        "link": "https://github.com/login?return_to=%2Fthalissonvs%2Fpydoll",
+        "description": "Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions. It supports Python's asynchronous features, enhancing performance and enabling event capturing and simultaneous web scraping.",
+        "stars": "1,111",
+        "forks": "74"
+    },
+    {
+        "title": "clockworklabs/SpacetimeDB",
+        "link": "https://github.com/login?return_to=%2Fclockworklabs%2FSpacetimeDB",
+        "description": "Multiplayer at the speed of light",
+        "stars": "8,611",
+        "forks": "233"
+    },
+    {
+        "title": "camel-ai/camel",
+        "link": "https://github.com/sponsors/camel-ai",
+        "description": "🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org",
+        "stars": "8,568",
+        "forks": "901"
+    },
+    {
+        "title": "browser-use/browser-use",
+        "link": "https://github.com/login?return_to=%2Fbrowser-use%2Fbrowser-use",
+        "description": "Make websites accessible for AI agents",
+        "stars": "39,481",
+        "forks": "4,047"
+    },
+    {
+        "title": "Significant-Gravitas/AutoGPT",
+        "link": "https://github.com/login?return_to=%2FSignificant-Gravitas%2FAutoGPT",
+        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+        "stars": "173,077",
+        "forks": "45,292"
+    },
+    {
+        "title": "virattt/ai-hedge-fund",
+        "link": "https://github.com/login?return_to=%2Fvirattt%2Fai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "stars": "15,970",
+        "forks": "2,755"
+    },
+    {
+        "title": "mendableai/firecrawl",
+        "link": "https://github.com/login?return_to=%2Fmendableai%2Ffirecrawl",
+        "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+        "stars": "30,127",
+        "forks": "2,546"
+    },
+    {
+        "title": "codecrafters-io/build-your-own-x",
+        "link": "https://github.com/login?return_to=%2Fcodecrafters-io%2Fbuild-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "stars": "352,617",
+        "forks": "32,691"
+    },
+    {
+        "title": "kamranahmedse/developer-roadmap",
+        "link": "https://github.com/sponsors/kamranahmedse",
+        "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+        "stars": "310,542",
+        "forks": "40,494"
+    },
+    {
+        "title": "public-apis/public-apis",
+        "link": "https://github.com/login?return_to=%2Fpublic-apis%2Fpublic-apis",
+        "description": "A collective list of free APIs",
+        "stars": "330,502",
+        "forks": "34,987"
+    },
+    {
+        "title": "freeCodeCamp/freeCodeCamp",
+        "link": "https://github.com/sponsors/freeCodeCamp",
+        "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+        "stars": "411,213",
+        "forks": "39,155"
+    },
+    {
+        "title": "n8n-io/n8n",
+        "link": "https://github.com/login?return_to=%2Fn8n-io%2Fn8n",
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "stars": "65,998",
+        "forks": "16,269"
+    },
+    {
+        "title": "EbookFoundation/free-programming-books",
+        "link": "https://github.com/sponsors/EbookFoundation",
+        "description": "📚 Freely available programming books",
+        "stars": "352,300",
+        "forks": "62,961"
+    },
+    {
+        "title": "mfontanini/presenterm",
+        "link": "https://github.com/login?return_to=%2Fmfontanini%2Fpresenterm",
+        "description": "A markdown terminal slideshow tool",
+        "stars": "3,826",
+        "forks": "79"
+    },
+    {
+        "title": "punkpeye/awesome-mcp-servers",
+        "link": "https://github.com/login?return_to=%2Fpunkpeye%2Fawesome-mcp-servers",
+        "description": "A collection of MCP servers.",
+        "stars": "6,756",
+        "forks": "448"
+    }
+]
