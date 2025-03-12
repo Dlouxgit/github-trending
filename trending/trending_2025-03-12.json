@@ -1,0 +1,107 @@
+[
+    {
+        "title": "camel-ai/camel",
+        "link": "https://github.com/sponsors/camel-ai",
+        "description": "🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org",
+        "stars": "9,226",
+        "forks": "963"
+    },
+    {
+        "title": "kamranahmedse/developer-roadmap",
+        "link": "https://github.com/sponsors/kamranahmedse",
+        "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+        "stars": "310,979",
+        "forks": "40,543"
+    },
+    {
+        "title": "browser-use/browser-use",
+        "link": "https://github.com/login?return_to=%2Fbrowser-use%2Fbrowser-use",
+        "description": "Make websites accessible for AI agents",
+        "stars": "41,358",
+        "forks": "4,223"
+    },
+    {
+        "title": "thalissonvs/pydoll",
+        "link": "https://github.com/login?return_to=%2Fthalissonvs%2Fpydoll",
+        "description": "Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions. It supports Python's asynchronous features, enhancing performance and enabling event capturing and simultaneous web scraping.",
+        "stars": "1,813",
+        "forks": "112"
+    },
+    {
+        "title": "mem0ai/mem0",
+        "link": "https://github.com/login?return_to=%2Fmem0ai%2Fmem0",
+        "description": "The Memory layer for AI Agents",
+        "stars": "25,776",
+        "forks": "2,438"
+    },
+    {
+        "title": "PatrickJS/awesome-cursorrules",
+        "link": "https://github.com/sponsors/PatrickJS",
+        "description": "📄 A curated list of awesome .cursorrules files",
+        "stars": "13,751",
+        "forks": "950"
+    },
+    {
+        "title": "public-apis/public-apis",
+        "link": "https://github.com/login?return_to=%2Fpublic-apis%2Fpublic-apis",
+        "description": "A collective list of free APIs",
+        "stars": "331,214",
+        "forks": "35,047"
+    },
+    {
+        "title": "punkpeye/awesome-mcp-servers",
+        "link": "https://github.com/login?return_to=%2Fpunkpeye%2Fawesome-mcp-servers",
+        "description": "A collection of MCP servers.",
+        "stars": "7,450",
+        "forks": "510"
+    },
+    {
+        "title": "codecrafters-io/build-your-own-x",
+        "link": "https://github.com/login?return_to=%2Fcodecrafters-io%2Fbuild-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "stars": "353,876",
+        "forks": "32,826"
+    },
+    {
+        "title": "kelseyhightower/kubernetes-the-hard-way",
+        "link": "https://github.com/login?return_to=%2Fkelseyhightower%2Fkubernetes-the-hard-way",
+        "description": "Bootstrap Kubernetes the hard way. No scripts.",
+        "stars": "42,780",
+        "forks": "14,538"
+    },
+    {
+        "title": "deepseek-ai/awesome-deepseek-integration",
+        "link": "https://github.com/login?return_to=%2Fdeepseek-ai%2Fawesome-deepseek-integration",
+        "description": "Integrate the DeepSeek API into popular softwares",
+        "stars": "27,606",
+        "forks": "2,971"
+    },
+    {
+        "title": "clockworklabs/SpacetimeDB",
+        "link": "https://github.com/login?return_to=%2Fclockworklabs%2FSpacetimeDB",
+        "description": "Multiplayer at the speed of light",
+        "stars": "9,334",
+        "forks": "316"
+    },
+    {
+        "title": "yuruotong1/autoMate",
+        "link": "https://github.com/login?return_to=%2Fyuruotong1%2FautoMate",
+        "description": "Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves",
+        "stars": "1,206",
+        "forks": "166"
+    },
+    {
+        "title": "mfontanini/presenterm",
+        "link": "https://github.com/login?return_to=%2Fmfontanini%2Fpresenterm",
+        "description": "A markdown terminal slideshow tool",
+        "stars": "4,272",
+        "forks": "89"
+    },
+    {
+        "title": "awesome-foss/awesome-sysadmin",
+        "link": "https://github.com/login?return_to=%2Fawesome-foss%2Fawesome-sysadmin",
+        "description": "A curated list of amazingly awesome open-source sysadmin resources.",
+        "stars": "27,603",
+        "forks": "1,585"
+    }
+]
