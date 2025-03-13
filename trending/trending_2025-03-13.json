@@ -1,0 +1,86 @@
+[
+    {
+        "title": "freeCodeCamp/freeCodeCamp",
+        "link": "https://github.com/sponsors/freeCodeCamp",
+        "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+        "stars": "411,707",
+        "forks": "39,219"
+    },
+    {
+        "title": "PatrickJS/awesome-cursorrules",
+        "link": "https://github.com/sponsors/PatrickJS",
+        "description": "📄 A curated list of awesome .cursorrules files",
+        "stars": "14,473",
+        "forks": "1,002"
+    },
+    {
+        "title": "microsoft/TypeScript",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FTypeScript",
+        "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+        "stars": "102,877",
+        "forks": "12,718"
+    },
+    {
+        "title": "browser-use/browser-use",
+        "link": "https://github.com/login?return_to=%2Fbrowser-use%2Fbrowser-use",
+        "description": "Make websites accessible for AI agents",
+        "stars": "42,502",
+        "forks": "4,321"
+    },
+    {
+        "title": "public-apis/public-apis",
+        "link": "https://github.com/login?return_to=%2Fpublic-apis%2Fpublic-apis",
+        "description": "A collective list of free APIs",
+        "stars": "331,847",
+        "forks": "35,089"
+    },
+    {
+        "title": "cdozdil/OptiScaler",
+        "link": "https://github.com/login?return_to=%2Fcdozdil%2FOptiScaler",
+        "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
+        "stars": "1,700",
+        "forks": "50"
+    },
+    {
+        "title": "EbookFoundation/free-programming-books",
+        "link": "https://github.com/sponsors/EbookFoundation",
+        "description": "📚 Freely available programming books",
+        "stars": "352,876",
+        "forks": "63,014"
+    },
+    {
+        "title": "kamranahmedse/developer-roadmap",
+        "link": "https://github.com/sponsors/kamranahmedse",
+        "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+        "stars": "311,425",
+        "forks": "40,587"
+    },
+    {
+        "title": "codecrafters-io/build-your-own-x",
+        "link": "https://github.com/login?return_to=%2Fcodecrafters-io%2Fbuild-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "stars": "354,998",
+        "forks": "32,924"
+    },
+    {
+        "title": "bytedance/flux",
+        "link": "https://github.com/login?return_to=%2Fbytedance%2Fflux",
+        "description": "A fast communication-overlapping library for tensor/expert parallelism on GPUs.",
+        "stars": "645",
+        "forks": "42"
+    },
+    {
+        "title": "CodePhiliaX/Chat2DB",
+        "link": "https://github.com/login?return_to=%2FCodePhiliaX%2FChat2DB",
+        "description": "🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+        "stars": "20,150",
+        "forks": "2,231"
+    },
+    {
+        "title": "thalissonvs/pydoll",
+        "link": "https://github.com/login?return_to=%2Fthalissonvs%2Fpydoll",
+        "description": "Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions. It supports Python's asynchronous features, enhancing performance and enabling event capturing and simultaneous web scraping.",
+        "stars": "2,234",
+        "forks": "131"
+    }
+]
