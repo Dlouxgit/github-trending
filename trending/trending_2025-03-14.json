@@ -1,0 +1,86 @@
+[
+    {
+        "title": "johnbean393/Sidekick",
+        "link": "https://github.com/login?return_to=%2Fjohnbean393%2FSidekick",
+        "description": "A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.",
+        "stars": "1,698",
+        "forks": "52"
+    },
+    {
+        "title": "freeCodeCamp/freeCodeCamp",
+        "link": "https://github.com/sponsors/freeCodeCamp",
+        "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+        "stars": "412,051",
+        "forks": "39,263"
+    },
+    {
+        "title": "microsoft/TypeScript",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FTypeScript",
+        "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+        "stars": "103,151",
+        "forks": "12,725"
+    },
+    {
+        "title": "JackHopkins/factorio-learning-environment",
+        "link": "https://github.com/login?return_to=%2FJackHopkins%2Ffactorio-learning-environment",
+        "description": "A non-saturating, open-ended environment for evaluating LLMs in Factorio",
+        "stars": "474",
+        "forks": "13"
+    },
+    {
+        "title": "eosphoros-ai/DB-GPT",
+        "link": "https://github.com/login?return_to=%2Feosphoros-ai%2FDB-GPT",
+        "description": "AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents",
+        "stars": "15,361",
+        "forks": "2,076"
+    },
+    {
+        "title": "AgentOps-AI/agentops",
+        "link": "https://github.com/login?return_to=%2FAgentOps-AI%2Fagentops",
+        "description": "Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including OpenAI Agents SDK, CrewAI, Langchain, Autogen, AG2, and CamelAI",
+        "stars": "3,592",
+        "forks": "322"
+    },
+    {
+        "title": "public-apis/public-apis",
+        "link": "https://github.com/login?return_to=%2Fpublic-apis%2Fpublic-apis",
+        "description": "A collective list of free APIs",
+        "stars": "332,336",
+        "forks": "35,119"
+    },
+    {
+        "title": "YaLTeR/niri",
+        "link": "https://github.com/sponsors/YaLTeR",
+        "description": "A scrollable-tiling Wayland compositor.",
+        "stars": "5,972",
+        "forks": "196"
+    },
+    {
+        "title": "xpipe-io/xpipe",
+        "link": "https://github.com/sponsors/xpipe-io",
+        "description": "Access your entire server infrastructure from your local desktop",
+        "stars": "6,170",
+        "forks": "199"
+    },
+    {
+        "title": "huggingface/lerobot",
+        "link": "https://github.com/login?return_to=%2Fhuggingface%2Flerobot",
+        "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+        "stars": "10,012",
+        "forks": "1,115"
+    },
+    {
+        "title": "microsoft/RD-Agent",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FRD-Agent",
+        "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which lets AI drive data-driven AI.",
+        "stars": "2,026",
+        "forks": "176"
+    },
+    {
+        "title": "awesome-foss/awesome-sysadmin",
+        "link": "https://github.com/login?return_to=%2Fawesome-foss%2Fawesome-sysadmin",
+        "description": "A curated list of amazingly awesome open-source sysadmin resources.",
+        "stars": "27,930",
+        "forks": "1,602"
+    }
+]
