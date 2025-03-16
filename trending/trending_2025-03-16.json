@@ -1,0 +1,72 @@
+[
+    {
+        "title": "hpcaitech/Open-Sora",
+        "link": "https://github.com/login?return_to=%2Fhpcaitech%2FOpen-Sora",
+        "description": "Open-Sora: Democratizing Efficient Video Production for All",
+        "stars": "24,867",
+        "forks": "2,423"
+    },
+    {
+        "title": "xpipe-io/xpipe",
+        "link": "https://github.com/sponsors/xpipe-io",
+        "description": "Access your entire server infrastructure from your local desktop",
+        "stars": "8,131",
+        "forks": "273"
+    },
+    {
+        "title": "glanceapp/glance",
+        "link": "https://github.com/sponsors/glanceapp",
+        "description": "A self-hosted dashboard that puts all your feeds in one place",
+        "stars": "13,406",
+        "forks": "470"
+    },
+    {
+        "title": "yuaotian/go-cursor-help",
+        "link": "https://github.com/login?return_to=%2Fyuaotian%2Fgo-cursor-help",
+        "description": "解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
+        "stars": "14,189",
+        "forks": "1,848"
+    },
+    {
+        "title": "ethereum/solidity",
+        "link": "https://github.com/login?return_to=%2Fethereum%2Fsolidity",
+        "description": "Solidity, the Smart Contract Programming Language",
+        "stars": "24,107",
+        "forks": "6,017"
+    },
+    {
+        "title": "openai/openai-python",
+        "link": "https://github.com/login?return_to=%2Fopenai%2Fopenai-python",
+        "description": "The official Python library for the OpenAI API",
+        "stars": "25,733",
+        "forks": "3,714"
+    },
+    {
+        "title": "microsoft/RD-Agent",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FRD-Agent",
+        "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which lets AI drive data-driven AI.",
+        "stars": "2,549",
+        "forks": "208"
+    },
+    {
+        "title": "nvim-lualine/lualine.nvim",
+        "link": "https://github.com/login?return_to=%2Fnvim-lualine%2Flualine.nvim",
+        "description": "A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
+        "stars": "6,746",
+        "forks": "488"
+    },
+    {
+        "title": "freeCodeCamp/freeCodeCamp",
+        "link": "https://github.com/sponsors/freeCodeCamp",
+        "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+        "stars": "412,854",
+        "forks": "39,341"
+    },
+    {
+        "title": "langchain-ai/ollama-deep-researcher",
+        "link": "https://github.com/login?return_to=%2Flangchain-ai%2Follama-deep-researcher",
+        "description": "Fully local web research and report writing assistant",
+        "stars": "3,051",
+        "forks": "399"
+    }
+]
