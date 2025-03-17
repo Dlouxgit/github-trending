@@ -1,0 +1,93 @@
+[
+    {
+        "title": "glanceapp/glance",
+        "link": "https://github.com/sponsors/glanceapp",
+        "description": "A self-hosted dashboard that puts all your feeds in one place",
+        "stars": "14,783",
+        "forks": "521"
+    },
+    {
+        "title": "xpipe-io/xpipe",
+        "link": "https://github.com/sponsors/xpipe-io",
+        "description": "Access your entire server infrastructure from your local desktop",
+        "stars": "8,697",
+        "forks": "294"
+    },
+    {
+        "title": "yuaotian/go-cursor-help",
+        "link": "https://github.com/login?return_to=%2Fyuaotian%2Fgo-cursor-help",
+        "description": "解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
+        "stars": "14,551",
+        "forks": "1,884"
+    },
+    {
+        "title": "freeCodeCamp/freeCodeCamp",
+        "link": "https://github.com/sponsors/freeCodeCamp",
+        "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+        "stars": "413,197",
+        "forks": "39,380"
+    },
+    {
+        "title": "calcom/cal.com",
+        "link": "https://github.com/login?return_to=%2Fcalcom%2Fcal.com",
+        "description": "Scheduling infrastructure for absolutely everyone.",
+        "stars": "34,739",
+        "forks": "8,886"
+    },
+    {
+        "title": "ai-christianson/RA.Aid",
+        "link": "https://github.com/login?return_to=%2Fai-christianson%2FRA.Aid",
+        "description": "Develop software autonomously.",
+        "stars": "1,076",
+        "forks": "98"
+    },
+    {
+        "title": "langchain-ai/ollama-deep-researcher",
+        "link": "https://github.com/login?return_to=%2Flangchain-ai%2Follama-deep-researcher",
+        "description": "Fully local web research and report writing assistant",
+        "stars": "3,422",
+        "forks": "428"
+    },
+    {
+        "title": "TanStack/form",
+        "link": "https://github.com/login?return_to=%2FTanStack%2Fform",
+        "description": "🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.",
+        "stars": "4,834",
+        "forks": "406"
+    },
+    {
+        "title": "tj-actions/changed-files",
+        "link": "https://github.com/login?return_to=%2Ftj-actions%2Fchanged-files",
+        "description": "Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.",
+        "stars": "2,062",
+        "forks": "231"
+    },
+    {
+        "title": "hpcaitech/Open-Sora",
+        "link": "https://github.com/login?return_to=%2Fhpcaitech%2FOpen-Sora",
+        "description": "Open-Sora: Democratizing Efficient Video Production for All",
+        "stars": "25,174",
+        "forks": "2,431"
+    },
+    {
+        "title": "milanm/DevOps-Roadmap",
+        "link": "https://github.com/login?return_to=%2Fmilanm%2FDevOps-Roadmap",
+        "description": "DevOps Roadmap for 2025. with learning resources",
+        "stars": "14,512",
+        "forks": "2,403"
+    },
+    {
+        "title": "RIP-Comm/sossoldi",
+        "link": "https://github.com/login?return_to=%2FRIP-Comm%2Fsossoldi",
+        "description": "\"Sossoldi\" is a wealth management / personal finance / Net Worth tracking app, made with Flutter.",
+        "stars": "692",
+        "forks": "142"
+    },
+    {
+        "title": "uutils/coreutils",
+        "link": "https://github.com/sponsors/uutils",
+        "description": "Cross-platform Rust rewrite of the GNU coreutils",
+        "stars": "19,037",
+        "forks": "1,366"
+    }
+]
