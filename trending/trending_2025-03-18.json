@@ -1,0 +1,107 @@
+[
+    {
+        "title": "glanceapp/glance",
+        "link": "https://github.com/sponsors/glanceapp",
+        "description": "A self-hosted dashboard that puts all your feeds in one place",
+        "stars": "17,066",
+        "forks": "604"
+    },
+    {
+        "title": "langchain-ai/ollama-deep-researcher",
+        "link": "https://github.com/login?return_to=%2Flangchain-ai%2Follama-deep-researcher",
+        "description": "Fully local web research and report writing assistant",
+        "stars": "4,389",
+        "forks": "485"
+    },
+    {
+        "title": "nvim-lua/kickstart.nvim",
+        "link": "https://github.com/login?return_to=%2Fnvim-lua%2Fkickstart.nvim",
+        "description": "A launch point for your personal nvim configuration",
+        "stars": "22,776",
+        "forks": "29,933"
+    },
+    {
+        "title": "microsoft/RD-Agent",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FRD-Agent",
+        "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which lets AI drive data-driven AI.",
+        "stars": "3,056",
+        "forks": "251"
+    },
+    {
+        "title": "yuruotong1/autoMate",
+        "link": "https://github.com/login?return_to=%2Fyuruotong1%2FautoMate",
+        "description": "Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves",
+        "stars": "2,337",
+        "forks": "294"
+    },
+    {
+        "title": "calcom/cal.com",
+        "link": "https://github.com/login?return_to=%2Fcalcom%2Fcal.com",
+        "description": "Scheduling infrastructure for absolutely everyone.",
+        "stars": "35,029",
+        "forks": "8,904"
+    },
+    {
+        "title": "yuaotian/go-cursor-help",
+        "link": "https://github.com/login?return_to=%2Fyuaotian%2Fgo-cursor-help",
+        "description": "解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
+        "stars": "14,909",
+        "forks": "1,932"
+    },
+    {
+        "title": "patchy631/ai-engineering-hub",
+        "link": "https://github.com/sponsors/patchy631",
+        "description": "No description provided",
+        "stars": "5,220",
+        "forks": "1,008"
+    },
+    {
+        "title": "RIP-Comm/sossoldi",
+        "link": "https://github.com/login?return_to=%2FRIP-Comm%2Fsossoldi",
+        "description": "\"Sossoldi\" is a wealth management / personal finance / Net Worth tracking app, made with Flutter.",
+        "stars": "939",
+        "forks": "151"
+    },
+    {
+        "title": "xpipe-io/xpipe",
+        "link": "https://github.com/sponsors/xpipe-io",
+        "description": "Access your entire server infrastructure from your local desktop",
+        "stars": "9,237",
+        "forks": "307"
+    },
+    {
+        "title": "DiceDB/dice",
+        "link": "https://github.com/login?return_to=%2FDiceDB%2Fdice",
+        "description": "DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",
+        "stars": "8,626",
+        "forks": "1,224"
+    },
+    {
+        "title": "tj-actions/changed-files",
+        "link": "https://github.com/login?return_to=%2Ftj-actions%2Fchanged-files",
+        "description": "Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.",
+        "stars": "2,194",
+        "forks": "240"
+    },
+    {
+        "title": "donnemartin/system-design-primer",
+        "link": "https://github.com/login?return_to=%2Fdonnemartin%2Fsystem-design-primer",
+        "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+        "stars": "292,765",
+        "forks": "48,684"
+    },
+    {
+        "title": "uutils/coreutils",
+        "link": "https://github.com/sponsors/uutils",
+        "description": "Cross-platform Rust rewrite of the GNU coreutils",
+        "stars": "19,224",
+        "forks": "1,368"
+    },
+    {
+        "title": "OpenBB-finance/OpenBB",
+        "link": "https://github.com/login?return_to=%2FOpenBB-finance%2FOpenBB",
+        "description": "Investment Research for Everyone, Everywhere.",
+        "stars": "37,248",
+        "forks": "3,376"
+    }
+]
