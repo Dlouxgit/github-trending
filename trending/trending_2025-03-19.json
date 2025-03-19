@@ -1,0 +1,93 @@
+[
+    {
+        "title": "glanceapp/glance",
+        "link": "https://github.com/sponsors/glanceapp",
+        "description": "A self-hosted dashboard that puts all your feeds in one place",
+        "stars": "18,325",
+        "forks": "651"
+    },
+    {
+        "title": "patchy631/ai-engineering-hub",
+        "link": "https://github.com/sponsors/patchy631",
+        "description": "No description provided",
+        "stars": "5,612",
+        "forks": "1,054"
+    },
+    {
+        "title": "DiceDB/dice",
+        "link": "https://github.com/login?return_to=%2FDiceDB%2Fdice",
+        "description": "DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",
+        "stars": "8,948",
+        "forks": "1,247"
+    },
+    {
+        "title": "langchain-ai/ollama-deep-researcher",
+        "link": "https://github.com/login?return_to=%2Flangchain-ai%2Follama-deep-researcher",
+        "description": "Fully local web research and report writing assistant",
+        "stars": "5,157",
+        "forks": "529"
+    },
+    {
+        "title": "tj-actions/changed-files",
+        "link": "https://github.com/login?return_to=%2Ftj-actions%2Fchanged-files",
+        "description": "Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.",
+        "stars": "2,306",
+        "forks": "255"
+    },
+    {
+        "title": "graviraja/MLOps-Basics",
+        "link": "https://github.com/login?return_to=%2Fgraviraja%2FMLOps-Basics",
+        "description": "No description provided",
+        "stars": "6,847",
+        "forks": "1,173"
+    },
+    {
+        "title": "donnemartin/system-design-primer",
+        "link": "https://github.com/login?return_to=%2Fdonnemartin%2Fsystem-design-primer",
+        "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+        "stars": "293,082",
+        "forks": "48,739"
+    },
+    {
+        "title": "block/goose",
+        "link": "https://github.com/login?return_to=%2Fblock%2Fgoose",
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "stars": "10,339",
+        "forks": "729"
+    },
+    {
+        "title": "makeplane/plane",
+        "link": "https://github.com/login?return_to=%2Fmakeplane%2Fplane",
+        "description": "🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.",
+        "stars": "33,999",
+        "forks": "2,084"
+    },
+    {
+        "title": "wmariuss/awesome-devops",
+        "link": "https://github.com/login?return_to=%2Fwmariuss%2Fawesome-devops",
+        "description": "A curated list of awesome DevOps platforms, tools, practices and resources",
+        "stars": "2,541",
+        "forks": "407"
+    },
+    {
+        "title": "milanm/DevOps-Roadmap",
+        "link": "https://github.com/login?return_to=%2Fmilanm%2FDevOps-Roadmap",
+        "description": "DevOps Roadmap for 2025. with learning resources",
+        "stars": "14,884",
+        "forks": "2,447"
+    },
+    {
+        "title": "shadcn-ui/ui",
+        "link": "https://github.com/login?return_to=%2Fshadcn-ui%2Fui",
+        "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+        "stars": "83,318",
+        "forks": "5,559"
+    },
+    {
+        "title": "yuaotian/go-cursor-help",
+        "link": "https://github.com/login?return_to=%2Fyuaotian%2Fgo-cursor-help",
+        "description": "解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
+        "stars": "15,314",
+        "forks": "1,967"
+    }
+]
