@@ -1,0 +1,107 @@
+[
+    {
+        "title": "hacksider/Deep-Live-Cam",
+        "link": "https://github.com/login?return_to=%2Fhacksider%2FDeep-Live-Cam",
+        "description": "real time face swap and one-click video deepfake with only a single image",
+        "stars": "46,269",
+        "forks": "6,903"
+    },
+    {
+        "title": "ageerle/ruoyi-ai",
+        "link": "https://github.com/login?return_to=%2Fageerle%2Fruoyi-ai",
+        "description": "RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。",
+        "stars": "1,126",
+        "forks": "327"
+    },
+    {
+        "title": "wonderwhy-er/ClaudeDesktopCommander",
+        "link": "https://github.com/login?return_to=%2Fwonderwhy-er%2FClaudeDesktopCommander",
+        "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+        "stars": "543",
+        "forks": "64"
+    },
+    {
+        "title": "Devolutions/IronRDP",
+        "link": "https://github.com/login?return_to=%2FDevolutions%2FIronRDP",
+        "description": "Rust implementation of the Microsoft Remote Desktop Protocol (RDP)",
+        "stars": "1,540",
+        "forks": "79"
+    },
+    {
+        "title": "yt-dlp/yt-dlp",
+        "link": "https://github.com/login?return_to=%2Fyt-dlp%2Fyt-dlp",
+        "description": "A feature-rich command-line audio/video downloader",
+        "stars": "105,133",
+        "forks": "8,252"
+    },
+    {
+        "title": "joanrod/star-vector",
+        "link": "https://github.com/login?return_to=%2Fjoanrod%2Fstar-vector",
+        "description": "StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.",
+        "stars": "1,174",
+        "forks": "66"
+    },
+    {
+        "title": "Flowseal/zapret-discord-youtube",
+        "link": "https://github.com/login?return_to=%2FFlowseal%2Fzapret-discord-youtube",
+        "description": "No description provided",
+        "stars": "11,235",
+        "forks": "697"
+    },
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "20,503",
+        "forks": "2,424"
+    },
+    {
+        "title": "ocrmypdf/OCRmyPDF",
+        "link": "https://github.com/login?return_to=%2Focrmypdf%2FOCRmyPDF",
+        "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
+        "stars": "23,747",
+        "forks": "1,556"
+    },
+    {
+        "title": "mongodb-developer/GenAI-Showcase",
+        "link": "https://github.com/login?return_to=%2Fmongodb-developer%2FGenAI-Showcase",
+        "description": "GenAI Cookbook",
+        "stars": "2,730",
+        "forks": "492"
+    },
+    {
+        "title": "RSSNext/Folo",
+        "link": "https://github.com/login?return_to=%2FRSSNext%2FFolo",
+        "description": "🧡 Follow everything in one place",
+        "stars": "23,857",
+        "forks": "1,010"
+    },
+    {
+        "title": "ByteByteGoHq/system-design-101",
+        "link": "https://github.com/login?return_to=%2FByteByteGoHq%2Fsystem-design-101",
+        "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+        "stars": "70,325",
+        "forks": "7,468"
+    },
+    {
+        "title": "microsoft/Web-Dev-For-Beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FWeb-Dev-For-Beginners",
+        "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+        "stars": "86,464",
+        "forks": "12,870"
+    },
+    {
+        "title": "OpenBB-finance/OpenBB",
+        "link": "https://github.com/login?return_to=%2FOpenBB-finance%2FOpenBB",
+        "description": "Investment Research for Everyone, Everywhere.",
+        "stars": "38,733",
+        "forks": "3,485"
+    },
+    {
+        "title": "microsoft/ai-agents-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fai-agents-for-beginners",
+        "description": "10 Lessons to Get Started Building AI Agents",
+        "stars": "5,331",
+        "forks": "1,678"
+    }
+]
