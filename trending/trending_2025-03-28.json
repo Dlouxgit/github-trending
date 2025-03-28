@@ -1,0 +1,93 @@
+[
+    {
+        "title": "ourongxing/newsnow",
+        "link": "https://github.com/login?return_to=%2Fourongxing%2Fnewsnow",
+        "description": "Elegant reading of real-time and hottest news",
+        "stars": "6,253",
+        "forks": "1,438"
+    },
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "22,678",
+        "forks": "2,680"
+    },
+    {
+        "title": "kubernetes/ingress-nginx",
+        "link": "https://github.com/login?return_to=%2Fkubernetes%2Fingress-nginx",
+        "description": "Ingress NGINX Controller for Kubernetes",
+        "stars": "18,249",
+        "forks": "8,345"
+    },
+    {
+        "title": "khoj-ai/khoj",
+        "link": "https://github.com/sponsors/khoj-ai",
+        "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+        "stars": "27,845",
+        "forks": "1,539"
+    },
+    {
+        "title": "deepseek-ai/DeepSeek-V3",
+        "link": "https://github.com/login?return_to=%2Fdeepseek-ai%2FDeepSeek-V3",
+        "description": "No description provided",
+        "stars": "94,299",
+        "forks": "15,252"
+    },
+    {
+        "title": "bregman-arie/devops-exercises",
+        "link": "https://github.com/sponsors/bregman-arie",
+        "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+        "stars": "72,045",
+        "forks": "16,064"
+    },
+    {
+        "title": "alibaba/spring-ai-alibaba",
+        "link": "https://github.com/login?return_to=%2Falibaba%2Fspring-ai-alibaba",
+        "description": "Agentic AI Framework for Java Developers",
+        "stars": "1,724",
+        "forks": "351"
+    },
+    {
+        "title": "Akkudoktor-EOS/EOS",
+        "link": "https://github.com/login?return_to=%2FAkkudoktor-EOS%2FEOS",
+        "description": "This repository features an Energy Optimization System (EOS) that optimizes energy distribution, usage for batteries, heat pumps& household devices. It includes predictive models for electricity prices (planned), load forecasting& dynamic optimization to maximize energy efficiency & minimize costs. Founder Dr. Andreas Schmitz (YouTube @akkudoktor)",
+        "stars": "884",
+        "forks": "77"
+    },
+    {
+        "title": "signalapp/libsignal",
+        "link": "https://github.com/login?return_to=%2Fsignalapp%2Flibsignal",
+        "description": "Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.",
+        "stars": "4,102",
+        "forks": "486"
+    },
+    {
+        "title": "NirDiamant/GenAI_Agents",
+        "link": "https://github.com/sponsors/NirDiamant",
+        "description": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.",
+        "stars": "10,418",
+        "forks": "1,323"
+    },
+    {
+        "title": "1Panel-dev/MaxKB",
+        "link": "https://github.com/login?return_to=%2F1Panel-dev%2FMaxKB",
+        "description": "💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as DeepSeek-R1, Llama 3.3, Qwen2, OpenAI and more.",
+        "stars": "15,158",
+        "forks": "1,995"
+    },
+    {
+        "title": "juspay/hyperswitch",
+        "link": "https://github.com/login?return_to=%2Fjuspay%2Fhyperswitch",
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "stars": "14,839",
+        "forks": "1,522"
+    },
+    {
+        "title": "signalapp/Signal-Android",
+        "link": "https://github.com/login?return_to=%2Fsignalapp%2FSignal-Android",
+        "description": "A private messenger for Android.",
+        "stars": "26,570",
+        "forks": "6,340"
+    }
+]
