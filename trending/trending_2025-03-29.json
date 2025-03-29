@@ -1,0 +1,100 @@
+[
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "23,909",
+        "forks": "2,769"
+    },
+    {
+        "title": "NirDiamant/GenAI_Agents",
+        "link": "https://github.com/sponsors/NirDiamant",
+        "description": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.",
+        "stars": "10,731",
+        "forks": "1,362"
+    },
+    {
+        "title": "EFForg/rayhunter",
+        "link": "https://github.com/login?return_to=%2FEFForg%2Frayhunter",
+        "description": "Rust tool to detect cell site simulators on an orbic mobile hotspot",
+        "stars": "1,593",
+        "forks": "115"
+    },
+    {
+        "title": "khoj-ai/khoj",
+        "link": "https://github.com/sponsors/khoj-ai",
+        "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+        "stars": "28,166",
+        "forks": "1,559"
+    },
+    {
+        "title": "ourongxing/newsnow",
+        "link": "https://github.com/login?return_to=%2Fourongxing%2Fnewsnow",
+        "description": "Elegant reading of real-time and hottest news",
+        "stars": "6,782",
+        "forks": "1,519"
+    },
+    {
+        "title": "juspay/hyperswitch",
+        "link": "https://github.com/login?return_to=%2Fjuspay%2Fhyperswitch",
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "stars": "15,228",
+        "forks": "1,544"
+    },
+    {
+        "title": "punkpeye/awesome-mcp-servers",
+        "link": "https://github.com/login?return_to=%2Fpunkpeye%2Fawesome-mcp-servers",
+        "description": "A collection of MCP servers.",
+        "stars": "18,186",
+        "forks": "1,193"
+    },
+    {
+        "title": "kern/filepizza",
+        "link": "https://github.com/login?return_to=%2Fkern%2Ffilepizza",
+        "description": "🍕 Peer-to-peer file transfers in your browser",
+        "stars": "7,876",
+        "forks": "488"
+    },
+    {
+        "title": "alibaba/spring-ai-alibaba",
+        "link": "https://github.com/login?return_to=%2Falibaba%2Fspring-ai-alibaba",
+        "description": "Agentic AI Framework for Java Developers",
+        "stars": "1,839",
+        "forks": "363"
+    },
+    {
+        "title": "cline/cline",
+        "link": "https://github.com/login?return_to=%2Fcline%2Fcline",
+        "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+        "stars": "37,365",
+        "forks": "3,877"
+    },
+    {
+        "title": "n8n-io/n8n",
+        "link": "https://github.com/login?return_to=%2Fn8n-io%2Fn8n",
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "stars": "72,176",
+        "forks": "18,910"
+    },
+    {
+        "title": "neovim/neovim",
+        "link": "https://github.com/sponsors/neovim",
+        "description": "Vim-fork focused on extensibility and usability",
+        "stars": "87,834",
+        "forks": "5,961"
+    },
+    {
+        "title": "langgenius/dify",
+        "link": "https://github.com/login?return_to=%2Flanggenius%2Fdify",
+        "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+        "stars": "87,400",
+        "forks": "12,939"
+    },
+    {
+        "title": "shadps4-emu/shadPS4",
+        "link": "https://github.com/login?return_to=%2Fshadps4-emu%2FshadPS4",
+        "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+        "stars": "20,474",
+        "forks": "1,239"
+    }
+]
