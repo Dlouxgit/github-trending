@@ -1,0 +1,100 @@
+[
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "24,996",
+        "forks": "2,844"
+    },
+    {
+        "title": "punkpeye/awesome-mcp-servers",
+        "link": "https://github.com/login?return_to=%2Fpunkpeye%2Fawesome-mcp-servers",
+        "description": "A collection of MCP servers.",
+        "stars": "19,292",
+        "forks": "1,272"
+    },
+    {
+        "title": "juspay/hyperswitch",
+        "link": "https://github.com/login?return_to=%2Fjuspay%2Fhyperswitch",
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "stars": "15,366",
+        "forks": "1,551"
+    },
+    {
+        "title": "google/perfetto",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Fperfetto",
+        "description": "Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)",
+        "stars": "3,268",
+        "forks": "400"
+    },
+    {
+        "title": "agno-agi/agno",
+        "link": "https://github.com/login?return_to=%2Fagno-agi%2Fagno",
+        "description": "A lightweight library for building Multimodal Agents. Use it to give LLMs superpowers like memory, knowledge, tools and reasoning.",
+        "stars": "23,086",
+        "forks": "2,978"
+    },
+    {
+        "title": "NirDiamant/GenAI_Agents",
+        "link": "https://github.com/sponsors/NirDiamant",
+        "description": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.",
+        "stars": "10,933",
+        "forks": "1,382"
+    },
+    {
+        "title": "EFForg/rayhunter",
+        "link": "https://github.com/login?return_to=%2FEFForg%2Frayhunter",
+        "description": "Rust tool to detect cell site simulators on an orbic mobile hotspot",
+        "stars": "1,658",
+        "forks": "120"
+    },
+    {
+        "title": "ourongxing/newsnow",
+        "link": "https://github.com/login?return_to=%2Fourongxing%2Fnewsnow",
+        "description": "Elegant reading of real-time and hottest news",
+        "stars": "6,962",
+        "forks": "1,549"
+    },
+    {
+        "title": "shadps4-emu/shadPS4",
+        "link": "https://github.com/login?return_to=%2Fshadps4-emu%2FshadPS4",
+        "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+        "stars": "20,861",
+        "forks": "1,260"
+    },
+    {
+        "title": "jlowin/fastmcp",
+        "link": "https://github.com/login?return_to=%2Fjlowin%2Ffastmcp",
+        "description": "The fast, Pythonic way to build Model Context Protocol servers 🚀",
+        "stars": "2,177",
+        "forks": "112"
+    },
+    {
+        "title": "angular/angular",
+        "link": "https://github.com/login?return_to=%2Fangular%2Fangular",
+        "description": "Deliver web apps with confidence 🚀",
+        "stars": "97,361",
+        "forks": "26,040"
+    },
+    {
+        "title": "grpc/grpc-go",
+        "link": "https://github.com/login?return_to=%2Fgrpc%2Fgrpc-go",
+        "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+        "stars": "21,639",
+        "forks": "4,466"
+    },
+    {
+        "title": "open-source-parsers/jsoncpp",
+        "link": "https://github.com/login?return_to=%2Fopen-source-parsers%2Fjsoncpp",
+        "description": "A C++ library for interacting with JSON.",
+        "stars": "8,426",
+        "forks": "2,676"
+    },
+    {
+        "title": "gogs/gogs",
+        "link": "https://github.com/login?return_to=%2Fgogs%2Fgogs",
+        "description": "Gogs is a painless self-hosted Git service",
+        "stars": "45,976",
+        "forks": "5,014"
+    }
+]
