@@ -1,0 +1,100 @@
+[
+    {
+        "title": "punkpeye/awesome-mcp-servers",
+        "link": "https://github.com/login?return_to=%2Fpunkpeye%2Fawesome-mcp-servers",
+        "description": "A collection of MCP servers.",
+        "stars": "21,038",
+        "forks": "1,389"
+    },
+    {
+        "title": "ahmedkhaleel2004/gitdiagram",
+        "link": "https://github.com/login?return_to=%2Fahmedkhaleel2004%2Fgitdiagram",
+        "description": "Free, simple, fast interactive diagrams for any GitHub repository",
+        "stars": "4,668",
+        "forks": "317"
+    },
+    {
+        "title": "tulir/whatsmeow",
+        "link": "https://github.com/sponsors/tulir",
+        "description": "Go library for the WhatsApp web multidevice API",
+        "stars": "2,796",
+        "forks": "500"
+    },
+    {
+        "title": "microsoft/generative-ai-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fgenerative-ai-for-beginners",
+        "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+        "stars": "76,644",
+        "forks": "39,644"
+    },
+    {
+        "title": "th-ch/youtube-music",
+        "link": "https://github.com/login?return_to=%2Fth-ch%2Fyoutube-music",
+        "description": "YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)",
+        "stars": "12,105",
+        "forks": "657"
+    },
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "25,689",
+        "forks": "2,901"
+    },
+    {
+        "title": "google/perfetto",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Fperfetto",
+        "description": "Performance instrumentation and tracing for Android, Linux and Chrome",
+        "stars": "3,360",
+        "forks": "405"
+    },
+    {
+        "title": "causify-ai/helpers",
+        "link": "https://github.com/login?return_to=%2Fcausify-ai%2Fhelpers",
+        "description": "Causify development system",
+        "stars": "98",
+        "forks": "104"
+    },
+    {
+        "title": "SoftFever/OrcaSlicer",
+        "link": "https://github.com/sponsors/SoftFever",
+        "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+        "stars": "9,237",
+        "forks": "1,115"
+    },
+    {
+        "title": "AUTOMATIC1111/stable-diffusion-webui",
+        "link": "https://github.com/login?return_to=%2FAUTOMATIC1111%2Fstable-diffusion-webui",
+        "description": "Stable Diffusion web UI",
+        "stars": "150,306",
+        "forks": "28,000"
+    },
+    {
+        "title": "neovim/neovim",
+        "link": "https://github.com/sponsors/neovim",
+        "description": "Vim-fork focused on extensibility and usability",
+        "stars": "88,021",
+        "forks": "5,974"
+    },
+    {
+        "title": "coollabsio/coolify",
+        "link": "https://github.com/sponsors/coollabsio",
+        "description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
+        "stars": "39,283",
+        "forks": "2,323"
+    },
+    {
+        "title": "jlowin/fastmcp",
+        "link": "https://github.com/login?return_to=%2Fjlowin%2Ffastmcp",
+        "description": "The fast, Pythonic way to build Model Context Protocol servers 🚀",
+        "stars": "2,526",
+        "forks": "126"
+    },
+    {
+        "title": "topjohnwu/Magisk",
+        "link": "https://github.com/login?return_to=%2Ftopjohnwu%2FMagisk",
+        "description": "The Magic Mask for Android",
+        "stars": "51,828",
+        "forks": "13,524"
+    }
+]
