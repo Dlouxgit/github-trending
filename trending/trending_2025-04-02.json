@@ -1,0 +1,79 @@
+[
+    {
+        "title": "th-ch/youtube-music",
+        "link": "https://github.com/login?return_to=%2Fth-ch%2Fyoutube-music",
+        "description": "YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)",
+        "stars": "15,831",
+        "forks": "819"
+    },
+    {
+        "title": "ahmedkhaleel2004/gitdiagram",
+        "link": "https://github.com/login?return_to=%2Fahmedkhaleel2004%2Fgitdiagram",
+        "description": "Free, simple, fast interactive diagrams for any GitHub repository",
+        "stars": "6,388",
+        "forks": "443"
+    },
+    {
+        "title": "punkpeye/awesome-mcp-servers",
+        "link": "https://github.com/login?return_to=%2Fpunkpeye%2Fawesome-mcp-servers",
+        "description": "A collection of MCP servers.",
+        "stars": "27,091",
+        "forks": "1,759"
+    },
+    {
+        "title": "nvm-sh/nvm",
+        "link": "https://github.com/login?return_to=%2Fnvm-sh%2Fnvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "stars": "83,167",
+        "forks": "8,441"
+    },
+    {
+        "title": "jlowin/fastmcp",
+        "link": "https://github.com/login?return_to=%2Fjlowin%2Ffastmcp",
+        "description": "The fast, Pythonic way to build Model Context Protocol servers 🚀",
+        "stars": "3,263",
+        "forks": "161"
+    },
+    {
+        "title": "rustdesk/rustdesk",
+        "link": "https://github.com/sponsors/rustdesk",
+        "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+        "stars": "85,435",
+        "forks": "12,061"
+    },
+    {
+        "title": "PatrickJS/awesome-cursorrules",
+        "link": "https://github.com/sponsors/PatrickJS",
+        "description": "📄 A curated list of awesome .cursorrules files",
+        "stars": "19,096",
+        "forks": "1,373"
+    },
+    {
+        "title": "hackclub/hcb",
+        "link": "https://github.com/sponsors/hackclub",
+        "description": "🏦 The neobank built for nonprofits.",
+        "stars": "442",
+        "forks": "10"
+    },
+    {
+        "title": "microsoft/generative-ai-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fgenerative-ai-for-beginners",
+        "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+        "stars": "77,375",
+        "forks": "39,839"
+    },
+    {
+        "title": "unclecode/crawl4ai",
+        "link": "https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai",
+        "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+        "stars": "35,605",
+        "forks": "3,122"
+    },
+    {
+        "title": "louislam/dockge",
+        "link": "https://github.com/sponsors/louislam",
+        "description": "A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager",
+        "stars": "16,209",
+        "forks": "474"
+    }
+]
