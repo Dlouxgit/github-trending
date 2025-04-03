@@ -1,0 +1,114 @@
+[
+    {
+        "title": "nvm-sh/nvm",
+        "link": "https://github.com/login?return_to=%2Fnvm-sh%2Fnvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "stars": "83,439",
+        "forks": "8,464"
+    },
+    {
+        "title": "th-ch/youtube-music",
+        "link": "https://github.com/login?return_to=%2Fth-ch%2Fyoutube-music",
+        "description": "YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)",
+        "stars": "16,728",
+        "forks": "864"
+    },
+    {
+        "title": "punkpeye/awesome-mcp-servers",
+        "link": "https://github.com/login?return_to=%2Fpunkpeye%2Fawesome-mcp-servers",
+        "description": "A collection of MCP servers.",
+        "stars": "28,761",
+        "forks": "1,887"
+    },
+    {
+        "title": "unclecode/crawl4ai",
+        "link": "https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai",
+        "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+        "stars": "36,016",
+        "forks": "3,157"
+    },
+    {
+        "title": "elie222/inbox-zero",
+        "link": "https://github.com/login?return_to=%2Felie222%2Finbox-zero",
+        "description": "Open source email app to reach inbox zero fast.",
+        "stars": "4,376",
+        "forks": "497"
+    },
+    {
+        "title": "gitroomhq/postiz-app",
+        "link": "https://github.com/login?return_to=%2Fgitroomhq%2Fpostiz-app",
+        "description": "📨 The ultimate social media scheduling tool, with a bunch of AI 🤖",
+        "stars": "19,084",
+        "forks": "3,052"
+    },
+    {
+        "title": "alibaba/higress",
+        "link": "https://github.com/login?return_to=%2Falibaba%2Fhigress",
+        "description": "🤖 AI Gateway | AI Native API Gateway",
+        "stars": "4,391",
+        "forks": "606"
+    },
+    {
+        "title": "open-webui/open-webui",
+        "link": "https://github.com/login?return_to=%2Fopen-webui%2Fopen-webui",
+        "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+        "stars": "87,152",
+        "forks": "10,752"
+    },
+    {
+        "title": "inkonchain/ink-kit",
+        "link": "https://github.com/login?return_to=%2Finkonchain%2Fink-kit",
+        "description": "Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨",
+        "stars": "35,772",
+        "forks": "373"
+    },
+    {
+        "title": "inkonchain/docs",
+        "link": "https://github.com/login?return_to=%2Finkonchain%2Fdocs",
+        "description": "Ink Documentation",
+        "stars": "35,910",
+        "forks": "387"
+    },
+    {
+        "title": "dubinc/dub",
+        "link": "https://github.com/login?return_to=%2Fdubinc%2Fdub",
+        "description": "Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.",
+        "stars": "20,930",
+        "forks": "2,324"
+    },
+    {
+        "title": "google-gemini/cookbook",
+        "link": "https://github.com/login?return_to=%2Fgoogle-gemini%2Fcookbook",
+        "description": "Examples and guides for using the Gemini API",
+        "stars": "11,526",
+        "forks": "1,485"
+    },
+    {
+        "title": "koreader/koreader",
+        "link": "https://github.com/login?return_to=%2Fkoreader%2Fkoreader",
+        "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+        "stars": "19,643",
+        "forks": "1,358"
+    },
+    {
+        "title": "codecrafters-io/build-your-own-x",
+        "link": "https://github.com/login?return_to=%2Fcodecrafters-io%2Fbuild-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "stars": "367,282",
+        "forks": "34,126"
+    },
+    {
+        "title": "All-Hands-AI/OpenHands",
+        "link": "https://github.com/login?return_to=%2FAll-Hands-AI%2FOpenHands",
+        "description": "🙌 OpenHands: Code Less, Make More",
+        "stars": "52,041",
+        "forks": "5,780"
+    },
+    {
+        "title": "chiphuyen/aie-book",
+        "link": "https://github.com/login?return_to=%2Fchiphuyen%2Faie-book",
+        "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
+        "stars": "3,226",
+        "forks": "398"
+    }
+]
