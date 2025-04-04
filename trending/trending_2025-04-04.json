@@ -1,0 +1,114 @@
+[
+    {
+        "title": "nuejs/nue",
+        "link": "https://github.com/login?return_to=%2Fnuejs%2Fnue",
+        "description": "Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak",
+        "stars": "7,658",
+        "forks": "221"
+    },
+    {
+        "title": "unclecode/crawl4ai",
+        "link": "https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai",
+        "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+        "stars": "36,582",
+        "forks": "3,214"
+    },
+    {
+        "title": "elie222/inbox-zero",
+        "link": "https://github.com/login?return_to=%2Felie222%2Finbox-zero",
+        "description": "Open source email app to reach inbox zero fast.",
+        "stars": "4,690",
+        "forks": "519"
+    },
+    {
+        "title": "SLAM-Handbook-contributors/slam-handbook-public-release",
+        "link": "https://github.com/login?return_to=%2FSLAM-Handbook-contributors%2Fslam-handbook-public-release",
+        "description": "Release repo for our SLAM Handbook",
+        "stars": "2,581",
+        "forks": "124"
+    },
+    {
+        "title": "nvm-sh/nvm",
+        "link": "https://github.com/login?return_to=%2Fnvm-sh%2Fnvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "stars": "83,632",
+        "forks": "8,482"
+    },
+    {
+        "title": "arthenica/ffmpeg-kit",
+        "link": "https://github.com/login?return_to=%2Farthenica%2Fffmpeg-kit",
+        "description": "FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.",
+        "stars": "5,127",
+        "forks": "1,374"
+    },
+    {
+        "title": "unionlabs/union",
+        "link": "https://github.com/login?return_to=%2Funionlabs%2Funion",
+        "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+        "stars": "51,380",
+        "forks": "2,580"
+    },
+    {
+        "title": "gitroomhq/postiz-app",
+        "link": "https://github.com/login?return_to=%2Fgitroomhq%2Fpostiz-app",
+        "description": "📨 The ultimate social media scheduling tool, with a bunch of AI 🤖",
+        "stars": "19,303",
+        "forks": "3,069"
+    },
+    {
+        "title": "browser-use/browser-use",
+        "link": "https://github.com/login?return_to=%2Fbrowser-use%2Fbrowser-use",
+        "description": "Make websites accessible for AI agents",
+        "stars": "52,535",
+        "forks": "5,560"
+    },
+    {
+        "title": "rustdesk/rustdesk",
+        "link": "https://github.com/sponsors/rustdesk",
+        "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+        "stars": "86,013",
+        "forks": "12,094"
+    },
+    {
+        "title": "th-ch/youtube-music",
+        "link": "https://github.com/login?return_to=%2Fth-ch%2Fyoutube-music",
+        "description": "YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)",
+        "stars": "17,020",
+        "forks": "879"
+    },
+    {
+        "title": "fleetdm/fleet",
+        "link": "https://github.com/login?return_to=%2Ffleetdm%2Ffleet",
+        "description": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+        "stars": "3,908",
+        "forks": "511"
+    },
+    {
+        "title": "All-Hands-AI/OpenHands",
+        "link": "https://github.com/login?return_to=%2FAll-Hands-AI%2FOpenHands",
+        "description": "🙌 OpenHands: Code Less, Make More",
+        "stars": "52,274",
+        "forks": "5,797"
+    },
+    {
+        "title": "symfony/symfony",
+        "link": "https://github.com/login?return_to=%2Fsymfony%2Fsymfony",
+        "description": "The Symfony PHP framework",
+        "stars": "30,188",
+        "forks": "9,592"
+    },
+    {
+        "title": "typst/typst",
+        "link": "https://github.com/sponsors/typst",
+        "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+        "stars": "38,894",
+        "forks": "1,070"
+    },
+    {
+        "title": "infiniflow/ragflow",
+        "link": "https://github.com/login?return_to=%2Finfiniflow%2Fragflow",
+        "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+        "stars": "47,798",
+        "forks": "4,449"
+    }
+]
