@@ -1,0 +1,107 @@
+[
+    {
+        "title": "nvm-sh/nvm",
+        "link": "https://github.com/login?return_to=%2Fnvm-sh%2Fnvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "stars": "83,703",
+        "forks": "8,500"
+    },
+    {
+        "title": "elie222/inbox-zero",
+        "link": "https://github.com/login?return_to=%2Felie222%2Finbox-zero",
+        "description": "Open source email app to reach inbox zero fast.",
+        "stars": "4,951",
+        "forks": "532"
+    },
+    {
+        "title": "alibaba/higress",
+        "link": "https://github.com/login?return_to=%2Falibaba%2Fhigress",
+        "description": "🤖 AI Gateway | AI Native API Gateway",
+        "stars": "4,633",
+        "forks": "614"
+    },
+    {
+        "title": "browser-use/web-ui",
+        "link": "https://github.com/login?return_to=%2Fbrowser-use%2Fweb-ui",
+        "description": "Run AI Agent in your browser.",
+        "stars": "10,934",
+        "forks": "1,789"
+    },
+    {
+        "title": "chiphuyen/aie-book",
+        "link": "https://github.com/login?return_to=%2Fchiphuyen%2Faie-book",
+        "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
+        "stars": "3,517",
+        "forks": "426"
+    },
+    {
+        "title": "fleetdm/fleet",
+        "link": "https://github.com/login?return_to=%2Ffleetdm%2Ffleet",
+        "description": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+        "stars": "4,139",
+        "forks": "516"
+    },
+    {
+        "title": "symfony/symfony",
+        "link": "https://github.com/login?return_to=%2Fsymfony%2Fsymfony",
+        "description": "The Symfony PHP framework",
+        "stars": "30,241",
+        "forks": "9,598"
+    },
+    {
+        "title": "LadybirdBrowser/ladybird",
+        "link": "https://github.com/login?return_to=%2FLadybirdBrowser%2Fladybird",
+        "description": "Truly independent web browser",
+        "stars": "36,906",
+        "forks": "1,549"
+    },
+    {
+        "title": "browser-use/browser-use",
+        "link": "https://github.com/login?return_to=%2Fbrowser-use%2Fbrowser-use",
+        "description": "Make websites accessible for AI agents",
+        "stars": "52,964",
+        "forks": "5,603"
+    },
+    {
+        "title": "tensorflow/tensorflow",
+        "link": "https://github.com/login?return_to=%2Ftensorflow%2Ftensorflow",
+        "description": "An Open Source Machine Learning Framework for Everyone",
+        "stars": "189,060",
+        "forks": "74,626"
+    },
+    {
+        "title": "google-gemini/cookbook",
+        "link": "https://github.com/login?return_to=%2Fgoogle-gemini%2Fcookbook",
+        "description": "Examples and guides for using the Gemini API",
+        "stars": "11,788",
+        "forks": "1,527"
+    },
+    {
+        "title": "liam-hq/liam",
+        "link": "https://github.com/login?return_to=%2Fliam-hq%2Fliam",
+        "description": "Automatically generates beautiful and easy-to-read ER diagrams from your database.",
+        "stars": "1,683",
+        "forks": "75"
+    },
+    {
+        "title": "SLAM-Handbook-contributors/slam-handbook-public-release",
+        "link": "https://github.com/login?return_to=%2FSLAM-Handbook-contributors%2Fslam-handbook-public-release",
+        "description": "Release repo for our SLAM Handbook",
+        "stars": "2,689",
+        "forks": "130"
+    },
+    {
+        "title": "unclecode/crawl4ai",
+        "link": "https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai",
+        "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+        "stars": "37,038",
+        "forks": "3,261"
+    },
+    {
+        "title": "backstage/backstage",
+        "link": "https://github.com/login?return_to=%2Fbackstage%2Fbackstage",
+        "description": "Backstage is an open framework for building developer portals",
+        "stars": "29,892",
+        "forks": "6,411"
+    }
+]
