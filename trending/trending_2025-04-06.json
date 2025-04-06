@@ -1,0 +1,107 @@
+[
+    {
+        "title": "nuejs/nue",
+        "link": "https://github.com/login?return_to=%2Fnuejs%2Fnue",
+        "description": "Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak",
+        "stars": "8,070",
+        "forks": "238"
+    },
+    {
+        "title": "freeCodeCamp/freeCodeCamp",
+        "link": "https://github.com/sponsors/freeCodeCamp",
+        "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+        "stars": "415,368",
+        "forks": "39,664"
+    },
+    {
+        "title": "Azure/azure-sdk-for-net",
+        "link": "https://github.com/login?return_to=%2FAzure%2Fazure-sdk-for-net",
+        "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+        "stars": "5,714",
+        "forks": "4,913"
+    },
+    {
+        "title": "liam-hq/liam",
+        "link": "https://github.com/login?return_to=%2Fliam-hq%2Fliam",
+        "description": "Automatically generates beautiful and easy-to-read ER diagrams from your database.",
+        "stars": "2,097",
+        "forks": "86"
+    },
+    {
+        "title": "tenstorrent/tt-metal",
+        "link": "https://github.com/login?return_to=%2Ftenstorrent%2Ftt-metal",
+        "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
+        "stars": "765",
+        "forks": "131"
+    },
+    {
+        "title": "kubernetes-sigs/headlamp",
+        "link": "https://github.com/login?return_to=%2Fkubernetes-sigs%2Fheadlamp",
+        "description": "A Kubernetes web UI that is fully-featured, user-friendly and extensible",
+        "stars": "3,338",
+        "forks": "264"
+    },
+    {
+        "title": "google/googletest",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Fgoogletest",
+        "description": "GoogleTest - Google Testing and Mocking Framework",
+        "stars": "35,778",
+        "forks": "10,326"
+    },
+    {
+        "title": "funstory-ai/BabelDOC",
+        "link": "https://github.com/login?return_to=%2Ffunstory-ai%2FBabelDOC",
+        "description": "Yet Another Document Translator",
+        "stars": "732",
+        "forks": "39"
+    },
+    {
+        "title": "twbs/bootstrap",
+        "link": "https://github.com/sponsors/twbs",
+        "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+        "stars": "171,969",
+        "forks": "79,066"
+    },
+    {
+        "title": "fleetdm/fleet",
+        "link": "https://github.com/login?return_to=%2Ffleetdm%2Ffleet",
+        "description": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+        "stars": "4,359",
+        "forks": "526"
+    },
+    {
+        "title": "unclecode/crawl4ai",
+        "link": "https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai",
+        "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+        "stars": "37,376",
+        "forks": "3,290"
+    },
+    {
+        "title": "maotoumao/MusicFree",
+        "link": "https://github.com/login?return_to=%2Fmaotoumao%2FMusicFree",
+        "description": "插件化、定制化、无广告的免费音乐播放器",
+        "stars": "12,364",
+        "forks": "836"
+    },
+    {
+        "title": "hashicorp/terraform-provider-aws",
+        "link": "https://github.com/login?return_to=%2Fhashicorp%2Fterraform-provider-aws",
+        "description": "The AWS Provider enables Terraform to manage AWS resources.",
+        "stars": "10,220",
+        "forks": "9,422"
+    },
+    {
+        "title": "tensorflow/tensorflow",
+        "link": "https://github.com/login?return_to=%2Ftensorflow%2Ftensorflow",
+        "description": "An Open Source Machine Learning Framework for Everyone",
+        "stars": "189,210",
+        "forks": "74,631"
+    },
+    {
+        "title": "chiphuyen/aie-book",
+        "link": "https://github.com/login?return_to=%2Fchiphuyen%2Faie-book",
+        "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
+        "stars": "3,661",
+        "forks": "437"
+    }
+]
