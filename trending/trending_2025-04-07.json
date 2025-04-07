@@ -1,0 +1,86 @@
+[
+    {
+        "title": "meta-llama/llama-models",
+        "link": "https://github.com/login?return_to=%2Fmeta-llama%2Fllama-models",
+        "description": "Utilities intended for use with Llama models.",
+        "stars": "6,334",
+        "forks": "1,054"
+    },
+    {
+        "title": "juliangarnier/anime",
+        "link": "https://github.com/sponsors/juliangarnier",
+        "description": "JavaScript animation engine",
+        "stars": "53,700",
+        "forks": "3,792"
+    },
+    {
+        "title": "microsoft/markitdown",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fmarkitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "stars": "42,880",
+        "forks": "2,045"
+    },
+    {
+        "title": "NVIDIA-Omniverse/PhysX",
+        "link": "https://github.com/login?return_to=%2FNVIDIA-Omniverse%2FPhysX",
+        "description": "NVIDIA PhysX SDK",
+        "stars": "3,266",
+        "forks": "446"
+    },
+    {
+        "title": "datawhalechina/llm-cookbook",
+        "link": "https://github.com/login?return_to=%2Fdatawhalechina%2Fllm-cookbook",
+        "description": "面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版",
+        "stars": "16,967",
+        "forks": "2,110"
+    },
+    {
+        "title": "activepieces/activepieces",
+        "link": "https://github.com/login?return_to=%2Factivepieces%2Factivepieces",
+        "description": "Open Source AI Automation ✨ All our 280+ pieces are now available as MCP to use with LLMs",
+        "stars": "12,720",
+        "forks": "1,678"
+    },
+    {
+        "title": "funstory-ai/BabelDOC",
+        "link": "https://github.com/login?return_to=%2Ffunstory-ai%2FBabelDOC",
+        "description": "Yet Another Document Translator",
+        "stars": "899",
+        "forks": "46"
+    },
+    {
+        "title": "twbs/bootstrap",
+        "link": "https://github.com/sponsors/twbs",
+        "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+        "stars": "172,048",
+        "forks": "79,076"
+    },
+    {
+        "title": "supabase-community/supabase-mcp",
+        "link": "https://github.com/login?return_to=%2Fsupabase-community%2Fsupabase-mcp",
+        "description": "Connect Supabase to your AI assistants",
+        "stars": "374",
+        "forks": "25"
+    },
+    {
+        "title": "fleetdm/fleet",
+        "link": "https://github.com/login?return_to=%2Ffleetdm%2Ffleet",
+        "description": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+        "stars": "4,550",
+        "forks": "534"
+    },
+    {
+        "title": "unionlabs/union",
+        "link": "https://github.com/login?return_to=%2Funionlabs%2Funion",
+        "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+        "stars": "52,308",
+        "forks": "2,630"
+    },
+    {
+        "title": "SimplifyJobs/Summer2025-Internships",
+        "link": "https://github.com/login?return_to=%2FSimplifyJobs%2FSummer2025-Internships",
+        "description": "Collection of Summer 2025 tech internships!",
+        "stars": "36,848",
+        "forks": "2,883"
+    }
+]
