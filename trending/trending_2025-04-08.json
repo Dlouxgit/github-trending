@@ -1,0 +1,100 @@
+[
+    {
+        "title": "microsoft/markitdown",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fmarkitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "stars": "44,399",
+        "forks": "2,115"
+    },
+    {
+        "title": "meta-llama/llama-models",
+        "link": "https://github.com/login?return_to=%2Fmeta-llama%2Fllama-models",
+        "description": "Utilities intended for use with Llama models.",
+        "stars": "6,589",
+        "forks": "1,075"
+    },
+    {
+        "title": "funstory-ai/BabelDOC",
+        "link": "https://github.com/login?return_to=%2Ffunstory-ai%2FBabelDOC",
+        "description": "Yet Another Document Translator",
+        "stars": "1,132",
+        "forks": "61"
+    },
+    {
+        "title": "supabase-community/supabase-mcp",
+        "link": "https://github.com/login?return_to=%2Fsupabase-community%2Fsupabase-mcp",
+        "description": "Connect Supabase to your AI assistants",
+        "stars": "593",
+        "forks": "32"
+    },
+    {
+        "title": "clockworklabs/SpacetimeDB",
+        "link": "https://github.com/login?return_to=%2Fclockworklabs%2FSpacetimeDB",
+        "description": "Multiplayer at the speed of light",
+        "stars": "11,622",
+        "forks": "390"
+    },
+    {
+        "title": "meta-llama/llama-cookbook",
+        "link": "https://github.com/login?return_to=%2Fmeta-llama%2Fllama-cookbook",
+        "description": "Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services",
+        "stars": "16,804",
+        "forks": "2,416"
+    },
+    {
+        "title": "NVIDIA-Omniverse/PhysX",
+        "link": "https://github.com/login?return_to=%2FNVIDIA-Omniverse%2FPhysX",
+        "description": "NVIDIA PhysX SDK",
+        "stars": "3,502",
+        "forks": "468"
+    },
+    {
+        "title": "juliangarnier/anime",
+        "link": "https://github.com/sponsors/juliangarnier",
+        "description": "JavaScript animation engine",
+        "stars": "54,725",
+        "forks": "3,826"
+    },
+    {
+        "title": "SimplifyJobs/Summer2025-Internships",
+        "link": "https://github.com/login?return_to=%2FSimplifyJobs%2FSummer2025-Internships",
+        "description": "Collection of Summer 2025 tech internships!",
+        "stars": "37,010",
+        "forks": "2,890"
+    },
+    {
+        "title": "maotoumao/MusicFree",
+        "link": "https://github.com/login?return_to=%2Fmaotoumao%2FMusicFree",
+        "description": "插件化、定制化、无广告的免费音乐播放器",
+        "stars": "12,908",
+        "forks": "860"
+    },
+    {
+        "title": "activepieces/activepieces",
+        "link": "https://github.com/login?return_to=%2Factivepieces%2Factivepieces",
+        "description": "Open Source AI Automation ✨ All our 280+ pieces are now available as MCP to use with LLMs",
+        "stars": "13,035",
+        "forks": "1,698"
+    },
+    {
+        "title": "jiji262/douyin-downloader",
+        "link": "https://github.com/login?return_to=%2Fjiji262%2Fdouyin-downloader",
+        "description": "抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！",
+        "stars": "2,588",
+        "forks": "405"
+    },
+    {
+        "title": "freeCodeCamp/freeCodeCamp",
+        "link": "https://github.com/sponsors/freeCodeCamp",
+        "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+        "stars": "415,730",
+        "forks": "39,694"
+    },
+    {
+        "title": "liam-hq/liam",
+        "link": "https://github.com/login?return_to=%2Fliam-hq%2Fliam",
+        "description": "Automatically generates beautiful and easy-to-read ER diagrams from your database.",
+        "stars": "2,574",
+        "forks": "99"
+    }
+]
