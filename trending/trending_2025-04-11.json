@@ -1,0 +1,93 @@
+[
+    {
+        "title": "girafe-ai/ml-course",
+        "link": "https://github.com/login?return_to=%2Fgirafe-ai%2Fml-course",
+        "description": "Open Machine Learning course",
+        "stars": "2,856",
+        "forks": "1,191"
+    },
+    {
+        "title": "caddyserver/caddy",
+        "link": "https://github.com/login?return_to=%2Fcaddyserver%2Fcaddy",
+        "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+        "stars": "63,111",
+        "forks": "4,244"
+    },
+    {
+        "title": "clockworklabs/SpacetimeDB",
+        "link": "https://github.com/login?return_to=%2Fclockworklabs%2FSpacetimeDB",
+        "description": "Multiplayer at the speed of light",
+        "stars": "12,830",
+        "forks": "422"
+    },
+    {
+        "title": "krillinai/KrillinAI",
+        "link": "https://github.com/login?return_to=%2Fkrillinai%2FKrillinAI",
+        "description": "A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容",
+        "stars": "1,723",
+        "forks": "140"
+    },
+    {
+        "title": "microsoft/ai-agents-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fai-agents-for-beginners",
+        "description": "10 Lessons to Get Started Building AI Agents",
+        "stars": "12,064",
+        "forks": "3,017"
+    },
+    {
+        "title": "NVIDIA/cuda-python",
+        "link": "https://github.com/login?return_to=%2FNVIDIA%2Fcuda-python",
+        "description": "CUDA Python: Performance meets Productivity",
+        "stars": "1,924",
+        "forks": "128"
+    },
+    {
+        "title": "datawhalechina/llm-cookbook",
+        "link": "https://github.com/login?return_to=%2Fdatawhalechina%2Fllm-cookbook",
+        "description": "面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版",
+        "stars": "18,294",
+        "forks": "2,228"
+    },
+    {
+        "title": "getmaxun/maxun",
+        "link": "https://github.com/login?return_to=%2Fgetmaxun%2Fmaxun",
+        "description": "🔥 Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥",
+        "stars": "10,875",
+        "forks": "865"
+    },
+    {
+        "title": "googleapis/google-cloud-go",
+        "link": "https://github.com/login?return_to=%2Fgoogleapis%2Fgoogle-cloud-go",
+        "description": "Google Cloud Client Libraries for Go.",
+        "stars": "4,077",
+        "forks": "1,399"
+    },
+    {
+        "title": "mendableai/firecrawl",
+        "link": "https://github.com/login?return_to=%2Fmendableai%2Ffirecrawl",
+        "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+        "stars": "34,932",
+        "forks": "3,061"
+    },
+    {
+        "title": "microsoft/markitdown",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fmarkitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "stars": "47,770",
+        "forks": "2,250"
+    },
+    {
+        "title": "langgenius/dify",
+        "link": "https://github.com/login?return_to=%2Flanggenius%2Fdify",
+        "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+        "stars": "90,676",
+        "forks": "13,516"
+    },
+    {
+        "title": "gin-gonic/gin",
+        "link": "https://github.com/login?return_to=%2Fgin-gonic%2Fgin",
+        "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+        "stars": "81,599",
+        "forks": "8,172"
+    }
+]
