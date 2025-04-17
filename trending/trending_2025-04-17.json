@@ -1,0 +1,107 @@
+[
+    {
+        "title": "virattt/ai-hedge-fund",
+        "link": "https://github.com/login?return_to=%2Fvirattt%2Fai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "stars": "24,153",
+        "forks": "4,203"
+    },
+    {
+        "title": "Anduin2017/HowToCook",
+        "link": "https://github.com/login?return_to=%2FAnduin2017%2FHowToCook",
+        "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
+        "stars": "72,675",
+        "forks": "9,053"
+    },
+    {
+        "title": "Anxcye/anx-reader",
+        "link": "https://github.com/login?return_to=%2FAnxcye%2Fanx-reader",
+        "description": "Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。",
+        "stars": "4,007",
+        "forks": "214"
+    },
+    {
+        "title": "vanna-ai/vanna",
+        "link": "https://github.com/login?return_to=%2Fvanna-ai%2Fvanna",
+        "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+        "stars": "15,984",
+        "forks": "1,429"
+    },
+    {
+        "title": "fuma-nama/fumadocs",
+        "link": "https://github.com/sponsors/fuma-nama",
+        "description": "The beautiful docs framework with Next.js.",
+        "stars": "4,907",
+        "forks": "269"
+    },
+    {
+        "title": "DioxusLabs/dioxus",
+        "link": "https://github.com/sponsors/DioxusLabs",
+        "description": "Fullstack app framework for web, desktop, mobile, and more.",
+        "stars": "26,712",
+        "forks": "1,058"
+    },
+    {
+        "title": "opf/openproject",
+        "link": "https://github.com/login?return_to=%2Fopf%2Fopenproject",
+        "description": "OpenProject is the leading open source project management software.",
+        "stars": "10,576",
+        "forks": "2,548"
+    },
+    {
+        "title": "yeongpin/cursor-free-vip",
+        "link": "https://github.com/login?return_to=%2Fyeongpin%2Fcursor-free-vip",
+        "description": "[Support 0.48.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
+        "stars": "17,977",
+        "forks": "2,142"
+    },
+    {
+        "title": "Zackriya-Solutions/meeting-minutes",
+        "link": "https://github.com/login?return_to=%2FZackriya-Solutions%2Fmeeting-minutes",
+        "description": "A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/",
+        "stars": "3,351",
+        "forks": "234"
+    },
+    {
+        "title": "NirDiamant/RAG_Techniques",
+        "link": "https://github.com/sponsors/NirDiamant",
+        "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
+        "stars": "14,479",
+        "forks": "1,475"
+    },
+    {
+        "title": "OpenBB-finance/OpenBB",
+        "link": "https://github.com/login?return_to=%2FOpenBB-finance%2FOpenBB",
+        "description": "Investment Research for Everyone, Everywhere.",
+        "stars": "40,805",
+        "forks": "3,636"
+    },
+    {
+        "title": "svcvit/Awesome-Dify-Workflow",
+        "link": "https://github.com/login?return_to=%2Fsvcvit%2FAwesome-Dify-Workflow",
+        "description": "分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.",
+        "stars": "5,961",
+        "forks": "590"
+    },
+    {
+        "title": "kestra-io/kestra",
+        "link": "https://github.com/login?return_to=%2Fkestra-io%2Fkestra",
+        "description": "⚡ Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...",
+        "stars": "17,118",
+        "forks": "1,448"
+    },
+    {
+        "title": "neovim/nvim-lspconfig",
+        "link": "https://github.com/sponsors/neovim",
+        "description": "Quickstart configs for Nvim LSP",
+        "stars": "11,666",
+        "forks": "2,172"
+    },
+    {
+        "title": "scylladb/scylladb",
+        "link": "https://github.com/login?return_to=%2Fscylladb%2Fscylladb",
+        "description": "NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB",
+        "stars": "14,374",
+        "forks": "1,371"
+    }
+]
