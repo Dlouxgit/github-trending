@@ -1,0 +1,107 @@
+[
+    {
+        "title": "CVEProject/cvelistV5",
+        "link": "https://github.com/login?return_to=%2FCVEProject%2FcvelistV5",
+        "description": "CVE cache of the official CVE List in CVE JSON 5 format",
+        "stars": "1,565",
+        "forks": "413"
+    },
+    {
+        "title": "virattt/ai-hedge-fund",
+        "link": "https://github.com/login?return_to=%2Fvirattt%2Fai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "stars": "25,263",
+        "forks": "4,319"
+    },
+    {
+        "title": "Anduin2017/HowToCook",
+        "link": "https://github.com/login?return_to=%2FAnduin2017%2FHowToCook",
+        "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
+        "stars": "74,350",
+        "forks": "9,156"
+    },
+    {
+        "title": "NirDiamant/RAG_Techniques",
+        "link": "https://github.com/sponsors/NirDiamant",
+        "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
+        "stars": "14,857",
+        "forks": "1,496"
+    },
+    {
+        "title": "vanna-ai/vanna",
+        "link": "https://github.com/login?return_to=%2Fvanna-ai%2Fvanna",
+        "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+        "stars": "16,303",
+        "forks": "1,448"
+    },
+    {
+        "title": "svcvit/Awesome-Dify-Workflow",
+        "link": "https://github.com/login?return_to=%2Fsvcvit%2FAwesome-Dify-Workflow",
+        "description": "分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.",
+        "stars": "6,156",
+        "forks": "599"
+    },
+    {
+        "title": "SigmaHQ/sigma",
+        "link": "https://github.com/login?return_to=%2FSigmaHQ%2Fsigma",
+        "description": "Main Sigma Rule Repository",
+        "stars": "8,979",
+        "forks": "2,311"
+    },
+    {
+        "title": "docmost/docmost",
+        "link": "https://github.com/login?return_to=%2Fdocmost%2Fdocmost",
+        "description": "Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.",
+        "stars": "13,664",
+        "forks": "662"
+    },
+    {
+        "title": "midday-ai/midday",
+        "link": "https://github.com/login?return_to=%2Fmidday-ai%2Fmidday",
+        "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
+        "stars": "7,611",
+        "forks": "737"
+    },
+    {
+        "title": "SimplifyJobs/New-Grad-Positions",
+        "link": "https://github.com/login?return_to=%2FSimplifyJobs%2FNew-Grad-Positions",
+        "description": "A collection of full time roles in SWE, Quant, and PM for new grads.",
+        "stars": "12,513",
+        "forks": "1,097"
+    },
+    {
+        "title": "elastic/detection-rules",
+        "link": "https://github.com/login?return_to=%2Felastic%2Fdetection-rules",
+        "description": "No description provided",
+        "stars": "2,192",
+        "forks": "552"
+    },
+    {
+        "title": "codecrafters-io/build-your-own-x",
+        "link": "https://github.com/login?return_to=%2Fcodecrafters-io%2Fbuild-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "stars": "372,459",
+        "forks": "34,645"
+    },
+    {
+        "title": "microsoft/BitNet",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FBitNet",
+        "description": "Official inference framework for 1-bit LLMs",
+        "stars": "13,416",
+        "forks": "937"
+    },
+    {
+        "title": "cline/cline",
+        "link": "https://github.com/login?return_to=%2Fcline%2Fcline",
+        "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+        "stars": "40,621",
+        "forks": "4,477"
+    },
+    {
+        "title": "browserbase/stagehand",
+        "link": "https://github.com/login?return_to=%2Fbrowserbase%2Fstagehand",
+        "description": "An AI web browsing framework focused on simplicity and extensibility.",
+        "stars": "10,161",
+        "forks": "563"
+    }
+]
