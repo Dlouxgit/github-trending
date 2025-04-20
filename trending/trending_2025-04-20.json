@@ -1,0 +1,107 @@
+[
+    {
+        "title": "Anduin2017/HowToCook",
+        "link": "https://github.com/login?return_to=%2FAnduin2017%2FHowToCook",
+        "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
+        "stars": "77,670",
+        "forks": "9,396"
+    },
+    {
+        "title": "microsoft/BitNet",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FBitNet",
+        "description": "Official inference framework for 1-bit LLMs",
+        "stars": "14,220",
+        "forks": "998"
+    },
+    {
+        "title": "jlowin/fastmcp",
+        "link": "https://github.com/login?return_to=%2Fjlowin%2Ffastmcp",
+        "description": "🚀 The fast, Pythonic way to build MCP servers and clients",
+        "stars": "6,112",
+        "forks": "317"
+    },
+    {
+        "title": "docmost/docmost",
+        "link": "https://github.com/login?return_to=%2Fdocmost%2Fdocmost",
+        "description": "Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.",
+        "stars": "14,292",
+        "forks": "687"
+    },
+    {
+        "title": "kamranahmedse/developer-roadmap",
+        "link": "https://github.com/sponsors/kamranahmedse",
+        "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+        "stars": "314,177",
+        "forks": "40,852"
+    },
+    {
+        "title": "1Panel-dev/1Panel",
+        "link": "https://github.com/login?return_to=%2F1Panel-dev%2F1Panel",
+        "description": "🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
+        "stars": "27,467",
+        "forks": "2,401"
+    },
+    {
+        "title": "elie222/inbox-zero",
+        "link": "https://github.com/login?return_to=%2Felie222%2Finbox-zero",
+        "description": "AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+        "stars": "6,137",
+        "forks": "645"
+    },
+    {
+        "title": "linera-io/linera-protocol",
+        "link": "https://github.com/login?return_to=%2Flinera-io%2Flinera-protocol",
+        "description": "Main repository for the Linera protocol",
+        "stars": "23,754",
+        "forks": "1,446"
+    },
+    {
+        "title": "SigmaHQ/sigma",
+        "link": "https://github.com/login?return_to=%2FSigmaHQ%2Fsigma",
+        "description": "Main Sigma Rule Repository",
+        "stars": "9,071",
+        "forks": "2,316"
+    },
+    {
+        "title": "public-apis/public-apis",
+        "link": "https://github.com/login?return_to=%2Fpublic-apis%2Fpublic-apis",
+        "description": "A collective list of free APIs",
+        "stars": "336,248",
+        "forks": "35,562"
+    },
+    {
+        "title": "browserbase/stagehand",
+        "link": "https://github.com/login?return_to=%2Fbrowserbase%2Fstagehand",
+        "description": "An AI web browsing framework focused on simplicity and extensibility.",
+        "stars": "10,660",
+        "forks": "584"
+    },
+    {
+        "title": "nocobase/nocobase",
+        "link": "https://github.com/login?return_to=%2Fnocobase%2Fnocobase",
+        "description": "NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.",
+        "stars": "14,602",
+        "forks": "1,622"
+    },
+    {
+        "title": "NirDiamant/RAG_Techniques",
+        "link": "https://github.com/sponsors/NirDiamant",
+        "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
+        "stars": "15,359",
+        "forks": "1,528"
+    },
+    {
+        "title": "jwasham/coding-interview-university",
+        "link": "https://github.com/login?return_to=%2Fjwasham%2Fcoding-interview-university",
+        "description": "A complete computer science study plan to become a software engineer.",
+        "stars": "314,684",
+        "forks": "78,428"
+    },
+    {
+        "title": "wanglin2/mind-map",
+        "link": "https://github.com/login?return_to=%2Fwanglin2%2Fmind-map",
+        "description": "一个还算强大的Web思维导图。A relatively powerful web mind map.",
+        "stars": "8,616",
+        "forks": "1,210"
+    }
+]
