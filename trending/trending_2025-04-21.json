@@ -1,0 +1,100 @@
+[
+    {
+        "title": "microsoft/BitNet",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FBitNet",
+        "description": "Official inference framework for 1-bit LLMs",
+        "stars": "14,879",
+        "forks": "1,046"
+    },
+    {
+        "title": "Byaidu/PDFMathTranslate",
+        "link": "https://github.com/login?return_to=%2FByaidu%2FPDFMathTranslate",
+        "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker/Zotero",
+        "stars": "20,753",
+        "forks": "1,761"
+    },
+    {
+        "title": "public-apis/public-apis",
+        "link": "https://github.com/login?return_to=%2Fpublic-apis%2Fpublic-apis",
+        "description": "A collective list of free APIs",
+        "stars": "336,731",
+        "forks": "35,593"
+    },
+    {
+        "title": "Anduin2017/HowToCook",
+        "link": "https://github.com/login?return_to=%2FAnduin2017%2FHowToCook",
+        "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
+        "stars": "78,545",
+        "forks": "9,469"
+    },
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "28,862",
+        "forks": "3,241"
+    },
+    {
+        "title": "jlowin/fastmcp",
+        "link": "https://github.com/login?return_to=%2Fjlowin%2Ffastmcp",
+        "description": "🚀 The fast, Pythonic way to build MCP servers and clients",
+        "stars": "6,417",
+        "forks": "332"
+    },
+    {
+        "title": "1Panel-dev/1Panel",
+        "link": "https://github.com/login?return_to=%2F1Panel-dev%2F1Panel",
+        "description": "🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
+        "stars": "27,658",
+        "forks": "2,408"
+    },
+    {
+        "title": "nocobase/nocobase",
+        "link": "https://github.com/login?return_to=%2Fnocobase%2Fnocobase",
+        "description": "NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.",
+        "stars": "14,808",
+        "forks": "1,633"
+    },
+    {
+        "title": "yt-dlp/yt-dlp",
+        "link": "https://github.com/login?return_to=%2Fyt-dlp%2Fyt-dlp",
+        "description": "A feature-rich command-line audio/video downloader",
+        "stars": "108,358",
+        "forks": "8,515"
+    },
+    {
+        "title": "microsoft/markitdown",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fmarkitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "stars": "50,476",
+        "forks": "2,442"
+    },
+    {
+        "title": "elie222/inbox-zero",
+        "link": "https://github.com/login?return_to=%2Felie222%2Finbox-zero",
+        "description": "AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+        "stars": "6,359",
+        "forks": "661"
+    },
+    {
+        "title": "ashvardanian/less_slow.cpp",
+        "link": "https://github.com/login?return_to=%2Fashvardanian%2Fless_slow.cpp",
+        "description": "Playing around \"Less Slow\" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO",
+        "stars": "1,299",
+        "forks": "49"
+    },
+    {
+        "title": "wandb/openui",
+        "link": "https://github.com/login?return_to=%2Fwandb%2Fopenui",
+        "description": "OpenUI let's you describe UI using your imagination, then see it rendered live.",
+        "stars": "20,559",
+        "forks": "1,926"
+    },
+    {
+        "title": "linera-io/linera-protocol",
+        "link": "https://github.com/login?return_to=%2Flinera-io%2Flinera-protocol",
+        "description": "Main repository for the Linera protocol",
+        "stars": "24,146",
+        "forks": "1,493"
+    }
+]
