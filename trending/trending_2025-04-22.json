@@ -1,0 +1,93 @@
+[
+    {
+        "title": "microsoft/markitdown",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fmarkitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "stars": "51,404",
+        "forks": "2,510"
+    },
+    {
+        "title": "microsoft/BitNet",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FBitNet",
+        "description": "Official inference framework for 1-bit LLMs",
+        "stars": "15,597",
+        "forks": "1,108"
+    },
+    {
+        "title": "elie222/inbox-zero",
+        "link": "https://github.com/login?return_to=%2Felie222%2Finbox-zero",
+        "description": "AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+        "stars": "6,634",
+        "forks": "684"
+    },
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "29,222",
+        "forks": "3,271"
+    },
+    {
+        "title": "allenai/olmocr",
+        "link": "https://github.com/login?return_to=%2Fallenai%2Folmocr",
+        "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+        "stars": "11,667",
+        "forks": "789"
+    },
+    {
+        "title": "yt-dlp/yt-dlp",
+        "link": "https://github.com/login?return_to=%2Fyt-dlp%2Fyt-dlp",
+        "description": "A feature-rich command-line audio/video downloader",
+        "stars": "108,677",
+        "forks": "8,535"
+    },
+    {
+        "title": "drawdb-io/drawdb",
+        "link": "https://github.com/login?return_to=%2Fdrawdb-io%2Fdrawdb",
+        "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+        "stars": "27,313",
+        "forks": "1,938"
+    },
+    {
+        "title": "nocobase/nocobase",
+        "link": "https://github.com/login?return_to=%2Fnocobase%2Fnocobase",
+        "description": "NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.",
+        "stars": "15,034",
+        "forks": "1,650"
+    },
+    {
+        "title": "public-apis/public-apis",
+        "link": "https://github.com/login?return_to=%2Fpublic-apis%2Fpublic-apis",
+        "description": "A collective list of free APIs",
+        "stars": "337,251",
+        "forks": "35,629"
+    },
+    {
+        "title": "jwasham/coding-interview-university",
+        "link": "https://github.com/login?return_to=%2Fjwasham%2Fcoding-interview-university",
+        "description": "A complete computer science study plan to become a software engineer.",
+        "stars": "315,201",
+        "forks": "78,505"
+    },
+    {
+        "title": "Byaidu/PDFMathTranslate",
+        "link": "https://github.com/login?return_to=%2FByaidu%2FPDFMathTranslate",
+        "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker/Zotero",
+        "stars": "21,155",
+        "forks": "1,793"
+    },
+    {
+        "title": "007revad/Synology_HDD_db",
+        "link": "https://github.com/sponsors/007revad",
+        "description": "Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more",
+        "stars": "3,557",
+        "forks": "226"
+    },
+    {
+        "title": "jumpserver/jumpserver",
+        "link": "https://github.com/login?return_to=%2Fjumpserver%2Fjumpserver",
+        "description": "JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.",
+        "stars": "27,024",
+        "forks": "5,450"
+    }
+]
