@@ -1,0 +1,72 @@
+[
+    {
+        "title": "microsoft/markitdown",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fmarkitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "stars": "53,049",
+        "forks": "2,627"
+    },
+    {
+        "title": "hydralauncher/hydra",
+        "link": "https://github.com/login?return_to=%2Fhydralauncher%2Fhydra",
+        "description": "Hydra is a game launcher with its own embedded bittorrent client",
+        "stars": "12,712",
+        "forks": "3,564"
+    },
+    {
+        "title": "pocketbase/pocketbase",
+        "link": "https://github.com/login?return_to=%2Fpocketbase%2Fpocketbase",
+        "description": "Open Source realtime backend in 1 file",
+        "stars": "46,162",
+        "forks": "2,267"
+    },
+    {
+        "title": "bytedance/UI-TARS",
+        "link": "https://github.com/login?return_to=%2Fbytedance%2FUI-TARS",
+        "description": "No description provided",
+        "stars": "4,594",
+        "forks": "312"
+    },
+    {
+        "title": "anthropics/courses",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fcourses",
+        "description": "Anthropic's educational courses",
+        "stars": "10,747",
+        "forks": "968"
+    },
+    {
+        "title": "drawdb-io/drawdb",
+        "link": "https://github.com/login?return_to=%2Fdrawdb-io%2Fdrawdb",
+        "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+        "stars": "27,859",
+        "forks": "1,959"
+    },
+    {
+        "title": "jwasham/coding-interview-university",
+        "link": "https://github.com/login?return_to=%2Fjwasham%2Fcoding-interview-university",
+        "description": "A complete computer science study plan to become a software engineer.",
+        "stars": "315,836",
+        "forks": "78,569"
+    },
+    {
+        "title": "PKUFlyingPig/cs-self-learning",
+        "link": "https://github.com/login?return_to=%2FPKUFlyingPig%2Fcs-self-learning",
+        "description": "计算机自学指南",
+        "stars": "62,691",
+        "forks": "7,276"
+    },
+    {
+        "title": "kamranahmedse/developer-roadmap",
+        "link": "https://github.com/sponsors/kamranahmedse",
+        "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+        "stars": "315,460",
+        "forks": "40,959"
+    },
+    {
+        "title": "microsoft/BitNet",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FBitNet",
+        "description": "Official inference framework for 1-bit LLMs",
+        "stars": "16,746",
+        "forks": "1,198"
+    }
+]
