@@ -1,0 +1,65 @@
+[
+    {
+        "title": "kortix-ai/suna",
+        "link": "https://github.com/login?return_to=%2Fkortix-ai%2Fsuna",
+        "description": "Suna - Open Source Generalist AI Agent",
+        "stars": "3,763",
+        "forks": "465"
+    },
+    {
+        "title": "RVC-Boss/GPT-SoVITS",
+        "link": "https://github.com/login?return_to=%2FRVC-Boss%2FGPT-SoVITS",
+        "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+        "stars": "45,135",
+        "forks": "5,004"
+    },
+    {
+        "title": "cloudcommunity/Free-Certifications",
+        "link": "https://github.com/login?return_to=%2Fcloudcommunity%2FFree-Certifications",
+        "description": "A curated list of free courses with certifications. Also available at https://free-certifications.com/",
+        "stars": "31,259",
+        "forks": "2,245"
+    },
+    {
+        "title": "bytedance/UI-TARS",
+        "link": "https://github.com/login?return_to=%2Fbytedance%2FUI-TARS",
+        "description": "No description provided",
+        "stars": "4,953",
+        "forks": "338"
+    },
+    {
+        "title": "microsoft/generative-ai-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fgenerative-ai-for-beginners",
+        "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+        "stars": "79,506",
+        "forks": "41,202"
+    },
+    {
+        "title": "jujumilk3/leaked-system-prompts",
+        "link": "https://github.com/login?return_to=%2Fjujumilk3%2Fleaked-system-prompts",
+        "description": "Collection of leaked system prompts",
+        "stars": "2,863",
+        "forks": "392"
+    },
+    {
+        "title": "khoj-ai/khoj",
+        "link": "https://github.com/sponsors/khoj-ai",
+        "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+        "stars": "29,019",
+        "forks": "1,621"
+    },
+    {
+        "title": "facebookresearch/dinov2",
+        "link": "https://github.com/login?return_to=%2Ffacebookresearch%2Fdinov2",
+        "description": "PyTorch code and models for the DINOv2 self-supervised learning method.",
+        "stars": "10,392",
+        "forks": "940"
+    },
+    {
+        "title": "tensorflow/tensorflow",
+        "link": "https://github.com/login?return_to=%2Ftensorflow%2Ftensorflow",
+        "description": "An Open Source Machine Learning Framework for Everyone",
+        "stars": "189,574",
+        "forks": "74,650"
+    }
+]
