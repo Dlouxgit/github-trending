@@ -1,0 +1,121 @@
+[
+    {
+        "title": "kortix-ai/suna",
+        "link": "https://github.com/login?return_to=%2Fkortix-ai%2Fsuna",
+        "description": "Suna - Open Source Generalist AI Agent",
+        "stars": "5,707",
+        "forks": "630"
+    },
+    {
+        "title": "bytedance/UI-TARS",
+        "link": "https://github.com/login?return_to=%2Fbytedance%2FUI-TARS",
+        "description": "No description provided",
+        "stars": "5,186",
+        "forks": "347"
+    },
+    {
+        "title": "jujumilk3/leaked-system-prompts",
+        "link": "https://github.com/login?return_to=%2Fjujumilk3%2Fleaked-system-prompts",
+        "description": "Collection of leaked system prompts",
+        "stars": "3,520",
+        "forks": "431"
+    },
+    {
+        "title": "cloudcommunity/Free-Certifications",
+        "link": "https://github.com/login?return_to=%2Fcloudcommunity%2FFree-Certifications",
+        "description": "A curated list of free courses with certifications. Also available at https://free-certifications.com/",
+        "stars": "31,801",
+        "forks": "2,267"
+    },
+    {
+        "title": "bregman-arie/devops-exercises",
+        "link": "https://github.com/sponsors/bregman-arie",
+        "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+        "stars": "74,606",
+        "forks": "16,646"
+    },
+    {
+        "title": "microsoft/generative-ai-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fgenerative-ai-for-beginners",
+        "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+        "stars": "79,869",
+        "forks": "41,295"
+    },
+    {
+        "title": "go-playground/validator",
+        "link": "https://github.com/login?return_to=%2Fgo-playground%2Fvalidator",
+        "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+        "stars": "18,164",
+        "forks": "1,365"
+    },
+    {
+        "title": "fastrepl/hyprnote",
+        "link": "https://github.com/sponsors/fastrepl",
+        "description": "AI Notepad for back-to-back meetings. Local-first & Extensible.",
+        "stars": "968",
+        "forks": "50"
+    },
+    {
+        "title": "getzep/graphiti",
+        "link": "https://github.com/login?return_to=%2Fgetzep%2Fgraphiti",
+        "description": "Build Real-Time Knowledge Graphs for AI Agents",
+        "stars": "5,036",
+        "forks": "378"
+    },
+    {
+        "title": "aquasecurity/trivy",
+        "link": "https://github.com/login?return_to=%2Faquasecurity%2Ftrivy",
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "stars": "25,695",
+        "forks": "2,509"
+    },
+    {
+        "title": "drawdb-io/drawdb",
+        "link": "https://github.com/login?return_to=%2Fdrawdb-io%2Fdrawdb",
+        "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+        "stars": "28,234",
+        "forks": "1,990"
+    },
+    {
+        "title": "joho/godotenv",
+        "link": "https://github.com/login?return_to=%2Fjoho%2Fgodotenv",
+        "description": "A Go port of Ruby's dotenv library (Loads environment variables from .env files)",
+        "stars": "9,149",
+        "forks": "426"
+    },
+    {
+        "title": "khoj-ai/khoj",
+        "link": "https://github.com/sponsors/khoj-ai",
+        "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+        "stars": "29,317",
+        "forks": "1,637"
+    },
+    {
+        "title": "tracel-ai/burn",
+        "link": "https://github.com/login?return_to=%2Ftracel-ai%2Fburn",
+        "description": "Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.",
+        "stars": "10,510",
+        "forks": "540"
+    },
+    {
+        "title": "BerriAI/litellm",
+        "link": "https://github.com/login?return_to=%2FBerriAI%2Flitellm",
+        "description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]",
+        "stars": "21,414",
+        "forks": "2,718"
+    },
+    {
+        "title": "Stirling-Tools/Stirling-PDF",
+        "link": "https://github.com/login?return_to=%2FStirling-Tools%2FStirling-PDF",
+        "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+        "stars": "56,628",
+        "forks": "4,744"
+    },
+    {
+        "title": "FortAwesome/Font-Awesome",
+        "link": "https://github.com/login?return_to=%2FFortAwesome%2FFont-Awesome",
+        "description": "The iconic SVG, font, and CSS toolkit",
+        "stars": "75,070",
+        "forks": "12,205"
+    }
+]
