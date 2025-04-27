@@ -1,0 +1,121 @@
+[
+    {
+        "title": "kortix-ai/suna",
+        "link": "https://github.com/login?return_to=%2Fkortix-ai%2Fsuna",
+        "description": "Suna - Open Source Generalist AI Agent",
+        "stars": "6,840",
+        "forks": "765"
+    },
+    {
+        "title": "lapce/lapce",
+        "link": "https://github.com/login?return_to=%2Flapce%2Flapce",
+        "description": "Lightning-fast and Powerful Code Editor written in Rust",
+        "stars": "35,370",
+        "forks": "1,088"
+    },
+    {
+        "title": "rowboatlabs/rowboat",
+        "link": "https://github.com/login?return_to=%2Frowboatlabs%2Frowboat",
+        "description": "AI-powered multi-agent builder",
+        "stars": "1,542",
+        "forks": "124"
+    },
+    {
+        "title": "ocrmypdf/OCRmyPDF",
+        "link": "https://github.com/login?return_to=%2Focrmypdf%2FOCRmyPDF",
+        "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
+        "stars": "28,304",
+        "forks": "1,906"
+    },
+    {
+        "title": "aquasecurity/trivy",
+        "link": "https://github.com/login?return_to=%2Faquasecurity%2Ftrivy",
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "stars": "25,846",
+        "forks": "2,515"
+    },
+    {
+        "title": "bregman-arie/devops-exercises",
+        "link": "https://github.com/sponsors/bregman-arie",
+        "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+        "stars": "74,823",
+        "forks": "16,683"
+    },
+    {
+        "title": "trimstray/the-book-of-secret-knowledge",
+        "link": "https://github.com/login?return_to=%2Ftrimstray%2Fthe-book-of-secret-knowledge",
+        "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+        "stars": "166,125",
+        "forks": "10,401"
+    },
+    {
+        "title": "jujumilk3/leaked-system-prompts",
+        "link": "https://github.com/login?return_to=%2Fjujumilk3%2Fleaked-system-prompts",
+        "description": "Collection of leaked system prompts",
+        "stars": "3,965",
+        "forks": "465"
+    },
+    {
+        "title": "AmruthPillai/Reactive-Resume",
+        "link": "https://github.com/sponsors/AmruthPillai",
+        "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+        "stars": "30,874",
+        "forks": "3,191"
+    },
+    {
+        "title": "microsoft/generative-ai-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fgenerative-ai-for-beginners",
+        "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+        "stars": "80,103",
+        "forks": "41,369"
+    },
+    {
+        "title": "fastrepl/hyprnote",
+        "link": "https://github.com/sponsors/fastrepl",
+        "description": "AI Notepad for back-to-back meetings. Local-first & Extensible.",
+        "stars": "1,262",
+        "forks": "55"
+    },
+    {
+        "title": "getzep/graphiti",
+        "link": "https://github.com/login?return_to=%2Fgetzep%2Fgraphiti",
+        "description": "Build Real-Time Knowledge Graphs for AI Agents",
+        "stars": "5,477",
+        "forks": "400"
+    },
+    {
+        "title": "khoj-ai/khoj",
+        "link": "https://github.com/sponsors/khoj-ai",
+        "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+        "stars": "29,517",
+        "forks": "1,643"
+    },
+    {
+        "title": "ruanyf/weekly",
+        "link": "https://github.com/login?return_to=%2Fruanyf%2Fweekly",
+        "description": "科技爱好者周刊，每周五发布",
+        "stars": "54,475",
+        "forks": "3,197"
+    },
+    {
+        "title": "langgenius/dify",
+        "link": "https://github.com/login?return_to=%2Flanggenius%2Fdify",
+        "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+        "stars": "94,336",
+        "forks": "14,089"
+    },
+    {
+        "title": "RVC-Boss/GPT-SoVITS",
+        "link": "https://github.com/login?return_to=%2FRVC-Boss%2FGPT-SoVITS",
+        "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+        "stars": "45,448",
+        "forks": "5,019"
+    },
+    {
+        "title": "skypilot-org/skypilot",
+        "link": "https://github.com/login?return_to=%2Fskypilot-org%2Fskypilot",
+        "description": "SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.",
+        "stars": "7,831",
+        "forks": "625"
+    }
+]
