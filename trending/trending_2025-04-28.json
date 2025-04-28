@@ -1,0 +1,128 @@
+[
+    {
+        "title": "getzep/graphiti",
+        "link": "https://github.com/login?return_to=%2Fgetzep%2Fgraphiti",
+        "description": "Build Real-Time Knowledge Graphs for AI Agents",
+        "stars": "6,305",
+        "forks": "437"
+    },
+    {
+        "title": "microsoft/generative-ai-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fgenerative-ai-for-beginners",
+        "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+        "stars": "80,417",
+        "forks": "41,464"
+    },
+    {
+        "title": "rowboatlabs/rowboat",
+        "link": "https://github.com/login?return_to=%2Frowboatlabs%2Frowboat",
+        "description": "AI-powered multi-agent builder",
+        "stars": "1,858",
+        "forks": "146"
+    },
+    {
+        "title": "bregman-arie/devops-exercises",
+        "link": "https://github.com/sponsors/bregman-arie",
+        "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+        "stars": "75,135",
+        "forks": "16,723"
+    },
+    {
+        "title": "Stirling-Tools/Stirling-PDF",
+        "link": "https://github.com/login?return_to=%2FStirling-Tools%2FStirling-PDF",
+        "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+        "stars": "56,967",
+        "forks": "4,779"
+    },
+    {
+        "title": "tracel-ai/burn",
+        "link": "https://github.com/login?return_to=%2Ftracel-ai%2Fburn",
+        "description": "Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.",
+        "stars": "10,715",
+        "forks": "543"
+    },
+    {
+        "title": "trimstray/the-book-of-secret-knowledge",
+        "link": "https://github.com/login?return_to=%2Ftrimstray%2Fthe-book-of-secret-knowledge",
+        "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+        "stars": "166,906",
+        "forks": "10,440"
+    },
+    {
+        "title": "0xk1h0/ChatGPT_DAN",
+        "link": "https://github.com/login?return_to=%2F0xk1h0%2FChatGPT_DAN",
+        "description": "ChatGPT DAN, Jailbreaks prompt",
+        "stars": "7,805",
+        "forks": "707"
+    },
+    {
+        "title": "codecrafters-io/build-your-own-x",
+        "link": "https://github.com/login?return_to=%2Fcodecrafters-io%2Fbuild-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "stars": "375,599",
+        "forks": "34,957"
+    },
+    {
+        "title": "simular-ai/Agent-S",
+        "link": "https://github.com/login?return_to=%2Fsimular-ai%2FAgent-S",
+        "description": "Agent S: an open agentic framework that uses computers like a human",
+        "stars": "2,883",
+        "forks": "307"
+    },
+    {
+        "title": "2dust/v2rayN",
+        "link": "https://github.com/login?return_to=%2F2dust%2Fv2rayN",
+        "description": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",
+        "stars": "78,815",
+        "forks": "12,537"
+    },
+    {
+        "title": "lapce/lapce",
+        "link": "https://github.com/login?return_to=%2Flapce%2Flapce",
+        "description": "Lightning-fast and Powerful Code Editor written in Rust",
+        "stars": "35,590",
+        "forks": "1,100"
+    },
+    {
+        "title": "exa-labs/exa-mcp-server",
+        "link": "https://github.com/login?return_to=%2Fexa-labs%2Fexa-mcp-server",
+        "description": "Claude can perform Web Search | Exa with MCP (Model Context Protocol)",
+        "stars": "1,320",
+        "forks": "106"
+    },
+    {
+        "title": "khoj-ai/khoj",
+        "link": "https://github.com/sponsors/khoj-ai",
+        "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+        "stars": "29,720",
+        "forks": "1,650"
+    },
+    {
+        "title": "nikitabobko/AeroSpace",
+        "link": "https://github.com/sponsors/nikitabobko",
+        "description": "AeroSpace is an i3-like tiling window manager for macOS",
+        "stars": "11,878",
+        "forks": "235"
+    },
+    {
+        "title": "Raphire/Win11Debloat",
+        "link": "https://github.com/sponsors/Raphire",
+        "description": "A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.",
+        "stars": "19,355",
+        "forks": "825"
+    },
+    {
+        "title": "microsoft/terminal",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fterminal",
+        "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+        "stars": "97,886",
+        "forks": "8,535"
+    },
+    {
+        "title": "kortix-ai/suna",
+        "link": "https://github.com/login?return_to=%2Fkortix-ai%2Fsuna",
+        "description": "Suna - Open Source Generalist AI Agent",
+        "stars": "7,948",
+        "forks": "889"
+    }
+]
