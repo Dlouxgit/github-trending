@@ -1,0 +1,121 @@
+[
+    {
+        "title": "hacksider/Deep-Live-Cam",
+        "link": "https://github.com/login?return_to=%2Fhacksider%2FDeep-Live-Cam",
+        "description": "real time face swap and one-click video deepfake with only a single image",
+        "stars": "51,761",
+        "forks": "7,643"
+    },
+    {
+        "title": "lapce/lapce",
+        "link": "https://github.com/login?return_to=%2Flapce%2Flapce",
+        "description": "Lightning-fast and Powerful Code Editor written in Rust",
+        "stars": "35,778",
+        "forks": "1,108"
+    },
+    {
+        "title": "getzep/graphiti",
+        "link": "https://github.com/login?return_to=%2Fgetzep%2Fgraphiti",
+        "description": "Build Real-Time Knowledge Graphs for AI Agents",
+        "stars": "7,281",
+        "forks": "479"
+    },
+    {
+        "title": "jujumilk3/leaked-system-prompts",
+        "link": "https://github.com/login?return_to=%2Fjujumilk3%2Fleaked-system-prompts",
+        "description": "Collection of leaked system prompts",
+        "stars": "4,711",
+        "forks": "549"
+    },
+    {
+        "title": "drawdb-io/drawdb",
+        "link": "https://github.com/login?return_to=%2Fdrawdb-io%2Fdrawdb",
+        "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+        "stars": "29,083",
+        "forks": "2,036"
+    },
+    {
+        "title": "microsoft/generative-ai-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fgenerative-ai-for-beginners",
+        "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+        "stars": "80,842",
+        "forks": "41,629"
+    },
+    {
+        "title": "Tencent/Hunyuan3D-2",
+        "link": "https://github.com/login?return_to=%2FTencent%2FHunyuan3D-2",
+        "description": "High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.",
+        "stars": "9,008",
+        "forks": "760"
+    },
+    {
+        "title": "kortix-ai/suna",
+        "link": "https://github.com/login?return_to=%2Fkortix-ai%2Fsuna",
+        "description": "Suna - Open Source Generalist AI Agent",
+        "stars": "8,545",
+        "forks": "980"
+    },
+    {
+        "title": "trimstray/the-book-of-secret-knowledge",
+        "link": "https://github.com/login?return_to=%2Ftrimstray%2Fthe-book-of-secret-knowledge",
+        "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+        "stars": "167,382",
+        "forks": "10,469"
+    },
+    {
+        "title": "langgenius/dify",
+        "link": "https://github.com/login?return_to=%2Flanggenius%2Fdify",
+        "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+        "stars": "94,861",
+        "forks": "14,171"
+    },
+    {
+        "title": "codecrafters-io/build-your-own-x",
+        "link": "https://github.com/login?return_to=%2Fcodecrafters-io%2Fbuild-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "stars": "376,215",
+        "forks": "35,026"
+    },
+    {
+        "title": "patchy631/ai-engineering-hub",
+        "link": "https://github.com/sponsors/patchy631",
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "stars": "8,391",
+        "forks": "1,431"
+    },
+    {
+        "title": "lobehub/lobe-chat",
+        "link": "https://github.com/sponsors/lobehub",
+        "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.",
+        "stars": "59,581",
+        "forks": "12,610"
+    },
+    {
+        "title": "rowboatlabs/rowboat",
+        "link": "https://github.com/login?return_to=%2Frowboatlabs%2Frowboat",
+        "description": "AI-powered multi-agent builder",
+        "stars": "2,163",
+        "forks": "164"
+    },
+    {
+        "title": "nikitabobko/AeroSpace",
+        "link": "https://github.com/sponsors/nikitabobko",
+        "description": "AeroSpace is an i3-like tiling window manager for macOS",
+        "stars": "11,993",
+        "forks": "236"
+    },
+    {
+        "title": "bgstaal/multipleWindow3dScene",
+        "link": "https://github.com/login?return_to=%2Fbgstaal%2FmultipleWindow3dScene",
+        "description": "A quick example of how one can \"synchronize\" a 3d scene across multiple windows using three.js and localStorage",
+        "stars": "17,739",
+        "forks": "2,734"
+    },
+    {
+        "title": "0xk1h0/ChatGPT_DAN",
+        "link": "https://github.com/login?return_to=%2F0xk1h0%2FChatGPT_DAN",
+        "description": "ChatGPT DAN, Jailbreaks prompt",
+        "stars": "8,231",
+        "forks": "732"
+    }
+]
