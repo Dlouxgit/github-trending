@@ -1,0 +1,93 @@
+[
+    {
+        "title": "hacksider/Deep-Live-Cam",
+        "link": "https://github.com/login?return_to=%2Fhacksider%2FDeep-Live-Cam",
+        "description": "real time face swap and one-click video deepfake with only a single image",
+        "stars": "53,376",
+        "forks": "7,777"
+    },
+    {
+        "title": "bgstaal/multipleWindow3dScene",
+        "link": "https://github.com/login?return_to=%2Fbgstaal%2FmultipleWindow3dScene",
+        "description": "A quick example of how one can \"synchronize\" a 3d scene across multiple windows using three.js and localStorage",
+        "stars": "17,889",
+        "forks": "2,756"
+    },
+    {
+        "title": "0xk1h0/ChatGPT_DAN",
+        "link": "https://github.com/login?return_to=%2F0xk1h0%2FChatGPT_DAN",
+        "description": "ChatGPT DAN, Jailbreaks prompt",
+        "stars": "8,543",
+        "forks": "752"
+    },
+    {
+        "title": "microsoft/generative-ai-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fgenerative-ai-for-beginners",
+        "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+        "stars": "81,307",
+        "forks": "41,800"
+    },
+    {
+        "title": "practical-tutorials/project-based-learning",
+        "link": "https://github.com/login?return_to=%2Fpractical-tutorials%2Fproject-based-learning",
+        "description": "Curated list of project-based tutorials",
+        "stars": "225,943",
+        "forks": "29,529"
+    },
+    {
+        "title": "LadybirdBrowser/ladybird",
+        "link": "https://github.com/login?return_to=%2FLadybirdBrowser%2Fladybird",
+        "description": "Truly independent web browser",
+        "stars": "37,808",
+        "forks": "1,571"
+    },
+    {
+        "title": "jackfrued/Python-100-Days",
+        "link": "https://github.com/login?return_to=%2Fjackfrued%2FPython-100-Days",
+        "description": "Python - 100天从新手到大师",
+        "stars": "165,012",
+        "forks": "53,615"
+    },
+    {
+        "title": "juspay/hyperswitch",
+        "link": "https://github.com/login?return_to=%2Fjuspay%2Fhyperswitch",
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "stars": "16,439",
+        "forks": "1,817"
+    },
+    {
+        "title": "simular-ai/Agent-S",
+        "link": "https://github.com/login?return_to=%2Fsimular-ai%2FAgent-S",
+        "description": "Agent S: an open agentic framework that uses computers like a human",
+        "stars": "3,278",
+        "forks": "340"
+    },
+    {
+        "title": "codecrafters-io/build-your-own-x",
+        "link": "https://github.com/login?return_to=%2Fcodecrafters-io%2Fbuild-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "stars": "376,678",
+        "forks": "35,070"
+    },
+    {
+        "title": "carykh/jes",
+        "link": "https://github.com/login?return_to=%2Fcarykh%2Fjes",
+        "description": "Jelly Evolution Simulator",
+        "stars": "82",
+        "forks": "40"
+    },
+    {
+        "title": "jujumilk3/leaked-system-prompts",
+        "link": "https://github.com/login?return_to=%2Fjujumilk3%2Fleaked-system-prompts",
+        "description": "Collection of leaked system prompts",
+        "stars": "5,203",
+        "forks": "583"
+    },
+    {
+        "title": "lobehub/lobe-chat",
+        "link": "https://github.com/sponsors/lobehub",
+        "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.",
+        "stars": "59,861",
+        "forks": "12,642"
+    }
+]
