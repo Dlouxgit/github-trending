@@ -1,0 +1,100 @@
+[
+    {
+        "title": "hacksider/Deep-Live-Cam",
+        "link": "https://github.com/login?return_to=%2Fhacksider%2FDeep-Live-Cam",
+        "description": "real time face swap and one-click video deepfake with only a single image",
+        "stars": "54,992",
+        "forks": "7,907"
+    },
+    {
+        "title": "patchy631/ai-engineering-hub",
+        "link": "https://github.com/sponsors/patchy631",
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "stars": "8,670",
+        "forks": "1,465"
+    },
+    {
+        "title": "QwenLM/Qwen-Agent",
+        "link": "https://github.com/login?return_to=%2FQwenLM%2FQwen-Agent",
+        "description": "Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.",
+        "stars": "7,380",
+        "forks": "638"
+    },
+    {
+        "title": "QwenLM/Qwen3",
+        "link": "https://github.com/login?return_to=%2FQwenLM%2FQwen3",
+        "description": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.",
+        "stars": "19,593",
+        "forks": "1,288"
+    },
+    {
+        "title": "juspay/hyperswitch",
+        "link": "https://github.com/login?return_to=%2Fjuspay%2Fhyperswitch",
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "stars": "16,921",
+        "forks": "1,963"
+    },
+    {
+        "title": "daytonaio/daytona",
+        "link": "https://github.com/login?return_to=%2Fdaytonaio%2Fdaytona",
+        "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+        "stars": "17,189",
+        "forks": "1,763"
+    },
+    {
+        "title": "vllm-project/vllm",
+        "link": "https://github.com/sponsors/vllm-project",
+        "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+        "stars": "46,294",
+        "forks": "7,182"
+    },
+    {
+        "title": "simular-ai/Agent-S",
+        "link": "https://github.com/login?return_to=%2Fsimular-ai%2FAgent-S",
+        "description": "Agent S: an open agentic framework that uses computers like a human",
+        "stars": "3,536",
+        "forks": "358"
+    },
+    {
+        "title": "microsoft/generative-ai-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fgenerative-ai-for-beginners",
+        "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+        "stars": "81,727",
+        "forks": "41,958"
+    },
+    {
+        "title": "LadybirdBrowser/ladybird",
+        "link": "https://github.com/login?return_to=%2FLadybirdBrowser%2Fladybird",
+        "description": "Truly independent web browser",
+        "stars": "37,991",
+        "forks": "1,578"
+    },
+    {
+        "title": "ml-explore/mlx-swift-examples",
+        "link": "https://github.com/login?return_to=%2Fml-explore%2Fmlx-swift-examples",
+        "description": "Examples using MLX Swift",
+        "stars": "1,724",
+        "forks": "214"
+    },
+    {
+        "title": "hiyouga/LLaMA-Factory",
+        "link": "https://github.com/login?return_to=%2Fhiyouga%2FLLaMA-Factory",
+        "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+        "stars": "48,048",
+        "forks": "5,866"
+    },
+    {
+        "title": "AutoMQ/automq",
+        "link": "https://github.com/login?return_to=%2FAutoMQ%2Fautomq",
+        "description": "AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.",
+        "stars": "6,001",
+        "forks": "402"
+    },
+    {
+        "title": "bitcoin/bitcoin",
+        "link": "https://github.com/login?return_to=%2Fbitcoin%2Fbitcoin",
+        "description": "Bitcoin Core integration/staging tree",
+        "stars": "83,196",
+        "forks": "37,139"
+    }
+]
