@@ -1,0 +1,135 @@
+[
+    {
+        "title": "hacksider/Deep-Live-Cam",
+        "link": "https://github.com/login?return_to=%2Fhacksider%2FDeep-Live-Cam",
+        "description": "real time face swap and one-click video deepfake with only a single image",
+        "stars": "56,292",
+        "forks": "8,038"
+    },
+    {
+        "title": "QwenLM/Qwen-Agent",
+        "link": "https://github.com/login?return_to=%2FQwenLM%2FQwen-Agent",
+        "description": "Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.",
+        "stars": "7,569",
+        "forks": "649"
+    },
+    {
+        "title": "teableio/teable",
+        "link": "https://github.com/login?return_to=%2Fteableio%2Fteable",
+        "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
+        "stars": "17,985",
+        "forks": "881"
+    },
+    {
+        "title": "juspay/hyperswitch",
+        "link": "https://github.com/login?return_to=%2Fjuspay%2Fhyperswitch",
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "stars": "17,279",
+        "forks": "2,064"
+    },
+    {
+        "title": "jackfrued/Python-100-Days",
+        "link": "https://github.com/login?return_to=%2Fjackfrued%2FPython-100-Days",
+        "description": "Python - 100天从新手到大师",
+        "stars": "165,350",
+        "forks": "53,661"
+    },
+    {
+        "title": "simular-ai/Agent-S",
+        "link": "https://github.com/login?return_to=%2Fsimular-ai%2FAgent-S",
+        "description": "Agent S: an open agentic framework that uses computers like a human",
+        "stars": "3,787",
+        "forks": "370"
+    },
+    {
+        "title": "QwenLM/Qwen3",
+        "link": "https://github.com/login?return_to=%2FQwenLM%2FQwen3",
+        "description": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.",
+        "stars": "19,828",
+        "forks": "1,298"
+    },
+    {
+        "title": "louislam/uptime-kuma",
+        "link": "https://github.com/sponsors/louislam",
+        "description": "A fancy self-hosted monitoring tool",
+        "stars": "68,439",
+        "forks": "6,010"
+    },
+    {
+        "title": "zed-industries/zed",
+        "link": "https://github.com/login?return_to=%2Fzed-industries%2Fzed",
+        "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+        "stars": "57,815",
+        "forks": "3,988"
+    },
+    {
+        "title": "patchy631/ai-engineering-hub",
+        "link": "https://github.com/sponsors/patchy631",
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "stars": "8,875",
+        "forks": "1,486"
+    },
+    {
+        "title": "daytonaio/daytona",
+        "link": "https://github.com/login?return_to=%2Fdaytonaio%2Fdaytona",
+        "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+        "stars": "17,643",
+        "forks": "1,871"
+    },
+    {
+        "title": "open-webui/open-webui",
+        "link": "https://github.com/login?return_to=%2Fopen-webui%2Fopen-webui",
+        "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+        "stars": "92,479",
+        "forks": "11,723"
+    },
+    {
+        "title": "transformerlab/transformerlab-app",
+        "link": "https://github.com/sponsors/transformerlab",
+        "description": "Open Source Application for Advanced LLM Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.",
+        "stars": "2,768",
+        "forks": "201"
+    },
+    {
+        "title": "hzpt-inet-club/english-note",
+        "link": "https://github.com/login?return_to=%2Fhzpt-inet-club%2Fenglish-note",
+        "description": "从0开始学习英语语法",
+        "stars": "3,504",
+        "forks": "327"
+    },
+    {
+        "title": "alibaba/MNN",
+        "link": "https://github.com/login?return_to=%2Falibaba%2FMNN",
+        "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md)",
+        "stars": "10,476",
+        "forks": "1,828"
+    },
+    {
+        "title": "TheRobotStudio/SO-ARM100",
+        "link": "https://github.com/login?return_to=%2FTheRobotStudio%2FSO-ARM100",
+        "description": "Standard Open Arm 100",
+        "stars": "1,755",
+        "forks": "116"
+    },
+    {
+        "title": "quarkusio/quarkus",
+        "link": "https://github.com/login?return_to=%2Fquarkusio%2Fquarkus",
+        "description": "Quarkus: Supersonic Subatomic Java.",
+        "stars": "14,435",
+        "forks": "2,828"
+    },
+    {
+        "title": "littlefs-project/littlefs",
+        "link": "https://github.com/sponsors/littlefs-project",
+        "description": "A little fail-safe filesystem designed for microcontrollers",
+        "stars": "5,621",
+        "forks": "853"
+    },
+    {
+        "title": "dotnet/eShop",
+        "link": "https://github.com/login?return_to=%2Fdotnet%2FeShop",
+        "description": "A reference .NET application implementing an eCommerce site",
+        "stars": "7,883",
+        "forks": "2,579"
+    }
+]
