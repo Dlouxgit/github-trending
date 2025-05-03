@@ -1,0 +1,128 @@
+[
+    {
+        "title": "hacksider/Deep-Live-Cam",
+        "link": "https://github.com/login?return_to=%2Fhacksider%2FDeep-Live-Cam",
+        "description": "real time face swap and one-click video deepfake with only a single image",
+        "stars": "57,655",
+        "forks": "8,173"
+    },
+    {
+        "title": "aipotheosis-labs/aci",
+        "link": "https://github.com/login?return_to=%2Faipotheosis-labs%2Faci",
+        "description": "ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.",
+        "stars": "1,364",
+        "forks": "90"
+    },
+    {
+        "title": "MODSetter/SurfSense",
+        "link": "https://github.com/sponsors/MODSetter",
+        "description": "Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.",
+        "stars": "1,959",
+        "forks": "154"
+    },
+    {
+        "title": "cloudflare/mcp-server-cloudflare",
+        "link": "https://github.com/login?return_to=%2Fcloudflare%2Fmcp-server-cloudflare",
+        "description": "No description provided",
+        "stars": "1,584",
+        "forks": "121"
+    },
+    {
+        "title": "wonderwhy-er/DesktopCommanderMCP",
+        "link": "https://github.com/sponsors/wonderwhy-er",
+        "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+        "stars": "2,322",
+        "forks": "247"
+    },
+    {
+        "title": "juspay/hyperswitch",
+        "link": "https://github.com/login?return_to=%2Fjuspay%2Fhyperswitch",
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "stars": "17,434",
+        "forks": "2,086"
+    },
+    {
+        "title": "Atmosphere-NX/Atmosphere",
+        "link": "https://github.com/login?return_to=%2FAtmosphere-NX%2FAtmosphere",
+        "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+        "stars": "15,842",
+        "forks": "1,268"
+    },
+    {
+        "title": "unionlabs/union",
+        "link": "https://github.com/login?return_to=%2Funionlabs%2Funion",
+        "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+        "stars": "56,301",
+        "forks": "2,823"
+    },
+    {
+        "title": "cloudflare/agents",
+        "link": "https://github.com/login?return_to=%2Fcloudflare%2Fagents",
+        "description": "Build and deploy AI Agents on Cloudflare",
+        "stars": "1,766",
+        "forks": "120"
+    },
+    {
+        "title": "DiceDB/dice",
+        "link": "https://github.com/login?return_to=%2FDiceDB%2Fdice",
+        "description": "DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",
+        "stars": "10,302",
+        "forks": "1,359"
+    },
+    {
+        "title": "Flowseal/zapret-discord-youtube",
+        "link": "https://github.com/login?return_to=%2FFlowseal%2Fzapret-discord-youtube",
+        "description": "No description provided",
+        "stars": "12,578",
+        "forks": "838"
+    },
+    {
+        "title": "QwenLM/Qwen-Agent",
+        "link": "https://github.com/login?return_to=%2FQwenLM%2FQwen-Agent",
+        "description": "Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.",
+        "stars": "7,727",
+        "forks": "658"
+    },
+    {
+        "title": "donnemartin/system-design-primer",
+        "link": "https://github.com/login?return_to=%2Fdonnemartin%2Fsystem-design-primer",
+        "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+        "stars": "297,808",
+        "forks": "49,493"
+    },
+    {
+        "title": "open-webui/open-webui",
+        "link": "https://github.com/login?return_to=%2Fopen-webui%2Fopen-webui",
+        "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+        "stars": "92,810",
+        "forks": "11,759"
+    },
+    {
+        "title": "langwatch/langwatch",
+        "link": "https://github.com/login?return_to=%2Flangwatch%2Flangwatch",
+        "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨",
+        "stars": "1,672",
+        "forks": "127"
+    },
+    {
+        "title": "bitcoin/bitcoin",
+        "link": "https://github.com/login?return_to=%2Fbitcoin%2Fbitcoin",
+        "description": "Bitcoin Core integration/staging tree",
+        "stars": "83,296",
+        "forks": "37,158"
+    },
+    {
+        "title": "aws/aws-sdk-java-v2",
+        "link": "https://github.com/login?return_to=%2Faws%2Faws-sdk-java-v2",
+        "description": "The official AWS SDK for Java - Version 2",
+        "stars": "2,333",
+        "forks": "902"
+    },
+    {
+        "title": "TheRobotStudio/SO-ARM100",
+        "link": "https://github.com/login?return_to=%2FTheRobotStudio%2FSO-ARM100",
+        "description": "Standard Open Arm 100",
+        "stars": "1,827",
+        "forks": "118"
+    }
+]
