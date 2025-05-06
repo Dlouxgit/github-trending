@@ -1,0 +1,128 @@
+[
+    {
+        "title": "hacksider/Deep-Live-Cam",
+        "link": "https://github.com/login?return_to=%2Fhacksider%2FDeep-Live-Cam",
+        "description": "real time face swap and one-click video deepfake with only a single image",
+        "stars": "62,665",
+        "forks": "8,718"
+    },
+    {
+        "title": "LadybirdBrowser/ladybird",
+        "link": "https://github.com/login?return_to=%2FLadybirdBrowser%2Fladybird",
+        "description": "Truly independent web browser",
+        "stars": "38,843",
+        "forks": "1,624"
+    },
+    {
+        "title": "EbookFoundation/free-programming-books",
+        "link": "https://github.com/sponsors/EbookFoundation",
+        "description": "📚 Freely available programming books",
+        "stars": "356,571",
+        "forks": "63,299"
+    },
+    {
+        "title": "koreader/koreader",
+        "link": "https://github.com/login?return_to=%2Fkoreader%2Fkoreader",
+        "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+        "stars": "21,076",
+        "forks": "1,429"
+    },
+    {
+        "title": "microsoft/ai-agents-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fai-agents-for-beginners",
+        "description": "10 Lessons to Get Started Building AI Agents",
+        "stars": "18,575",
+        "forks": "4,780"
+    },
+    {
+        "title": "GoogleCloudPlatform/kubectl-ai",
+        "link": "https://github.com/login?return_to=%2FGoogleCloudPlatform%2Fkubectl-ai",
+        "description": "AI powered Kubernetes Assistant",
+        "stars": "797",
+        "forks": "75"
+    },
+    {
+        "title": "Atmosphere-NX/Atmosphere",
+        "link": "https://github.com/login?return_to=%2FAtmosphere-NX%2FAtmosphere",
+        "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+        "stars": "16,047",
+        "forks": "1,280"
+    },
+    {
+        "title": "unionlabs/union",
+        "link": "https://github.com/login?return_to=%2Funionlabs%2Funion",
+        "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+        "stars": "57,822",
+        "forks": "2,898"
+    },
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "30,833",
+        "forks": "3,466"
+    },
+    {
+        "title": "juanfont/headscale",
+        "link": "https://github.com/login?return_to=%2Fjuanfont%2Fheadscale",
+        "description": "An open source, self-hosted implementation of the Tailscale control server",
+        "stars": "27,994",
+        "forks": "1,505"
+    },
+    {
+        "title": "aipotheosis-labs/aci",
+        "link": "https://github.com/login?return_to=%2Faipotheosis-labs%2Faci",
+        "description": "ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.",
+        "stars": "2,582",
+        "forks": "184"
+    },
+    {
+        "title": "CapSoftware/Cap",
+        "link": "https://github.com/login?return_to=%2FCapSoftware%2FCap",
+        "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+        "stars": "8,419",
+        "forks": "474"
+    },
+    {
+        "title": "iluwatar/java-design-patterns",
+        "link": "https://github.com/sponsors/iluwatar",
+        "description": "Design patterns implemented in Java",
+        "stars": "91,541",
+        "forks": "26,951"
+    },
+    {
+        "title": "donnemartin/system-design-primer",
+        "link": "https://github.com/login?return_to=%2Fdonnemartin%2Fsystem-design-primer",
+        "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+        "stars": "298,368",
+        "forks": "49,543"
+    },
+    {
+        "title": "commaai/openpilot",
+        "link": "https://github.com/login?return_to=%2Fcommaai%2Fopenpilot",
+        "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+        "stars": "53,442",
+        "forks": "9,695"
+    },
+    {
+        "title": "Stirling-Tools/Stirling-PDF",
+        "link": "https://github.com/login?return_to=%2FStirling-Tools%2FStirling-PDF",
+        "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+        "stars": "57,758",
+        "forks": "4,846"
+    },
+    {
+        "title": "sunnypilot/sunnypilot",
+        "link": "https://github.com/login?return_to=%2Fsunnypilot%2Fsunnypilot",
+        "description": "sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique driving experience for over 300 supported car makes and models with modified behaviors of driving assist engagements. sunnypilot complies with the safety policy from comma.ai's openpilot as accurately as possible.",
+        "stars": "1,251",
+        "forks": "857"
+    },
+    {
+        "title": "home-assistant/core",
+        "link": "https://github.com/login?return_to=%2Fhome-assistant%2Fcore",
+        "description": "🏡 Open source home automation that puts local control and privacy first.",
+        "stars": "78,605",
+        "forks": "33,537"
+    }
+]
