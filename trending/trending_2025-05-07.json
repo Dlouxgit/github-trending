@@ -1,0 +1,114 @@
+[
+    {
+        "title": "GoogleCloudPlatform/kubectl-ai",
+        "link": "https://github.com/login?return_to=%2FGoogleCloudPlatform%2Fkubectl-ai",
+        "description": "AI powered Kubernetes Assistant",
+        "stars": "1,849",
+        "forks": "135"
+    },
+    {
+        "title": "LadybirdBrowser/ladybird",
+        "link": "https://github.com/login?return_to=%2FLadybirdBrowser%2Fladybird",
+        "description": "Truly independent web browser",
+        "stars": "39,694",
+        "forks": "1,653"
+    },
+    {
+        "title": "521xueweihan/HelloGitHub",
+        "link": "https://github.com/sponsors/521xueweihan",
+        "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+        "stars": "105,208",
+        "forks": "9,942"
+    },
+    {
+        "title": "awslabs/agent-squad",
+        "link": "https://github.com/login?return_to=%2Fawslabs%2Fagent-squad",
+        "description": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
+        "stars": "5,082",
+        "forks": "424"
+    },
+    {
+        "title": "unionlabs/union",
+        "link": "https://github.com/login?return_to=%2Funionlabs%2Funion",
+        "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+        "stars": "58,437",
+        "forks": "2,913"
+    },
+    {
+        "title": "hacksider/Deep-Live-Cam",
+        "link": "https://github.com/login?return_to=%2Fhacksider%2FDeep-Live-Cam",
+        "description": "real time face swap and one-click video deepfake with only a single image",
+        "stars": "64,227",
+        "forks": "8,884"
+    },
+    {
+        "title": "glanceapp/glance",
+        "link": "https://github.com/sponsors/glanceapp",
+        "description": "A self-hosted dashboard that puts all your feeds in one place",
+        "stars": "23,621",
+        "forks": "892"
+    },
+    {
+        "title": "containerd/containerd",
+        "link": "https://github.com/login?return_to=%2Fcontainerd%2Fcontainerd",
+        "description": "An open and reliable container runtime",
+        "stars": "18,460",
+        "forks": "3,535"
+    },
+    {
+        "title": "n8n-io/n8n",
+        "link": "https://github.com/login?return_to=%2Fn8n-io%2Fn8n",
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "stars": "89,630",
+        "forks": "24,595"
+    },
+    {
+        "title": "koreader/koreader",
+        "link": "https://github.com/login?return_to=%2Fkoreader%2Fkoreader",
+        "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+        "stars": "21,255",
+        "forks": "1,435"
+    },
+    {
+        "title": "huggingface/agents-course",
+        "link": "https://github.com/login?return_to=%2Fhuggingface%2Fagents-course",
+        "description": "This repository contains the Hugging Face Agents Course.",
+        "stars": "17,535",
+        "forks": "1,150"
+    },
+    {
+        "title": "jj-vcs/jj",
+        "link": "https://github.com/login?return_to=%2Fjj-vcs%2Fjj",
+        "description": "A Git-compatible VCS that is both simple and powerful",
+        "stars": "13,907",
+        "forks": "494"
+    },
+    {
+        "title": "CapSoftware/Cap",
+        "link": "https://github.com/login?return_to=%2FCapSoftware%2FCap",
+        "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+        "stars": "8,847",
+        "forks": "486"
+    },
+    {
+        "title": "expo/expo",
+        "link": "https://github.com/login?return_to=%2Fexpo%2Fexpo",
+        "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+        "stars": "39,824",
+        "forks": "6,826"
+    },
+    {
+        "title": "microsoft/PowerToys",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FPowerToys",
+        "description": "Windows system utilities to maximize productivity",
+        "stars": "118,182",
+        "forks": "6,980"
+    },
+    {
+        "title": "ruanyf/weekly",
+        "link": "https://github.com/login?return_to=%2Fruanyf%2Fweekly",
+        "description": "科技爱好者周刊，每周五发布",
+        "stars": "57,950",
+        "forks": "3,253"
+    }
+]
