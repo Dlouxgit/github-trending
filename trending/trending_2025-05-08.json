@@ -1,0 +1,114 @@
+[
+    {
+        "title": "GoogleCloudPlatform/kubectl-ai",
+        "link": "https://github.com/login?return_to=%2FGoogleCloudPlatform%2Fkubectl-ai",
+        "description": "AI powered Kubernetes Assistant",
+        "stars": "3,252",
+        "forks": "216"
+    },
+    {
+        "title": "LadybirdBrowser/ladybird",
+        "link": "https://github.com/login?return_to=%2FLadybirdBrowser%2Fladybird",
+        "description": "Truly independent web browser",
+        "stars": "40,748",
+        "forks": "1,685"
+    },
+    {
+        "title": "microsoft/ai-agents-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fai-agents-for-beginners",
+        "description": "10 Lessons to Get Started Building AI Agents",
+        "stars": "19,902",
+        "forks": "5,005"
+    },
+    {
+        "title": "ruanyf/weekly",
+        "link": "https://github.com/login?return_to=%2Fruanyf%2Fweekly",
+        "description": "科技爱好者周刊，每周五发布",
+        "stars": "59,135",
+        "forks": "3,274"
+    },
+    {
+        "title": "n8n-io/n8n",
+        "link": "https://github.com/login?return_to=%2Fn8n-io%2Fn8n",
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "stars": "90,213",
+        "forks": "24,724"
+    },
+    {
+        "title": "crewAIInc/crewAI",
+        "link": "https://github.com/login?return_to=%2FcrewAIInc%2FcrewAI",
+        "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+        "stars": "31,174",
+        "forks": "4,174"
+    },
+    {
+        "title": "voideditor/void",
+        "link": "https://github.com/login?return_to=%2Fvoideditor%2Fvoid",
+        "description": "No description provided",
+        "stars": "12,710",
+        "forks": "815"
+    },
+    {
+        "title": "evroon/bracket",
+        "link": "https://github.com/login?return_to=%2Fevroon%2Fbracket",
+        "description": "Selfhosted tournament system",
+        "stars": "898",
+        "forks": "81"
+    },
+    {
+        "title": "yuaotian/go-cursor-help",
+        "link": "https://github.com/login?return_to=%2Fyuaotian%2Fgo-cursor-help",
+        "description": "解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
+        "stars": "20,768",
+        "forks": "2,575"
+    },
+    {
+        "title": "beekeeper-studio/beekeeper-studio",
+        "link": "https://github.com/sponsors/beekeeper-studio",
+        "description": "Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.",
+        "stars": "18,890",
+        "forks": "1,207"
+    },
+    {
+        "title": "JetBrains/compose-multiplatform",
+        "link": "https://github.com/login?return_to=%2FJetBrains%2Fcompose-multiplatform",
+        "description": "Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
+        "stars": "17,319",
+        "forks": "1,241"
+    },
+    {
+        "title": "harry0703/MoneyPrinterTurbo",
+        "link": "https://github.com/login?return_to=%2Fharry0703%2FMoneyPrinterTurbo",
+        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+        "stars": "27,199",
+        "forks": "4,020"
+    },
+    {
+        "title": "linera-io/linera-protocol",
+        "link": "https://github.com/login?return_to=%2Flinera-io%2Flinera-protocol",
+        "description": "Main repository for the Linera protocol",
+        "stars": "26,137",
+        "forks": "1,679"
+    },
+    {
+        "title": "huggingface/agents-course",
+        "link": "https://github.com/login?return_to=%2Fhuggingface%2Fagents-course",
+        "description": "This repository contains the Hugging Face Agents Course.",
+        "stars": "17,845",
+        "forks": "1,164"
+    },
+    {
+        "title": "cline/cline",
+        "link": "https://github.com/login?return_to=%2Fcline%2Fcline",
+        "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+        "stars": "42,928",
+        "forks": "4,930"
+    },
+    {
+        "title": "heroiclabs/nakama",
+        "link": "https://github.com/login?return_to=%2Fheroiclabs%2Fnakama",
+        "description": "Distributed server for social and realtime games and apps.",
+        "stars": "10,349",
+        "forks": "1,186"
+    }
+]
