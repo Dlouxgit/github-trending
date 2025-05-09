@@ -1,0 +1,100 @@
+[
+    {
+        "title": "GoogleCloudPlatform/kubectl-ai",
+        "link": "https://github.com/login?return_to=%2FGoogleCloudPlatform%2Fkubectl-ai",
+        "description": "AI powered Kubernetes Assistant",
+        "stars": "4,062",
+        "forks": "265"
+    },
+    {
+        "title": "awslabs/agent-squad",
+        "link": "https://github.com/login?return_to=%2Fawslabs%2Fagent-squad",
+        "description": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
+        "stars": "5,394",
+        "forks": "442"
+    },
+    {
+        "title": "78/xiaozhi-esp32",
+        "link": "https://github.com/login?return_to=%2F78%2Fxiaozhi-esp32",
+        "description": "Build your own AI friend",
+        "stars": "12,645",
+        "forks": "2,467"
+    },
+    {
+        "title": "ruanyf/weekly",
+        "link": "https://github.com/login?return_to=%2Fruanyf%2Fweekly",
+        "description": "科技爱好者周刊，每周五发布",
+        "stars": "60,070",
+        "forks": "3,301"
+    },
+    {
+        "title": "521xueweihan/HelloGitHub",
+        "link": "https://github.com/sponsors/521xueweihan",
+        "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+        "stars": "106,909",
+        "forks": "9,971"
+    },
+    {
+        "title": "zed-industries/zed",
+        "link": "https://github.com/login?return_to=%2Fzed-industries%2Fzed",
+        "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+        "stars": "58,522",
+        "forks": "4,079"
+    },
+    {
+        "title": "MODSetter/SurfSense",
+        "link": "https://github.com/sponsors/MODSetter",
+        "description": "Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.",
+        "stars": "3,158",
+        "forks": "219"
+    },
+    {
+        "title": "LadybirdBrowser/ladybird",
+        "link": "https://github.com/login?return_to=%2FLadybirdBrowser%2Fladybird",
+        "description": "Truly independent web browser",
+        "stars": "41,368",
+        "forks": "1,714"
+    },
+    {
+        "title": "Blaizzy/mlx-audio",
+        "link": "https://github.com/sponsors/Blaizzy",
+        "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
+        "stars": "1,078",
+        "forks": "80"
+    },
+    {
+        "title": "harry0703/MoneyPrinterTurbo",
+        "link": "https://github.com/login?return_to=%2Fharry0703%2FMoneyPrinterTurbo",
+        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+        "stars": "27,679",
+        "forks": "4,089"
+    },
+    {
+        "title": "voideditor/void",
+        "link": "https://github.com/login?return_to=%2Fvoideditor%2Fvoid",
+        "description": "No description provided",
+        "stars": "13,861",
+        "forks": "851"
+    },
+    {
+        "title": "LazyVim/LazyVim",
+        "link": "https://github.com/login?return_to=%2FLazyVim%2FLazyVim",
+        "description": "Neovim config for the lazy",
+        "stars": "20,549",
+        "forks": "1,450"
+    },
+    {
+        "title": "NVIDIA/NeMo",
+        "link": "https://github.com/login?return_to=%2FNVIDIA%2FNeMo",
+        "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+        "stars": "14,001",
+        "forks": "2,819"
+    },
+    {
+        "title": "rzane/docker2exe",
+        "link": "https://github.com/login?return_to=%2Frzane%2Fdocker2exe",
+        "description": "Convert a Docker image to an executable",
+        "stars": "1,178",
+        "forks": "52"
+    }
+]
