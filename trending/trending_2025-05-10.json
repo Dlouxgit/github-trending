@@ -1,0 +1,107 @@
+[
+    {
+        "title": "longbridge/gpui-component",
+        "link": "https://github.com/login?return_to=%2Flongbridge%2Fgpui-component",
+        "description": "UI components for building fantastic desktop application by using GPUI.",
+        "stars": "1,743",
+        "forks": "89"
+    },
+    {
+        "title": "harry0703/MoneyPrinterTurbo",
+        "link": "https://github.com/login?return_to=%2Fharry0703%2FMoneyPrinterTurbo",
+        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+        "stars": "28,137",
+        "forks": "4,143"
+    },
+    {
+        "title": "GoogleCloudPlatform/kubectl-ai",
+        "link": "https://github.com/login?return_to=%2FGoogleCloudPlatform%2Fkubectl-ai",
+        "description": "AI powered Kubernetes Assistant",
+        "stars": "4,354",
+        "forks": "297"
+    },
+    {
+        "title": "NVIDIA/NeMo",
+        "link": "https://github.com/login?return_to=%2FNVIDIA%2FNeMo",
+        "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+        "stars": "14,139",
+        "forks": "2,832"
+    },
+    {
+        "title": "voideditor/void",
+        "link": "https://github.com/login?return_to=%2Fvoideditor%2Fvoid",
+        "description": "No description provided",
+        "stars": "15,315",
+        "forks": "894"
+    },
+    {
+        "title": "Byaidu/PDFMathTranslate",
+        "link": "https://github.com/login?return_to=%2FByaidu%2FPDFMathTranslate",
+        "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero",
+        "stars": "23,007",
+        "forks": "1,966"
+    },
+    {
+        "title": "ultralytics/ultralytics",
+        "link": "https://github.com/login?return_to=%2Fultralytics%2Fultralytics",
+        "description": "Ultralytics YOLO11 🚀",
+        "stars": "40,497",
+        "forks": "7,837"
+    },
+    {
+        "title": "ruanyf/weekly",
+        "link": "https://github.com/login?return_to=%2Fruanyf%2Fweekly",
+        "description": "科技爱好者周刊，每周五发布",
+        "stars": "60,704",
+        "forks": "3,319"
+    },
+    {
+        "title": "Lightricks/LTX-Video",
+        "link": "https://github.com/login?return_to=%2FLightricks%2FLTX-Video",
+        "description": "Official repository for LTX-Video",
+        "stars": "4,270",
+        "forks": "347"
+    },
+    {
+        "title": "element-plus/element-plus",
+        "link": "https://github.com/sponsors/element-plus",
+        "description": "🎉 A Vue.js 3 UI Library made by Element team",
+        "stars": "25,783",
+        "forks": "18,392"
+    },
+    {
+        "title": "zed-industries/zed",
+        "link": "https://github.com/login?return_to=%2Fzed-industries%2Fzed",
+        "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+        "stars": "58,839",
+        "forks": "4,108"
+    },
+    {
+        "title": "mason-org/mason.nvim",
+        "link": "https://github.com/login?return_to=%2Fmason-org%2Fmason.nvim",
+        "description": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
+        "stars": "8,888",
+        "forks": "307"
+    },
+    {
+        "title": "Blaizzy/mlx-audio",
+        "link": "https://github.com/sponsors/Blaizzy",
+        "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
+        "stars": "1,291",
+        "forks": "92"
+    },
+    {
+        "title": "Lightricks/ComfyUI-LTXVideo",
+        "link": "https://github.com/login?return_to=%2FLightricks%2FComfyUI-LTXVideo",
+        "description": "LTX-Video Support for ComfyUI",
+        "stars": "1,276",
+        "forks": "98"
+    },
+    {
+        "title": "heroiclabs/nakama",
+        "link": "https://github.com/login?return_to=%2Fheroiclabs%2Fnakama",
+        "description": "Distributed server for social and realtime games and apps.",
+        "stars": "10,668",
+        "forks": "1,203"
+    }
+]
