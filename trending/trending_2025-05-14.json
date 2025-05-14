@@ -1,0 +1,93 @@
+[
+    {
+        "title": "xming521/WeClone",
+        "link": "https://github.com/login?return_to=%2Fxming521%2FWeClone",
+        "description": "🚀从聊天记录创造数字分身的一站式解决方案💡 使用微信聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。 数字克隆/数字分身/数字永生/声音克隆/LLM/大语言模型/微信聊天机器人/LoRA",
+        "stars": "5,698",
+        "forks": "440"
+    },
+    {
+        "title": "harry0703/MoneyPrinterTurbo",
+        "link": "https://github.com/login?return_to=%2Fharry0703%2FMoneyPrinterTurbo",
+        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+        "stars": "32,251",
+        "forks": "4,543"
+    },
+    {
+        "title": "i-am-alice/3rd-devs",
+        "link": "https://github.com/login?return_to=%2Fi-am-alice%2F3rd-devs",
+        "description": "No description provided",
+        "stars": "364",
+        "forks": "253"
+    },
+    {
+        "title": "alibaba/spring-ai-alibaba",
+        "link": "https://github.com/login?return_to=%2Falibaba%2Fspring-ai-alibaba",
+        "description": "Agentic AI Framework for Java Developers",
+        "stars": "2,911",
+        "forks": "571"
+    },
+    {
+        "title": "mlabonne/llm-course",
+        "link": "https://github.com/login?return_to=%2Fmlabonne%2Fllm-course",
+        "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+        "stars": "50,688",
+        "forks": "5,451"
+    },
+    {
+        "title": "microsoft/BitNet",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FBitNet",
+        "description": "Official inference framework for 1-bit LLMs",
+        "stars": "19,074",
+        "forks": "1,406"
+    },
+    {
+        "title": "Lightricks/ComfyUI-LTXVideo",
+        "link": "https://github.com/login?return_to=%2FLightricks%2FComfyUI-LTXVideo",
+        "description": "LTX-Video Support for ComfyUI",
+        "stars": "1,732",
+        "forks": "139"
+    },
+    {
+        "title": "comet-ml/opik",
+        "link": "https://github.com/login?return_to=%2Fcomet-ml%2Fopik",
+        "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
+        "stars": "7,902",
+        "forks": "535"
+    },
+    {
+        "title": "aquasecurity/trivy",
+        "link": "https://github.com/login?return_to=%2Faquasecurity%2Ftrivy",
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "stars": "26,503",
+        "forks": "2,541"
+    },
+    {
+        "title": "kamranahmedse/developer-roadmap",
+        "link": "https://github.com/sponsors/kamranahmedse",
+        "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+        "stars": "320,299",
+        "forks": "41,412"
+    },
+    {
+        "title": "nvim-lua/kickstart.nvim",
+        "link": "https://github.com/login?return_to=%2Fnvim-lua%2Fkickstart.nvim",
+        "description": "A launch point for your personal nvim configuration",
+        "stars": "24,571",
+        "forks": "33,572"
+    },
+    {
+        "title": "Lightricks/LTX-Video",
+        "link": "https://github.com/login?return_to=%2FLightricks%2FLTX-Video",
+        "description": "Official repository for LTX-Video",
+        "stars": "5,304",
+        "forks": "416"
+    },
+    {
+        "title": "pytorch/torchtitan",
+        "link": "https://github.com/login?return_to=%2Fpytorch%2Ftorchtitan",
+        "description": "A PyTorch native library for large-scale model training",
+        "stars": "3,764",
+        "forks": "360"
+    }
+]
