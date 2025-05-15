@@ -1,0 +1,86 @@
+[
+    {
+        "title": "microsoft/BitNet",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FBitNet",
+        "description": "Official inference framework for 1-bit LLMs",
+        "stars": "19,302",
+        "forks": "1,427"
+    },
+    {
+        "title": "mem0ai/mem0",
+        "link": "https://github.com/login?return_to=%2Fmem0ai%2Fmem0",
+        "description": "Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.",
+        "stars": "29,805",
+        "forks": "2,879"
+    },
+    {
+        "title": "airweave-ai/airweave",
+        "link": "https://github.com/login?return_to=%2Fairweave-ai%2Fairweave",
+        "description": "Airweave lets agents search any app",
+        "stars": "1,621",
+        "forks": "171"
+    },
+    {
+        "title": "alibaba/spring-ai-alibaba",
+        "link": "https://github.com/login?return_to=%2Falibaba%2Fspring-ai-alibaba",
+        "description": "Agentic AI Framework for Java Developers",
+        "stars": "3,054",
+        "forks": "590"
+    },
+    {
+        "title": "openai/simple-evals",
+        "link": "https://github.com/login?return_to=%2Fopenai%2Fsimple-evals",
+        "description": "No description provided",
+        "stars": "3,199",
+        "forks": "313"
+    },
+    {
+        "title": "ossu/computer-science",
+        "link": "https://github.com/login?return_to=%2Fossu%2Fcomputer-science",
+        "description": "🎓 Path to a free self-taught education in Computer Science!",
+        "stars": "179,481",
+        "forks": "22,757"
+    },
+    {
+        "title": "harry0703/MoneyPrinterTurbo",
+        "link": "https://github.com/login?return_to=%2Fharry0703%2FMoneyPrinterTurbo",
+        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+        "stars": "32,719",
+        "forks": "4,600"
+    },
+    {
+        "title": "xming521/WeClone",
+        "link": "https://github.com/login?return_to=%2Fxming521%2FWeClone",
+        "description": "🚀从聊天记录创造数字分身的一站式解决方案💡 使用聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。 数字克隆/数字分身/数字永生/LLM/聊天机器人/LoRA",
+        "stars": "7,355",
+        "forks": "564"
+    },
+    {
+        "title": "i-am-alice/3rd-devs",
+        "link": "https://github.com/login?return_to=%2Fi-am-alice%2F3rd-devs",
+        "description": "No description provided",
+        "stars": "392",
+        "forks": "267"
+    },
+    {
+        "title": "ahmedkhaleel2004/gitdiagram",
+        "link": "https://github.com/login?return_to=%2Fahmedkhaleel2004%2Fgitdiagram",
+        "description": "Free, simple, fast interactive diagrams for any GitHub repository",
+        "stars": "12,155",
+        "forks": "848"
+    },
+    {
+        "title": "xaoyaoo/PyWxDump",
+        "link": "https://github.com/login?return_to=%2Fxaoyaoo%2FPyWxDump",
+        "description": "获取微信信息；读取数据库，本地查看聊天记录并导出为csv、html等格式用于AI训练，自动回复等。支持多账户信息获取，支持所有微信版本。",
+        "stars": "7,716",
+        "forks": "1,216"
+    },
+    {
+        "title": "mlabonne/llm-course",
+        "link": "https://github.com/login?return_to=%2Fmlabonne%2Fllm-course",
+        "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+        "stars": "51,074",
+        "forks": "5,478"
+    }
+]
