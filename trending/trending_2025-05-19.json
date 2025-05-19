@@ -1,0 +1,114 @@
+[
+    {
+        "title": "public-apis/public-apis",
+        "link": "https://github.com/login?return_to=%2Fpublic-apis%2Fpublic-apis",
+        "description": "A collective list of free APIs",
+        "stars": "343,107",
+        "forks": "36,110"
+    },
+    {
+        "title": "TapXWorld/ChinaTextbook",
+        "link": "https://github.com/login?return_to=%2FTapXWorld%2FChinaTextbook",
+        "description": "所有小初高、大学PDF教材。",
+        "stars": "24,285",
+        "forks": "4,843"
+    },
+    {
+        "title": "th-ch/youtube-music",
+        "link": "https://github.com/login?return_to=%2Fth-ch%2Fyoutube-music",
+        "description": "YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)",
+        "stars": "20,584",
+        "forks": "1,073"
+    },
+    {
+        "title": "yt-dlp/yt-dlp",
+        "link": "https://github.com/login?return_to=%2Fyt-dlp%2Fyt-dlp",
+        "description": "A feature-rich command-line audio/video downloader",
+        "stars": "112,317",
+        "forks": "8,830"
+    },
+    {
+        "title": "virattt/ai-hedge-fund",
+        "link": "https://github.com/login?return_to=%2Fvirattt%2Fai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "stars": "28,370",
+        "forks": "4,923"
+    },
+    {
+        "title": "unclecode/crawl4ai",
+        "link": "https://github.com/login?return_to=%2Funclecode%2Fcrawl4ai",
+        "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+        "stars": "43,505",
+        "forks": "4,032"
+    },
+    {
+        "title": "ventoy/Ventoy",
+        "link": "https://github.com/login?return_to=%2Fventoy%2FVentoy",
+        "description": "A new bootable USB solution.",
+        "stars": "66,847",
+        "forks": "4,280"
+    },
+    {
+        "title": "f/awesome-chatgpt-prompts",
+        "link": "https://github.com/sponsors/f",
+        "description": "This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.",
+        "stars": "124,977",
+        "forks": "16,700"
+    },
+    {
+        "title": "neondatabase/neon",
+        "link": "https://github.com/login?return_to=%2Fneondatabase%2Fneon",
+        "description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+        "stars": "17,955",
+        "forks": "630"
+    },
+    {
+        "title": "Stirling-Tools/Stirling-PDF",
+        "link": "https://github.com/login?return_to=%2FStirling-Tools%2FStirling-PDF",
+        "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+        "stars": "59,341",
+        "forks": "4,975"
+    },
+    {
+        "title": "OpenBB-finance/OpenBB",
+        "link": "https://github.com/login?return_to=%2FOpenBB-finance%2FOpenBB",
+        "description": "Investment Research for Everyone, Everywhere.",
+        "stars": "41,545",
+        "forks": "3,721"
+    },
+    {
+        "title": "tursodatabase/limbo",
+        "link": "https://github.com/login?return_to=%2Ftursodatabase%2Flimbo",
+        "description": "Limbo is a project to build the modern evolution of SQLite.",
+        "stars": "10,634",
+        "forks": "399"
+    },
+    {
+        "title": "ed-donner/llm_engineering",
+        "link": "https://github.com/login?return_to=%2Fed-donner%2Fllm_engineering",
+        "description": "Repo to accompany my mastering LLM engineering course",
+        "stars": "1,682",
+        "forks": "1,736"
+    },
+    {
+        "title": "arendst/Tasmota",
+        "link": "https://github.com/login?return_to=%2Farendst%2FTasmota",
+        "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+        "stars": "23,197",
+        "forks": "4,907"
+    },
+    {
+        "title": "LizardByte/Sunshine",
+        "link": "https://github.com/sponsors/LizardByte",
+        "description": "Self-hosted game stream host for Moonlight.",
+        "stars": "25,461",
+        "forks": "1,218"
+    },
+    {
+        "title": "tiann/KernelSU",
+        "link": "https://github.com/sponsors/tiann",
+        "description": "A Kernel based root solution for Android",
+        "stars": "12,389",
+        "forks": "2,335"
+    }
+]
