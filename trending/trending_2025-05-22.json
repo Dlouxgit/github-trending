@@ -1,0 +1,100 @@
+[
+    {
+        "title": "microsoft/WSL",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FWSL",
+        "description": "Windows Subsystem for Linux",
+        "stars": "25,333",
+        "forks": "1,173"
+    },
+    {
+        "title": "virattt/ai-hedge-fund",
+        "link": "https://github.com/login?return_to=%2Fvirattt%2Fai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "stars": "31,967",
+        "forks": "5,484"
+    },
+    {
+        "title": "modelcontextprotocol/registry",
+        "link": "https://github.com/login?return_to=%2Fmodelcontextprotocol%2Fregistry",
+        "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+        "stars": "497",
+        "forks": "36"
+    },
+    {
+        "title": "donnemartin/system-design-primer",
+        "link": "https://github.com/login?return_to=%2Fdonnemartin%2Fsystem-design-primer",
+        "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+        "stars": "300,272",
+        "forks": "49,807"
+    },
+    {
+        "title": "microsoft/PowerToys",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FPowerToys",
+        "description": "Windows system utilities to maximize productivity",
+        "stars": "119,052",
+        "forks": "7,039"
+    },
+    {
+        "title": "antirez/kilo",
+        "link": "https://github.com/sponsors/antirez",
+        "description": "A text editor in less than 1000 LOC with syntax highlight and search.",
+        "stars": "8,108",
+        "forks": "874"
+    },
+    {
+        "title": "microsoft/semantic-kernel",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fsemantic-kernel",
+        "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+        "stars": "24,655",
+        "forks": "3,851"
+    },
+    {
+        "title": "Cysharp/ZLinq",
+        "link": "https://github.com/login?return_to=%2FCysharp%2FZLinq",
+        "description": "Zero allocation LINQ with LINQ to Span, LINQ to SIMD, and LINQ to Tree (FileSystem, JSON, GameObject, etc.) for all .NET platforms and Unity, Godot.",
+        "stars": "3,293",
+        "forks": "162"
+    },
+    {
+        "title": "microsoft/WSL2-Linux-Kernel",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FWSL2-Linux-Kernel",
+        "description": "The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)",
+        "stars": "9,189",
+        "forks": "1,203"
+    },
+    {
+        "title": "usememos/memos",
+        "link": "https://github.com/sponsors/usememos",
+        "description": "An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",
+        "stars": "40,568",
+        "forks": "2,884"
+    },
+    {
+        "title": "HeyPuter/puter",
+        "link": "https://github.com/login?return_to=%2FHeyPuter%2Fputer",
+        "description": "🌐 The Internet OS! Free, Open-Source, and Self-Hostable.",
+        "stars": "31,818",
+        "forks": "2,365"
+    },
+    {
+        "title": "microsoft/vscode",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fvscode",
+        "description": "Visual Studio Code",
+        "stars": "171,907",
+        "forks": "32,486"
+    },
+    {
+        "title": "nektos/act",
+        "link": "https://github.com/login?return_to=%2Fnektos%2Fact",
+        "description": "Run your GitHub Actions locally 🚀",
+        "stars": "62,719",
+        "forks": "1,630"
+    },
+    {
+        "title": "appwrite/appwrite",
+        "link": "https://github.com/login?return_to=%2Fappwrite%2Fappwrite",
+        "description": "The open-source Vercel alternative",
+        "stars": "49,513",
+        "forks": "4,360"
+    }
+]
