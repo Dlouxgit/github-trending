@@ -1,0 +1,79 @@
+[
+    {
+        "title": "microsoft/qlib",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fqlib",
+        "description": "Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.",
+        "stars": "20,177",
+        "forks": "3,273"
+    },
+    {
+        "title": "All-Hands-AI/OpenHands",
+        "link": "https://github.com/login?return_to=%2FAll-Hands-AI%2FOpenHands",
+        "description": "🙌 OpenHands: Code Less, Make More",
+        "stars": "55,595",
+        "forks": "6,243"
+    },
+    {
+        "title": "modelcontextprotocol/registry",
+        "link": "https://github.com/login?return_to=%2Fmodelcontextprotocol%2Fregistry",
+        "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+        "stars": "944",
+        "forks": "55"
+    },
+    {
+        "title": "mindsdb/mindsdb",
+        "link": "https://github.com/login?return_to=%2Fmindsdb%2Fmindsdb",
+        "description": "AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need",
+        "stars": "28,987",
+        "forks": "5,048"
+    },
+    {
+        "title": "XiaoYouChR/Ghost-Downloader-3",
+        "link": "https://github.com/login?return_to=%2FXiaoYouChR%2FGhost-Downloader-3",
+        "description": "A cross-platform fluent-design AI-boost multi-threaded downloader built with Python.",
+        "stars": "1,529",
+        "forks": "77"
+    },
+    {
+        "title": "microsoft/vscode",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fvscode",
+        "description": "Visual Studio Code",
+        "stars": "172,443",
+        "forks": "32,577"
+    },
+    {
+        "title": "freeCodeCamp/freeCodeCamp",
+        "link": "https://github.com/sponsors/freeCodeCamp",
+        "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+        "stars": "418,550",
+        "forks": "40,190"
+    },
+    {
+        "title": "donnemartin/system-design-primer",
+        "link": "https://github.com/login?return_to=%2Fdonnemartin%2Fsystem-design-primer",
+        "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+        "stars": "300,740",
+        "forks": "49,864"
+    },
+    {
+        "title": "anthropics/claude-code",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "stars": "9,332",
+        "forks": "517"
+    },
+    {
+        "title": "flutter/flutter",
+        "link": "https://github.com/login?return_to=%2Fflutter%2Fflutter",
+        "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+        "stars": "170,493",
+        "forks": "28,584"
+    },
+    {
+        "title": "Fosowl/agenticSeek",
+        "link": "https://github.com/sponsors/Fosowl",
+        "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.",
+        "stars": "3,326",
+        "forks": "356"
+    }
+]
