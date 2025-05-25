@@ -1,0 +1,79 @@
+[
+    {
+        "title": "mindsdb/mindsdb",
+        "link": "https://github.com/login?return_to=%2Fmindsdb%2Fmindsdb",
+        "description": "AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need",
+        "stars": "29,396",
+        "forks": "5,075"
+    },
+    {
+        "title": "microsoft/qlib",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fqlib",
+        "description": "Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.",
+        "stars": "20,554",
+        "forks": "3,312"
+    },
+    {
+        "title": "anthropics/claude-code",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "stars": "9,685",
+        "forks": "542"
+    },
+    {
+        "title": "All-Hands-AI/OpenHands",
+        "link": "https://github.com/login?return_to=%2FAll-Hands-AI%2FOpenHands",
+        "description": "🙌 OpenHands: Code Less, Make More",
+        "stars": "55,876",
+        "forks": "6,262"
+    },
+    {
+        "title": "lobehub/lobe-chat",
+        "link": "https://github.com/sponsors/lobehub",
+        "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.",
+        "stars": "61,168",
+        "forks": "12,835"
+    },
+    {
+        "title": "Fosowl/agenticSeek",
+        "link": "https://github.com/sponsors/Fosowl",
+        "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.",
+        "stars": "3,723",
+        "forks": "384"
+    },
+    {
+        "title": "usebruno/bruno",
+        "link": "https://github.com/login?return_to=%2Fusebruno%2Fbruno",
+        "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
+        "stars": "34,363",
+        "forks": "1,629"
+    },
+    {
+        "title": "XiaoYouChR/Ghost-Downloader-3",
+        "link": "https://github.com/login?return_to=%2FXiaoYouChR%2FGhost-Downloader-3",
+        "description": "A cross-platform fluent-design AI-boost multi-threaded downloader built with Python.",
+        "stars": "1,843",
+        "forks": "86"
+    },
+    {
+        "title": "freeCodeCamp/freeCodeCamp",
+        "link": "https://github.com/sponsors/freeCodeCamp",
+        "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+        "stars": "418,739",
+        "forks": "40,200"
+    },
+    {
+        "title": "disposable-email-domains/disposable-email-domains",
+        "link": "https://github.com/sponsors/disposable-email-domains",
+        "description": "a list of disposable email domains",
+        "stars": "3,920",
+        "forks": "645"
+    },
+    {
+        "title": "huggingface/huggingface.js",
+        "link": "https://github.com/login?return_to=%2Fhuggingface%2Fhuggingface.js",
+        "description": "Utilities to use the Hugging Face Hub API",
+        "stars": "2,035",
+        "forks": "401"
+    }
+]
