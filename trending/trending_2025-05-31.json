@@ -1,0 +1,86 @@
+[
+    {
+        "title": "anthropics/prompt-eng-interactive-tutorial",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fprompt-eng-interactive-tutorial",
+        "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+        "stars": "5,858",
+        "forks": "639"
+    },
+    {
+        "title": "microsoft/ai-agents-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fai-agents-for-beginners",
+        "description": "11 Lessons to Get Started Building AI Agents",
+        "stars": "22,741",
+        "forks": "6,092"
+    },
+    {
+        "title": "trimstray/the-book-of-secret-knowledge",
+        "link": "https://github.com/login?return_to=%2Ftrimstray%2Fthe-book-of-secret-knowledge",
+        "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+        "stars": "171,269",
+        "forks": "10,695"
+    },
+    {
+        "title": "aaPanel/BillionMail",
+        "link": "https://github.com/login?return_to=%2FaaPanel%2FBillionMail",
+        "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV",
+        "stars": "3,387",
+        "forks": "221"
+    },
+    {
+        "title": "getzep/graphiti",
+        "link": "https://github.com/login?return_to=%2Fgetzep%2Fgraphiti",
+        "description": "Build Real-Time Knowledge Graphs for AI Agents",
+        "stars": "10,283",
+        "forks": "761"
+    },
+    {
+        "title": "anthropics/courses",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fcourses",
+        "description": "Anthropic's educational courses",
+        "stars": "12,400",
+        "forks": "1,110"
+    },
+    {
+        "title": "ccxt/ccxt",
+        "link": "https://github.com/login?return_to=%2Fccxt%2Fccxt",
+        "description": "A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges",
+        "stars": "36,613",
+        "forks": "7,943"
+    },
+    {
+        "title": "coleam00/local-ai-packaged",
+        "link": "https://github.com/login?return_to=%2Fcoleam00%2Flocal-ai-packaged",
+        "description": "Run all your local AI together in one package - Ollama, Supabase, n8n, Open WebUI, and more!",
+        "stars": "1,331",
+        "forks": "623"
+    },
+    {
+        "title": "KwaiVGI/LivePortrait",
+        "link": "https://github.com/login?return_to=%2FKwaiVGI%2FLivePortrait",
+        "description": "Bring portraits to life!",
+        "stars": "15,604",
+        "forks": "1,639"
+    },
+    {
+        "title": "Fosowl/agenticSeek",
+        "link": "https://github.com/sponsors/Fosowl",
+        "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.",
+        "stars": "13,710",
+        "forks": "1,147"
+    },
+    {
+        "title": "langgenius/dify",
+        "link": "https://github.com/login?return_to=%2Flanggenius%2Fdify",
+        "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+        "stars": "100,009",
+        "forks": "15,063"
+    },
+    {
+        "title": "f/awesome-chatgpt-prompts",
+        "link": "https://github.com/sponsors/f",
+        "description": "This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.",
+        "stars": "127,382",
+        "forks": "16,919"
+    }
+]
