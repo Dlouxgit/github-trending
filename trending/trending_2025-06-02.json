@@ -1,0 +1,121 @@
+[
+    {
+        "title": "anthropics/prompt-eng-interactive-tutorial",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fprompt-eng-interactive-tutorial",
+        "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+        "stars": "7,942",
+        "forks": "783"
+    },
+    {
+        "title": "anthropics/courses",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fcourses",
+        "description": "Anthropic's educational courses",
+        "stars": "13,428",
+        "forks": "1,163"
+    },
+    {
+        "title": "frdel/agent-zero",
+        "link": "https://github.com/sponsors/frdel",
+        "description": "Agent Zero AI framework",
+        "stars": "7,335",
+        "forks": "1,548"
+    },
+    {
+        "title": "onlook-dev/onlook",
+        "link": "https://github.com/login?return_to=%2Fonlook-dev%2Fonlook",
+        "description": "The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI",
+        "stars": "10,432",
+        "forks": "635"
+    },
+    {
+        "title": "imputnet/cobalt",
+        "link": "https://github.com/login?return_to=%2Fimputnet%2Fcobalt",
+        "description": "best way to save what you love",
+        "stars": "32,924",
+        "forks": "2,749"
+    },
+    {
+        "title": "donnemartin/system-design-primer",
+        "link": "https://github.com/login?return_to=%2Fdonnemartin%2Fsystem-design-primer",
+        "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+        "stars": "302,155",
+        "forks": "50,071"
+    },
+    {
+        "title": "Flowseal/zapret-discord-youtube",
+        "link": "https://github.com/login?return_to=%2FFlowseal%2Fzapret-discord-youtube",
+        "description": "No description provided",
+        "stars": "13,179",
+        "forks": "899"
+    },
+    {
+        "title": "elebumm/RedditVideoMakerBot",
+        "link": "https://github.com/login?return_to=%2Felebumm%2FRedditVideoMakerBot",
+        "description": "Create Reddit Videos with just✨ one command ✨",
+        "stars": "7,148",
+        "forks": "1,972"
+    },
+    {
+        "title": "trimstray/the-book-of-secret-knowledge",
+        "link": "https://github.com/login?return_to=%2Ftrimstray%2Fthe-book-of-secret-knowledge",
+        "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+        "stars": "171,979",
+        "forks": "10,755"
+    },
+    {
+        "title": "microsoft/ai-agents-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fai-agents-for-beginners",
+        "description": "11 Lessons to Get Started Building AI Agents",
+        "stars": "23,554",
+        "forks": "6,245"
+    },
+    {
+        "title": "coleam00/local-ai-packaged",
+        "link": "https://github.com/login?return_to=%2Fcoleam00%2Flocal-ai-packaged",
+        "description": "Run all your local AI together in one package - Ollama, Supabase, n8n, Open WebUI, and more!",
+        "stars": "1,585",
+        "forks": "664"
+    },
+    {
+        "title": "syncthing/syncthing",
+        "link": "https://github.com/sponsors/syncthing",
+        "description": "Open Source Continuous File Synchronization",
+        "stars": "71,225",
+        "forks": "4,567"
+    },
+    {
+        "title": "nautechsystems/nautilus_trader",
+        "link": "https://github.com/login?return_to=%2Fnautechsystems%2Fnautilus_trader",
+        "description": "A high-performance algorithmic trading platform and event-driven backtester",
+        "stars": "6,180",
+        "forks": "873"
+    },
+    {
+        "title": "assimp/assimp",
+        "link": "https://github.com/login?return_to=%2Fassimp%2Fassimp",
+        "description": "The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.",
+        "stars": "11,774",
+        "forks": "3,030"
+    },
+    {
+        "title": "mui/mui-x",
+        "link": "https://github.com/login?return_to=%2Fmui%2Fmui-x",
+        "description": "MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!",
+        "stars": "5,138",
+        "forks": "1,468"
+    },
+    {
+        "title": "googleapis/go-genai",
+        "link": "https://github.com/login?return_to=%2Fgoogleapis%2Fgo-genai",
+        "description": "Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications.",
+        "stars": "415",
+        "forks": "52"
+    },
+    {
+        "title": "GeostatsGuy/DataScienceInteractivePython",
+        "link": "https://github.com/login?return_to=%2FGeostatsGuy%2FDataScienceInteractivePython",
+        "description": "Python interactive dashboards for learning data science",
+        "stars": "1,541",
+        "forks": "291"
+    }
+]
