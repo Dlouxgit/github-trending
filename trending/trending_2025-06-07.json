@@ -1,0 +1,107 @@
+[
+    {
+        "title": "netbirdio/netbird",
+        "link": "https://github.com/sponsors/netbirdio",
+        "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+        "stars": "14,669",
+        "forks": "697"
+    },
+    {
+        "title": "lastmile-ai/mcp-agent",
+        "link": "https://github.com/login?return_to=%2Flastmile-ai%2Fmcp-agent",
+        "description": "Build effective agents using Model Context Protocol and simple workflow patterns",
+        "stars": "5,304",
+        "forks": "485"
+    },
+    {
+        "title": "topoteretes/cognee",
+        "link": "https://github.com/sponsors/topoteretes",
+        "description": "Memory for AI Agents in 5 lines of code",
+        "stars": "3,374",
+        "forks": "286"
+    },
+    {
+        "title": "stanfordnlp/dspy",
+        "link": "https://github.com/login?return_to=%2Fstanfordnlp%2Fdspy",
+        "description": "DSPy: The framework for programming—not prompting—language models",
+        "stars": "24,882",
+        "forks": "1,933"
+    },
+    {
+        "title": "codexu/note-gen",
+        "link": "https://github.com/login?return_to=%2Fcodexu%2Fnote-gen",
+        "description": "A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.",
+        "stars": "3,312",
+        "forks": "218"
+    },
+    {
+        "title": "unslothai/notebooks",
+        "link": "https://github.com/sponsors/unslothai",
+        "description": "Fine-tune LLMs for free with guided Notebooks on Google Colab, Kaggle, and more.",
+        "stars": "1,311",
+        "forks": "214"
+    },
+    {
+        "title": "jwasham/coding-interview-university",
+        "link": "https://github.com/login?return_to=%2Fjwasham%2Fcoding-interview-university",
+        "description": "A complete computer science study plan to become a software engineer.",
+        "stars": "319,276",
+        "forks": "79,034"
+    },
+    {
+        "title": "deepsense-ai/ragbits",
+        "link": "https://github.com/login?return_to=%2Fdeepsense-ai%2Fragbits",
+        "description": "Building blocks for rapid development of GenAI applications",
+        "stars": "869",
+        "forks": "66"
+    },
+    {
+        "title": "rustdesk/rustdesk",
+        "link": "https://github.com/sponsors/rustdesk",
+        "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+        "stars": "89,988",
+        "forks": "12,923"
+    },
+    {
+        "title": "coleam00/Archon",
+        "link": "https://github.com/login?return_to=%2Fcoleam00%2FArchon",
+        "description": "Archon is an AI agent that is able to create other AI agents using an advanced agentic coding workflow and framework knowledge base to unlock a new frontier of automated agents.",
+        "stars": "4,711",
+        "forks": "921"
+    },
+    {
+        "title": "mlabonne/llm-course",
+        "link": "https://github.com/login?return_to=%2Fmlabonne%2Fllm-course",
+        "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+        "stars": "54,604",
+        "forks": "5,823"
+    },
+    {
+        "title": "practical-tutorials/project-based-learning",
+        "link": "https://github.com/login?return_to=%2Fpractical-tutorials%2Fproject-based-learning",
+        "description": "Curated list of project-based tutorials",
+        "stars": "230,482",
+        "forks": "30,097"
+    },
+    {
+        "title": "ArduPilot/ardupilot",
+        "link": "https://github.com/login?return_to=%2FArduPilot%2Fardupilot",
+        "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+        "stars": "12,781",
+        "forks": "18,814"
+    },
+    {
+        "title": "codecrafters-io/build-your-own-x",
+        "link": "https://github.com/login?return_to=%2Fcodecrafters-io%2Fbuild-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "stars": "385,072",
+        "forks": "35,913"
+    },
+    {
+        "title": "onlook-dev/onlook",
+        "link": "https://github.com/login?return_to=%2Fonlook-dev%2Fonlook",
+        "description": "The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI",
+        "stars": "17,010",
+        "forks": "1,035"
+    }
+]
