@@ -1,0 +1,114 @@
+[
+    {
+        "title": "topoteretes/cognee",
+        "link": "https://github.com/sponsors/topoteretes",
+        "description": "Memory for AI Agents in 5 lines of code",
+        "stars": "4,117",
+        "forks": "332"
+    },
+    {
+        "title": "netbirdio/netbird",
+        "link": "https://github.com/sponsors/netbirdio",
+        "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+        "stars": "15,019",
+        "forks": "707"
+    },
+    {
+        "title": "codexu/note-gen",
+        "link": "https://github.com/login?return_to=%2Fcodexu%2Fnote-gen",
+        "description": "A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.",
+        "stars": "3,624",
+        "forks": "229"
+    },
+    {
+        "title": "scrapy/scrapy",
+        "link": "https://github.com/login?return_to=%2Fscrapy%2Fscrapy",
+        "description": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
+        "stars": "56,491",
+        "forks": "10,896"
+    },
+    {
+        "title": "DavidHDev/react-bits",
+        "link": "https://github.com/login?return_to=%2FDavidHDev%2Freact-bits",
+        "description": "An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces.",
+        "stars": "12,907",
+        "forks": "481"
+    },
+    {
+        "title": "jwohlwend/boltz",
+        "link": "https://github.com/login?return_to=%2Fjwohlwend%2Fboltz",
+        "description": "Official repository for the Boltz biomolecular interaction models",
+        "stars": "2,033",
+        "forks": "328"
+    },
+    {
+        "title": "deepsense-ai/ragbits",
+        "link": "https://github.com/login?return_to=%2Fdeepsense-ai%2Fragbits",
+        "description": "Building blocks for rapid development of GenAI applications",
+        "stars": "1,038",
+        "forks": "79"
+    },
+    {
+        "title": "stanfordnlp/dspy",
+        "link": "https://github.com/login?return_to=%2Fstanfordnlp%2Fdspy",
+        "description": "DSPy: The framework for programming—not prompting—language models",
+        "stars": "24,995",
+        "forks": "1,940"
+    },
+    {
+        "title": "Daymychen/art-design-pro",
+        "link": "https://github.com/login?return_to=%2FDaymychen%2Fart-design-pro",
+        "description": "A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.",
+        "stars": "1,774",
+        "forks": "305"
+    },
+    {
+        "title": "langgenius/dify",
+        "link": "https://github.com/login?return_to=%2Flanggenius%2Fdify",
+        "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+        "stars": "101,876",
+        "forks": "15,302"
+    },
+    {
+        "title": "mlabonne/llm-course",
+        "link": "https://github.com/login?return_to=%2Fmlabonne%2Fllm-course",
+        "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+        "stars": "54,785",
+        "forks": "5,839"
+    },
+    {
+        "title": "public-apis/public-apis",
+        "link": "https://github.com/login?return_to=%2Fpublic-apis%2Fpublic-apis",
+        "description": "A collective list of free APIs",
+        "stars": "349,946",
+        "forks": "36,789"
+    },
+    {
+        "title": "langchain4j/langchain4j",
+        "link": "https://github.com/login?return_to=%2Flangchain4j%2Flangchain4j",
+        "description": "Java version of LangChain",
+        "stars": "7,863",
+        "forks": "1,443"
+    },
+    {
+        "title": "iib0011/omni-tools",
+        "link": "https://github.com/sponsors/iib0011",
+        "description": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!",
+        "stars": "2,740",
+        "forks": "115"
+    },
+    {
+        "title": "vinta/awesome-python",
+        "link": "https://github.com/login?return_to=%2Fvinta%2Fawesome-python",
+        "description": "An opinionated list of awesome Python frameworks, libraries, software and resources.",
+        "stars": "245,879",
+        "forks": "25,763"
+    },
+    {
+        "title": "alphacep/vosk-api",
+        "link": "https://github.com/login?return_to=%2Falphacep%2Fvosk-api",
+        "description": "Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node",
+        "stars": "10,003",
+        "forks": "1,307"
+    }
+]
