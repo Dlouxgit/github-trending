@@ -1,0 +1,114 @@
+[
+    {
+        "title": "tensorzero/tensorzero",
+        "link": "https://github.com/login?return_to=%2Ftensorzero%2Ftensorzero",
+        "description": "TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.",
+        "stars": "5,312",
+        "forks": "345"
+    },
+    {
+        "title": "codexu/note-gen",
+        "link": "https://github.com/login?return_to=%2Fcodexu%2Fnote-gen",
+        "description": "A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.",
+        "stars": "3,953",
+        "forks": "249"
+    },
+    {
+        "title": "langgenius/dify",
+        "link": "https://github.com/login?return_to=%2Flanggenius%2Fdify",
+        "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+        "stars": "102,230",
+        "forks": "15,328"
+    },
+    {
+        "title": "topoteretes/cognee",
+        "link": "https://github.com/sponsors/topoteretes",
+        "description": "Memory for AI Agents in 5 lines of code",
+        "stars": "4,611",
+        "forks": "356"
+    },
+    {
+        "title": "XTLS/Xray-core",
+        "link": "https://github.com/login?return_to=%2FXTLS%2FXray-core",
+        "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+        "stars": "28,903",
+        "forks": "4,328"
+    },
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "33,694",
+        "forks": "3,836"
+    },
+    {
+        "title": "zijie0/HumanSystemOptimization",
+        "link": "https://github.com/login?return_to=%2Fzijie0%2FHumanSystemOptimization",
+        "description": "健康学习到150岁 - 人体系统调优不完全指南",
+        "stars": "15,397",
+        "forks": "1,127"
+    },
+    {
+        "title": "iib0011/omni-tools",
+        "link": "https://github.com/sponsors/iib0011",
+        "description": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!",
+        "stars": "3,117",
+        "forks": "133"
+    },
+    {
+        "title": "netbirdio/netbird",
+        "link": "https://github.com/sponsors/netbirdio",
+        "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+        "stars": "15,197",
+        "forks": "716"
+    },
+    {
+        "title": "Daymychen/art-design-pro",
+        "link": "https://github.com/login?return_to=%2FDaymychen%2Fart-design-pro",
+        "description": "A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.",
+        "stars": "1,902",
+        "forks": "314"
+    },
+    {
+        "title": "friuns2/BlackFriday-GPTs-Prompts",
+        "link": "https://github.com/login?return_to=%2Ffriuns2%2FBlackFriday-GPTs-Prompts",
+        "description": "List of free GPTs that doesn't require plus subscription",
+        "stars": "7,142",
+        "forks": "1,090"
+    },
+    {
+        "title": "deepsense-ai/ragbits",
+        "link": "https://github.com/login?return_to=%2Fdeepsense-ai%2Fragbits",
+        "description": "Building blocks for rapid development of GenAI applications",
+        "stars": "1,167",
+        "forks": "88"
+    },
+    {
+        "title": "kelseyhightower/kubernetes-the-hard-way",
+        "link": "https://github.com/login?return_to=%2Fkelseyhightower%2Fkubernetes-the-hard-way",
+        "description": "Bootstrap Kubernetes the hard way. No scripts.",
+        "stars": "44,326",
+        "forks": "14,878"
+    },
+    {
+        "title": "codecrafters-io/build-your-own-x",
+        "link": "https://github.com/login?return_to=%2Fcodecrafters-io%2Fbuild-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "stars": "385,677",
+        "forks": "35,972"
+    },
+    {
+        "title": "unslothai/notebooks",
+        "link": "https://github.com/sponsors/unslothai",
+        "description": "Fine-tune LLMs for free with guided Notebooks on Google Colab, Kaggle, and more.",
+        "stars": "1,753",
+        "forks": "258"
+    },
+    {
+        "title": "stanfordnlp/dspy",
+        "link": "https://github.com/login?return_to=%2Fstanfordnlp%2Fdspy",
+        "description": "DSPy: The framework for programming—not prompting—language models",
+        "stars": "25,114",
+        "forks": "1,943"
+    }
+]
