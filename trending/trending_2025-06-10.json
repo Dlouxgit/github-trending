@@ -1,0 +1,114 @@
+[
+    {
+        "title": "alphacep/vosk-api",
+        "link": "https://github.com/login?return_to=%2Falphacep%2Fvosk-api",
+        "description": "Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node",
+        "stars": "10,806",
+        "forks": "1,351"
+    },
+    {
+        "title": "tensorzero/tensorzero",
+        "link": "https://github.com/login?return_to=%2Ftensorzero%2Ftensorzero",
+        "description": "TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.",
+        "stars": "5,977",
+        "forks": "368"
+    },
+    {
+        "title": "XTLS/Xray-core",
+        "link": "https://github.com/login?return_to=%2FXTLS%2FXray-core",
+        "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+        "stars": "29,047",
+        "forks": "4,341"
+    },
+    {
+        "title": "topoteretes/cognee",
+        "link": "https://github.com/sponsors/topoteretes",
+        "description": "Memory for AI Agents in 5 lines of code",
+        "stars": "5,024",
+        "forks": "385"
+    },
+    {
+        "title": "eyaltoledano/claude-task-master",
+        "link": "https://github.com/sponsors/eyaltoledano",
+        "description": "An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.",
+        "stars": "13,411",
+        "forks": "1,396"
+    },
+    {
+        "title": "NirDiamant/RAG_Techniques",
+        "link": "https://github.com/sponsors/NirDiamant",
+        "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
+        "stars": "17,165",
+        "forks": "1,701"
+    },
+    {
+        "title": "eythaann/Seelen-UI",
+        "link": "https://github.com/sponsors/eythaann",
+        "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
+        "stars": "7,527",
+        "forks": "249"
+    },
+    {
+        "title": "zijie0/HumanSystemOptimization",
+        "link": "https://github.com/login?return_to=%2Fzijie0%2FHumanSystemOptimization",
+        "description": "健康学习到150岁 - 人体系统调优不完全指南",
+        "stars": "16,151",
+        "forks": "1,173"
+    },
+    {
+        "title": "dair-ai/Prompt-Engineering-Guide",
+        "link": "https://github.com/sponsors/dair-ai",
+        "description": "🐙 Guides, papers, lecture, notebooks and resources for prompt engineering",
+        "stars": "57,257",
+        "forks": "5,693"
+    },
+    {
+        "title": "PathOfBuildingCommunity/PathOfBuilding",
+        "link": "https://github.com/login?return_to=%2FPathOfBuildingCommunity%2FPathOfBuilding",
+        "description": "Offline build planner for Path of Exile.",
+        "stars": "4,652",
+        "forks": "2,134"
+    },
+    {
+        "title": "LizardByte/Sunshine",
+        "link": "https://github.com/sponsors/LizardByte",
+        "description": "Self-hosted game stream host for Moonlight.",
+        "stars": "26,242",
+        "forks": "1,243"
+    },
+    {
+        "title": "friuns2/BlackFriday-GPTs-Prompts",
+        "link": "https://github.com/login?return_to=%2Ffriuns2%2FBlackFriday-GPTs-Prompts",
+        "description": "List of free GPTs that doesn't require plus subscription",
+        "stars": "7,401",
+        "forks": "1,107"
+    },
+    {
+        "title": "linsomniac/spotify_to_ytmusic",
+        "link": "https://github.com/sponsors/linsomniac",
+        "description": "Copy playlists and liked music from Spotify to YTMusic",
+        "stars": "3,446",
+        "forks": "252"
+    },
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "34,083",
+        "forks": "3,890"
+    },
+    {
+        "title": "blakeblackshear/frigate",
+        "link": "https://github.com/sponsors/blakeblackshear",
+        "description": "NVR with realtime local object detection for IP cameras",
+        "stars": "23,078",
+        "forks": "2,157"
+    },
+    {
+        "title": "jellyfin/jellyfin",
+        "link": "https://github.com/login?return_to=%2Fjellyfin%2Fjellyfin",
+        "description": "The Free Software Media System - Server Backend & API",
+        "stars": "40,539",
+        "forks": "3,613"
+    }
+]
