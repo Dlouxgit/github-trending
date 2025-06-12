@@ -1,0 +1,65 @@
+[
+    {
+        "title": "sindresorhus/awesome",
+        "link": "https://github.com/sponsors/sindresorhus",
+        "description": "😎 Awesome lists about all kinds of interesting topics",
+        "stars": "365,933",
+        "forks": "29,409"
+    },
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "35,268",
+        "forks": "4,047"
+    },
+    {
+        "title": "alphacep/vosk-api",
+        "link": "https://github.com/login?return_to=%2Falphacep%2Fvosk-api",
+        "description": "Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node",
+        "stars": "11,810",
+        "forks": "1,412"
+    },
+    {
+        "title": "jwohlwend/boltz",
+        "link": "https://github.com/login?return_to=%2Fjwohlwend%2Fboltz",
+        "description": "Official repository for the Boltz biomolecular interaction models",
+        "stars": "2,681",
+        "forks": "398"
+    },
+    {
+        "title": "jdepoix/youtube-transcript-api",
+        "link": "https://github.com/sponsors/jdepoix",
+        "description": "This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!",
+        "stars": "4,199",
+        "forks": "478"
+    },
+    {
+        "title": "zijie0/HumanSystemOptimization",
+        "link": "https://github.com/login?return_to=%2Fzijie0%2FHumanSystemOptimization",
+        "description": "健康学习到150岁 - 人体系统调优不完全指南",
+        "stars": "17,061",
+        "forks": "1,221"
+    },
+    {
+        "title": "datawhalechina/self-llm",
+        "link": "https://github.com/login?return_to=%2Fdatawhalechina%2Fself-llm",
+        "description": "《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程",
+        "stars": "17,302",
+        "forks": "1,863"
+    },
+    {
+        "title": "juspay/hyperswitch",
+        "link": "https://github.com/login?return_to=%2Fjuspay%2Fhyperswitch",
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "stars": "20,662",
+        "forks": "3,409"
+    },
+    {
+        "title": "OpenBMB/MiniCPM",
+        "link": "https://github.com/login?return_to=%2FOpenBMB%2FMiniCPM",
+        "description": "MiniCPM4: Ultra-Efficient LLMs on End Devices, achieving 5+ speedup on typical end-side chips",
+        "stars": "7,797",
+        "forks": "480"
+    }
+]
