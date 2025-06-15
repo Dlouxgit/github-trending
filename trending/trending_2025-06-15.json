@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "40,399",
+        "forks": "4,614"
+    },
+    {
+        "title": "sindresorhus/awesome",
+        "link": "https://github.com/sponsors/sindresorhus",
+        "description": "😎 Awesome lists about all kinds of interesting topics",
+        "stars": "367,872",
+        "forks": "29,583"
+    },
+    {
+        "title": "xiangechen/chili3d",
+        "link": "https://github.com/login?return_to=%2Fxiangechen%2Fchili3d",
+        "description": "A web-based 3D CAD application for online model design and editing",
+        "stars": "2,458",
+        "forks": "208"
+    },
+    {
+        "title": "datawhalechina/self-llm",
+        "link": "https://github.com/login?return_to=%2Fdatawhalechina%2Fself-llm",
+        "description": "《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程",
+        "stars": "18,210",
+        "forks": "1,929"
+    },
+    {
+        "title": "jdepoix/youtube-transcript-api",
+        "link": "https://github.com/sponsors/jdepoix",
+        "description": "This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!",
+        "stars": "4,845",
+        "forks": "531"
+    },
+    {
+        "title": "microsoft/ai-agents-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fai-agents-for-beginners",
+        "description": "11 Lessons to Get Started Building AI Agents",
+        "stars": "26,460",
+        "forks": "7,159"
+    },
+    {
+        "title": "confident-ai/deepeval",
+        "link": "https://github.com/login?return_to=%2Fconfident-ai%2Fdeepeval",
+        "description": "The LLM Evaluation Framework",
+        "stars": "7,877",
+        "forks": "708"
+    },
+    {
+        "title": "YaLTeR/niri",
+        "link": "https://github.com/sponsors/YaLTeR",
+        "description": "A scrollable-tiling Wayland compositor.",
+        "stars": "8,522",
+        "forks": "282"
+    },
+    {
+        "title": "FareedKhan-dev/all-rag-techniques",
+        "link": "https://github.com/login?return_to=%2FFareedKhan-dev%2Fall-rag-techniques",
+        "description": "Implementation of all RAG techniques in a simpler way",
+        "stars": "4,038",
+        "forks": "536"
+    },
+    {
+        "title": "virattt/ai-hedge-fund",
+        "link": "https://github.com/login?return_to=%2Fvirattt%2Fai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "stars": "36,202",
+        "forks": "6,292"
+    }
+]
