@@ -1,0 +1,65 @@
+[
+    {
+        "title": "sindresorhus/awesome",
+        "link": "https://github.com/sponsors/sindresorhus",
+        "description": "😎 Awesome lists about all kinds of interesting topics",
+        "stars": "368,391",
+        "forks": "29,611"
+    },
+    {
+        "title": "xiangechen/chili3d",
+        "link": "https://github.com/login?return_to=%2Fxiangechen%2Fchili3d",
+        "description": "A web-based 3D CAD application for online model design and editing",
+        "stars": "2,711",
+        "forks": "220"
+    },
+    {
+        "title": "datawhalechina/self-llm",
+        "link": "https://github.com/login?return_to=%2Fdatawhalechina%2Fself-llm",
+        "description": "《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程",
+        "stars": "18,440",
+        "forks": "1,942"
+    },
+    {
+        "title": "jdepoix/youtube-transcript-api",
+        "link": "https://github.com/sponsors/jdepoix",
+        "description": "This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!",
+        "stars": "4,985",
+        "forks": "541"
+    },
+    {
+        "title": "microsoft/ai-agents-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fai-agents-for-beginners",
+        "description": "11 Lessons to Get Started Building AI Agents",
+        "stars": "26,811",
+        "forks": "7,212"
+    },
+    {
+        "title": "confident-ai/deepeval",
+        "link": "https://github.com/login?return_to=%2Fconfident-ai%2Fdeepeval",
+        "description": "The LLM Evaluation Framework",
+        "stars": "8,040",
+        "forks": "714"
+    },
+    {
+        "title": "YaLTeR/niri",
+        "link": "https://github.com/sponsors/YaLTeR",
+        "description": "A scrollable-tiling Wayland compositor.",
+        "stars": "8,641",
+        "forks": "279"
+    },
+    {
+        "title": "FareedKhan-dev/all-rag-techniques",
+        "link": "https://github.com/login?return_to=%2FFareedKhan-dev%2Fall-rag-techniques",
+        "description": "Implementation of all RAG techniques in a simpler way",
+        "stars": "4,318",
+        "forks": "548"
+    },
+    {
+        "title": "virattt/ai-hedge-fund",
+        "link": "https://github.com/login?return_to=%2Fvirattt%2Fai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "stars": "36,390",
+        "forks": "6,315"
+    }
+]
