@@ -1,0 +1,86 @@
+[
+    {
+        "title": "microsoft/fluentui-system-icons",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Ffluentui-system-icons",
+        "description": "Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.",
+        "stars": "6,972",
+        "forks": "588"
+    },
+    {
+        "title": "anthropics/anthropic-cookbook",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fanthropic-cookbook",
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "stars": "13,890",
+        "forks": "1,599"
+    },
+    {
+        "title": "anthropics/prompt-eng-interactive-tutorial",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fprompt-eng-interactive-tutorial",
+        "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+        "stars": "12,797",
+        "forks": "1,162"
+    },
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "43,272",
+        "forks": "4,887"
+    },
+    {
+        "title": "immich-app/immich",
+        "link": "https://github.com/login?return_to=%2Fimmich-app%2Fimmich",
+        "description": "High performance self-hosted photo and video management solution.",
+        "stars": "68,262",
+        "forks": "3,587"
+    },
+    {
+        "title": "huggingface/lerobot",
+        "link": "https://github.com/login?return_to=%2Fhuggingface%2Flerobot",
+        "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+        "stars": "14,735",
+        "forks": "1,937"
+    },
+    {
+        "title": "gtsteffaniak/filebrowser",
+        "link": "https://github.com/login?return_to=%2Fgtsteffaniak%2Ffilebrowser",
+        "description": "📂 Web File Browser",
+        "stars": "1,658",
+        "forks": "41"
+    },
+    {
+        "title": "zen-browser/desktop",
+        "link": "https://github.com/login?return_to=%2Fzen-browser%2Fdesktop",
+        "description": "Welcome to a calmer internet",
+        "stars": "33,019",
+        "forks": "918"
+    },
+    {
+        "title": "linshenkx/prompt-optimizer",
+        "link": "https://github.com/login?return_to=%2Flinshenkx%2Fprompt-optimizer",
+        "description": "一款提示词优化器，助力于编写高质量的提示词",
+        "stars": "6,128",
+        "forks": "809"
+    },
+    {
+        "title": "virattt/ai-hedge-fund",
+        "link": "https://github.com/login?return_to=%2Fvirattt%2Fai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "stars": "36,600",
+        "forks": "6,340"
+    },
+    {
+        "title": "panaversity/learn-agentic-ai",
+        "link": "https://github.com/login?return_to=%2Fpanaversity%2Flearn-agentic-ai",
+        "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.",
+        "stars": "2,926",
+        "forks": "627"
+    },
+    {
+        "title": "YaLTeR/niri",
+        "link": "https://github.com/sponsors/YaLTeR",
+        "description": "A scrollable-tiling Wayland compositor.",
+        "stars": "8,783",
+        "forks": "285"
+    }
+]
