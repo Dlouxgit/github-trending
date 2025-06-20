@@ -1,0 +1,114 @@
+[
+    {
+        "title": "DataExpert-io/data-engineer-handbook",
+        "link": "https://github.com/login?return_to=%2FDataExpert-io%2Fdata-engineer-handbook",
+        "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+        "stars": "31,290",
+        "forks": "6,178"
+    },
+    {
+        "title": "menloresearch/jan",
+        "link": "https://github.com/login?return_to=%2Fmenloresearch%2Fjan",
+        "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+        "stars": "32,103",
+        "forks": "1,879"
+    },
+    {
+        "title": "dail8859/NotepadNext",
+        "link": "https://github.com/sponsors/dail8859",
+        "description": "A cross-platform, reimplementation of Notepad++",
+        "stars": "10,726",
+        "forks": "645"
+    },
+    {
+        "title": "automatisch/automatisch",
+        "link": "https://github.com/login?return_to=%2Fautomatisch%2Fautomatisch",
+        "description": "The open source Zapier alternative. Build workflow automation without spending time and money.",
+        "stars": "10,976",
+        "forks": "796"
+    },
+    {
+        "title": "microsoft/fluentui-system-icons",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Ffluentui-system-icons",
+        "description": "Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.",
+        "stars": "8,849",
+        "forks": "663"
+    },
+    {
+        "title": "kortix-ai/suna",
+        "link": "https://github.com/login?return_to=%2Fkortix-ai%2Fsuna",
+        "description": "Suna - Open Source Generalist AI Agent",
+        "stars": "14,865",
+        "forks": "2,230"
+    },
+    {
+        "title": "cloudflare/ai",
+        "link": "https://github.com/login?return_to=%2Fcloudflare%2Fai",
+        "description": "No description provided",
+        "stars": "447",
+        "forks": "122"
+    },
+    {
+        "title": "nvm-sh/nvm",
+        "link": "https://github.com/login?return_to=%2Fnvm-sh%2Fnvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "stars": "85,317",
+        "forks": "8,938"
+    },
+    {
+        "title": "deepseek-ai/DeepEP",
+        "link": "https://github.com/login?return_to=%2Fdeepseek-ai%2FDeepEP",
+        "description": "DeepEP: an efficient expert-parallel communication library",
+        "stars": "8,107",
+        "forks": "813"
+    },
+    {
+        "title": "php/frankenphp",
+        "link": "https://github.com/login?return_to=%2Fphp%2Ffrankenphp",
+        "description": "🧟 The modern PHP app server",
+        "stars": "8,777",
+        "forks": "329"
+    },
+    {
+        "title": "ollama/ollama",
+        "link": "https://github.com/login?return_to=%2Follama%2Follama",
+        "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+        "stars": "144,203",
+        "forks": "12,136"
+    },
+    {
+        "title": "vllm-project/vllm",
+        "link": "https://github.com/sponsors/vllm-project",
+        "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+        "stars": "50,156",
+        "forks": "8,201"
+    },
+    {
+        "title": "espressif/esp-idf",
+        "link": "https://github.com/login?return_to=%2Fespressif%2Fesp-idf",
+        "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+        "stars": "15,542",
+        "forks": "7,710"
+    },
+    {
+        "title": "firebase/genkit",
+        "link": "https://github.com/login?return_to=%2Ffirebase%2Fgenkit",
+        "description": "An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.",
+        "stars": "2,226",
+        "forks": "292"
+    },
+    {
+        "title": "anthropics/anthropic-cookbook",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fanthropic-cookbook",
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "stars": "16,225",
+        "forks": "1,712"
+    },
+    {
+        "title": "MystenLabs/sui",
+        "link": "https://github.com/login?return_to=%2FMystenLabs%2Fsui",
+        "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+        "stars": "7,091",
+        "forks": "11,533"
+    }
+]
