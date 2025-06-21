@@ -1,0 +1,107 @@
+[
+    {
+        "title": "DataExpert-io/data-engineer-handbook",
+        "link": "https://github.com/login?return_to=%2FDataExpert-io%2Fdata-engineer-handbook",
+        "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+        "stars": "32,704",
+        "forks": "6,284"
+    },
+    {
+        "title": "dail8859/NotepadNext",
+        "link": "https://github.com/sponsors/dail8859",
+        "description": "A cross-platform, reimplementation of Notepad++",
+        "stars": "10,953",
+        "forks": "663"
+    },
+    {
+        "title": "automatisch/automatisch",
+        "link": "https://github.com/login?return_to=%2Fautomatisch%2Fautomatisch",
+        "description": "The open source Zapier alternative. Build workflow automation without spending time and money.",
+        "stars": "11,207",
+        "forks": "817"
+    },
+    {
+        "title": "php/frankenphp",
+        "link": "https://github.com/login?return_to=%2Fphp%2Ffrankenphp",
+        "description": "🧟 The modern PHP app server",
+        "stars": "8,931",
+        "forks": "332"
+    },
+    {
+        "title": "YimMenu/YimMenuV2",
+        "link": "https://github.com/login?return_to=%2FYimMenu%2FYimMenuV2",
+        "description": "Experimental menu for GTA 5: Enhanced",
+        "stars": "445",
+        "forks": "121"
+    },
+    {
+        "title": "grafana/loki",
+        "link": "https://github.com/login?return_to=%2Fgrafana%2Floki",
+        "description": "Like Prometheus, but for logs.",
+        "stars": "25,751",
+        "forks": "3,694"
+    },
+    {
+        "title": "Mail-0/Zero",
+        "link": "https://github.com/login?return_to=%2FMail-0%2FZero",
+        "description": "Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/mail0",
+        "stars": "8,293",
+        "forks": "779"
+    },
+    {
+        "title": "vllm-project/vllm",
+        "link": "https://github.com/sponsors/vllm-project",
+        "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+        "stars": "50,310",
+        "forks": "8,228"
+    },
+    {
+        "title": "gabime/spdlog",
+        "link": "https://github.com/login?return_to=%2Fgabime%2Fspdlog",
+        "description": "Fast C++ logging library.",
+        "stars": "26,455",
+        "forks": "4,806"
+    },
+    {
+        "title": "n8n-io/n8n",
+        "link": "https://github.com/login?return_to=%2Fn8n-io%2Fn8n",
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "stars": "109,694",
+        "forks": "31,624"
+    },
+    {
+        "title": "ManimCommunity/manim",
+        "link": "https://github.com/login?return_to=%2FManimCommunity%2Fmanim",
+        "description": "A community-maintained Python framework for creating mathematical animations.",
+        "stars": "32,526",
+        "forks": "2,289"
+    },
+    {
+        "title": "rasbt/LLMs-from-scratch",
+        "link": "https://github.com/login?return_to=%2Frasbt%2FLLMs-from-scratch",
+        "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+        "stars": "51,717",
+        "forks": "7,520"
+    },
+    {
+        "title": "anthropics/anthropic-cookbook",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fanthropic-cookbook",
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "stars": "16,461",
+        "forks": "1,723"
+    },
+    {
+        "title": "n8n-io/self-hosted-ai-starter-kit",
+        "link": "https://github.com/login?return_to=%2Fn8n-io%2Fself-hosted-ai-starter-kit",
+        "description": "The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.",
+        "stars": "9,576",
+        "forks": "2,284"
+    },
+    {
+        "title": "moby/buildkit",
+        "link": "https://github.com/login?return_to=%2Fmoby%2Fbuildkit",
+        "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+        "stars": "9,046",
+        "forks": "1,250"
+    }
+]
