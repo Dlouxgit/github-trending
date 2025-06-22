@@ -1,0 +1,86 @@
+[
+    {
+        "title": "typst/typst",
+        "link": "https://github.com/sponsors/typst",
+        "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+        "stars": "42,421",
+        "forks": "1,136"
+    },
+    {
+        "title": "patchy631/ai-engineering-hub",
+        "link": "https://github.com/sponsors/patchy631",
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "stars": "11,013",
+        "forks": "1,886"
+    },
+    {
+        "title": "dail8859/NotepadNext",
+        "link": "https://github.com/sponsors/dail8859",
+        "description": "A cross-platform, reimplementation of Notepad++",
+        "stars": "11,134",
+        "forks": "671"
+    },
+    {
+        "title": "DataExpert-io/data-engineer-handbook",
+        "link": "https://github.com/login?return_to=%2FDataExpert-io%2Fdata-engineer-handbook",
+        "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+        "stars": "33,277",
+        "forks": "6,372"
+    },
+    {
+        "title": "rasbt/LLMs-from-scratch",
+        "link": "https://github.com/login?return_to=%2Frasbt%2FLLMs-from-scratch",
+        "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+        "stars": "52,171",
+        "forks": "7,548"
+    },
+    {
+        "title": "DrKLO/Telegram",
+        "link": "https://github.com/login?return_to=%2FDrKLO%2FTelegram",
+        "description": "Telegram for Android source",
+        "stars": "26,349",
+        "forks": "8,442"
+    },
+    {
+        "title": "cyclotruc/gitingest",
+        "link": "https://github.com/login?return_to=%2Fcyclotruc%2Fgitingest",
+        "description": "Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase",
+        "stars": "9,675",
+        "forks": "732"
+    },
+    {
+        "title": "ourongxing/newsnow",
+        "link": "https://github.com/login?return_to=%2Fourongxing%2Fnewsnow",
+        "description": "Elegant reading of real-time and hottest news",
+        "stars": "11,442",
+        "forks": "3,288"
+    },
+    {
+        "title": "n8n-io/self-hosted-ai-starter-kit",
+        "link": "https://github.com/login?return_to=%2Fn8n-io%2Fself-hosted-ai-starter-kit",
+        "description": "The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.",
+        "stars": "9,769",
+        "forks": "2,300"
+    },
+    {
+        "title": "unionlabs/union",
+        "link": "https://github.com/login?return_to=%2Funionlabs%2Funion",
+        "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+        "stars": "68,037",
+        "forks": "3,318"
+    },
+    {
+        "title": "n8n-io/n8n",
+        "link": "https://github.com/login?return_to=%2Fn8n-io%2Fn8n",
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "stars": "110,200",
+        "forks": "31,765"
+    },
+    {
+        "title": "Flowseal/zapret-discord-youtube",
+        "link": "https://github.com/login?return_to=%2FFlowseal%2Fzapret-discord-youtube",
+        "description": "No description provided",
+        "stars": "14,169",
+        "forks": "947"
+    }
+]
