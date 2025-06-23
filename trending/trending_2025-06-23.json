@@ -1,0 +1,107 @@
+[
+    {
+        "title": "rasbt/LLMs-from-scratch",
+        "link": "https://github.com/login?return_to=%2Frasbt%2FLLMs-from-scratch",
+        "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+        "stars": "53,280",
+        "forks": "7,637"
+    },
+    {
+        "title": "patchy631/ai-engineering-hub",
+        "link": "https://github.com/sponsors/patchy631",
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "stars": "11,491",
+        "forks": "1,950"
+    },
+    {
+        "title": "ManimCommunity/manim",
+        "link": "https://github.com/login?return_to=%2FManimCommunity%2Fmanim",
+        "description": "A community-maintained Python framework for creating mathematical animations.",
+        "stars": "32,757",
+        "forks": "2,298"
+    },
+    {
+        "title": "microsoft/edit",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fedit",
+        "description": "We all edit.",
+        "stars": "9,038",
+        "forks": "387"
+    },
+    {
+        "title": "mikumifa/biliTickerBuy",
+        "link": "https://github.com/login?return_to=%2Fmikumifa%2FbiliTickerBuy",
+        "description": "b站会员购购票辅助工具",
+        "stars": "2,118",
+        "forks": "292"
+    },
+    {
+        "title": "kortix-ai/suna",
+        "link": "https://github.com/login?return_to=%2Fkortix-ai%2Fsuna",
+        "description": "Suna - Open Source Generalist AI Agent",
+        "stars": "15,360",
+        "forks": "2,322"
+    },
+    {
+        "title": "DrKLO/Telegram",
+        "link": "https://github.com/login?return_to=%2FDrKLO%2FTelegram",
+        "description": "Telegram for Android source",
+        "stars": "26,411",
+        "forks": "8,452"
+    },
+    {
+        "title": "anthropics/claude-code",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "stars": "14,487",
+        "forks": "819"
+    },
+    {
+        "title": "DataExpert-io/data-engineer-handbook",
+        "link": "https://github.com/login?return_to=%2FDataExpert-io%2Fdata-engineer-handbook",
+        "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+        "stars": "33,560",
+        "forks": "6,423"
+    },
+    {
+        "title": "cyclotruc/gitingest",
+        "link": "https://github.com/login?return_to=%2Fcyclotruc%2Fgitingest",
+        "description": "Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase",
+        "stars": "9,916",
+        "forks": "749"
+    },
+    {
+        "title": "krishnadey30/LeetCode-Questions-CompanyWise",
+        "link": "https://github.com/login?return_to=%2Fkrishnadey30%2FLeetCode-Questions-CompanyWise",
+        "description": "Contains Company Wise Questions sorted based on Frequency and all time",
+        "stars": "16,681",
+        "forks": "4,980"
+    },
+    {
+        "title": "microsoft/Web-Dev-For-Beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FWeb-Dev-For-Beginners",
+        "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+        "stars": "88,942",
+        "forks": "13,459"
+    },
+    {
+        "title": "dail8859/NotepadNext",
+        "link": "https://github.com/sponsors/dail8859",
+        "description": "A cross-platform, reimplementation of Notepad++",
+        "stars": "11,311",
+        "forks": "677"
+    },
+    {
+        "title": "donnemartin/awesome-aws",
+        "link": "https://github.com/login?return_to=%2Fdonnemartin%2Fawesome-aws",
+        "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.",
+        "stars": "13,407",
+        "forks": "1,807"
+    },
+    {
+        "title": "n8n-io/n8n",
+        "link": "https://github.com/login?return_to=%2Fn8n-io%2Fn8n",
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "stars": "110,690",
+        "forks": "31,927"
+    }
+]
