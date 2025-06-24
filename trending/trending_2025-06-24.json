@@ -1,0 +1,79 @@
+[
+    {
+        "title": "microsoft/edit",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fedit",
+        "description": "We all edit.",
+        "stars": "9,434",
+        "forks": "405"
+    },
+    {
+        "title": "voideditor/void",
+        "link": "https://github.com/login?return_to=%2Fvoideditor%2Fvoid",
+        "description": "No description provided",
+        "stars": "24,646",
+        "forks": "1,640"
+    },
+    {
+        "title": "ghostty-org/ghostty",
+        "link": "https://github.com/login?return_to=%2Fghostty-org%2Fghostty",
+        "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+        "stars": "32,025",
+        "forks": "887"
+    },
+    {
+        "title": "kortix-ai/suna",
+        "link": "https://github.com/login?return_to=%2Fkortix-ai%2Fsuna",
+        "description": "Suna - Open Source Generalist AI Agent",
+        "stars": "15,683",
+        "forks": "2,373"
+    },
+    {
+        "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+        "link": "https://github.com/login?return_to=%2Fx1xhlol%2Fsystem-prompts-and-models-of-ai-tools",
+        "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.",
+        "stars": "60,186",
+        "forks": "18,030"
+    },
+    {
+        "title": "typst/typst",
+        "link": "https://github.com/sponsors/typst",
+        "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+        "stars": "42,832",
+        "forks": "1,145"
+    },
+    {
+        "title": "HarbourMasters/SpaghettiKart",
+        "link": "https://github.com/login?return_to=%2FHarbourMasters%2FSpaghettiKart",
+        "description": "No description provided",
+        "stars": "875",
+        "forks": "40"
+    },
+    {
+        "title": "microsoft/Web-Dev-For-Beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FWeb-Dev-For-Beginners",
+        "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+        "stars": "89,296",
+        "forks": "13,491"
+    },
+    {
+        "title": "comfyanonymous/ComfyUI",
+        "link": "https://github.com/login?return_to=%2Fcomfyanonymous%2FComfyUI",
+        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+        "stars": "80,501",
+        "forks": "8,914"
+    },
+    {
+        "title": "localsend/localsend",
+        "link": "https://github.com/login?return_to=%2Flocalsend%2Flocalsend",
+        "description": "An open-source cross-platform alternative to AirDrop",
+        "stars": "63,140",
+        "forks": "3,355"
+    },
+    {
+        "title": "isledecomp/isle-portable",
+        "link": "https://github.com/login?return_to=%2Fisledecomp%2Fisle-portable",
+        "description": "A portable version of LEGO Island (1997)",
+        "stars": "523",
+        "forks": "54"
+    }
+]
