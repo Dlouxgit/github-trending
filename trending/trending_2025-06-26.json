@@ -1,0 +1,107 @@
+[
+    {
+        "title": "DioxusLabs/dioxus",
+        "link": "https://github.com/sponsors/DioxusLabs",
+        "description": "Fullstack app framework for web, desktop, and mobile.",
+        "stars": "28,501",
+        "forks": "1,170"
+    },
+    {
+        "title": "vitejs/vite",
+        "link": "https://github.com/sponsors/vitejs",
+        "description": "Next generation frontend tooling. It's fast!",
+        "stars": "73,641",
+        "forks": "6,862"
+    },
+    {
+        "title": "musistudio/claude-code-router",
+        "link": "https://github.com/login?return_to=%2Fmusistudio%2Fclaude-code-router",
+        "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
+        "stars": "1,771",
+        "forks": "120"
+    },
+    {
+        "title": "AykutSarac/jsoncrack.com",
+        "link": "https://github.com/login?return_to=%2FAykutSarac%2Fjsoncrack.com",
+        "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+        "stars": "38,116",
+        "forks": "2,549"
+    },
+    {
+        "title": "ripienaar/free-for-dev",
+        "link": "https://github.com/login?return_to=%2Fripienaar%2Ffree-for-dev",
+        "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+        "stars": "100,298",
+        "forks": "10,741"
+    },
+    {
+        "title": "sdmg15/Best-websites-a-programmer-should-visit",
+        "link": "https://github.com/login?return_to=%2Fsdmg15%2FBest-websites-a-programmer-should-visit",
+        "description": "🔗 Some useful websites for programmers.",
+        "stars": "68,412",
+        "forks": "8,175"
+    },
+    {
+        "title": "jujumilk3/leaked-system-prompts",
+        "link": "https://github.com/login?return_to=%2Fjujumilk3%2Fleaked-system-prompts",
+        "description": "Collection of leaked system prompts",
+        "stars": "10,467",
+        "forks": "1,376"
+    },
+    {
+        "title": "ml-tooling/best-of-ml-python",
+        "link": "https://github.com/login?return_to=%2Fml-tooling%2Fbest-of-ml-python",
+        "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+        "stars": "20,929",
+        "forks": "2,846"
+    },
+    {
+        "title": "bgstaal/multipleWindow3dScene",
+        "link": "https://github.com/login?return_to=%2Fbgstaal%2FmultipleWindow3dScene",
+        "description": "A quick example of how one can \"synchronize\" a 3d scene across multiple windows using three.js and localStorage",
+        "stars": "18,432",
+        "forks": "2,853"
+    },
+    {
+        "title": "mikeroyal/Self-Hosting-Guide",
+        "link": "https://github.com/login?return_to=%2Fmikeroyal%2FSelf-Hosting-Guide",
+        "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
+        "stars": "14,473",
+        "forks": "748"
+    },
+    {
+        "title": "codecrafters-io/build-your-own-x",
+        "link": "https://github.com/login?return_to=%2Fcodecrafters-io%2Fbuild-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "stars": "390,612",
+        "forks": "36,381"
+    },
+    {
+        "title": "sindresorhus/awesome",
+        "link": "https://github.com/sponsors/sindresorhus",
+        "description": "😎 Awesome lists about all kinds of interesting topics",
+        "stars": "373,526",
+        "forks": "29,908"
+    },
+    {
+        "title": "eriklindernoren/ML-From-Scratch",
+        "link": "https://github.com/login?return_to=%2Feriklindernoren%2FML-From-Scratch",
+        "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+        "stars": "25,562",
+        "forks": "4,702"
+    },
+    {
+        "title": "kilimchoi/engineering-blogs",
+        "link": "https://github.com/sponsors/kilimchoi",
+        "description": "A curated list of engineering blogs",
+        "stars": "34,002",
+        "forks": "1,804"
+    },
+    {
+        "title": "gitleaks/gitleaks",
+        "link": "https://github.com/login?return_to=%2Fgitleaks%2Fgitleaks",
+        "description": "Find secrets with Gitleaks 🔑",
+        "stars": "20,530",
+        "forks": "1,635"
+    }
+]
