@@ -1,0 +1,121 @@
+[
+    {
+        "title": "microsoft/edit",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fedit",
+        "description": "We all edit.",
+        "stars": "10,719",
+        "forks": "465"
+    },
+    {
+        "title": "mui/base-ui",
+        "link": "https://github.com/login?return_to=%2Fmui%2Fbase-ui",
+        "description": "Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.",
+        "stars": "3,777",
+        "forks": "154"
+    },
+    {
+        "title": "gitleaks/gitleaks",
+        "link": "https://github.com/login?return_to=%2Fgitleaks%2Fgitleaks",
+        "description": "Find secrets with Gitleaks 🔑",
+        "stars": "20,830",
+        "forks": "1,649"
+    },
+    {
+        "title": "modelcontextprotocol/registry",
+        "link": "https://github.com/login?return_to=%2Fmodelcontextprotocol%2Fregistry",
+        "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+        "stars": "1,713",
+        "forks": "121"
+    },
+    {
+        "title": "punkpeye/awesome-mcp-servers",
+        "link": "https://github.com/login?return_to=%2Fpunkpeye%2Fawesome-mcp-servers",
+        "description": "A collection of MCP servers.",
+        "stars": "57,908",
+        "forks": "4,444"
+    },
+    {
+        "title": "jujumilk3/leaked-system-prompts",
+        "link": "https://github.com/login?return_to=%2Fjujumilk3%2Fleaked-system-prompts",
+        "description": "Collection of leaked system prompts",
+        "stars": "10,756",
+        "forks": "1,404"
+    },
+    {
+        "title": "twentyhq/twenty",
+        "link": "https://github.com/login?return_to=%2Ftwentyhq%2Ftwenty",
+        "description": "Building a modern alternative to Salesforce, powered by the community.",
+        "stars": "29,106",
+        "forks": "3,406"
+    },
+    {
+        "title": "nexus-xyz/nexus-cli",
+        "link": "https://github.com/login?return_to=%2Fnexus-xyz%2Fnexus-cli",
+        "description": "Command line interface for supplying proofs to the Nexus network.",
+        "stars": "781",
+        "forks": "331"
+    },
+    {
+        "title": "AykutSarac/jsoncrack.com",
+        "link": "https://github.com/login?return_to=%2FAykutSarac%2Fjsoncrack.com",
+        "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+        "stars": "38,387",
+        "forks": "2,559"
+    },
+    {
+        "title": "DioxusLabs/dioxus",
+        "link": "https://github.com/sponsors/DioxusLabs",
+        "description": "Fullstack app framework for web, desktop, and mobile.",
+        "stars": "28,916",
+        "forks": "1,183"
+    },
+    {
+        "title": "Portkey-AI/gateway",
+        "link": "https://github.com/login?return_to=%2FPortkey-AI%2Fgateway",
+        "description": "A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.",
+        "stars": "8,311",
+        "forks": "615"
+    },
+    {
+        "title": "ml-tooling/best-of-ml-python",
+        "link": "https://github.com/login?return_to=%2Fml-tooling%2Fbest-of-ml-python",
+        "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+        "stars": "21,208",
+        "forks": "2,863"
+    },
+    {
+        "title": "microsoft/ML-For-Beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FML-For-Beginners",
+        "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+        "stars": "73,109",
+        "forks": "16,024"
+    },
+    {
+        "title": "mikeroyal/Self-Hosting-Guide",
+        "link": "https://github.com/login?return_to=%2Fmikeroyal%2FSelf-Hosting-Guide",
+        "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
+        "stars": "15,027",
+        "forks": "760"
+    },
+    {
+        "title": "microsoft/generative-ai-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fgenerative-ai-for-beginners",
+        "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+        "stars": "85,971",
+        "forks": "45,245"
+    },
+    {
+        "title": "sdmg15/Best-websites-a-programmer-should-visit",
+        "link": "https://github.com/login?return_to=%2Fsdmg15%2FBest-websites-a-programmer-should-visit",
+        "description": "🔗 Some useful websites for programmers.",
+        "stars": "68,957",
+        "forks": "8,195"
+    },
+    {
+        "title": "ripienaar/free-for-dev",
+        "link": "https://github.com/login?return_to=%2Fripienaar%2Ffree-for-dev",
+        "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+        "stars": "100,886",
+        "forks": "10,773"
+    }
+]
