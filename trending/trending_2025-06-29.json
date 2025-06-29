@@ -1,0 +1,107 @@
+[
+    {
+        "title": "twentyhq/twenty",
+        "link": "https://github.com/login?return_to=%2Ftwentyhq%2Ftwenty",
+        "description": "Building a modern alternative to Salesforce, powered by the community.",
+        "stars": "30,447",
+        "forks": "3,485"
+    },
+    {
+        "title": "black-forest-labs/flux",
+        "link": "https://github.com/login?return_to=%2Fblack-forest-labs%2Fflux",
+        "description": "Official inference repo for FLUX.1 models",
+        "stars": "22,910",
+        "forks": "1,631"
+    },
+    {
+        "title": "GraphiteEditor/Graphite",
+        "link": "https://github.com/sponsors/GraphiteEditor",
+        "description": "2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.",
+        "stars": "13,794",
+        "forks": "641"
+    },
+    {
+        "title": "adityachandelgit/BookLore",
+        "link": "https://github.com/login?return_to=%2Fadityachandelgit%2FBookLore",
+        "description": "BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats.",
+        "stars": "1,843",
+        "forks": "73"
+    },
+    {
+        "title": "coleam00/ottomator-agents",
+        "link": "https://github.com/login?return_to=%2Fcoleam00%2Fottomator-agents",
+        "description": "All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!",
+        "stars": "2,925",
+        "forks": "1,127"
+    },
+    {
+        "title": "rommapp/romm",
+        "link": "https://github.com/login?return_to=%2Frommapp%2Fromm",
+        "description": "A beautiful, powerful, self-hosted rom manager and player.",
+        "stars": "5,010",
+        "forks": "208"
+    },
+    {
+        "title": "Serial-Studio/Serial-Studio",
+        "link": "https://github.com/sponsors/Serial-Studio",
+        "description": "Visualize embedded device data.",
+        "stars": "5,762",
+        "forks": "867"
+    },
+    {
+        "title": "midday-ai/midday",
+        "link": "https://github.com/login?return_to=%2Fmidday-ai%2Fmidday",
+        "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
+        "stars": "8,194",
+        "forks": "804"
+    },
+    {
+        "title": "microsoft/generative-ai-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fgenerative-ai-for-beginners",
+        "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+        "stars": "86,387",
+        "forks": "45,450"
+    },
+    {
+        "title": "fastapi/full-stack-fastapi-template",
+        "link": "https://github.com/login?return_to=%2Ffastapi%2Ffull-stack-fastapi-template",
+        "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+        "stars": "33,957",
+        "forks": "6,456"
+    },
+    {
+        "title": "swisskyrepo/PayloadsAllTheThings",
+        "link": "https://github.com/sponsors/swisskyrepo",
+        "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+        "stars": "66,361",
+        "forks": "15,498"
+    },
+    {
+        "title": "actions/actions-runner-controller",
+        "link": "https://github.com/login?return_to=%2Factions%2Factions-runner-controller",
+        "description": "Kubernetes controller for GitHub Actions self-hosted runners",
+        "stars": "5,401",
+        "forks": "1,260"
+    },
+    {
+        "title": "GyulyVGC/sniffnet",
+        "link": "https://github.com/sponsors/GyulyVGC",
+        "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+        "stars": "24,956",
+        "forks": "784"
+    },
+    {
+        "title": "google-gemini/cookbook",
+        "link": "https://github.com/login?return_to=%2Fgoogle-gemini%2Fcookbook",
+        "description": "Examples and guides for using the Gemini API",
+        "stars": "13,730",
+        "forks": "1,881"
+    },
+    {
+        "title": "pot-app/pot-desktop",
+        "link": "https://github.com/login?return_to=%2Fpot-app%2Fpot-desktop",
+        "description": "🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.",
+        "stars": "13,232",
+        "forks": "611"
+    }
+]
