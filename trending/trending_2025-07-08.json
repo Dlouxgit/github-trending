@@ -1,0 +1,72 @@
+[
+    {
+        "title": "rustfs/rustfs",
+        "link": "https://github.com/login?return_to=%2Frustfs%2Frustfs",
+        "description": "🚀 High-performance distributed object storage for MinIO alternative.",
+        "stars": "2,060",
+        "forks": "91"
+    },
+    {
+        "title": "anthropics/prompt-eng-interactive-tutorial",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fprompt-eng-interactive-tutorial",
+        "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+        "stars": "15,327",
+        "forks": "1,419"
+    },
+    {
+        "title": "th-ch/youtube-music",
+        "link": "https://github.com/login?return_to=%2Fth-ch%2Fyoutube-music",
+        "description": "YouTube Music Desktop App bundled with custom plugins",
+        "stars": "24,954",
+        "forks": "1,341"
+    },
+    {
+        "title": "dockur/macos",
+        "link": "https://github.com/login?return_to=%2Fdockur%2Fmacos",
+        "description": "macOS inside a Docker container.",
+        "stars": "15,036",
+        "forks": "623"
+    },
+    {
+        "title": "pocketbase/pocketbase",
+        "link": "https://github.com/login?return_to=%2Fpocketbase%2Fpocketbase",
+        "description": "Open Source realtime backend in 1 file",
+        "stars": "48,652",
+        "forks": "2,452"
+    },
+    {
+        "title": "commaai/openpilot",
+        "link": "https://github.com/login?return_to=%2Fcommaai%2Fopenpilot",
+        "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+        "stars": "54,705",
+        "forks": "9,894"
+    },
+    {
+        "title": "smallcloudai/refact",
+        "link": "https://github.com/login?return_to=%2Fsmallcloudai%2Frefact",
+        "description": "AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.",
+        "stars": "2,655",
+        "forks": "225"
+    },
+    {
+        "title": "humanlayer/12-factor-agents",
+        "link": "https://github.com/login?return_to=%2Fhumanlayer%2F12-factor-agents",
+        "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+        "stars": "6,732",
+        "forks": "440"
+    },
+    {
+        "title": "ed-donner/llm_engineering",
+        "link": "https://github.com/login?return_to=%2Fed-donner%2Fllm_engineering",
+        "description": "Repo to accompany my mastering LLM engineering course",
+        "stars": "2,657",
+        "forks": "2,251"
+    },
+    {
+        "title": "CodeWithHarry/Sigma-Web-Dev-Course",
+        "link": "https://github.com/login?return_to=%2FCodeWithHarry%2FSigma-Web-Dev-Course",
+        "description": "Source Code for Sigma Web Development Course",
+        "stars": "9,173",
+        "forks": "2,671"
+    }
+]
