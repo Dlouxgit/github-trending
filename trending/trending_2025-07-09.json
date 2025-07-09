@@ -1,0 +1,100 @@
+[
+    {
+        "title": "humanlayer/12-factor-agents",
+        "link": "https://github.com/login?return_to=%2Fhumanlayer%2F12-factor-agents",
+        "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+        "stars": "7,436",
+        "forks": "475"
+    },
+    {
+        "title": "Alibaba-NLP/WebAgent",
+        "link": "https://github.com/login?return_to=%2FAlibaba-NLP%2FWebAgent",
+        "description": "🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592",
+        "stars": "2,174",
+        "forks": "155"
+    },
+    {
+        "title": "th-ch/youtube-music",
+        "link": "https://github.com/login?return_to=%2Fth-ch%2Fyoutube-music",
+        "description": "YouTube Music Desktop App bundled with custom plugins",
+        "stars": "25,364",
+        "forks": "1,373"
+    },
+    {
+        "title": "HandsOnLLM/Hands-On-Large-Language-Models",
+        "link": "https://github.com/login?return_to=%2FHandsOnLLM%2FHands-On-Large-Language-Models",
+        "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+        "stars": "11,497",
+        "forks": "2,720"
+    },
+    {
+        "title": "gusmanb/logicanalyzer",
+        "link": "https://github.com/login?return_to=%2Fgusmanb%2Flogicanalyzer",
+        "description": "24 channel, 100Msps logic analyzer hardware and software",
+        "stars": "3,964",
+        "forks": "417"
+    },
+    {
+        "title": "anthropics/prompt-eng-interactive-tutorial",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fprompt-eng-interactive-tutorial",
+        "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+        "stars": "15,840",
+        "forks": "1,460"
+    },
+    {
+        "title": "rustfs/rustfs",
+        "link": "https://github.com/login?return_to=%2Frustfs%2Frustfs",
+        "description": "🚀 High-performance distributed object storage for MinIO alternative.",
+        "stars": "3,205",
+        "forks": "158"
+    },
+    {
+        "title": "commaai/openpilot",
+        "link": "https://github.com/login?return_to=%2Fcommaai%2Fopenpilot",
+        "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+        "stars": "55,001",
+        "forks": "9,909"
+    },
+    {
+        "title": "FujiwaraChoki/MoneyPrinterV2",
+        "link": "https://github.com/sponsors/FujiwaraChoki",
+        "description": "Automate the process of making money online.",
+        "stars": "11,952",
+        "forks": "1,134"
+    },
+    {
+        "title": "jbhuang0604/awesome-computer-vision",
+        "link": "https://github.com/login?return_to=%2Fjbhuang0604%2Fawesome-computer-vision",
+        "description": "A curated list of awesome computer vision resources",
+        "stars": "22,019",
+        "forks": "4,328"
+    },
+    {
+        "title": "dockur/macos",
+        "link": "https://github.com/login?return_to=%2Fdockur%2Fmacos",
+        "description": "macOS inside a Docker container.",
+        "stars": "15,427",
+        "forks": "634"
+    },
+    {
+        "title": "florinpop17/app-ideas",
+        "link": "https://github.com/login?return_to=%2Fflorinpop17%2Fapp-ideas",
+        "description": "A Collection of application ideas which can be used to improve your coding skills.",
+        "stars": "84,158",
+        "forks": "9,744"
+    },
+    {
+        "title": "NirDiamant/GenAI_Agents",
+        "link": "https://github.com/sponsors/NirDiamant",
+        "description": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.",
+        "stars": "14,037",
+        "forks": "1,949"
+    },
+    {
+        "title": "forthespada/CS-Books",
+        "link": "https://github.com/login?return_to=%2Fforthespada%2FCS-Books",
+        "description": "🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~",
+        "stars": "23,241",
+        "forks": "3,887"
+    }
+]
