@@ -1,0 +1,100 @@
+[
+    {
+        "title": "googleapis/genai-toolbox",
+        "link": "https://github.com/login?return_to=%2Fgoogleapis%2Fgenai-toolbox",
+        "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+        "stars": "4,020",
+        "forks": "332"
+    },
+    {
+        "title": "rustfs/rustfs",
+        "link": "https://github.com/login?return_to=%2Frustfs%2Frustfs",
+        "description": "🚀 High-performance distributed object storage for MinIO alternative.",
+        "stars": "3,715",
+        "forks": "182"
+    },
+    {
+        "title": "anthropics/prompt-eng-interactive-tutorial",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fprompt-eng-interactive-tutorial",
+        "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+        "stars": "16,169",
+        "forks": "1,480"
+    },
+    {
+        "title": "Alibaba-NLP/WebAgent",
+        "link": "https://github.com/login?return_to=%2FAlibaba-NLP%2FWebAgent",
+        "description": "🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592",
+        "stars": "2,816",
+        "forks": "194"
+    },
+    {
+        "title": "putyy/res-downloader",
+        "link": "https://github.com/login?return_to=%2Fputyy%2Fres-downloader",
+        "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+        "stars": "8,231",
+        "forks": "987"
+    },
+    {
+        "title": "ed-donner/agents",
+        "link": "https://github.com/login?return_to=%2Fed-donner%2Fagents",
+        "description": "Repo for the Complete Agentic AI Engineering Course",
+        "stars": "1,063",
+        "forks": "789"
+    },
+    {
+        "title": "wanghongenpin/proxypin",
+        "link": "https://github.com/login?return_to=%2Fwanghongenpin%2Fproxypin",
+        "description": "Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems",
+        "stars": "9,407",
+        "forks": "812"
+    },
+    {
+        "title": "microsoft/ai-agents-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fai-agents-for-beginners",
+        "description": "11 Lessons to Get Started Building AI Agents",
+        "stars": "29,631",
+        "forks": "8,388"
+    },
+    {
+        "title": "punkpeye/awesome-mcp-clients",
+        "link": "https://github.com/login?return_to=%2Fpunkpeye%2Fawesome-mcp-clients",
+        "description": "A collection of MCP clients.",
+        "stars": "4,317",
+        "forks": "303"
+    },
+    {
+        "title": "strapi/strapi",
+        "link": "https://github.com/login?return_to=%2Fstrapi%2Fstrapi",
+        "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
+        "stars": "67,479",
+        "forks": "8,702"
+    },
+    {
+        "title": "microsoft/MoGe",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FMoGe",
+        "description": "[CVPR'25 Oral] MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision",
+        "stars": "1,247",
+        "forks": "72"
+    },
+    {
+        "title": "alibaba/MNN",
+        "link": "https://github.com/login?return_to=%2Falibaba%2FMNN",
+        "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md",
+        "stars": "12,382",
+        "forks": "1,987"
+    },
+    {
+        "title": "ed-donner/llm_engineering",
+        "link": "https://github.com/login?return_to=%2Fed-donner%2Fllm_engineering",
+        "description": "Repo to accompany my mastering LLM engineering course",
+        "stars": "2,837",
+        "forks": "2,280"
+    },
+    {
+        "title": "junegunn/fzf",
+        "link": "https://github.com/sponsors/junegunn",
+        "description": "🌸 A command-line fuzzy finder",
+        "stars": "71,779",
+        "forks": "2,544"
+    }
+]
