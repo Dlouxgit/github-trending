@@ -1,0 +1,114 @@
+[
+    {
+        "title": "Alibaba-NLP/WebAgent",
+        "link": "https://github.com/login?return_to=%2FAlibaba-NLP%2FWebAgent",
+        "description": "🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592",
+        "stars": "3,271",
+        "forks": "223"
+    },
+    {
+        "title": "WordPress/wordpress-develop",
+        "link": "https://github.com/login?return_to=%2FWordPress%2Fwordpress-develop",
+        "description": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
+        "stars": "2,873",
+        "forks": "2,966"
+    },
+    {
+        "title": "googleapis/genai-toolbox",
+        "link": "https://github.com/login?return_to=%2Fgoogleapis%2Fgenai-toolbox",
+        "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+        "stars": "4,958",
+        "forks": "386"
+    },
+    {
+        "title": "LMCache/LMCache",
+        "link": "https://github.com/login?return_to=%2FLMCache%2FLMCache",
+        "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
+        "stars": "2,838",
+        "forks": "322"
+    },
+    {
+        "title": "forthespada/CS-Books",
+        "link": "https://github.com/login?return_to=%2Fforthespada%2FCS-Books",
+        "description": "🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~",
+        "stars": "23,658",
+        "forks": "3,905"
+    },
+    {
+        "title": "ByteByteGoHq/system-design-101",
+        "link": "https://github.com/login?return_to=%2FByteByteGoHq%2Fsystem-design-101",
+        "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+        "stars": "74,214",
+        "forks": "7,938"
+    },
+    {
+        "title": "snap-stanford/Biomni",
+        "link": "https://github.com/login?return_to=%2Fsnap-stanford%2FBiomni",
+        "description": "Biomni: a general-purpose biomedical AI agent",
+        "stars": "1,025",
+        "forks": "109"
+    },
+    {
+        "title": "pybind/pybind11",
+        "link": "https://github.com/login?return_to=%2Fpybind%2Fpybind11",
+        "description": "Seamless operability between C++11 and Python",
+        "stars": "16,867",
+        "forks": "2,189"
+    },
+    {
+        "title": "punkpeye/awesome-mcp-clients",
+        "link": "https://github.com/login?return_to=%2Fpunkpeye%2Fawesome-mcp-clients",
+        "description": "A collection of MCP clients.",
+        "stars": "4,562",
+        "forks": "315"
+    },
+    {
+        "title": "FujiwaraChoki/MoneyPrinterV2",
+        "link": "https://github.com/sponsors/FujiwaraChoki",
+        "description": "Automate the process of making money online.",
+        "stars": "12,248",
+        "forks": "1,155"
+    },
+    {
+        "title": "helm/helm",
+        "link": "https://github.com/login?return_to=%2Fhelm%2Fhelm",
+        "description": "The Kubernetes Package Manager",
+        "stars": "28,177",
+        "forks": "7,279"
+    },
+    {
+        "title": "coleam00/ai-agents-masterclass",
+        "link": "https://github.com/login?return_to=%2Fcoleam00%2Fai-agents-masterclass",
+        "description": "Follow along with my AI Agents Masterclass videos! All of the code I create and use in this series on YouTube will be here for you to use and even build on top of!",
+        "stars": "2,552",
+        "forks": "1,115"
+    },
+    {
+        "title": "HandsOnLLM/Hands-On-Large-Language-Models",
+        "link": "https://github.com/login?return_to=%2FHandsOnLLM%2FHands-On-Large-Language-Models",
+        "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+        "stars": "11,915",
+        "forks": "2,776"
+    },
+    {
+        "title": "volcengine/verl",
+        "link": "https://github.com/login?return_to=%2Fvolcengine%2Fverl",
+        "description": "verl: Volcano Engine Reinforcement Learning for LLMs",
+        "stars": "10,749",
+        "forks": "1,775"
+    },
+    {
+        "title": "hashicorp/terraform",
+        "link": "https://github.com/login?return_to=%2Fhashicorp%2Fterraform",
+        "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+        "stars": "45,637",
+        "forks": "9,929"
+    },
+    {
+        "title": "flutter/packages",
+        "link": "https://github.com/login?return_to=%2Fflutter%2Fpackages",
+        "description": "A collection of useful packages maintained by the Flutter team",
+        "stars": "4,840",
+        "forks": "3,359"
+    }
+]
