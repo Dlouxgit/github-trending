@@ -1,0 +1,107 @@
+[
+    {
+        "title": "protocolbuffers/protobuf",
+        "link": "https://github.com/login?return_to=%2Fprotocolbuffers%2Fprotobuf",
+        "description": "Protocol Buffers - Google's data interchange format",
+        "stars": "68,279",
+        "forks": "15,775"
+    },
+    {
+        "title": "googleapis/genai-toolbox",
+        "link": "https://github.com/login?return_to=%2Fgoogleapis%2Fgenai-toolbox",
+        "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+        "stars": "5,571",
+        "forks": "424"
+    },
+    {
+        "title": "Alibaba-NLP/WebAgent",
+        "link": "https://github.com/login?return_to=%2FAlibaba-NLP%2FWebAgent",
+        "description": "🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592",
+        "stars": "3,618",
+        "forks": "258"
+    },
+    {
+        "title": "WordPress/wordpress-develop",
+        "link": "https://github.com/login?return_to=%2FWordPress%2Fwordpress-develop",
+        "description": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
+        "stars": "2,946",
+        "forks": "2,973"
+    },
+    {
+        "title": "snap-stanford/Biomni",
+        "link": "https://github.com/login?return_to=%2Fsnap-stanford%2FBiomni",
+        "description": "Biomni: a general-purpose biomedical AI agent",
+        "stars": "1,320",
+        "forks": "137"
+    },
+    {
+        "title": "google/googletest",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Fgoogletest",
+        "description": "GoogleTest - Google Testing and Mocking Framework",
+        "stars": "36,352",
+        "forks": "10,425"
+    },
+    {
+        "title": "ByteByteGoHq/system-design-101",
+        "link": "https://github.com/login?return_to=%2FByteByteGoHq%2Fsystem-design-101",
+        "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+        "stars": "74,501",
+        "forks": "7,958"
+    },
+    {
+        "title": "goauthentik/authentik",
+        "link": "https://github.com/login?return_to=%2Fgoauthentik%2Fauthentik",
+        "description": "The authentication glue you need.",
+        "stars": "17,063",
+        "forks": "1,204"
+    },
+    {
+        "title": "LMCache/LMCache",
+        "link": "https://github.com/login?return_to=%2FLMCache%2FLMCache",
+        "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
+        "stars": "3,007",
+        "forks": "331"
+    },
+    {
+        "title": "punkpeye/awesome-mcp-clients",
+        "link": "https://github.com/login?return_to=%2Fpunkpeye%2Fawesome-mcp-clients",
+        "description": "A collection of MCP clients.",
+        "stars": "4,746",
+        "forks": "331"
+    },
+    {
+        "title": "hashicorp/terraform",
+        "link": "https://github.com/login?return_to=%2Fhashicorp%2Fterraform",
+        "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+        "stars": "45,775",
+        "forks": "9,937"
+    },
+    {
+        "title": "landing-ai/agentic-doc",
+        "link": "https://github.com/login?return_to=%2Flanding-ai%2Fagentic-doc",
+        "description": "Python library for Agentic Document Extraction from LandingAI",
+        "stars": "822",
+        "forks": "88"
+    },
+    {
+        "title": "open-telemetry/opentelemetry-go",
+        "link": "https://github.com/login?return_to=%2Fopen-telemetry%2Fopentelemetry-go",
+        "description": "OpenTelemetry Go API and SDK",
+        "stars": "5,855",
+        "forks": "1,195"
+    },
+    {
+        "title": "getsentry/sentry",
+        "link": "https://github.com/login?return_to=%2Fgetsentry%2Fsentry",
+        "description": "Developer-first error tracking and performance monitoring",
+        "stars": "41,378",
+        "forks": "4,388"
+    },
+    {
+        "title": "antiwork/flexile",
+        "link": "https://github.com/login?return_to=%2Fantiwork%2Fflexile",
+        "description": "Contractor payments as easy as 1-2-3",
+        "stars": "597",
+        "forks": "194"
+    }
+]
