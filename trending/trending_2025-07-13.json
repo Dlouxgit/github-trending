@@ -1,0 +1,107 @@
+[
+    {
+        "title": "snap-stanford/Biomni",
+        "link": "https://github.com/login?return_to=%2Fsnap-stanford%2FBiomni",
+        "description": "Biomni: a general-purpose biomedical AI agent",
+        "stars": "1,498",
+        "forks": "161"
+    },
+    {
+        "title": "open-telemetry/opentelemetry-go",
+        "link": "https://github.com/login?return_to=%2Fopen-telemetry%2Fopentelemetry-go",
+        "description": "OpenTelemetry Go API and SDK",
+        "stars": "5,916",
+        "forks": "1,199"
+    },
+    {
+        "title": "googleapis/genai-toolbox",
+        "link": "https://github.com/login?return_to=%2Fgoogleapis%2Fgenai-toolbox",
+        "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+        "stars": "5,970",
+        "forks": "450"
+    },
+    {
+        "title": "protocolbuffers/protobuf",
+        "link": "https://github.com/login?return_to=%2Fprotocolbuffers%2Fprotobuf",
+        "description": "Protocol Buffers - Google's data interchange format",
+        "stars": "68,475",
+        "forks": "15,789"
+    },
+    {
+        "title": "getzep/graphiti",
+        "link": "https://github.com/login?return_to=%2Fgetzep%2Fgraphiti",
+        "description": "Build Real-Time Knowledge Graphs for AI Agents",
+        "stars": "12,712",
+        "forks": "1,081"
+    },
+    {
+        "title": "pybind/pybind11",
+        "link": "https://github.com/login?return_to=%2Fpybind%2Fpybind11",
+        "description": "Seamless operability between C++11 and Python",
+        "stars": "16,959",
+        "forks": "2,194"
+    },
+    {
+        "title": "WordPress/wordpress-develop",
+        "link": "https://github.com/login?return_to=%2FWordPress%2Fwordpress-develop",
+        "description": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
+        "stars": "3,001",
+        "forks": "2,980"
+    },
+    {
+        "title": "gorhill/uBlock",
+        "link": "https://github.com/login?return_to=%2Fgorhill%2FuBlock",
+        "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+        "stars": "55,435",
+        "forks": "3,562"
+    },
+    {
+        "title": "landing-ai/agentic-doc",
+        "link": "https://github.com/login?return_to=%2Flanding-ai%2Fagentic-doc",
+        "description": "Python library for Agentic Document Extraction from LandingAI",
+        "stars": "954",
+        "forks": "98"
+    },
+    {
+        "title": "zijie0/HumanSystemOptimization",
+        "link": "https://github.com/login?return_to=%2Fzijie0%2FHumanSystemOptimization",
+        "description": "健康学习到150岁 - 人体系统调优不完全指南",
+        "stars": "19,417",
+        "forks": "1,383"
+    },
+    {
+        "title": "farhanashrafdev/90DaysOfCyberSecurity",
+        "link": "https://github.com/login?return_to=%2Ffarhanashrafdev%2F90DaysOfCyberSecurity",
+        "description": "This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md",
+        "stars": "9,474",
+        "forks": "1,100"
+    },
+    {
+        "title": "ocrmypdf/OCRmyPDF",
+        "link": "https://github.com/login?return_to=%2Focrmypdf%2FOCRmyPDF",
+        "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
+        "stars": "30,201",
+        "forks": "2,078"
+    },
+    {
+        "title": "psf/black",
+        "link": "https://github.com/sponsors/psf",
+        "description": "The uncompromising Python code formatter",
+        "stars": "40,569",
+        "forks": "2,606"
+    },
+    {
+        "title": "Alibaba-NLP/WebAgent",
+        "link": "https://github.com/login?return_to=%2FAlibaba-NLP%2FWebAgent",
+        "description": "🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592",
+        "stars": "3,799",
+        "forks": "275"
+    },
+    {
+        "title": "odoo/odoo",
+        "link": "https://github.com/login?return_to=%2Fodoo%2Fodoo",
+        "description": "Odoo. Open Source Apps To Grow Your Business.",
+        "stars": "44,235",
+        "forks": "28,650"
+    }
+]
