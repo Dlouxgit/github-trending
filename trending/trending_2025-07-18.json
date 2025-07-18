@@ -1,0 +1,107 @@
+[
+    {
+        "title": "microsoft/markitdown",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fmarkitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "stars": "66,626",
+        "forks": "3,532"
+    },
+    {
+        "title": "gitleaks/gitleaks",
+        "link": "https://github.com/login?return_to=%2Fgitleaks%2Fgitleaks",
+        "description": "Find secrets with Gitleaks 🔑",
+        "stars": "21,704",
+        "forks": "1,691"
+    },
+    {
+        "title": "soxoj/maigret",
+        "link": "https://github.com/sponsors/soxoj",
+        "description": "🕵️‍♂️ Collect a dossier on a person by username from thousands of sites",
+        "stars": "16,081",
+        "forks": "1,110"
+    },
+    {
+        "title": "maotoumao/MusicFree",
+        "link": "https://github.com/login?return_to=%2Fmaotoumao%2FMusicFree",
+        "description": "插件化、定制化、无广告的免费音乐播放器",
+        "stars": "18,506",
+        "forks": "1,171"
+    },
+    {
+        "title": "PromtEngineer/localGPT",
+        "link": "https://github.com/login?return_to=%2FPromtEngineer%2FlocalGPT",
+        "description": "Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.",
+        "stars": "21,396",
+        "forks": "2,359"
+    },
+    {
+        "title": "vanna-ai/vanna",
+        "link": "https://github.com/login?return_to=%2Fvanna-ai%2Fvanna",
+        "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+        "stars": "19,215",
+        "forks": "1,751"
+    },
+    {
+        "title": "AykutSarac/jsoncrack.com",
+        "link": "https://github.com/login?return_to=%2FAykutSarac%2Fjsoncrack.com",
+        "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+        "stars": "40,160",
+        "forks": "2,694"
+    },
+    {
+        "title": "musistudio/claude-code-router",
+        "link": "https://github.com/login?return_to=%2Fmusistudio%2Fclaude-code-router",
+        "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
+        "stars": "5,429",
+        "forks": "413"
+    },
+    {
+        "title": "WasmEdge/WasmEdge",
+        "link": "https://github.com/login?return_to=%2FWasmEdge%2FWasmEdge",
+        "description": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.",
+        "stars": "9,798",
+        "forks": "872"
+    },
+    {
+        "title": "strapi/strapi",
+        "link": "https://github.com/login?return_to=%2Fstrapi%2Fstrapi",
+        "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
+        "stars": "67,988",
+        "forks": "8,749"
+    },
+    {
+        "title": "langchain-ai/open_deep_research",
+        "link": "https://github.com/login?return_to=%2Flangchain-ai%2Fopen_deep_research",
+        "description": "No description provided",
+        "stars": "4,772",
+        "forks": "689"
+    },
+    {
+        "title": "helix-editor/helix",
+        "link": "https://github.com/login?return_to=%2Fhelix-editor%2Fhelix",
+        "description": "A post-modern modal text editor.",
+        "stars": "38,773",
+        "forks": "2,929"
+    },
+    {
+        "title": "freeCodeCamp/devdocs",
+        "link": "https://github.com/sponsors/freeCodeCamp",
+        "description": "API Documentation Browser",
+        "stars": "36,664",
+        "forks": "2,443"
+    },
+    {
+        "title": "cloudcommunity/Free-Certifications",
+        "link": "https://github.com/login?return_to=%2Fcloudcommunity%2FFree-Certifications",
+        "description": "A curated list of free courses with certifications. Also available at https://free-certifications.com/",
+        "stars": "36,279",
+        "forks": "2,507"
+    },
+    {
+        "title": "Kyome22/RunCat365",
+        "link": "https://github.com/login?return_to=%2FKyome22%2FRunCat365",
+        "description": "A cute running cat animation on your windows taskbar.",
+        "stars": "8,162",
+        "forks": "684"
+    }
+]
