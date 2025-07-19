@@ -1,0 +1,114 @@
+[
+    {
+        "title": "microsoft/markitdown",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fmarkitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "stars": "67,857",
+        "forks": "3,586"
+    },
+    {
+        "title": "langchain-ai/open_deep_research",
+        "link": "https://github.com/login?return_to=%2Flangchain-ai%2Fopen_deep_research",
+        "description": "No description provided",
+        "stars": "5,052",
+        "forks": "719"
+    },
+    {
+        "title": "facebookresearch/segment-anything",
+        "link": "https://github.com/login?return_to=%2Ffacebookresearch%2Fsegment-anything",
+        "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+        "stars": "51,113",
+        "forks": "5,995"
+    },
+    {
+        "title": "hyprwm/Hyprland",
+        "link": "https://github.com/login?return_to=%2Fhyprwm%2FHyprland",
+        "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+        "stars": "27,199",
+        "forks": "1,151"
+    },
+    {
+        "title": "gitleaks/gitleaks",
+        "link": "https://github.com/login?return_to=%2Fgitleaks%2Fgitleaks",
+        "description": "Find secrets with Gitleaks 🔑",
+        "stars": "22,004",
+        "forks": "1,703"
+    },
+    {
+        "title": "soxoj/maigret",
+        "link": "https://github.com/sponsors/soxoj",
+        "description": "🕵️‍♂️ Collect a dossier on a person by username from thousands of sites",
+        "stars": "16,496",
+        "forks": "1,126"
+    },
+    {
+        "title": "arc53/DocsGPT",
+        "link": "https://github.com/sponsors/arc53",
+        "description": "DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in.",
+        "stars": "16,443",
+        "forks": "1,721"
+    },
+    {
+        "title": "Lightricks/LTX-Video",
+        "link": "https://github.com/login?return_to=%2FLightricks%2FLTX-Video",
+        "description": "Official repository for LTX-Video",
+        "stars": "7,274",
+        "forks": "627"
+    },
+    {
+        "title": "influxdata/telegraf",
+        "link": "https://github.com/login?return_to=%2Finfluxdata%2Ftelegraf",
+        "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+        "stars": "15,834",
+        "forks": "5,667"
+    },
+    {
+        "title": "PromtEngineer/localGPT",
+        "link": "https://github.com/login?return_to=%2FPromtEngineer%2FlocalGPT",
+        "description": "Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.",
+        "stars": "21,580",
+        "forks": "2,374"
+    },
+    {
+        "title": "n8n-io/n8n",
+        "link": "https://github.com/login?return_to=%2Fn8n-io%2Fn8n",
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "stars": "120,431",
+        "forks": "36,247"
+    },
+    {
+        "title": "remoteintech/remote-jobs",
+        "link": "https://github.com/login?return_to=%2Fremoteintech%2Fremote-jobs",
+        "description": "A list of semi to fully remote-friendly companies (jobs) in tech.",
+        "stars": "32,277",
+        "forks": "3,378"
+    },
+    {
+        "title": "nicklockwood/SwiftFormat",
+        "link": "https://github.com/login?return_to=%2Fnicklockwood%2FSwiftFormat",
+        "description": "A command-line tool and Xcode Extension for formatting Swift code",
+        "stars": "8,437",
+        "forks": "655"
+    },
+    {
+        "title": "Kyome22/RunCat365",
+        "link": "https://github.com/login?return_to=%2FKyome22%2FRunCat365",
+        "description": "A cute running cat animation on your windows taskbar.",
+        "stars": "8,360",
+        "forks": "696"
+    },
+    {
+        "title": "pydantic/pydantic-ai",
+        "link": "https://github.com/sponsors/pydantic",
+        "description": "Agent Framework / shim to use Pydantic with LLMs",
+        "stars": "11,027",
+        "forks": "1,047"
+    },
+    {
+        "title": "strapi/strapi",
+        "link": "https://github.com/login?return_to=%2Fstrapi%2Fstrapi",
+        "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
+        "stars": "68,233",
+        "forks": "8,758"
+    }
+]
