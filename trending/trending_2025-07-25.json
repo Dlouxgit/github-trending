@@ -1,0 +1,86 @@
+[
+    {
+        "title": "srbhr/Resume-Matcher",
+        "link": "https://github.com/sponsors/srbhr",
+        "description": "Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.",
+        "stars": "18,705",
+        "forks": "4,030"
+    },
+    {
+        "title": "OpenBB-finance/OpenBB",
+        "link": "https://github.com/login?return_to=%2FOpenBB-finance%2FOpenBB",
+        "description": "Investment Research for Everyone, Everywhere.",
+        "stars": "45,531",
+        "forks": "4,115"
+    },
+    {
+        "title": "HumanSignal/label-studio",
+        "link": "https://github.com/login?return_to=%2FHumanSignal%2Flabel-studio",
+        "description": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+        "stars": "23,675",
+        "forks": "2,935"
+    },
+    {
+        "title": "yeongpin/cursor-free-vip",
+        "link": "https://github.com/login?return_to=%2Fyeongpin%2Fcursor-free-vip",
+        "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
+        "stars": "33,098",
+        "forks": "4,082"
+    },
+    {
+        "title": "aaPanel/BillionMail",
+        "link": "https://github.com/login?return_to=%2FaaPanel%2FBillionMail",
+        "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+        "stars": "7,327",
+        "forks": "623"
+    },
+    {
+        "title": "frappe/hrms",
+        "link": "https://github.com/login?return_to=%2Ffrappe%2Fhrms",
+        "description": "Open Source HR and Payroll Software",
+        "stars": "3,647",
+        "forks": "1,313"
+    },
+    {
+        "title": "QwenLM/Qwen3",
+        "link": "https://github.com/login?return_to=%2FQwenLM%2FQwen3",
+        "description": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.",
+        "stars": "23,207",
+        "forks": "1,564"
+    },
+    {
+        "title": "microsoft/generative-ai-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fgenerative-ai-for-beginners",
+        "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+        "stars": "92,608",
+        "forks": "47,746"
+    },
+    {
+        "title": "minio/minio",
+        "link": "https://github.com/login?return_to=%2Fminio%2Fminio",
+        "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+        "stars": "54,058",
+        "forks": "6,032"
+    },
+    {
+        "title": "langchain-ai/rag-from-scratch",
+        "link": "https://github.com/login?return_to=%2Flangchain-ai%2Frag-from-scratch",
+        "description": "No description provided",
+        "stars": "4,925",
+        "forks": "1,343"
+    },
+    {
+        "title": "BerriAI/litellm",
+        "link": "https://github.com/login?return_to=%2FBerriAI%2Flitellm",
+        "description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]",
+        "stars": "26,011",
+        "forks": "3,590"
+    },
+    {
+        "title": "juspay/hyperswitch",
+        "link": "https://github.com/login?return_to=%2Fjuspay%2Fhyperswitch",
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "stars": "22,603",
+        "forks": "3,888"
+    }
+]
