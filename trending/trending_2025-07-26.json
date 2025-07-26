@@ -1,0 +1,93 @@
+[
+    {
+        "title": "QwenLM/Qwen3-Coder",
+        "link": "https://github.com/login?return_to=%2FQwenLM%2FQwen3-Coder",
+        "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.",
+        "stars": "8,866",
+        "forks": "633"
+    },
+    {
+        "title": "m1k1o/neko",
+        "link": "https://github.com/sponsors/m1k1o",
+        "description": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+        "stars": "13,629",
+        "forks": "853"
+    },
+    {
+        "title": "juspay/hyperswitch",
+        "link": "https://github.com/login?return_to=%2Fjuspay%2Fhyperswitch",
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "stars": "22,747",
+        "forks": "3,893"
+    },
+    {
+        "title": "semgrep/semgrep",
+        "link": "https://github.com/login?return_to=%2Fsemgrep%2Fsemgrep",
+        "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
+        "stars": "12,265",
+        "forks": "746"
+    },
+    {
+        "title": "OpenBB-finance/OpenBB",
+        "link": "https://github.com/login?return_to=%2FOpenBB-finance%2FOpenBB",
+        "description": "Investment Research for Everyone, Everywhere.",
+        "stars": "46,082",
+        "forks": "4,180"
+    },
+    {
+        "title": "frappe/hrms",
+        "link": "https://github.com/login?return_to=%2Ffrappe%2Fhrms",
+        "description": "Open Source HR and Payroll Software",
+        "stars": "4,243",
+        "forks": "1,354"
+    },
+    {
+        "title": "tensorzero/tensorzero",
+        "link": "https://github.com/login?return_to=%2Ftensorzero%2Ftensorzero",
+        "description": "TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.",
+        "stars": "8,933",
+        "forks": "569"
+    },
+    {
+        "title": "software-mansion/react-native-reanimated",
+        "link": "https://github.com/sponsors/software-mansion",
+        "description": "React Native's Animated library reimplemented",
+        "stars": "9,944",
+        "forks": "1,389"
+    },
+    {
+        "title": "steven2358/awesome-generative-ai",
+        "link": "https://github.com/login?return_to=%2Fsteven2358%2Fawesome-generative-ai",
+        "description": "A curated list of modern Generative Artificial Intelligence projects and services",
+        "stars": "9,418",
+        "forks": "1,038"
+    },
+    {
+        "title": "srbhr/Resume-Matcher",
+        "link": "https://github.com/sponsors/srbhr",
+        "description": "Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.",
+        "stars": "19,691",
+        "forks": "4,095"
+    },
+    {
+        "title": "aaPanel/BillionMail",
+        "link": "https://github.com/login?return_to=%2FaaPanel%2FBillionMail",
+        "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+        "stars": "7,716",
+        "forks": "650"
+    },
+    {
+        "title": "moby/moby",
+        "link": "https://github.com/login?return_to=%2Fmoby%2Fmoby",
+        "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+        "stars": "70,304",
+        "forks": "18,786"
+    },
+    {
+        "title": "twbs/bootstrap",
+        "link": "https://github.com/sponsors/twbs",
+        "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+        "stars": "172,665",
+        "forks": "79,114"
+    }
+]
