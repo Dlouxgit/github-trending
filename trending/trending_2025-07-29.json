@@ -1,0 +1,79 @@
+[
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "53,008",
+        "forks": "6,181"
+    },
+    {
+        "title": "Genesis-Embodied-AI/Genesis",
+        "link": "https://github.com/login?return_to=%2FGenesis-Embodied-AI%2FGenesis",
+        "description": "A generative world for general-purpose robotics & embodied AI learning.",
+        "stars": "26,647",
+        "forks": "2,420"
+    },
+    {
+        "title": "daveebbelaar/ai-cookbook",
+        "link": "https://github.com/login?return_to=%2Fdaveebbelaar%2Fai-cookbook",
+        "description": "Examples and tutorials to help developers build AI systems",
+        "stars": "2,172",
+        "forks": "825"
+    },
+    {
+        "title": "tldr-pages/tldr",
+        "link": "https://github.com/login?return_to=%2Ftldr-pages%2Ftldr",
+        "description": "📚 Collaborative cheatsheets for console commands",
+        "stars": "57,208",
+        "forks": "4,604"
+    },
+    {
+        "title": "microsoft/generative-ai-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fgenerative-ai-for-beginners",
+        "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+        "stars": "93,375",
+        "forks": "48,219"
+    },
+    {
+        "title": "dgtlmoon/changedetection.io",
+        "link": "https://github.com/login?return_to=%2Fdgtlmoon%2Fchangedetection.io",
+        "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
+        "stars": "25,459",
+        "forks": "1,406"
+    },
+    {
+        "title": "mikf/gallery-dl",
+        "link": "https://github.com/login?return_to=%2Fmikf%2Fgallery-dl",
+        "description": "Command-line program to download image galleries and collections from several image hosting sites",
+        "stars": "14,448",
+        "forks": "1,155"
+    },
+    {
+        "title": "outline/outline",
+        "link": "https://github.com/sponsors/outline",
+        "description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
+        "stars": "33,208",
+        "forks": "2,720"
+    },
+    {
+        "title": "ashishpatel26/500-AI-Agents-Projects",
+        "link": "https://github.com/login?return_to=%2Fashishpatel26%2F500-AI-Agents-Projects",
+        "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+        "stars": "2,749",
+        "forks": "660"
+    },
+    {
+        "title": "mattermost-community/focalboard",
+        "link": "https://github.com/login?return_to=%2Fmattermost-community%2Ffocalboard",
+        "description": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
+        "stars": "24,108",
+        "forks": "2,255"
+    },
+    {
+        "title": "SillyTavern/SillyTavern",
+        "link": "https://github.com/login?return_to=%2FSillyTavern%2FSillyTavern",
+        "description": "LLM Frontend for Power Users.",
+        "stars": "16,650",
+        "forks": "3,693"
+    }
+]
