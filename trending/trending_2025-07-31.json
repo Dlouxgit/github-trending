@@ -1,0 +1,79 @@
+[
+    {
+        "title": "9001/copyparty",
+        "link": "https://github.com/sponsors/9001",
+        "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps",
+        "stars": "14,166",
+        "forks": "443"
+    },
+    {
+        "title": "roboflow/supervision",
+        "link": "https://github.com/login?return_to=%2Froboflow%2Fsupervision",
+        "description": "We write your reusable computer vision tools. 💜",
+        "stars": "32,031",
+        "forks": "2,550"
+    },
+    {
+        "title": "outline/outline",
+        "link": "https://github.com/sponsors/outline",
+        "description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
+        "stars": "33,702",
+        "forks": "2,736"
+    },
+    {
+        "title": "linshenkx/prompt-optimizer",
+        "link": "https://github.com/login?return_to=%2Flinshenkx%2Fprompt-optimizer",
+        "description": "一款提示词优化器，助力于编写高质量的提示词",
+        "stars": "11,421",
+        "forks": "1,396"
+    },
+    {
+        "title": "tldr-pages/tldr",
+        "link": "https://github.com/login?return_to=%2Ftldr-pages%2Ftldr",
+        "description": "📚 Collaborative cheatsheets for console commands",
+        "stars": "57,911",
+        "forks": "4,637"
+    },
+    {
+        "title": "mikf/gallery-dl",
+        "link": "https://github.com/login?return_to=%2Fmikf%2Fgallery-dl",
+        "description": "Command-line program to download image galleries and collections from several image hosting sites",
+        "stars": "14,637",
+        "forks": "1,163"
+    },
+    {
+        "title": "sindresorhus/awesome",
+        "link": "https://github.com/sponsors/sindresorhus",
+        "description": "😎 Awesome lists about all kinds of interesting topics",
+        "stars": "387,227",
+        "forks": "30,910"
+    },
+    {
+        "title": "ashishpatel26/500-AI-Agents-Projects",
+        "link": "https://github.com/login?return_to=%2Fashishpatel26%2F500-AI-Agents-Projects",
+        "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+        "stars": "4,123",
+        "forks": "768"
+    },
+    {
+        "title": "cloudwego/eino",
+        "link": "https://github.com/login?return_to=%2Fcloudwego%2Feino",
+        "description": "The ultimate LLM/AI application development framework in Golang.",
+        "stars": "5,932",
+        "forks": "468"
+    },
+    {
+        "title": "mattermost-community/focalboard",
+        "link": "https://github.com/login?return_to=%2Fmattermost-community%2Ffocalboard",
+        "description": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
+        "stars": "24,366",
+        "forks": "2,265"
+    },
+    {
+        "title": "LMCache/LMCache",
+        "link": "https://github.com/login?return_to=%2FLMCache%2FLMCache",
+        "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
+        "stars": "3,633",
+        "forks": "410"
+    }
+]
