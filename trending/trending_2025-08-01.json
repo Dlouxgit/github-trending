@@ -1,0 +1,100 @@
+[
+    {
+        "title": "kijai/ComfyUI-WanVideoWrapper",
+        "link": "https://github.com/sponsors/kijai",
+        "description": "No description provided",
+        "stars": "3,640",
+        "forks": "273"
+    },
+    {
+        "title": "stenzek/duckstation",
+        "link": "https://github.com/login?return_to=%2Fstenzek%2Fduckstation",
+        "description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64",
+        "stars": "8,653",
+        "forks": "784"
+    },
+    {
+        "title": "SkyworkAI/SkyReels-V2",
+        "link": "https://github.com/login?return_to=%2FSkyworkAI%2FSkyReels-V2",
+        "description": "SkyReels-V2: Infinite-length Film Generative model",
+        "stars": "3,879",
+        "forks": "489"
+    },
+    {
+        "title": "OpenPipe/ART",
+        "link": "https://github.com/login?return_to=%2FOpenPipe%2FART",
+        "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!",
+        "stars": "4,213",
+        "forks": "260"
+    },
+    {
+        "title": "EmenstaNougat/ESP32-BlueJammer",
+        "link": "https://github.com/login?return_to=%2FEmenstaNougat%2FESP32-BlueJammer",
+        "description": "The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interference between the devices communicating, making them unable to work as intended. Ideal for controlled disruption and security testing.",
+        "stars": "3,556",
+        "forks": "519"
+    },
+    {
+        "title": "9001/copyparty",
+        "link": "https://github.com/sponsors/9001",
+        "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps",
+        "stars": "16,473",
+        "forks": "529"
+    },
+    {
+        "title": "puppeteer/puppeteer",
+        "link": "https://github.com/login?return_to=%2Fpuppeteer%2Fpuppeteer",
+        "description": "JavaScript API for Chrome and Firefox",
+        "stars": "91,407",
+        "forks": "9,243"
+    },
+    {
+        "title": "Canner/WrenAI",
+        "link": "https://github.com/login?return_to=%2FCanner%2FWrenAI",
+        "description": "⚡️Wren AI is your GenBI Agent, that you can query any database with natural language, get accurate SQL(Text-to-SQL), charts(Text-to-Charts) & AI-generated insights in seconds.",
+        "stars": "9,204",
+        "forks": "941"
+    },
+    {
+        "title": "pointfreeco/swift-composable-architecture",
+        "link": "https://github.com/login?return_to=%2Fpointfreeco%2Fswift-composable-architecture",
+        "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+        "stars": "13,571",
+        "forks": "1,556"
+    },
+    {
+        "title": "fastrepl/hyprnote",
+        "link": "https://github.com/sponsors/fastrepl",
+        "description": "Local-first AI Notepad for Private Meetings",
+        "stars": "3,703",
+        "forks": "187"
+    },
+    {
+        "title": "NemProject/nem",
+        "link": "https://github.com/login?return_to=%2FNemProject%2Fnem",
+        "description": "number go up 💹",
+        "stars": "75",
+        "forks": "18"
+    },
+    {
+        "title": "linkwarden/linkwarden",
+        "link": "https://github.com/login?return_to=%2Flinkwarden%2Flinkwarden",
+        "description": "⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.",
+        "stars": "13,514",
+        "forks": "524"
+    },
+    {
+        "title": "rustdesk/rustdesk",
+        "link": "https://github.com/sponsors/rustdesk",
+        "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+        "stars": "94,497",
+        "forks": "13,823"
+    },
+    {
+        "title": "cloudwego/eino",
+        "link": "https://github.com/login?return_to=%2Fcloudwego%2Feino",
+        "description": "The ultimate LLM/AI application development framework in Golang.",
+        "stars": "6,119",
+        "forks": "475"
+    }
+]
