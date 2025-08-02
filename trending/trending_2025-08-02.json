@@ -1,0 +1,86 @@
+[
+    {
+        "title": "OpenPipe/ART",
+        "link": "https://github.com/login?return_to=%2FOpenPipe%2FART",
+        "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!",
+        "stars": "4,555",
+        "forks": "278"
+    },
+    {
+        "title": "TandoorRecipes/recipes",
+        "link": "https://github.com/login?return_to=%2FTandoorRecipes%2Frecipes",
+        "description": "Application for managing recipes, planning meals, building shopping lists and much much more!",
+        "stars": "6,753",
+        "forks": "660"
+    },
+    {
+        "title": "devlikeapro/waha",
+        "link": "https://github.com/login?return_to=%2Fdevlikeapro%2Fwaha",
+        "description": "WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)",
+        "stars": "2,593",
+        "forks": "656"
+    },
+    {
+        "title": "puppeteer/puppeteer",
+        "link": "https://github.com/login?return_to=%2Fpuppeteer%2Fpuppeteer",
+        "description": "JavaScript API for Chrome and Firefox",
+        "stars": "91,541",
+        "forks": "9,251"
+    },
+    {
+        "title": "kubesphere/kubesphere",
+        "link": "https://github.com/login?return_to=%2Fkubesphere%2Fkubesphere",
+        "description": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",
+        "stars": "16,314",
+        "forks": "2,456"
+    },
+    {
+        "title": "eclipse-sumo/sumo",
+        "link": "https://github.com/login?return_to=%2Feclipse-sumo%2Fsumo",
+        "description": "Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.",
+        "stars": "3,125",
+        "forks": "1,582"
+    },
+    {
+        "title": "9001/copyparty",
+        "link": "https://github.com/sponsors/9001",
+        "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps",
+        "stars": "17,673",
+        "forks": "578"
+    },
+    {
+        "title": "dyad-sh/dyad",
+        "link": "https://github.com/login?return_to=%2Fdyad-sh%2Fdyad",
+        "description": "Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!",
+        "stars": "3,138",
+        "forks": "449"
+    },
+    {
+        "title": "stenzek/duckstation",
+        "link": "https://github.com/login?return_to=%2Fstenzek%2Fduckstation",
+        "description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64",
+        "stars": "8,821",
+        "forks": "791"
+    },
+    {
+        "title": "playcanvas/editor",
+        "link": "https://github.com/login?return_to=%2Fplaycanvas%2Feditor",
+        "description": "Powerful visual editor environment for building WebGL, WebGPU, WebXR apps",
+        "stars": "501",
+        "forks": "67"
+    },
+    {
+        "title": "TideDra/zotero-arxiv-daily",
+        "link": "https://github.com/login?return_to=%2FTideDra%2Fzotero-arxiv-daily",
+        "description": "Recommend new arxiv papers of your interest daily according to your Zotero libarary.",
+        "stars": "2,416",
+        "forks": "2,250"
+    },
+    {
+        "title": "Huanshere/VideoLingo",
+        "link": "https://github.com/login?return_to=%2FHuanshere%2FVideoLingo",
+        "description": "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+        "stars": "14,330",
+        "forks": "1,466"
+    }
+]
