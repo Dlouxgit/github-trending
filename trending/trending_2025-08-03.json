@@ -1,0 +1,79 @@
+[
+    {
+        "title": "dyad-sh/dyad",
+        "link": "https://github.com/login?return_to=%2Fdyad-sh%2Fdyad",
+        "description": "Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!",
+        "stars": "3,737",
+        "forks": "503"
+    },
+    {
+        "title": "pointfreeco/swift-composable-architecture",
+        "link": "https://github.com/login?return_to=%2Fpointfreeco%2Fswift-composable-architecture",
+        "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+        "stars": "13,639",
+        "forks": "1,558"
+    },
+    {
+        "title": "MotiaDev/motia",
+        "link": "https://github.com/login?return_to=%2FMotiaDev%2Fmotia",
+        "description": "Unified Backend Framework for APIs, Events, and AI Agents",
+        "stars": "4,661",
+        "forks": "376"
+    },
+    {
+        "title": "OpenBAS-Platform/openbas",
+        "link": "https://github.com/login?return_to=%2FOpenBAS-Platform%2Fopenbas",
+        "description": "Open Adversary Exposure Validation Platform",
+        "stars": "1,253",
+        "forks": "149"
+    },
+    {
+        "title": "tonsky/FiraCode",
+        "link": "https://github.com/sponsors/tonsky",
+        "description": "Free monospaced font with programming ligatures",
+        "stars": "79,700",
+        "forks": "3,162"
+    },
+    {
+        "title": "kubesphere/kubesphere",
+        "link": "https://github.com/login?return_to=%2Fkubesphere%2Fkubesphere",
+        "description": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",
+        "stars": "16,442",
+        "forks": "2,484"
+    },
+    {
+        "title": "trekhleb/javascript-algorithms",
+        "link": "https://github.com/sponsors/trekhleb",
+        "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+        "stars": "192,562",
+        "forks": "30,798"
+    },
+    {
+        "title": "jlevy/the-art-of-command-line",
+        "link": "https://github.com/login?return_to=%2Fjlevy%2Fthe-art-of-command-line",
+        "description": "Master the command line, in one page",
+        "stars": "157,530",
+        "forks": "14,733"
+    },
+    {
+        "title": "lydiahallie/javascript-questions",
+        "link": "https://github.com/login?return_to=%2Flydiahallie%2Fjavascript-questions",
+        "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+        "stars": "64,490",
+        "forks": "9,163"
+    },
+    {
+        "title": "trimstray/the-book-of-secret-knowledge",
+        "link": "https://github.com/login?return_to=%2Ftrimstray%2Fthe-book-of-secret-knowledge",
+        "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+        "stars": "180,719",
+        "forks": "11,257"
+    },
+    {
+        "title": "Huanshere/VideoLingo",
+        "link": "https://github.com/login?return_to=%2FHuanshere%2FVideoLingo",
+        "description": "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+        "stars": "14,525",
+        "forks": "1,482"
+    }
+]
