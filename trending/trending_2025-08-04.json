@@ -1,0 +1,107 @@
+[
+    {
+        "title": "dyad-sh/dyad",
+        "link": "https://github.com/login?return_to=%2Fdyad-sh%2Fdyad",
+        "description": "Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!",
+        "stars": "5,018",
+        "forks": "607"
+    },
+    {
+        "title": "wg-easy/wg-easy",
+        "link": "https://github.com/login?return_to=%2Fwg-easy%2Fwg-easy",
+        "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
+        "stars": "21,106",
+        "forks": "2,006"
+    },
+    {
+        "title": "eclipse-sumo/sumo",
+        "link": "https://github.com/login?return_to=%2Feclipse-sumo%2Fsumo",
+        "description": "Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.",
+        "stars": "3,343",
+        "forks": "1,594"
+    },
+    {
+        "title": "trekhleb/javascript-algorithms",
+        "link": "https://github.com/sponsors/trekhleb",
+        "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+        "stars": "192,736",
+        "forks": "30,806"
+    },
+    {
+        "title": "XTLS/Xray-core",
+        "link": "https://github.com/login?return_to=%2FXTLS%2FXray-core",
+        "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+        "stars": "30,394",
+        "forks": "4,473"
+    },
+    {
+        "title": "jellyfin/jellyfin",
+        "link": "https://github.com/login?return_to=%2Fjellyfin%2Fjellyfin",
+        "description": "The Free Software Media System - Server Backend & API",
+        "stars": "41,877",
+        "forks": "3,752"
+    },
+    {
+        "title": "rasbt/LLMs-from-scratch",
+        "link": "https://github.com/login?return_to=%2Frasbt%2FLLMs-from-scratch",
+        "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+        "stars": "61,389",
+        "forks": "8,648"
+    },
+    {
+        "title": "LadybirdBrowser/ladybird",
+        "link": "https://github.com/login?return_to=%2FLadybirdBrowser%2Fladybird",
+        "description": "Truly independent web browser",
+        "stars": "46,308",
+        "forks": "1,989"
+    },
+    {
+        "title": "sst/opencode",
+        "link": "https://github.com/sponsors/sst",
+        "description": "AI coding agent, built for the terminal.",
+        "stars": "16,779",
+        "forks": "1,045"
+    },
+    {
+        "title": "TideDra/zotero-arxiv-daily",
+        "link": "https://github.com/login?return_to=%2FTideDra%2Fzotero-arxiv-daily",
+        "description": "Recommend new arxiv papers of your interest daily according to your Zotero libarary.",
+        "stars": "2,668",
+        "forks": "2,345"
+    },
+    {
+        "title": "TandoorRecipes/recipes",
+        "link": "https://github.com/login?return_to=%2FTandoorRecipes%2Frecipes",
+        "description": "Application for managing recipes, planning meals, building shopping lists and much much more!",
+        "stars": "7,007",
+        "forks": "675"
+    },
+    {
+        "title": "MotiaDev/motia",
+        "link": "https://github.com/login?return_to=%2FMotiaDev%2Fmotia",
+        "description": "Modern Backend Framework that unifies APIs, background jobs, workflows, and AI agents into a single cohesive system with built-in observability and state management.",
+        "stars": "4,868",
+        "forks": "381"
+    },
+    {
+        "title": "reflex-dev/reflex",
+        "link": "https://github.com/login?return_to=%2Freflex-dev%2Freflex",
+        "description": "🕸️ Web apps in pure Python 🐍",
+        "stars": "24,121",
+        "forks": "1,414"
+    },
+    {
+        "title": "flydelabs/flyde",
+        "link": "https://github.com/login?return_to=%2Fflydelabs%2Fflyde",
+        "description": "Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backend developers can collaborate on the same visual flows.",
+        "stars": "3,034",
+        "forks": "126"
+    },
+    {
+        "title": "pointfreeco/swift-composable-architecture",
+        "link": "https://github.com/login?return_to=%2Fpointfreeco%2Fswift-composable-architecture",
+        "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+        "stars": "13,691",
+        "forks": "1,561"
+    }
+]
