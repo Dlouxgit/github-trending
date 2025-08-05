@@ -1,0 +1,65 @@
+[
+    {
+        "title": "dyad-sh/dyad",
+        "link": "https://github.com/login?return_to=%2Fdyad-sh%2Fdyad",
+        "description": "Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!",
+        "stars": "7,040",
+        "forks": "733"
+    },
+    {
+        "title": "souzatharsis/podcastfy",
+        "link": "https://github.com/sponsors/souzatharsis",
+        "description": "An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI",
+        "stars": "4,582",
+        "forks": "535"
+    },
+    {
+        "title": "actualbudget/actual",
+        "link": "https://github.com/sponsors/actualbudget",
+        "description": "A local-first personal finance app",
+        "stars": "20,834",
+        "forks": "1,680"
+    },
+    {
+        "title": "MotiaDev/motia",
+        "link": "https://github.com/login?return_to=%2FMotiaDev%2Fmotia",
+        "description": "Modern Backend Framework that unifies APIs, background jobs, workflows, and AI agents into a single cohesive system with built-in observability and state management.",
+        "stars": "5,191",
+        "forks": "399"
+    },
+    {
+        "title": "rasbt/LLMs-from-scratch",
+        "link": "https://github.com/login?return_to=%2Frasbt%2FLLMs-from-scratch",
+        "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+        "stars": "61,972",
+        "forks": "8,694"
+    },
+    {
+        "title": "MaaAssistantArknights/MaaAssistantArknights",
+        "link": "https://github.com/login?return_to=%2FMaaAssistantArknights%2FMaaAssistantArknights",
+        "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+        "stars": "17,264",
+        "forks": "2,250"
+    },
+    {
+        "title": "reflex-dev/reflex",
+        "link": "https://github.com/login?return_to=%2Freflex-dev%2Freflex",
+        "description": "🕸️ Web apps in pure Python 🐍",
+        "stars": "24,582",
+        "forks": "1,444"
+    },
+    {
+        "title": "jellyfin/jellyfin",
+        "link": "https://github.com/login?return_to=%2Fjellyfin%2Fjellyfin",
+        "description": "The Free Software Media System - Server Backend & API",
+        "stars": "42,087",
+        "forks": "3,757"
+    },
+    {
+        "title": "wg-easy/wg-easy",
+        "link": "https://github.com/login?return_to=%2Fwg-easy%2Fwg-easy",
+        "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
+        "stars": "21,521",
+        "forks": "2,018"
+    }
+]
