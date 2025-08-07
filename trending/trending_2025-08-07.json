@@ -1,0 +1,114 @@
+[
+    {
+        "title": "nautechsystems/nautilus_trader",
+        "link": "https://github.com/login?return_to=%2Fnautechsystems%2Fnautilus_trader",
+        "description": "A high-performance algorithmic trading platform and event-driven backtester",
+        "stars": "11,672",
+        "forks": "1,332"
+    },
+    {
+        "title": "dyad-sh/dyad",
+        "link": "https://github.com/login?return_to=%2Fdyad-sh%2Fdyad",
+        "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
+        "stars": "10,764",
+        "forks": "1,010"
+    },
+    {
+        "title": "simstudioai/sim",
+        "link": "https://github.com/login?return_to=%2Fsimstudioai%2Fsim",
+        "description": "Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.",
+        "stars": "6,815",
+        "forks": "909"
+    },
+    {
+        "title": "browserbase/stagehand",
+        "link": "https://github.com/login?return_to=%2Fbrowserbase%2Fstagehand",
+        "description": "The AI Browser Automation Framework",
+        "stars": "15,320",
+        "forks": "921"
+    },
+    {
+        "title": "python-poetry/poetry",
+        "link": "https://github.com/login?return_to=%2Fpython-poetry%2Fpoetry",
+        "description": "Python packaging and dependency management made easy",
+        "stars": "33,617",
+        "forks": "2,364"
+    },
+    {
+        "title": "blakeblackshear/frigate",
+        "link": "https://github.com/sponsors/blakeblackshear",
+        "description": "NVR with realtime local object detection for IP cameras",
+        "stars": "24,722",
+        "forks": "2,289"
+    },
+    {
+        "title": "ethereum/solidity",
+        "link": "https://github.com/login?return_to=%2Fethereum%2Fsolidity",
+        "description": "Solidity, the Smart Contract Programming Language",
+        "stars": "24,855",
+        "forks": "6,145"
+    },
+    {
+        "title": "openssl/openssl",
+        "link": "https://github.com/sponsors/openssl",
+        "description": "TLS/SSL and crypto library",
+        "stars": "28,227",
+        "forks": "10,758"
+    },
+    {
+        "title": "themactep/thingino-firmware",
+        "link": "https://github.com/sponsors/themactep",
+        "description": "Open-source firmware for Ingenic SoC IP cameras",
+        "stars": "965",
+        "forks": "126"
+    },
+    {
+        "title": "dstotijn/hetty",
+        "link": "https://github.com/sponsors/dstotijn",
+        "description": "An HTTP toolkit for security research.",
+        "stars": "7,791",
+        "forks": "434"
+    },
+    {
+        "title": "MaaAssistantArknights/MaaAssistantArknights",
+        "link": "https://github.com/login?return_to=%2FMaaAssistantArknights%2FMaaAssistantArknights",
+        "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+        "stars": "17,392",
+        "forks": "2,252"
+    },
+    {
+        "title": "JetBrains/intellij-community",
+        "link": "https://github.com/login?return_to=%2FJetBrains%2Fintellij-community",
+        "description": "IntelliJ IDEA & IntelliJ Platform",
+        "stars": "18,526",
+        "forks": "5,500"
+    },
+    {
+        "title": "open-edge-platform/anomalib",
+        "link": "https://github.com/login?return_to=%2Fopen-edge-platform%2Fanomalib",
+        "description": "An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.",
+        "stars": "4,695",
+        "forks": "785"
+    },
+    {
+        "title": "confident-ai/deepeval",
+        "link": "https://github.com/login?return_to=%2Fconfident-ai%2Fdeepeval",
+        "description": "The LLM Evaluation Framework",
+        "stars": "9,923",
+        "forks": "860"
+    },
+    {
+        "title": "prisma/prisma",
+        "link": "https://github.com/login?return_to=%2Fprisma%2Fprisma",
+        "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+        "stars": "43,187",
+        "forks": "1,822"
+    },
+    {
+        "title": "openai/openai-cookbook",
+        "link": "https://github.com/login?return_to=%2Fopenai%2Fopenai-cookbook",
+        "description": "Examples and guides for using the OpenAI API",
+        "stars": "66,047",
+        "forks": "10,973"
+    }
+]
