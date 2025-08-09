@@ -1,0 +1,93 @@
+[
+    {
+        "title": "nautechsystems/nautilus_trader",
+        "link": "https://github.com/login?return_to=%2Fnautechsystems%2Fnautilus_trader",
+        "description": "A high-performance algorithmic trading platform and event-driven backtester",
+        "stars": "13,112",
+        "forks": "1,425"
+    },
+    {
+        "title": "openai/openai-cookbook",
+        "link": "https://github.com/login?return_to=%2Fopenai%2Fopenai-cookbook",
+        "description": "Examples and guides for using the OpenAI API",
+        "stars": "66,624",
+        "forks": "11,038"
+    },
+    {
+        "title": "openai/codex",
+        "link": "https://github.com/login?return_to=%2Fopenai%2Fcodex",
+        "description": "Lightweight coding agent that runs in your terminal",
+        "stars": "32,869",
+        "forks": "3,816"
+    },
+    {
+        "title": "netbirdio/netbird",
+        "link": "https://github.com/sponsors/netbirdio",
+        "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+        "stars": "17,919",
+        "forks": "832"
+    },
+    {
+        "title": "FFmpeg/asm-lessons",
+        "link": "https://github.com/login?return_to=%2FFFmpeg%2Fasm-lessons",
+        "description": "FFMPEG Assembly Language Lessons",
+        "stars": "7,740",
+        "forks": "223"
+    },
+    {
+        "title": "polarsource/polar",
+        "link": "https://github.com/login?return_to=%2Fpolarsource%2Fpolar",
+        "description": "An open source engine for your digital products. Sell SaaS and digital products in minutes.",
+        "stars": "6,158",
+        "forks": "387"
+    },
+    {
+        "title": "python-poetry/poetry",
+        "link": "https://github.com/login?return_to=%2Fpython-poetry%2Fpoetry",
+        "description": "Python packaging and dependency management made easy",
+        "stars": "33,763",
+        "forks": "2,369"
+    },
+    {
+        "title": "google/adk-python",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Fadk-python",
+        "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+        "stars": "11,845",
+        "forks": "1,646"
+    },
+    {
+        "title": "browserbase/stagehand",
+        "link": "https://github.com/login?return_to=%2Fbrowserbase%2Fstagehand",
+        "description": "The AI Browser Automation Framework",
+        "stars": "15,909",
+        "forks": "950"
+    },
+    {
+        "title": "e2b-dev/awesome-ai-agents",
+        "link": "https://github.com/login?return_to=%2Fe2b-dev%2Fawesome-ai-agents",
+        "description": "A list of AI autonomous agents",
+        "stars": "20,699",
+        "forks": "1,649"
+    },
+    {
+        "title": "backstage/backstage",
+        "link": "https://github.com/login?return_to=%2Fbackstage%2Fbackstage",
+        "description": "Backstage is an open framework for building developer portals",
+        "stars": "31,024",
+        "forks": "6,716"
+    },
+    {
+        "title": "google/adk-samples",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Fadk-samples",
+        "description": "A collection of sample agents built with Agent Development (ADK)",
+        "stars": "4,273",
+        "forks": "1,226"
+    },
+    {
+        "title": "openai/openai-python",
+        "link": "https://github.com/login?return_to=%2Fopenai%2Fopenai-python",
+        "description": "The official Python library for the OpenAI API",
+        "stars": "27,878",
+        "forks": "4,139"
+    }
+]
