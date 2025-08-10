@@ -1,0 +1,100 @@
+[
+    {
+        "title": "openai/codex",
+        "link": "https://github.com/login?return_to=%2Fopenai%2Fcodex",
+        "description": "Lightweight coding agent that runs in your terminal",
+        "stars": "33,416",
+        "forks": "3,861"
+    },
+    {
+        "title": "xiaoyaocz/dart_simple_live",
+        "link": "https://github.com/login?return_to=%2Fxiaoyaocz%2Fdart_simple_live",
+        "description": "简简单单的看直播",
+        "stars": "12,008",
+        "forks": "846"
+    },
+    {
+        "title": "nautechsystems/nautilus_trader",
+        "link": "https://github.com/login?return_to=%2Fnautechsystems%2Fnautilus_trader",
+        "description": "A high-performance algorithmic trading platform and event-driven backtester",
+        "stars": "13,350",
+        "forks": "1,439"
+    },
+    {
+        "title": "nomic-ai/gpt4all",
+        "link": "https://github.com/login?return_to=%2Fnomic-ai%2Fgpt4all",
+        "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+        "stars": "74,083",
+        "forks": "8,079"
+    },
+    {
+        "title": "polarsource/polar",
+        "link": "https://github.com/login?return_to=%2Fpolarsource%2Fpolar",
+        "description": "An open source engine for your digital products. Sell SaaS and digital products in minutes.",
+        "stars": "6,414",
+        "forks": "400"
+    },
+    {
+        "title": "exo-explore/exo",
+        "link": "https://github.com/login?return_to=%2Fexo-explore%2Fexo",
+        "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+        "stars": "29,569",
+        "forks": "1,894"
+    },
+    {
+        "title": "steveiliop56/tinyauth",
+        "link": "https://github.com/sponsors/steveiliop56",
+        "description": "The simplest way to protect your apps with a login screen.",
+        "stars": "4,155",
+        "forks": "112"
+    },
+    {
+        "title": "lfnovo/open-notebook",
+        "link": "https://github.com/login?return_to=%2Flfnovo%2Fopen-notebook",
+        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+        "stars": "2,929",
+        "forks": "275"
+    },
+    {
+        "title": "libsdl-org/SDL",
+        "link": "https://github.com/login?return_to=%2Flibsdl-org%2FSDL",
+        "description": "Simple Directmedia Layer",
+        "stars": "13,048",
+        "forks": "2,292"
+    },
+    {
+        "title": "sinaptik-ai/pandas-ai",
+        "link": "https://github.com/login?return_to=%2Fsinaptik-ai%2Fpandas-ai",
+        "description": "Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.",
+        "stars": "21,612",
+        "forks": "2,096"
+    },
+    {
+        "title": "openai/openai-python",
+        "link": "https://github.com/login?return_to=%2Fopenai%2Fopenai-python",
+        "description": "The official Python library for the OpenAI API",
+        "stars": "28,166",
+        "forks": "4,156"
+    },
+    {
+        "title": "tadata-org/fastapi_mcp",
+        "link": "https://github.com/login?return_to=%2Ftadata-org%2Ffastapi_mcp",
+        "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
+        "stars": "7,115",
+        "forks": "583"
+    },
+    {
+        "title": "datawhalechina/self-llm",
+        "link": "https://github.com/login?return_to=%2Fdatawhalechina%2Fself-llm",
+        "description": "《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程",
+        "stars": "22,887",
+        "forks": "2,306"
+    },
+    {
+        "title": "zumerlab/snapdom",
+        "link": "https://github.com/sponsors/zumerlab",
+        "description": "snapDOM captures HTML elements to images with exceptional speed and accuracy.",
+        "stars": "4,966",
+        "forks": "162"
+    }
+]
