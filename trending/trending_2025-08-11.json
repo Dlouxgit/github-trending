@@ -1,0 +1,93 @@
+[
+    {
+        "title": "umami-software/umami",
+        "link": "https://github.com/login?return_to=%2Fumami-software%2Fumami",
+        "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
+        "stars": "28,569",
+        "forks": "5,325"
+    },
+    {
+        "title": "libsdl-org/SDL",
+        "link": "https://github.com/login?return_to=%2Flibsdl-org%2FSDL",
+        "description": "Simple Directmedia Layer",
+        "stars": "13,143",
+        "forks": "2,294"
+    },
+    {
+        "title": "menloresearch/jan",
+        "link": "https://github.com/login?return_to=%2Fmenloresearch%2Fjan",
+        "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+        "stars": "35,923",
+        "forks": "2,107"
+    },
+    {
+        "title": "nomic-ai/gpt4all",
+        "link": "https://github.com/login?return_to=%2Fnomic-ai%2Fgpt4all",
+        "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+        "stars": "74,276",
+        "forks": "8,088"
+    },
+    {
+        "title": "openai/codex",
+        "link": "https://github.com/login?return_to=%2Fopenai%2Fcodex",
+        "description": "Lightweight coding agent that runs in your terminal",
+        "stars": "33,963",
+        "forks": "3,904"
+    },
+    {
+        "title": "RSSNext/Folo",
+        "link": "https://github.com/login?return_to=%2FRSSNext%2FFolo",
+        "description": "🧡 Follow everything in one place",
+        "stars": "30,961",
+        "forks": "1,401"
+    },
+    {
+        "title": "polarsource/polar",
+        "link": "https://github.com/login?return_to=%2Fpolarsource%2Fpolar",
+        "description": "An open source engine for your digital products. Sell SaaS and digital products in minutes.",
+        "stars": "6,679",
+        "forks": "406"
+    },
+    {
+        "title": "fastapi/full-stack-fastapi-template",
+        "link": "https://github.com/login?return_to=%2Ffastapi%2Ffull-stack-fastapi-template",
+        "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+        "stars": "35,552",
+        "forks": "6,817"
+    },
+    {
+        "title": "topjohnwu/Magisk",
+        "link": "https://github.com/login?return_to=%2Ftopjohnwu%2FMagisk",
+        "description": "The Magic Mask for Android",
+        "stars": "55,117",
+        "forks": "14,702"
+    },
+    {
+        "title": "idosal/git-mcp",
+        "link": "https://github.com/login?return_to=%2Fidosal%2Fgit-mcp",
+        "description": "Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project",
+        "stars": "4,409",
+        "forks": "324"
+    },
+    {
+        "title": "binhnguyennus/awesome-scalability",
+        "link": "https://github.com/login?return_to=%2Fbinhnguyennus%2Fawesome-scalability",
+        "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+        "stars": "64,124",
+        "forks": "6,530"
+    },
+    {
+        "title": "openai/openai-node",
+        "link": "https://github.com/login?return_to=%2Fopenai%2Fopenai-node",
+        "description": "Official JavaScript / TypeScript library for the OpenAI API",
+        "stars": "9,815",
+        "forks": "1,184"
+    },
+    {
+        "title": "xiaoyaocz/dart_simple_live",
+        "link": "https://github.com/login?return_to=%2Fxiaoyaocz%2Fdart_simple_live",
+        "description": "简简单单的看直播",
+        "stars": "12,138",
+        "forks": "893"
+    }
+]
