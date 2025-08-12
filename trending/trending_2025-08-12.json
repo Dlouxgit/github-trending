@@ -1,0 +1,100 @@
+[
+    {
+        "title": "nomic-ai/gpt4all",
+        "link": "https://github.com/login?return_to=%2Fnomic-ai%2Fgpt4all",
+        "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+        "stars": "75,314",
+        "forks": "8,155"
+    },
+    {
+        "title": "tadata-org/fastapi_mcp",
+        "link": "https://github.com/sponsors/tadata-org",
+        "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
+        "stars": "7,492",
+        "forks": "609"
+    },
+    {
+        "title": "trailofbits/buttercup",
+        "link": "https://github.com/login?return_to=%2Ftrailofbits%2Fbuttercup",
+        "description": "No description provided",
+        "stars": "535",
+        "forks": "58"
+    },
+    {
+        "title": "patchy631/ai-engineering-hub",
+        "link": "https://github.com/sponsors/patchy631",
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "stars": "16,590",
+        "forks": "2,815"
+    },
+    {
+        "title": "openai/codex",
+        "link": "https://github.com/login?return_to=%2Fopenai%2Fcodex",
+        "description": "Lightweight coding agent that runs in your terminal",
+        "stars": "34,393",
+        "forks": "3,927"
+    },
+    {
+        "title": "menloresearch/jan",
+        "link": "https://github.com/login?return_to=%2Fmenloresearch%2Fjan",
+        "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+        "stars": "36,192",
+        "forks": "2,111"
+    },
+    {
+        "title": "microsoft/generative-ai-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fgenerative-ai-for-beginners",
+        "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+        "stars": "94,633",
+        "forks": "49,243"
+    },
+    {
+        "title": "midday-ai/midday",
+        "link": "https://github.com/login?return_to=%2Fmidday-ai%2Fmidday",
+        "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
+        "stars": "9,854",
+        "forks": "914"
+    },
+    {
+        "title": "xiaoyaocz/dart_simple_live",
+        "link": "https://github.com/login?return_to=%2Fxiaoyaocz%2Fdart_simple_live",
+        "description": "简简单单的看直播",
+        "stars": "12,287",
+        "forks": "926"
+    },
+    {
+        "title": "fastapi/full-stack-fastapi-template",
+        "link": "https://github.com/login?return_to=%2Ffastapi%2Ffull-stack-fastapi-template",
+        "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+        "stars": "35,901",
+        "forks": "6,849"
+    },
+    {
+        "title": "mendableai/firecrawl",
+        "link": "https://github.com/login?return_to=%2Fmendableai%2Ffirecrawl",
+        "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+        "stars": "46,691",
+        "forks": "4,251"
+    },
+    {
+        "title": "umami-software/umami",
+        "link": "https://github.com/login?return_to=%2Fumami-software%2Fumami",
+        "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
+        "stars": "29,284",
+        "forks": "5,350"
+    },
+    {
+        "title": "libsdl-org/SDL",
+        "link": "https://github.com/login?return_to=%2Flibsdl-org%2FSDL",
+        "description": "Simple Directmedia Layer",
+        "stars": "13,243",
+        "forks": "2,303"
+    },
+    {
+        "title": "idosal/git-mcp",
+        "link": "https://github.com/login?return_to=%2Fidosal%2Fgit-mcp",
+        "description": "Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project",
+        "stars": "4,728",
+        "forks": "340"
+    }
+]
