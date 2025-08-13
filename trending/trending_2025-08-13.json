@@ -1,0 +1,135 @@
+[
+    {
+        "title": "ubicloud/ubicloud",
+        "link": "https://github.com/login?return_to=%2Fubicloud%2Fubicloud",
+        "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+        "stars": "6,904",
+        "forks": "284"
+    },
+    {
+        "title": "microsoft/poml",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fpoml",
+        "description": "Prompt Orchestration Markup Language",
+        "stars": "970",
+        "forks": "34"
+    },
+    {
+        "title": "denizsafak/abogen",
+        "link": "https://github.com/login?return_to=%2Fdenizsafak%2Fabogen",
+        "description": "Generate audiobooks from EPUBs, PDFs and text with synchronized captions.",
+        "stars": "2,323",
+        "forks": "112"
+    },
+    {
+        "title": "nomic-ai/gpt4all",
+        "link": "https://github.com/login?return_to=%2Fnomic-ai%2Fgpt4all",
+        "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+        "stars": "76,027",
+        "forks": "8,201"
+    },
+    {
+        "title": "umami-software/umami",
+        "link": "https://github.com/login?return_to=%2Fumami-software%2Fumami",
+        "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
+        "stars": "29,598",
+        "forks": "5,359"
+    },
+    {
+        "title": "unslothai/notebooks",
+        "link": "https://github.com/sponsors/unslothai",
+        "description": "100+ Fine-tuning LLM Notebooks on Google Colab, Kaggle, and more.",
+        "stars": "3,005",
+        "forks": "424"
+    },
+    {
+        "title": "fastapi/full-stack-fastapi-template",
+        "link": "https://github.com/login?return_to=%2Ffastapi%2Ffull-stack-fastapi-template",
+        "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+        "stars": "36,229",
+        "forks": "6,891"
+    },
+    {
+        "title": "open-telemetry/opentelemetry-collector",
+        "link": "https://github.com/login?return_to=%2Fopen-telemetry%2Fopentelemetry-collector",
+        "description": "OpenTelemetry Collector",
+        "stars": "5,549",
+        "forks": "1,705"
+    },
+    {
+        "title": "donnemartin/system-design-primer",
+        "link": "https://github.com/login?return_to=%2Fdonnemartin%2Fsystem-design-primer",
+        "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+        "stars": "315,656",
+        "forks": "51,759"
+    },
+    {
+        "title": "apple/embedding-atlas",
+        "link": "https://github.com/login?return_to=%2Fapple%2Fembedding-atlas",
+        "description": "Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.",
+        "stars": "1,439",
+        "forks": "66"
+    },
+    {
+        "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+        "link": "https://github.com/login?return_to=%2Fx1xhlol%2Fsystem-prompts-and-models-of-ai-tools",
+        "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.",
+        "stars": "75,533",
+        "forks": "21,241"
+    },
+    {
+        "title": "libsdl-org/SDL",
+        "link": "https://github.com/login?return_to=%2Flibsdl-org%2FSDL",
+        "description": "Simple Directmedia Layer",
+        "stars": "13,347",
+        "forks": "2,304"
+    },
+    {
+        "title": "trailofbits/buttercup",
+        "link": "https://github.com/login?return_to=%2Ftrailofbits%2Fbuttercup",
+        "description": "No description provided",
+        "stars": "709",
+        "forks": "72"
+    },
+    {
+        "title": "xiaoyaocz/dart_simple_live",
+        "link": "https://github.com/login?return_to=%2Fxiaoyaocz%2Fdart_simple_live",
+        "description": "简简单单的看直播",
+        "stars": "12,387",
+        "forks": "951"
+    },
+    {
+        "title": "conductor-oss/conductor",
+        "link": "https://github.com/login?return_to=%2Fconductor-oss%2Fconductor",
+        "description": "Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications",
+        "stars": "25,079",
+        "forks": "654"
+    },
+    {
+        "title": "redis/go-redis",
+        "link": "https://github.com/login?return_to=%2Fredis%2Fgo-redis",
+        "description": "Redis Go client",
+        "stars": "21,237",
+        "forks": "2,475"
+    },
+    {
+        "title": "ChrisTitusTech/linutil",
+        "link": "https://github.com/sponsors/ChrisTitusTech",
+        "description": "Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.",
+        "stars": "4,009",
+        "forks": "323"
+    },
+    {
+        "title": "actions/checkout",
+        "link": "https://github.com/login?return_to=%2Factions%2Fcheckout",
+        "description": "Action for checking out a repo",
+        "stars": "6,847",
+        "forks": "2,100"
+    },
+    {
+        "title": "FiloSottile/mkcert",
+        "link": "https://github.com/sponsors/FiloSottile",
+        "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+        "stars": "55,426",
+        "forks": "2,905"
+    }
+]
