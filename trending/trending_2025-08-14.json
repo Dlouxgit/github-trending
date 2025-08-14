@@ -1,0 +1,121 @@
+[
+    {
+        "title": "ubicloud/ubicloud",
+        "link": "https://github.com/login?return_to=%2Fubicloud%2Fubicloud",
+        "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+        "stars": "7,991",
+        "forks": "331"
+    },
+    {
+        "title": "apple/embedding-atlas",
+        "link": "https://github.com/login?return_to=%2Fapple%2Fembedding-atlas",
+        "description": "Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.",
+        "stars": "1,910",
+        "forks": "89"
+    },
+    {
+        "title": "jitsi/jitsi-meet",
+        "link": "https://github.com/login?return_to=%2Fjitsi%2Fjitsi-meet",
+        "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
+        "stars": "26,368",
+        "forks": "7,342"
+    },
+    {
+        "title": "tadata-org/fastapi_mcp",
+        "link": "https://github.com/sponsors/tadata-org",
+        "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
+        "stars": "8,117",
+        "forks": "646"
+    },
+    {
+        "title": "menloresearch/jan",
+        "link": "https://github.com/login?return_to=%2Fmenloresearch%2Fjan",
+        "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+        "stars": "36,760",
+        "forks": "2,147"
+    },
+    {
+        "title": "bytedance/UI-TARS-desktop",
+        "link": "https://github.com/login?return_to=%2Fbytedance%2FUI-TARS-desktop",
+        "description": "The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.",
+        "stars": "16,062",
+        "forks": "1,431"
+    },
+    {
+        "title": "FiloSottile/mkcert",
+        "link": "https://github.com/sponsors/FiloSottile",
+        "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+        "stars": "55,739",
+        "forks": "2,914"
+    },
+    {
+        "title": "filamentphp/filament",
+        "link": "https://github.com/login?return_to=%2Ffilamentphp%2Ffilament",
+        "description": "A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire",
+        "stars": "25,565",
+        "forks": "3,652"
+    },
+    {
+        "title": "open-telemetry/opentelemetry-collector",
+        "link": "https://github.com/login?return_to=%2Fopen-telemetry%2Fopentelemetry-collector",
+        "description": "OpenTelemetry Collector",
+        "stars": "5,633",
+        "forks": "1,707"
+    },
+    {
+        "title": "nomic-ai/gpt4all",
+        "link": "https://github.com/login?return_to=%2Fnomic-ai%2Fgpt4all",
+        "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+        "stars": "76,264",
+        "forks": "8,217"
+    },
+    {
+        "title": "conductor-oss/conductor",
+        "link": "https://github.com/login?return_to=%2Fconductor-oss%2Fconductor",
+        "description": "Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications",
+        "stars": "25,336",
+        "forks": "665"
+    },
+    {
+        "title": "microsoft/poml",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fpoml",
+        "description": "Prompt Orchestration Markup Language",
+        "stars": "1,642",
+        "forks": "53"
+    },
+    {
+        "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+        "link": "https://github.com/login?return_to=%2Fx1xhlol%2Fsystem-prompts-and-models-of-ai-tools",
+        "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.",
+        "stars": "76,036",
+        "forks": "21,328"
+    },
+    {
+        "title": "open-telemetry/opentelemetry-collector-contrib",
+        "link": "https://github.com/login?return_to=%2Fopen-telemetry%2Fopentelemetry-collector-contrib",
+        "description": "Contrib repository for the OpenTelemetry Collector",
+        "stars": "3,815",
+        "forks": "2,937"
+    },
+    {
+        "title": "fastapi/full-stack-fastapi-template",
+        "link": "https://github.com/login?return_to=%2Ffastapi%2Ffull-stack-fastapi-template",
+        "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+        "stars": "36,543",
+        "forks": "6,930"
+    },
+    {
+        "title": "unslothai/notebooks",
+        "link": "https://github.com/sponsors/unslothai",
+        "description": "100+ Fine-tuning LLM Notebooks on Google Colab, Kaggle, and more.",
+        "stars": "3,262",
+        "forks": "445"
+    },
+    {
+        "title": "practical-tutorials/project-based-learning",
+        "link": "https://github.com/login?return_to=%2Fpractical-tutorials%2Fproject-based-learning",
+        "description": "Curated list of project-based tutorials",
+        "stars": "239,397",
+        "forks": "31,319"
+    }
+]
