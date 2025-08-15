@@ -1,0 +1,100 @@
+[
+    {
+        "title": "ubicloud/ubicloud",
+        "link": "https://github.com/login?return_to=%2Fubicloud%2Fubicloud",
+        "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+        "stars": "8,947",
+        "forks": "376"
+    },
+    {
+        "title": "microsoft/poml",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fpoml",
+        "description": "Prompt Orchestration Markup Language",
+        "stars": "2,100",
+        "forks": "76"
+    },
+    {
+        "title": "pathwaycom/pathway",
+        "link": "https://github.com/login?return_to=%2Fpathwaycom%2Fpathway",
+        "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+        "stars": "31,251",
+        "forks": "864"
+    },
+    {
+        "title": "external-secrets/external-secrets",
+        "link": "https://github.com/login?return_to=%2Fexternal-secrets%2Fexternal-secrets",
+        "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+        "stars": "5,442",
+        "forks": "1,033"
+    },
+    {
+        "title": "redis/go-redis",
+        "link": "https://github.com/login?return_to=%2Fredis%2Fgo-redis",
+        "description": "Redis Go client",
+        "stars": "21,313",
+        "forks": "2,481"
+    },
+    {
+        "title": "colmap/colmap",
+        "link": "https://github.com/login?return_to=%2Fcolmap%2Fcolmap",
+        "description": "COLMAP - Structure-from-Motion and Multi-View Stereo",
+        "stars": "9,275",
+        "forks": "1,729"
+    },
+    {
+        "title": "angular/components",
+        "link": "https://github.com/login?return_to=%2Fangular%2Fcomponents",
+        "description": "Component infrastructure and Material Design components for Angular",
+        "stars": "24,833",
+        "forks": "6,811"
+    },
+    {
+        "title": "bytedance/UI-TARS-desktop",
+        "link": "https://github.com/login?return_to=%2Fbytedance%2FUI-TARS-desktop",
+        "description": "The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.",
+        "stars": "16,319",
+        "forks": "1,449"
+    },
+    {
+        "title": "midday-ai/midday",
+        "link": "https://github.com/login?return_to=%2Fmidday-ai%2Fmidday",
+        "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
+        "stars": "10,527",
+        "forks": "955"
+    },
+    {
+        "title": "conductor-oss/conductor",
+        "link": "https://github.com/login?return_to=%2Fconductor-oss%2Fconductor",
+        "description": "Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications",
+        "stars": "25,480",
+        "forks": "668"
+    },
+    {
+        "title": "hashicorp/terraform",
+        "link": "https://github.com/login?return_to=%2Fhashicorp%2Fterraform",
+        "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+        "stars": "46,114",
+        "forks": "9,967"
+    },
+    {
+        "title": "ostris/ai-toolkit",
+        "link": "https://github.com/sponsors/ostris",
+        "description": "The ultimate training toolkit for finetuning diffusion models",
+        "stars": "5,815",
+        "forks": "675"
+    },
+    {
+        "title": "apple/embedding-atlas",
+        "link": "https://github.com/login?return_to=%2Fapple%2Fembedding-atlas",
+        "description": "Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.",
+        "stars": "2,367",
+        "forks": "102"
+    },
+    {
+        "title": "oop7/YTSage",
+        "link": "https://github.com/login?return_to=%2Foop7%2FYTSage",
+        "description": "Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract audio, fetch subtitles, sponserBlock, and view video metadata. Built with yt-dlp for reliable performance.",
+        "stars": "1,547",
+        "forks": "99"
+    }
+]
