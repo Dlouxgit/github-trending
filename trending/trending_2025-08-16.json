@@ -1,0 +1,93 @@
+[
+    {
+        "title": "tadata-org/fastapi_mcp",
+        "link": "https://github.com/sponsors/tadata-org",
+        "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
+        "stars": "8,707",
+        "forks": "681"
+    },
+    {
+        "title": "ubicloud/ubicloud",
+        "link": "https://github.com/login?return_to=%2Fubicloud%2Fubicloud",
+        "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+        "stars": "9,482",
+        "forks": "403"
+    },
+    {
+        "title": "budtmo/docker-android",
+        "link": "https://github.com/sponsors/budtmo",
+        "description": "Android in docker solution with noVNC supported and video recording",
+        "stars": "12,058",
+        "forks": "1,441"
+    },
+    {
+        "title": "manycore-research/SpatialLM",
+        "link": "https://github.com/login?return_to=%2Fmanycore-research%2FSpatialLM",
+        "description": "SpatialLM: Training Large Language Models for Structured Indoor Modeling",
+        "stars": "3,712",
+        "forks": "284"
+    },
+    {
+        "title": "microsoft/magentic-ui",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fmagentic-ui",
+        "description": "A research prototype of a human-centered web agent",
+        "stars": "7,251",
+        "forks": "739"
+    },
+    {
+        "title": "datalab-to/marker",
+        "link": "https://github.com/login?return_to=%2Fdatalab-to%2Fmarker",
+        "description": "Convert PDF to markdown + JSON quickly with high accuracy",
+        "stars": "27,738",
+        "forks": "1,816"
+    },
+    {
+        "title": "redis/go-redis",
+        "link": "https://github.com/login?return_to=%2Fredis%2Fgo-redis",
+        "description": "Redis Go client",
+        "stars": "21,375",
+        "forks": "2,484"
+    },
+    {
+        "title": "qarmin/czkawka",
+        "link": "https://github.com/sponsors/qarmin",
+        "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+        "stars": "25,161",
+        "forks": "780"
+    },
+    {
+        "title": "Librum-Reader/Librum",
+        "link": "https://github.com/sponsors/Librum-Reader",
+        "description": "The Librum client application",
+        "stars": "4,961",
+        "forks": "165"
+    },
+    {
+        "title": "microsoft/markitdown",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fmarkitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "stars": "71,718",
+        "forks": "3,911"
+    },
+    {
+        "title": "jitsi/jitsi-meet",
+        "link": "https://github.com/login?return_to=%2Fjitsi%2Fjitsi-meet",
+        "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
+        "stars": "26,601",
+        "forks": "7,364"
+    },
+    {
+        "title": "dotnet/maui",
+        "link": "https://github.com/login?return_to=%2Fdotnet%2Fmaui",
+        "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+        "stars": "22,891",
+        "forks": "1,871"
+    },
+    {
+        "title": "google/wire",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Fwire",
+        "description": "Compile-time Dependency Injection for Go",
+        "stars": "14,122",
+        "forks": "669"
+    }
+]
