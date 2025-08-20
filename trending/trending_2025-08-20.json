@@ -1,0 +1,100 @@
+[
+    {
+        "title": "emcie-co/parlant",
+        "link": "https://github.com/login?return_to=%2Femcie-co%2Fparlant",
+        "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+        "stars": "6,560",
+        "forks": "562"
+    },
+    {
+        "title": "coleam00/Archon",
+        "link": "https://github.com/login?return_to=%2Fcoleam00%2FArchon",
+        "description": "Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.",
+        "stars": "9,731",
+        "forks": "1,687"
+    },
+    {
+        "title": "LMCache/LMCache",
+        "link": "https://github.com/login?return_to=%2FLMCache%2FLMCache",
+        "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
+        "stars": "4,807",
+        "forks": "526"
+    },
+    {
+        "title": "aaPanel/BillionMail",
+        "link": "https://github.com/login?return_to=%2FaaPanel%2FBillionMail",
+        "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+        "stars": "9,187",
+        "forks": "786"
+    },
+    {
+        "title": "rasbt/LLMs-from-scratch",
+        "link": "https://github.com/login?return_to=%2Frasbt%2FLLMs-from-scratch",
+        "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+        "stars": "65,770",
+        "forks": "9,253"
+    },
+    {
+        "title": "OpenBB-finance/OpenBB",
+        "link": "https://github.com/login?return_to=%2FOpenBB-finance%2FOpenBB",
+        "description": "Financial data platform for analysts, quants and AI agents.",
+        "stars": "50,534",
+        "forks": "4,719"
+    },
+    {
+        "title": "imsyy/SPlayer",
+        "link": "https://github.com/login?return_to=%2Fimsyy%2FSPlayer",
+        "description": "🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player",
+        "stars": "4,774",
+        "forks": "838"
+    },
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "60,264",
+        "forks": "7,231"
+    },
+    {
+        "title": "HunxByts/GhostTrack",
+        "link": "https://github.com/login?return_to=%2FHunxByts%2FGhostTrack",
+        "description": "Useful tool to track location or mobile number",
+        "stars": "2,127",
+        "forks": "327"
+    },
+    {
+        "title": "immich-app/immich",
+        "link": "https://github.com/login?return_to=%2Fimmich-app%2Fimmich",
+        "description": "High performance self-hosted photo and video management solution.",
+        "stars": "73,618",
+        "forks": "3,881"
+    },
+    {
+        "title": "PixiEditor/PixiEditor",
+        "link": "https://github.com/login?return_to=%2FPixiEditor%2FPixiEditor",
+        "description": "PixiEditor is a Universal Editor for all your 2D needs",
+        "stars": "4,886",
+        "forks": "194"
+    },
+    {
+        "title": "bytedance/UI-TARS",
+        "link": "https://github.com/login?return_to=%2Fbytedance%2FUI-TARS",
+        "description": "No description provided",
+        "stars": "7,175",
+        "forks": "498"
+    },
+    {
+        "title": "HeyPuter/puter",
+        "link": "https://github.com/login?return_to=%2FHeyPuter%2Fputer",
+        "description": "🌐 The Internet OS! Free, Open-Source, and Self-Hostable.",
+        "stars": "35,169",
+        "forks": "2,694"
+    },
+    {
+        "title": "awslabs/mcp",
+        "link": "https://github.com/login?return_to=%2Fawslabs%2Fmcp",
+        "description": "AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.",
+        "stars": "5,742",
+        "forks": "755"
+    }
+]
