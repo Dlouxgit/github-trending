@@ -1,0 +1,100 @@
+[
+    {
+        "title": "simstudioai/sim",
+        "link": "https://github.com/login?return_to=%2Fsimstudioai%2Fsim",
+        "description": "Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.",
+        "stars": "8,664",
+        "forks": "1,112"
+    },
+    {
+        "title": "moeru-ai/airi",
+        "link": "https://github.com/login?return_to=%2Fmoeru-ai%2Fairi",
+        "description": "💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "stars": "3,899",
+        "forks": "267"
+    },
+    {
+        "title": "puppeteer/puppeteer",
+        "link": "https://github.com/login?return_to=%2Fpuppeteer%2Fpuppeteer",
+        "description": "JavaScript API for Chrome and Firefox",
+        "stars": "91,864",
+        "forks": "9,271"
+    },
+    {
+        "title": "bitwarden/clients",
+        "link": "https://github.com/login?return_to=%2Fbitwarden%2Fclients",
+        "description": "Bitwarden client apps (web, browser extension, desktop, and cli).",
+        "stars": "10,746",
+        "forks": "1,453"
+    },
+    {
+        "title": "Leantime/leantime",
+        "link": "https://github.com/sponsors/Leantime",
+        "description": "Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.",
+        "stars": "6,128",
+        "forks": "682"
+    },
+    {
+        "title": "n8n-io/self-hosted-ai-starter-kit",
+        "link": "https://github.com/login?return_to=%2Fn8n-io%2Fself-hosted-ai-starter-kit",
+        "description": "The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.",
+        "stars": "11,685",
+        "forks": "2,833"
+    },
+    {
+        "title": "MotiaDev/motia",
+        "link": "https://github.com/login?return_to=%2FMotiaDev%2Fmotia",
+        "description": "Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.",
+        "stars": "6,874",
+        "forks": "529"
+    },
+    {
+        "title": "DataExpert-io/data-engineer-handbook",
+        "link": "https://github.com/login?return_to=%2FDataExpert-io%2Fdata-engineer-handbook",
+        "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+        "stars": "37,110",
+        "forks": "7,099"
+    },
+    {
+        "title": "rasbt/LLMs-from-scratch",
+        "link": "https://github.com/login?return_to=%2Frasbt%2FLLMs-from-scratch",
+        "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+        "stars": "66,416",
+        "forks": "9,315"
+    },
+    {
+        "title": "laude-institute/terminal-bench",
+        "link": "https://github.com/login?return_to=%2Flaude-institute%2Fterminal-bench",
+        "description": "A benchmark for LLMs on complicated tasks in the terminal",
+        "stars": "498",
+        "forks": "137"
+    },
+    {
+        "title": "ComposersDesktop/CDP8",
+        "link": "https://github.com/login?return_to=%2FComposersDesktop%2FCDP8",
+        "description": "New version of CDP software",
+        "stars": "365",
+        "forks": "22"
+    },
+    {
+        "title": "epicenter-so/epicenter",
+        "link": "https://github.com/login?return_to=%2Fepicenter-so%2Fepicenter",
+        "description": "Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️",
+        "stars": "2,426",
+        "forks": "145"
+    },
+    {
+        "title": "PixiEditor/PixiEditor",
+        "link": "https://github.com/login?return_to=%2FPixiEditor%2FPixiEditor",
+        "description": "PixiEditor is a Universal Editor for all your 2D needs",
+        "stars": "5,187",
+        "forks": "206"
+    },
+    {
+        "title": "microsoft/BitNet",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FBitNet",
+        "description": "Official inference framework for 1-bit LLMs",
+        "stars": "20,876",
+        "forks": "1,578"
+    }
+]
