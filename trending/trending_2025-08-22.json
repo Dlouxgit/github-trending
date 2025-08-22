@@ -1,0 +1,86 @@
+[
+    {
+        "title": "moeru-ai/airi",
+        "link": "https://github.com/login?return_to=%2Fmoeru-ai%2Fairi",
+        "description": "💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "stars": "5,515",
+        "forks": "379"
+    },
+    {
+        "title": "simstudioai/sim",
+        "link": "https://github.com/login?return_to=%2Fsimstudioai%2Fsim",
+        "description": "Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.",
+        "stars": "9,931",
+        "forks": "1,212"
+    },
+    {
+        "title": "google/googletest",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Fgoogletest",
+        "description": "GoogleTest - Google Testing and Mocking Framework",
+        "stars": "36,669",
+        "forks": "10,467"
+    },
+    {
+        "title": "bitwarden/clients",
+        "link": "https://github.com/login?return_to=%2Fbitwarden%2Fclients",
+        "description": "Bitwarden client apps (web, browser extension, desktop, and cli).",
+        "stars": "10,898",
+        "forks": "1,461"
+    },
+    {
+        "title": "Budibase/budibase",
+        "link": "https://github.com/login?return_to=%2FBudibase%2Fbudibase",
+        "description": "Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..",
+        "stars": "25,638",
+        "forks": "1,852"
+    },
+    {
+        "title": "firecrawl/firecrawl",
+        "link": "https://github.com/login?return_to=%2Ffirecrawl%2Ffirecrawl",
+        "description": "The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥",
+        "stars": "50,596",
+        "forks": "4,432"
+    },
+    {
+        "title": "HunxByts/GhostTrack",
+        "link": "https://github.com/login?return_to=%2FHunxByts%2FGhostTrack",
+        "description": "Useful tool to track location or mobile number",
+        "stars": "2,627",
+        "forks": "363"
+    },
+    {
+        "title": "nextjs/saas-starter",
+        "link": "https://github.com/sponsors/nextjs",
+        "description": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.",
+        "stars": "13,727",
+        "forks": "2,010"
+    },
+    {
+        "title": "plait-board/drawnix",
+        "link": "https://github.com/login?return_to=%2Fplait-board%2Fdrawnix",
+        "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
+        "stars": "4,742",
+        "forks": "383"
+    },
+    {
+        "title": "HeyPuter/puter",
+        "link": "https://github.com/login?return_to=%2FHeyPuter%2Fputer",
+        "description": "🌐 The Internet OS! Free, Open-Source, and Self-Hostable.",
+        "stars": "35,482",
+        "forks": "2,715"
+    },
+    {
+        "title": "puppeteer/puppeteer",
+        "link": "https://github.com/login?return_to=%2Fpuppeteer%2Fpuppeteer",
+        "description": "JavaScript API for Chrome and Firefox",
+        "stars": "92,012",
+        "forks": "9,279"
+    },
+    {
+        "title": "skills/introduction-to-github",
+        "link": "https://github.com/login?return_to=%2Fskills%2Fintroduction-to-github",
+        "description": "Get started using GitHub in less than an hour.",
+        "stars": "9,400",
+        "forks": "12,005"
+    }
+]
