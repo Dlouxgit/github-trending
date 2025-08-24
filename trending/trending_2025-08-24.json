@@ -1,0 +1,142 @@
+[
+    {
+        "title": "moeru-ai/airi",
+        "link": "https://github.com/login?return_to=%2Fmoeru-ai%2Fairi",
+        "description": "💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "stars": "8,013",
+        "forks": "582"
+    },
+    {
+        "title": "plait-board/drawnix",
+        "link": "https://github.com/login?return_to=%2Fplait-board%2Fdrawnix",
+        "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
+        "stars": "5,737",
+        "forks": "459"
+    },
+    {
+        "title": "Budibase/budibase",
+        "link": "https://github.com/login?return_to=%2FBudibase%2Fbudibase",
+        "description": "Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..",
+        "stars": "25,955",
+        "forks": "1,873"
+    },
+    {
+        "title": "simstudioai/sim",
+        "link": "https://github.com/login?return_to=%2Fsimstudioai%2Fsim",
+        "description": "Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.",
+        "stars": "11,620",
+        "forks": "1,356"
+    },
+    {
+        "title": "google/googletest",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Fgoogletest",
+        "description": "GoogleTest - Google Testing and Mocking Framework",
+        "stars": "36,852",
+        "forks": "10,479"
+    },
+    {
+        "title": "HunxByts/GhostTrack",
+        "link": "https://github.com/login?return_to=%2FHunxByts%2FGhostTrack",
+        "description": "Useful tool to track location or mobile number",
+        "stars": "3,463",
+        "forks": "438"
+    },
+    {
+        "title": "Leantime/leantime",
+        "link": "https://github.com/sponsors/Leantime",
+        "description": "Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.",
+        "stars": "6,959",
+        "forks": "718"
+    },
+    {
+        "title": "clash-verge-rev/clash-verge-rev",
+        "link": "https://github.com/sponsors/clash-verge-rev",
+        "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+        "stars": "71,630",
+        "forks": "5,404"
+    },
+    {
+        "title": "winapps-org/winapps",
+        "link": "https://github.com/login?return_to=%2Fwinapps-org%2Fwinapps",
+        "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/",
+        "stars": "4,845",
+        "forks": "159"
+    },
+    {
+        "title": "zigtools/zls",
+        "link": "https://github.com/sponsors/zigtools",
+        "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
+        "stars": "4,067",
+        "forks": "379"
+    },
+    {
+        "title": "HKUDS/DeepCode",
+        "link": "https://github.com/login?return_to=%2FHKUDS%2FDeepCode",
+        "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+        "stars": "1,790",
+        "forks": "241"
+    },
+    {
+        "title": "scottpetrovic/mesh2motion-app",
+        "link": "https://github.com/login?return_to=%2Fscottpetrovic%2Fmesh2motion-app",
+        "description": "Import a 3D Model and automatically assign and export animations",
+        "stars": "788",
+        "forks": "73"
+    },
+    {
+        "title": "puckeditor/puck",
+        "link": "https://github.com/login?return_to=%2Fpuckeditor%2Fpuck",
+        "description": "The visual editor for React",
+        "stars": "8,305",
+        "forks": "552"
+    },
+    {
+        "title": "dream-num/univer",
+        "link": "https://github.com/login?return_to=%2Fdream-num%2Funiver",
+        "description": "Build truly AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server. With Univer MCP, Univer Sheet is driven directly through natural language.",
+        "stars": "10,364",
+        "forks": "911"
+    },
+    {
+        "title": "deepseek-ai/awesome-deepseek-integration",
+        "link": "https://github.com/login?return_to=%2Fdeepseek-ai%2Fawesome-deepseek-integration",
+        "description": "Integrate the DeepSeek API into popular softwares",
+        "stars": "33,563",
+        "forks": "3,726"
+    },
+    {
+        "title": "google/highway",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Fhighway",
+        "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
+        "stars": "4,932",
+        "forks": "374"
+    },
+    {
+        "title": "chartdb/chartdb",
+        "link": "https://github.com/login?return_to=%2Fchartdb%2Fchartdb",
+        "description": "Database diagrams editor that allows you to visualize and design your DB with a single query.",
+        "stars": "18,196",
+        "forks": "972"
+    },
+    {
+        "title": "dataease/SQLBot",
+        "link": "https://github.com/login?return_to=%2Fdataease%2FSQLBot",
+        "description": "基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.",
+        "stars": "1,001",
+        "forks": "114"
+    },
+    {
+        "title": "pestphp/pest",
+        "link": "https://github.com/login?return_to=%2Fpestphp%2Fpest",
+        "description": "Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.",
+        "stars": "10,700",
+        "forks": "408"
+    },
+    {
+        "title": "NVIDIA-NeMo/RL",
+        "link": "https://github.com/login?return_to=%2FNVIDIA-NeMo%2FRL",
+        "description": "Scalable toolkit for efficient model reinforcement",
+        "stars": "760",
+        "forks": "112"
+    }
+]
