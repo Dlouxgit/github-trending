@@ -1,0 +1,93 @@
+[
+    {
+        "title": "asgeirtj/system_prompts_leaks",
+        "link": "https://github.com/login?return_to=%2Fasgeirtj%2Fsystem_prompts_leaks",
+        "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+        "stars": "13,786",
+        "forks": "2,507"
+    },
+    {
+        "title": "plait-board/drawnix",
+        "link": "https://github.com/login?return_to=%2Fplait-board%2Fdrawnix",
+        "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
+        "stars": "9,465",
+        "forks": "672"
+    },
+    {
+        "title": "QuentinFuxa/WhisperLiveKit",
+        "link": "https://github.com/login?return_to=%2FQuentinFuxa%2FWhisperLiveKit",
+        "description": "Python package for Real-time, Local Speech-to-Text and Speaker Diarization. FastAPI Server & Web Interface",
+        "stars": "1,447",
+        "forks": "206"
+    },
+    {
+        "title": "microsoft/terminal",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fterminal",
+        "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+        "stars": "99,433",
+        "forks": "8,704"
+    },
+    {
+        "title": "firecracker-microvm/firecracker",
+        "link": "https://github.com/login?return_to=%2Ffirecracker-microvm%2Ffirecracker",
+        "description": "Secure and fast microVMs for serverless computing.",
+        "stars": "29,421",
+        "forks": "2,035"
+    },
+    {
+        "title": "karpathy/nn-zero-to-hero",
+        "link": "https://github.com/login?return_to=%2Fkarpathy%2Fnn-zero-to-hero",
+        "description": "Neural Networks: Zero to Hero",
+        "stars": "16,569",
+        "forks": "2,277"
+    },
+    {
+        "title": "santinic/audiblez",
+        "link": "https://github.com/sponsors/santinic",
+        "description": "Generate audiobooks from e-books",
+        "stars": "4,663",
+        "forks": "315"
+    },
+    {
+        "title": "googleapis/genai-toolbox",
+        "link": "https://github.com/login?return_to=%2Fgoogleapis%2Fgenai-toolbox",
+        "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+        "stars": "9,924",
+        "forks": "763"
+    },
+    {
+        "title": "OpenPipe/ART",
+        "link": "https://github.com/login?return_to=%2FOpenPipe%2FART",
+        "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more!",
+        "stars": "6,188",
+        "forks": "387"
+    },
+    {
+        "title": "eythaann/Seelen-UI",
+        "link": "https://github.com/sponsors/eythaann",
+        "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
+        "stars": "11,491",
+        "forks": "349"
+    },
+    {
+        "title": "twbs/bootstrap",
+        "link": "https://github.com/sponsors/twbs",
+        "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+        "stars": "173,003",
+        "forks": "79,128"
+    },
+    {
+        "title": "willccbb/verifiers",
+        "link": "https://github.com/login?return_to=%2Fwillccbb%2Fverifiers",
+        "description": "Verifiers for LLM Reinforcement Learning",
+        "stars": "2,632",
+        "forks": "293"
+    },
+    {
+        "title": "spf13/cobra",
+        "link": "https://github.com/sponsors/spf13",
+        "description": "A Commander for modern Go CLI interactions",
+        "stars": "41,621",
+        "forks": "2,983"
+    }
+]
