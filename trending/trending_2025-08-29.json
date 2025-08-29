@@ -1,0 +1,79 @@
+[
+    {
+        "title": "asgeirtj/system_prompts_leaks",
+        "link": "https://github.com/login?return_to=%2Fasgeirtj%2Fsystem_prompts_leaks",
+        "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+        "stars": "15,895",
+        "forks": "2,685"
+    },
+    {
+        "title": "Canner/WrenAI",
+        "link": "https://github.com/login?return_to=%2FCanner%2FWrenAI",
+        "description": "⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.",
+        "stars": "10,326",
+        "forks": "1,055"
+    },
+    {
+        "title": "firecracker-microvm/firecracker",
+        "link": "https://github.com/login?return_to=%2Ffirecracker-microvm%2Ffirecracker",
+        "description": "Secure and fast microVMs for serverless computing.",
+        "stars": "29,683",
+        "forks": "2,047"
+    },
+    {
+        "title": "chroma-core/chroma",
+        "link": "https://github.com/login?return_to=%2Fchroma-core%2Fchroma",
+        "description": "Open-source search and retrieval database for AI applications.",
+        "stars": "22,428",
+        "forks": "1,763"
+    },
+    {
+        "title": "twbs/bootstrap",
+        "link": "https://github.com/sponsors/twbs",
+        "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+        "stars": "173,128",
+        "forks": "79,143"
+    },
+    {
+        "title": "santinic/audiblez",
+        "link": "https://github.com/sponsors/santinic",
+        "description": "Generate audiobooks from e-books",
+        "stars": "5,083",
+        "forks": "329"
+    },
+    {
+        "title": "karpathy/nn-zero-to-hero",
+        "link": "https://github.com/login?return_to=%2Fkarpathy%2Fnn-zero-to-hero",
+        "description": "Neural Networks: Zero to Hero",
+        "stars": "16,931",
+        "forks": "2,300"
+    },
+    {
+        "title": "hashicorp/terraform",
+        "link": "https://github.com/login?return_to=%2Fhashicorp%2Fterraform",
+        "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+        "stars": "46,306",
+        "forks": "9,998"
+    },
+    {
+        "title": "MODSetter/SurfSense",
+        "link": "https://github.com/sponsors/MODSetter",
+        "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9",
+        "stars": "7,187",
+        "forks": "532"
+    },
+    {
+        "title": "microsoft/terminal",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fterminal",
+        "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+        "stars": "99,570",
+        "forks": "8,715"
+    },
+    {
+        "title": "opf/openproject",
+        "link": "https://github.com/login?return_to=%2Fopf%2Fopenproject",
+        "description": "OpenProject is the leading open source project management software.",
+        "stars": "12,260",
+        "forks": "2,765"
+    }
+]
