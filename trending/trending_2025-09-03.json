@@ -1,0 +1,86 @@
+[
+    {
+        "title": "dockur/windows",
+        "link": "https://github.com/login?return_to=%2Fdockur%2Fwindows",
+        "description": "Windows inside a Docker container.",
+        "stars": "43,043",
+        "forks": "3,126"
+    },
+    {
+        "title": "crewAIInc/crewAI",
+        "link": "https://github.com/login?return_to=%2FcrewAIInc%2FcrewAI",
+        "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+        "stars": "36,931",
+        "forks": "4,917"
+    },
+    {
+        "title": "JetBrains/koog",
+        "link": "https://github.com/login?return_to=%2FJetBrains%2Fkoog",
+        "description": "Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
+        "stars": "2,679",
+        "forks": "175"
+    },
+    {
+        "title": "ashishpatel26/500-AI-Agents-Projects",
+        "link": "https://github.com/login?return_to=%2Fashishpatel26%2F500-AI-Agents-Projects",
+        "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+        "stars": "8,553",
+        "forks": "1,548"
+    },
+    {
+        "title": "google/mangle",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Fmangle",
+        "description": "No description provided",
+        "stars": "2,058",
+        "forks": "102"
+    },
+    {
+        "title": "resemble-ai/chatterbox",
+        "link": "https://github.com/login?return_to=%2Fresemble-ai%2Fchatterbox",
+        "description": "SoTA open-source TTS",
+        "stars": "11,495",
+        "forks": "1,439"
+    },
+    {
+        "title": "pedroslopez/whatsapp-web.js",
+        "link": "https://github.com/sponsors/pedroslopez",
+        "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+        "stars": "18,242",
+        "forks": "4,393"
+    },
+    {
+        "title": "LukeGus/Termix",
+        "link": "https://github.com/sponsors/LukeGus",
+        "description": "Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.",
+        "stars": "2,095",
+        "forks": "78"
+    },
+    {
+        "title": "rustdesk/rustdesk",
+        "link": "https://github.com/sponsors/rustdesk",
+        "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+        "stars": "97,150",
+        "forks": "14,267"
+    },
+    {
+        "title": "bytebot-ai/bytebot",
+        "link": "https://github.com/login?return_to=%2Fbytebot-ai%2Fbytebot",
+        "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
+        "stars": "3,550",
+        "forks": "294"
+    },
+    {
+        "title": "google/comprehensive-rust",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Fcomprehensive-rust",
+        "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+        "stars": "31,376",
+        "forks": "1,862"
+    },
+    {
+        "title": "projectdiscovery/nuclei-templates",
+        "link": "https://github.com/login?return_to=%2Fprojectdiscovery%2Fnuclei-templates",
+        "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+        "stars": "10,792",
+        "forks": "3,006"
+    }
+]
