@@ -1,0 +1,142 @@
+[
+    {
+        "title": "pedroslopez/whatsapp-web.js",
+        "link": "https://github.com/sponsors/pedroslopez",
+        "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+        "stars": "18,790",
+        "forks": "4,428"
+    },
+    {
+        "title": "dockur/windows",
+        "link": "https://github.com/login?return_to=%2Fdockur%2Fwindows",
+        "description": "Windows inside a Docker container.",
+        "stars": "43,993",
+        "forks": "3,189"
+    },
+    {
+        "title": "JetBrains/koog",
+        "link": "https://github.com/login?return_to=%2FJetBrains%2Fkoog",
+        "description": "Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
+        "stars": "2,807",
+        "forks": "184"
+    },
+    {
+        "title": "microsoft/PowerToys",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FPowerToys",
+        "description": "Windows system utilities to maximize productivity",
+        "stars": "122,963",
+        "forks": "7,330"
+    },
+    {
+        "title": "LukeGus/Termix",
+        "link": "https://github.com/sponsors/LukeGus",
+        "description": "Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.",
+        "stars": "2,507",
+        "forks": "94"
+    },
+    {
+        "title": "appcypher/awesome-mcp-servers",
+        "link": "https://github.com/login?return_to=%2Fappcypher%2Fawesome-mcp-servers",
+        "description": "Awesome MCP Servers - A curated list of Model Context Protocol servers",
+        "stars": "3,915",
+        "forks": "343"
+    },
+    {
+        "title": "ashishpatel26/500-AI-Agents-Projects",
+        "link": "https://github.com/login?return_to=%2Fashishpatel26%2F500-AI-Agents-Projects",
+        "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+        "stars": "9,288",
+        "forks": "1,659"
+    },
+    {
+        "title": "kgrzybek/modular-monolith-with-ddd",
+        "link": "https://github.com/login?return_to=%2Fkgrzybek%2Fmodular-monolith-with-ddd",
+        "description": "Full Modular Monolith application with Domain-Driven Design approach.",
+        "stars": "12,668",
+        "forks": "2,014"
+    },
+    {
+        "title": "fullstackhero/dotnet-starter-kit",
+        "link": "https://github.com/sponsors/fullstackhero",
+        "description": "Production Grade Cloud-Ready .NET 9 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.",
+        "stars": "5,915",
+        "forks": "1,807"
+    },
+    {
+        "title": "jasontaylordev/CleanArchitecture",
+        "link": "https://github.com/sponsors/jasontaylordev",
+        "description": "Clean Architecture Solution Template for ASP.NET Core",
+        "stars": "18,834",
+        "forks": "3,973"
+    },
+    {
+        "title": "dotnet/eShop",
+        "link": "https://github.com/login?return_to=%2Fdotnet%2FeShop",
+        "description": "A reference .NET application implementing an eCommerce site",
+        "stars": "8,856",
+        "forks": "2,998"
+    },
+    {
+        "title": "chiphuyen/aie-book",
+        "link": "https://github.com/login?return_to=%2Fchiphuyen%2Faie-book",
+        "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
+        "stars": "7,431",
+        "forks": "988"
+    },
+    {
+        "title": "dipakkr/A-to-Z-Resources-for-Students",
+        "link": "https://github.com/login?return_to=%2Fdipakkr%2FA-to-Z-Resources-for-Students",
+        "description": "✅ Curated list of resources for college students",
+        "stars": "19,293",
+        "forks": "4,631"
+    },
+    {
+        "title": "oraios/serena",
+        "link": "https://github.com/sponsors/oraios",
+        "description": "A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)",
+        "stars": "11,203",
+        "forks": "787"
+    },
+    {
+        "title": "aquasecurity/trivy",
+        "link": "https://github.com/login?return_to=%2Faquasecurity%2Ftrivy",
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "stars": "28,214",
+        "forks": "2,703"
+    },
+    {
+        "title": "HKUDS/DeepCode",
+        "link": "https://github.com/login?return_to=%2FHKUDS%2FDeepCode",
+        "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+        "stars": "5,371",
+        "forks": "661"
+    },
+    {
+        "title": "activepieces/activepieces",
+        "link": "https://github.com/login?return_to=%2Factivepieces%2Factivepieces",
+        "description": "AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+        "stars": "17,389",
+        "forks": "2,494"
+    },
+    {
+        "title": "kestra-io/kestra",
+        "link": "https://github.com/login?return_to=%2Fkestra-io%2Fkestra",
+        "description": "⚡ Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.",
+        "stars": "20,608",
+        "forks": "1,753"
+    },
+    {
+        "title": "TapXWorld/ChinaTextbook",
+        "link": "https://github.com/login?return_to=%2FTapXWorld%2FChinaTextbook",
+        "description": "所有小初高、大学PDF教材。",
+        "stars": "48,164",
+        "forks": "10,820"
+    },
+    {
+        "title": "carthage-software/mago",
+        "link": "https://github.com/login?return_to=%2Fcarthage-software%2Fmago",
+        "description": "Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.",
+        "stars": "893",
+        "forks": "44"
+    }
+]
