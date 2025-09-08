@@ -1,0 +1,121 @@
+[
+    {
+        "title": "emcie-co/parlant",
+        "link": "https://github.com/login?return_to=%2Femcie-co%2Fparlant",
+        "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+        "stars": "9,856",
+        "forks": "803"
+    },
+    {
+        "title": "zama-ai/fhevm",
+        "link": "https://github.com/login?return_to=%2Fzama-ai%2Ffhevm",
+        "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
+        "stars": "17,480",
+        "forks": "744"
+    },
+    {
+        "title": "coleam00/ottomator-agents",
+        "link": "https://github.com/login?return_to=%2Fcoleam00%2Fottomator-agents",
+        "description": "All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!",
+        "stars": "4,027",
+        "forks": "1,440"
+    },
+    {
+        "title": "juspay/hyperswitch",
+        "link": "https://github.com/login?return_to=%2Fjuspay%2Fhyperswitch",
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "stars": "29,819",
+        "forks": "4,079"
+    },
+    {
+        "title": "FIRST-Tech-Challenge/FtcRobotController",
+        "link": "https://github.com/login?return_to=%2FFIRST-Tech-Challenge%2FFtcRobotController",
+        "description": "FTC Android Studio Workspace for robot programming in Android Studio",
+        "stars": "1,008",
+        "forks": "6,726"
+    },
+    {
+        "title": "openwrt/openwrt",
+        "link": "https://github.com/login?return_to=%2Fopenwrt%2Fopenwrt",
+        "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+        "stars": "23,639",
+        "forks": "11,522"
+    },
+    {
+        "title": "Kilo-Org/kilocode",
+        "link": "https://github.com/login?return_to=%2FKilo-Org%2Fkilocode",
+        "description": "Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social",
+        "stars": "8,813",
+        "forks": "869"
+    },
+    {
+        "title": "Stirling-Tools/Stirling-PDF",
+        "link": "https://github.com/sponsors/Stirling-Tools",
+        "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+        "stars": "65,530",
+        "forks": "5,584"
+    },
+    {
+        "title": "Eventual-Inc/Daft",
+        "link": "https://github.com/login?return_to=%2FEventual-Inc%2FDaft",
+        "description": "Distributed query engine providing simple and reliable data processing for any modality and scale",
+        "stars": "3,918",
+        "forks": "280"
+    },
+    {
+        "title": "microsoft/BitNet",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FBitNet",
+        "description": "Official inference framework for 1-bit LLMs",
+        "stars": "21,718",
+        "forks": "1,654"
+    },
+    {
+        "title": "uutils/coreutils",
+        "link": "https://github.com/sponsors/uutils",
+        "description": "Cross-platform Rust rewrite of the GNU coreutils",
+        "stars": "21,174",
+        "forks": "1,537"
+    },
+    {
+        "title": "pathwaycom/pathway",
+        "link": "https://github.com/login?return_to=%2Fpathwaycom%2Fpathway",
+        "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+        "stars": "37,951",
+        "forks": "1,114"
+    },
+    {
+        "title": "pathwaycom/llm-app",
+        "link": "https://github.com/login?return_to=%2Fpathwaycom%2Fllm-app",
+        "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
+        "stars": "35,660",
+        "forks": "957"
+    },
+    {
+        "title": "henrygd/beszel",
+        "link": "https://github.com/login?return_to=%2Fhenrygd%2Fbeszel",
+        "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+        "stars": "14,709",
+        "forks": "453"
+    },
+    {
+        "title": "ossu/computer-science",
+        "link": "https://github.com/login?return_to=%2Fossu%2Fcomputer-science",
+        "description": "🎓 Path to a free self-taught education in Computer Science!",
+        "stars": "192,198",
+        "forks": "24,000"
+    },
+    {
+        "title": "LadybirdBrowser/ladybird",
+        "link": "https://github.com/login?return_to=%2FLadybirdBrowser%2Fladybird",
+        "description": "Truly independent web browser",
+        "stars": "47,473",
+        "forks": "2,059"
+    },
+    {
+        "title": "Vector-Wangel/XLeRobot",
+        "link": "https://github.com/login?return_to=%2FVector-Wangel%2FXLeRobot",
+        "description": "XLeRobot: Practical Dual-Arm Mobile Home Robot for $660",
+        "stars": "1,971",
+        "forks": "188"
+    }
+]
