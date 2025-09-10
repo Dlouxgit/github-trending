@@ -1,0 +1,107 @@
+[
+    {
+        "title": "emcie-co/parlant",
+        "link": "https://github.com/login?return_to=%2Femcie-co%2Fparlant",
+        "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+        "stars": "11,228",
+        "forks": "891"
+    },
+    {
+        "title": "Vector-Wangel/XLeRobot",
+        "link": "https://github.com/login?return_to=%2FVector-Wangel%2FXLeRobot",
+        "description": "XLeRobot: Practical Dual-Arm Mobile Home Robot for $660",
+        "stars": "2,781",
+        "forks": "261"
+    },
+    {
+        "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+        "link": "https://github.com/login?return_to=%2Fx1xhlol%2Fsystem-prompts-and-models-of-ai-tools",
+        "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.",
+        "stars": "82,630",
+        "forks": "22,969"
+    },
+    {
+        "title": "Stirling-Tools/Stirling-PDF",
+        "link": "https://github.com/sponsors/Stirling-Tools",
+        "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+        "stars": "66,353",
+        "forks": "5,634"
+    },
+    {
+        "title": "vercel/examples",
+        "link": "https://github.com/login?return_to=%2Fvercel%2Fexamples",
+        "description": "Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.",
+        "stars": "4,229",
+        "forks": "1,412"
+    },
+    {
+        "title": "Cinnamon/kotaemon",
+        "link": "https://github.com/login?return_to=%2FCinnamon%2Fkotaemon",
+        "description": "An open-source RAG-based tool for chatting with your documents.",
+        "stars": "23,679",
+        "forks": "1,931"
+    },
+    {
+        "title": "pathwaycom/llm-app",
+        "link": "https://github.com/login?return_to=%2Fpathwaycom%2Fllm-app",
+        "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
+        "stars": "38,291",
+        "forks": "1,044"
+    },
+    {
+        "title": "hiroi-sora/Umi-OCR",
+        "link": "https://github.com/login?return_to=%2Fhiroi-sora%2FUmi-OCR",
+        "description": "OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。",
+        "stars": "36,828",
+        "forks": "3,643"
+    },
+    {
+        "title": "11cafe/jaaz",
+        "link": "https://github.com/sponsors/11cafe",
+        "description": "The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.",
+        "stars": "3,531",
+        "forks": "313"
+    },
+    {
+        "title": "pathwaycom/pathway",
+        "link": "https://github.com/login?return_to=%2Fpathwaycom%2Fpathway",
+        "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+        "stars": "40,796",
+        "forks": "1,242"
+    },
+    {
+        "title": "ClemensElflein/OpenMower",
+        "link": "https://github.com/login?return_to=%2FClemensElflein%2FOpenMower",
+        "description": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",
+        "stars": "6,019",
+        "forks": "347"
+    },
+    {
+        "title": "juspay/hyperswitch",
+        "link": "https://github.com/login?return_to=%2Fjuspay%2Fhyperswitch",
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "stars": "32,370",
+        "forks": "4,156"
+    },
+    {
+        "title": "Eventual-Inc/Daft",
+        "link": "https://github.com/login?return_to=%2FEventual-Inc%2FDaft",
+        "description": "Distributed query engine providing simple and reliable data processing for any modality and scale",
+        "stars": "4,182",
+        "forks": "289"
+    },
+    {
+        "title": "immich-app/immich",
+        "link": "https://github.com/login?return_to=%2Fimmich-app%2Fimmich",
+        "description": "High performance self-hosted photo and video management solution.",
+        "stars": "76,167",
+        "forks": "4,027"
+    },
+    {
+        "title": "HKUDS/AutoAgent",
+        "link": "https://github.com/login?return_to=%2FHKUDS%2FAutoAgent",
+        "description": "\"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework\"",
+        "stars": "6,255",
+        "forks": "854"
+    }
+]
