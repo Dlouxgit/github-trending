@@ -1,0 +1,135 @@
+[
+    {
+        "title": "trueadm/ripple",
+        "link": "https://github.com/login?return_to=%2Ftrueadm%2Fripple",
+        "description": "the elegant TypeScript UI framework",
+        "stars": "3,732",
+        "forks": "125"
+    },
+    {
+        "title": "Physical-Intelligence/openpi",
+        "link": "https://github.com/login?return_to=%2FPhysical-Intelligence%2Fopenpi",
+        "description": "No description provided",
+        "stars": "7,098",
+        "forks": "792"
+    },
+    {
+        "title": "CodebuffAI/codebuff",
+        "link": "https://github.com/login?return_to=%2FCodebuffAI%2Fcodebuff",
+        "description": "Generate code from the terminal!",
+        "stars": "1,169",
+        "forks": "154"
+    },
+    {
+        "title": "sentient-agi/ROMA",
+        "link": "https://github.com/login?return_to=%2Fsentient-agi%2FROMA",
+        "description": "Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.",
+        "stars": "1,648",
+        "forks": "159"
+    },
+    {
+        "title": "firebase/genkit",
+        "link": "https://github.com/login?return_to=%2Ffirebase%2Fgenkit",
+        "description": "An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.",
+        "stars": "3,155",
+        "forks": "390"
+    },
+    {
+        "title": "Zie619/n8n-workflows",
+        "link": "https://github.com/login?return_to=%2FZie619%2Fn8n-workflows",
+        "description": "all of the workflows of n8n i could find (also from the site itself)",
+        "stars": "29,076",
+        "forks": "1,166"
+    },
+    {
+        "title": "epfml/ML_course",
+        "link": "https://github.com/login?return_to=%2Fepfml%2FML_course",
+        "description": "EPFL Machine Learning Course, Fall 2025",
+        "stars": "1,618",
+        "forks": "958"
+    },
+    {
+        "title": "expo/expo",
+        "link": "https://github.com/login?return_to=%2Fexpo%2Fexpo",
+        "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+        "stars": "43,206",
+        "forks": "8,516"
+    },
+    {
+        "title": "NVIDIA/garak",
+        "link": "https://github.com/login?return_to=%2FNVIDIA%2Fgarak",
+        "description": "the LLM vulnerability scanner",
+        "stars": "5,457",
+        "forks": "585"
+    },
+    {
+        "title": "milvus-io/milvus",
+        "link": "https://github.com/login?return_to=%2Fmilvus-io%2Fmilvus",
+        "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+        "stars": "37,224",
+        "forks": "3,394"
+    },
+    {
+        "title": "punkpeye/awesome-mcp-servers",
+        "link": "https://github.com/login?return_to=%2Fpunkpeye%2Fawesome-mcp-servers",
+        "description": "A collection of MCP servers.",
+        "stars": "69,806",
+        "forks": "5,715"
+    },
+    {
+        "title": "livekit/livekit",
+        "link": "https://github.com/login?return_to=%2Flivekit%2Flivekit",
+        "description": "End-to-end realtime stack for connecting humans and AI",
+        "stars": "14,667",
+        "forks": "1,376"
+    },
+    {
+        "title": "Azure/azure-sdk-for-python",
+        "link": "https://github.com/login?return_to=%2FAzure%2Fazure-sdk-for-python",
+        "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+        "stars": "5,233",
+        "forks": "3,115"
+    },
+    {
+        "title": "ZuodaoTech/everyone-can-use-english",
+        "link": "https://github.com/login?return_to=%2FZuodaoTech%2Feveryone-can-use-english",
+        "description": "人人都能用英语",
+        "stars": "27,810",
+        "forks": "4,059"
+    },
+    {
+        "title": "kamranahmedse/developer-roadmap",
+        "link": "https://github.com/sponsors/kamranahmedse",
+        "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+        "stars": "336,143",
+        "forks": "42,742"
+    },
+    {
+        "title": "grpc/grpc-go",
+        "link": "https://github.com/login?return_to=%2Fgrpc%2Fgrpc-go",
+        "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+        "stars": "22,213",
+        "forks": "4,564"
+    },
+    {
+        "title": "PowerShell/PowerShell",
+        "link": "https://github.com/login?return_to=%2FPowerShell%2FPowerShell",
+        "description": "PowerShell for every system!",
+        "stars": "48,470",
+        "forks": "7,840"
+    },
+    {
+        "title": "kyverno/kyverno",
+        "link": "https://github.com/login?return_to=%2Fkyverno%2Fkyverno",
+        "description": "Cloud Native Policy Management",
+        "stars": "6,813",
+        "forks": "1,106"
+    },
+    {
+        "title": "modelcontextprotocol/registry",
+        "link": "https://github.com/login?return_to=%2Fmodelcontextprotocol%2Fregistry",
+        "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+        "stars": "3,921",
+        "forks": "301"
+    }
+]
