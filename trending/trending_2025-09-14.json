@@ -1,0 +1,114 @@
+[
+    {
+        "title": "PowerShell/PowerShell",
+        "link": "https://github.com/login?return_to=%2FPowerShell%2FPowerShell",
+        "description": "PowerShell for every system!",
+        "stars": "48,953",
+        "forks": "7,871"
+    },
+    {
+        "title": "trueadm/ripple",
+        "link": "https://github.com/login?return_to=%2Ftrueadm%2Fripple",
+        "description": "the elegant TypeScript UI framework",
+        "stars": "4,199",
+        "forks": "150"
+    },
+    {
+        "title": "MotiaDev/motia",
+        "link": "https://github.com/login?return_to=%2FMotiaDev%2Fmotia",
+        "description": "Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.",
+        "stars": "8,280",
+        "forks": "618"
+    },
+    {
+        "title": "grpc/grpc-go",
+        "link": "https://github.com/login?return_to=%2Fgrpc%2Fgrpc-go",
+        "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+        "stars": "22,273",
+        "forks": "4,568"
+    },
+    {
+        "title": "sentient-agi/ROMA",
+        "link": "https://github.com/login?return_to=%2Fsentient-agi%2FROMA",
+        "description": "Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.",
+        "stars": "1,884",
+        "forks": "180"
+    },
+    {
+        "title": "ReVanced/revanced-patches",
+        "link": "https://github.com/sponsors/ReVanced",
+        "description": "🧩 Patches for ReVanced",
+        "stars": "4,351",
+        "forks": "545"
+    },
+    {
+        "title": "Azure/azure-sdk-for-python",
+        "link": "https://github.com/login?return_to=%2FAzure%2Fazure-sdk-for-python",
+        "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+        "stars": "5,296",
+        "forks": "3,115"
+    },
+    {
+        "title": "CodebuffAI/codebuff",
+        "link": "https://github.com/login?return_to=%2FCodebuffAI%2Fcodebuff",
+        "description": "Generate code from the terminal!",
+        "stars": "1,460",
+        "forks": "177"
+    },
+    {
+        "title": "protocolbuffers/protobuf",
+        "link": "https://github.com/login?return_to=%2Fprotocolbuffers%2Fprotobuf",
+        "description": "Protocol Buffers - Google's data interchange format",
+        "stars": "69,053",
+        "forks": "15,863"
+    },
+    {
+        "title": "facebook/folly",
+        "link": "https://github.com/login?return_to=%2Ffacebook%2Ffolly",
+        "description": "An open-source C++ library developed and used at Facebook.",
+        "stars": "29,805",
+        "forks": "5,774"
+    },
+    {
+        "title": "huggingface/transformers",
+        "link": "https://github.com/login?return_to=%2Fhuggingface%2Ftransformers",
+        "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+        "stars": "149,650",
+        "forks": "30,379"
+    },
+    {
+        "title": "datawhalechina/happy-llm",
+        "link": "https://github.com/login?return_to=%2Fdatawhalechina%2Fhappy-llm",
+        "description": "📚 从零开始的大语言模型原理与实践教程",
+        "stars": "17,174",
+        "forks": "1,444"
+    },
+    {
+        "title": "simdjson/simdjson",
+        "link": "https://github.com/login?return_to=%2Fsimdjson%2Fsimdjson",
+        "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
+        "stars": "21,402",
+        "forks": "1,119"
+    },
+    {
+        "title": "fla-org/flash-linear-attention",
+        "link": "https://github.com/login?return_to=%2Ffla-org%2Fflash-linear-attention",
+        "description": "🚀 Efficient implementations of state-of-the-art linear attention models",
+        "stars": "3,229",
+        "forks": "251"
+    },
+    {
+        "title": "NVIDIA/garak",
+        "link": "https://github.com/login?return_to=%2FNVIDIA%2Fgarak",
+        "description": "the LLM vulnerability scanner",
+        "stars": "5,643",
+        "forks": "590"
+    },
+    {
+        "title": "Physical-Intelligence/openpi",
+        "link": "https://github.com/login?return_to=%2FPhysical-Intelligence%2Fopenpi",
+        "description": "No description provided",
+        "stars": "7,329",
+        "forks": "811"
+    }
+]
