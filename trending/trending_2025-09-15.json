@@ -1,0 +1,114 @@
+[
+    {
+        "title": "PowerShell/PowerShell",
+        "link": "https://github.com/login?return_to=%2FPowerShell%2FPowerShell",
+        "description": "PowerShell for every system!",
+        "stars": "49,464",
+        "forks": "7,894"
+    },
+    {
+        "title": "trueadm/ripple",
+        "link": "https://github.com/login?return_to=%2Ftrueadm%2Fripple",
+        "description": "the elegant TypeScript UI framework",
+        "stars": "4,503",
+        "forks": "161"
+    },
+    {
+        "title": "SkyworkAI/DeepResearchAgent",
+        "link": "https://github.com/login?return_to=%2FSkyworkAI%2FDeepResearchAgent",
+        "description": "DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains.",
+        "stars": "1,870",
+        "forks": "284"
+    },
+    {
+        "title": "ccxt/ccxt",
+        "link": "https://github.com/login?return_to=%2Fccxt%2Fccxt",
+        "description": "A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go",
+        "stars": "38,185",
+        "forks": "8,167"
+    },
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "68,411",
+        "forks": "8,614"
+    },
+    {
+        "title": "ItzCrazyKns/Perplexica",
+        "link": "https://github.com/login?return_to=%2FItzCrazyKns%2FPerplexica",
+        "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+        "stars": "24,292",
+        "forks": "2,546"
+    },
+    {
+        "title": "midday-ai/midday",
+        "link": "https://github.com/login?return_to=%2Fmidday-ai%2Fmidday",
+        "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
+        "stars": "12,062",
+        "forks": "1,097"
+    },
+    {
+        "title": "ReVanced/revanced-patches",
+        "link": "https://github.com/sponsors/ReVanced",
+        "description": "🧩 Patches for ReVanced",
+        "stars": "4,495",
+        "forks": "555"
+    },
+    {
+        "title": "deepset-ai/haystack",
+        "link": "https://github.com/login?return_to=%2Fdeepset-ai%2Fhaystack",
+        "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
+        "stars": "22,381",
+        "forks": "2,356"
+    },
+    {
+        "title": "docker/mcp-gateway",
+        "link": "https://github.com/login?return_to=%2Fdocker%2Fmcp-gateway",
+        "description": "docker mcp CLI plugin / MCP Gateway",
+        "stars": "459",
+        "forks": "62"
+    },
+    {
+        "title": "firebase/genkit",
+        "link": "https://github.com/login?return_to=%2Ffirebase%2Fgenkit",
+        "description": "Google's multi-model AI framework in Javascript, Go and Python",
+        "stars": "3,402",
+        "forks": "407"
+    },
+    {
+        "title": "simdjson/simdjson",
+        "link": "https://github.com/login?return_to=%2Fsimdjson%2Fsimdjson",
+        "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
+        "stars": "21,687",
+        "forks": "1,127"
+    },
+    {
+        "title": "unclecode/crawl4ai",
+        "link": "https://github.com/sponsors/unclecode",
+        "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+        "stars": "52,962",
+        "forks": "5,280"
+    },
+    {
+        "title": "Arindam200/awesome-ai-apps",
+        "link": "https://github.com/sponsors/Arindam200",
+        "description": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
+        "stars": "5,571",
+        "forks": "682"
+    },
+    {
+        "title": "donnemartin/system-design-primer",
+        "link": "https://github.com/login?return_to=%2Fdonnemartin%2Fsystem-design-primer",
+        "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+        "stars": "319,602",
+        "forks": "52,243"
+    },
+    {
+        "title": "ml-explore/mlx-lm",
+        "link": "https://github.com/login?return_to=%2Fml-explore%2Fmlx-lm",
+        "description": "Run LLMs with MLX",
+        "stars": "1,966",
+        "forks": "229"
+    }
+]
