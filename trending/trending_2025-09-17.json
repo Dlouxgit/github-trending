@@ -1,0 +1,107 @@
+[
+    {
+        "title": "microsoft/markitdown",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fmarkitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "stars": "75,871",
+        "forks": "4,196"
+    },
+    {
+        "title": "ml-explore/mlx-lm",
+        "link": "https://github.com/login?return_to=%2Fml-explore%2Fmlx-lm",
+        "description": "Run LLMs with MLX",
+        "stars": "2,258",
+        "forks": "243"
+    },
+    {
+        "title": "dataease/SQLBot",
+        "link": "https://github.com/login?return_to=%2Fdataease%2FSQLBot",
+        "description": "基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.",
+        "stars": "1,873",
+        "forks": "215"
+    },
+    {
+        "title": "SkyworkAI/DeepResearchAgent",
+        "link": "https://github.com/login?return_to=%2FSkyworkAI%2FDeepResearchAgent",
+        "description": "DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains.",
+        "stars": "2,343",
+        "forks": "323"
+    },
+    {
+        "title": "virattt/ai-hedge-fund",
+        "link": "https://github.com/login?return_to=%2Fvirattt%2Fai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "stars": "40,567",
+        "forks": "7,149"
+    },
+    {
+        "title": "ccxt/ccxt",
+        "link": "https://github.com/login?return_to=%2Fccxt%2Fccxt",
+        "description": "A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go",
+        "stars": "38,681",
+        "forks": "8,199"
+    },
+    {
+        "title": "HKUDS/DeepCode",
+        "link": "https://github.com/login?return_to=%2FHKUDS%2FDeepCode",
+        "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+        "stars": "6,582",
+        "forks": "885"
+    },
+    {
+        "title": "PaddlePaddle/PaddleOCR",
+        "link": "https://github.com/login?return_to=%2FPaddlePaddle%2FPaddleOCR",
+        "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.",
+        "stars": "54,175",
+        "forks": "8,629"
+    },
+    {
+        "title": "Plachtaa/seed-vc",
+        "link": "https://github.com/login?return_to=%2FPlachtaa%2Fseed-vc",
+        "description": "zero-shot voice conversion & singing voice conversion, with real-time support",
+        "stars": "3,138",
+        "forks": "370"
+    },
+    {
+        "title": "BasedHardware/omi",
+        "link": "https://github.com/sponsors/BasedHardware",
+        "description": "AI wearables. Put it on, speak, transcribe, automatically",
+        "stars": "6,548",
+        "forks": "966"
+    },
+    {
+        "title": "mnh-jansson/open-battery-information",
+        "link": "https://github.com/sponsors/mnh-jansson",
+        "description": "No description provided",
+        "stars": "534",
+        "forks": "108"
+    },
+    {
+        "title": "ArthurBrussee/brush",
+        "link": "https://github.com/login?return_to=%2FArthurBrussee%2Fbrush",
+        "description": "3D Reconstruction for all",
+        "stars": "2,439",
+        "forks": "108"
+    },
+    {
+        "title": "PowerShell/PowerShell",
+        "link": "https://github.com/login?return_to=%2FPowerShell%2FPowerShell",
+        "description": "PowerShell for every system!",
+        "stars": "49,927",
+        "forks": "7,927"
+    },
+    {
+        "title": "ItzCrazyKns/Perplexica",
+        "link": "https://github.com/login?return_to=%2FItzCrazyKns%2FPerplexica",
+        "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+        "stars": "24,973",
+        "forks": "2,587"
+    },
+    {
+        "title": "TheAlgorithms/Python",
+        "link": "https://github.com/login?return_to=%2FTheAlgorithms%2FPython",
+        "description": "All Algorithms implemented in Python",
+        "stars": "207,275",
+        "forks": "47,807"
+    }
+]
