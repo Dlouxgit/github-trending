@@ -1,0 +1,121 @@
+[
+    {
+        "title": "category-labs/monad",
+        "link": "https://github.com/login?return_to=%2Fcategory-labs%2Fmonad",
+        "description": "No description provided",
+        "stars": "601",
+        "forks": "160"
+    },
+    {
+        "title": "microsoft/markitdown",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fmarkitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "stars": "77,419",
+        "forks": "4,268"
+    },
+    {
+        "title": "category-labs/monad-bft",
+        "link": "https://github.com/login?return_to=%2Fcategory-labs%2Fmonad-bft",
+        "description": "No description provided",
+        "stars": "359",
+        "forks": "104"
+    },
+    {
+        "title": "WebKit/WebKit",
+        "link": "https://github.com/login?return_to=%2FWebKit%2FWebKit",
+        "description": "Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.",
+        "stars": "9,114",
+        "forks": "1,680"
+    },
+    {
+        "title": "ItzCrazyKns/Perplexica",
+        "link": "https://github.com/login?return_to=%2FItzCrazyKns%2FPerplexica",
+        "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+        "stars": "25,257",
+        "forks": "2,617"
+    },
+    {
+        "title": "openai/codex",
+        "link": "https://github.com/login?return_to=%2Fopenai%2Fcodex",
+        "description": "Lightweight coding agent that runs in your terminal",
+        "stars": "42,097",
+        "forks": "4,899"
+    },
+    {
+        "title": "nocodb/nocodb",
+        "link": "https://github.com/sponsors/nocodb",
+        "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+        "stars": "57,149",
+        "forks": "4,160"
+    },
+    {
+        "title": "dataease/SQLBot",
+        "link": "https://github.com/login?return_to=%2Fdataease%2FSQLBot",
+        "description": "基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.",
+        "stars": "2,185",
+        "forks": "243"
+    },
+    {
+        "title": "google-research/timesfm",
+        "link": "https://github.com/login?return_to=%2Fgoogle-research%2Ftimesfm",
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "stars": "5,717",
+        "forks": "523"
+    },
+    {
+        "title": "virattt/ai-hedge-fund",
+        "link": "https://github.com/login?return_to=%2Fvirattt%2Fai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "stars": "40,820",
+        "forks": "7,185"
+    },
+    {
+        "title": "Alibaba-NLP/DeepResearch",
+        "link": "https://github.com/login?return_to=%2FAlibaba-NLP%2FDeepResearch",
+        "description": "Tongyi DeepResearch, the Leading Open-source DeepResearch Agent",
+        "stars": "7,657",
+        "forks": "568"
+    },
+    {
+        "title": "sst/opencode",
+        "link": "https://github.com/sponsors/sst",
+        "description": "AI coding agent, built for the terminal.",
+        "stars": "24,090",
+        "forks": "1,680"
+    },
+    {
+        "title": "nanobrowser/nanobrowser",
+        "link": "https://github.com/login?return_to=%2Fnanobrowser%2Fnanobrowser",
+        "description": "Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.",
+        "stars": "9,433",
+        "forks": "955"
+    },
+    {
+        "title": "jordanbaird/Ice",
+        "link": "https://github.com/sponsors/jordanbaird",
+        "description": "Powerful menu bar manager for macOS",
+        "stars": "22,330",
+        "forks": "436"
+    },
+    {
+        "title": "flutter/flutter",
+        "link": "https://github.com/login?return_to=%2Fflutter%2Fflutter",
+        "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+        "stars": "172,515",
+        "forks": "29,220"
+    },
+    {
+        "title": "facebookresearch/detectron2",
+        "link": "https://github.com/login?return_to=%2Ffacebookresearch%2Fdetectron2",
+        "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.",
+        "stars": "32,974",
+        "forks": "7,797"
+    },
+    {
+        "title": "curl/curl",
+        "link": "https://github.com/sponsors/curl",
+        "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+        "stars": "38,983",
+        "forks": "6,872"
+    }
+]
