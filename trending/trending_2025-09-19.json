@@ -1,0 +1,128 @@
+[
+    {
+        "title": "microsoft/markitdown",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fmarkitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "stars": "78,655",
+        "forks": "4,320"
+    },
+    {
+        "title": "TheAlgorithms/Python",
+        "link": "https://github.com/login?return_to=%2FTheAlgorithms%2FPython",
+        "description": "All Algorithms implemented in Python",
+        "stars": "207,609",
+        "forks": "47,852"
+    },
+    {
+        "title": "curl/curl",
+        "link": "https://github.com/sponsors/curl",
+        "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+        "stars": "39,189",
+        "forks": "6,876"
+    },
+    {
+        "title": "flutter/flutter",
+        "link": "https://github.com/login?return_to=%2Fflutter%2Fflutter",
+        "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+        "stars": "172,682",
+        "forks": "29,226"
+    },
+    {
+        "title": "Alibaba-NLP/DeepResearch",
+        "link": "https://github.com/login?return_to=%2FAlibaba-NLP%2FDeepResearch",
+        "description": "Tongyi DeepResearch, the Leading Open-source DeepResearch Agent",
+        "stars": "8,961",
+        "forks": "662"
+    },
+    {
+        "title": "category-labs/monad",
+        "link": "https://github.com/login?return_to=%2Fcategory-labs%2Fmonad",
+        "description": "No description provided",
+        "stars": "757",
+        "forks": "180"
+    },
+    {
+        "title": "TEN-framework/ten-framework",
+        "link": "https://github.com/login?return_to=%2FTEN-framework%2Ften-framework",
+        "description": "Open-source framework for conversational voice AI agents.",
+        "stars": "7,720",
+        "forks": "889"
+    },
+    {
+        "title": "jwasham/coding-interview-university",
+        "link": "https://github.com/login?return_to=%2Fjwasham%2Fcoding-interview-university",
+        "description": "A complete computer science study plan to become a software engineer.",
+        "stars": "328,510",
+        "forks": "80,498"
+    },
+    {
+        "title": "BasedHardware/omi",
+        "link": "https://github.com/sponsors/BasedHardware",
+        "description": "AI wearables. Put it on, speak, transcribe, automatically",
+        "stars": "6,834",
+        "forks": "986"
+    },
+    {
+        "title": "linera-io/linera-protocol",
+        "link": "https://github.com/login?return_to=%2Flinera-io%2Flinera-protocol",
+        "description": "Main repository for the Linera protocol",
+        "stars": "29,177",
+        "forks": "1,959"
+    },
+    {
+        "title": "dataease/SQLBot",
+        "link": "https://github.com/login?return_to=%2Fdataease%2FSQLBot",
+        "description": "基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.",
+        "stars": "2,387",
+        "forks": "261"
+    },
+    {
+        "title": "ArthurBrussee/brush",
+        "link": "https://github.com/login?return_to=%2FArthurBrussee%2Fbrush",
+        "description": "3D Reconstruction for all",
+        "stars": "2,647",
+        "forks": "115"
+    },
+    {
+        "title": "PaddlePaddle/PaddleOCR",
+        "link": "https://github.com/login?return_to=%2FPaddlePaddle%2FPaddleOCR",
+        "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.",
+        "stars": "54,716",
+        "forks": "8,661"
+    },
+    {
+        "title": "unslothai/unsloth",
+        "link": "https://github.com/sponsors/unslothai",
+        "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.",
+        "stars": "45,724",
+        "forks": "3,729"
+    },
+    {
+        "title": "openai/codex",
+        "link": "https://github.com/login?return_to=%2Fopenai%2Fcodex",
+        "description": "Lightweight coding agent that runs in your terminal",
+        "stars": "42,597",
+        "forks": "4,946"
+    },
+    {
+        "title": "tenstorrent/tt-metal",
+        "link": "https://github.com/login?return_to=%2Ftenstorrent%2Ftt-metal",
+        "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
+        "stars": "1,176",
+        "forks": "267"
+    },
+    {
+        "title": "virattt/ai-hedge-fund",
+        "link": "https://github.com/login?return_to=%2Fvirattt%2Fai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "stars": "40,990",
+        "forks": "7,197"
+    },
+    {
+        "title": "cypress-io/cypress",
+        "link": "https://github.com/login?return_to=%2Fcypress-io%2Fcypress",
+        "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+        "stars": "49,003",
+        "forks": "3,333"
+    }
+]
