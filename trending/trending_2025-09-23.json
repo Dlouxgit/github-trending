@@ -1,0 +1,128 @@
+[
+    {
+        "title": "Gar-b-age/CookLikeHOC",
+        "link": "https://github.com/login?return_to=%2FGar-b-age%2FCookLikeHOC",
+        "description": "🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
+        "stars": "14,148",
+        "forks": "1,468"
+    },
+    {
+        "title": "bevyengine/bevy",
+        "link": "https://github.com/login?return_to=%2Fbevyengine%2Fbevy",
+        "description": "A refreshingly simple data-driven game engine built in Rust",
+        "stars": "42,124",
+        "forks": "4,118"
+    },
+    {
+        "title": "Alibaba-NLP/DeepResearch",
+        "link": "https://github.com/login?return_to=%2FAlibaba-NLP%2FDeepResearch",
+        "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
+        "stars": "13,776",
+        "forks": "994"
+    },
+    {
+        "title": "tldraw/tldraw",
+        "link": "https://github.com/login?return_to=%2Ftldraw%2Ftldraw",
+        "description": "very good whiteboard SDK / infinite canvas SDK",
+        "stars": "42,476",
+        "forks": "2,736"
+    },
+    {
+        "title": "elastic/elasticsearch",
+        "link": "https://github.com/login?return_to=%2Felastic%2Felasticsearch",
+        "description": "Free and Open Source, Distributed, RESTful Search Engine",
+        "stars": "73,944",
+        "forks": "25,465"
+    },
+    {
+        "title": "LizardByte/Sunshine",
+        "link": "https://github.com/sponsors/LizardByte",
+        "description": "Self-hosted game stream host for Moonlight.",
+        "stars": "29,100",
+        "forks": "1,376"
+    },
+    {
+        "title": "ytdl-org/youtube-dl",
+        "link": "https://github.com/login?return_to=%2Fytdl-org%2Fyoutube-dl",
+        "description": "Command-line program to download videos from YouTube.com and other video sites",
+        "stars": "137,727",
+        "forks": "10,485"
+    },
+    {
+        "title": "mindcraft-bots/mindcraft",
+        "link": "https://github.com/login?return_to=%2Fmindcraft-bots%2Fmindcraft",
+        "description": "Minecraft AI with LLMs+Mineflayer",
+        "stars": "3,981",
+        "forks": "549"
+    },
+    {
+        "title": "eslint/eslint",
+        "link": "https://github.com/sponsors/eslint",
+        "description": "Find and fix problems in your JavaScript code.",
+        "stars": "26,355",
+        "forks": "4,802"
+    },
+    {
+        "title": "poteto/hiring-without-whiteboards",
+        "link": "https://github.com/login?return_to=%2Fpoteto%2Fhiring-without-whiteboards",
+        "description": "⭐️ Companies that don't have a broken hiring process",
+        "stars": "49,563",
+        "forks": "3,840"
+    },
+    {
+        "title": "AUTOMATIC1111/stable-diffusion-webui",
+        "link": "https://github.com/login?return_to=%2FAUTOMATIC1111%2Fstable-diffusion-webui",
+        "description": "Stable Diffusion web UI",
+        "stars": "156,689",
+        "forks": "29,066"
+    },
+    {
+        "title": "yangshun/tech-interview-handbook",
+        "link": "https://github.com/sponsors/yangshun",
+        "description": "💯 Curated coding interview preparation materials for busy software engineers",
+        "stars": "130,086",
+        "forks": "15,800"
+    },
+    {
+        "title": "EbookFoundation/free-programming-books",
+        "link": "https://github.com/sponsors/EbookFoundation",
+        "description": "📚 Freely available programming books",
+        "stars": "369,706",
+        "forks": "64,259"
+    },
+    {
+        "title": "lllyasviel/Fooocus",
+        "link": "https://github.com/login?return_to=%2Flllyasviel%2FFooocus",
+        "description": "Focus on prompting and generating",
+        "stars": "46,564",
+        "forks": "7,487"
+    },
+    {
+        "title": "donnemartin/system-design-primer",
+        "link": "https://github.com/login?return_to=%2Fdonnemartin%2Fsystem-design-primer",
+        "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+        "stars": "320,637",
+        "forks": "52,383"
+    },
+    {
+        "title": "ziglang/zig",
+        "link": "https://github.com/sponsors/ziglang",
+        "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+        "stars": "41,185",
+        "forks": "3,016"
+    },
+    {
+        "title": "freqtrade/freqtrade",
+        "link": "https://github.com/login?return_to=%2Ffreqtrade%2Ffreqtrade",
+        "description": "Free, open source crypto trading bot",
+        "stars": "42,546",
+        "forks": "8,665"
+    },
+    {
+        "title": "winfunc/opcode",
+        "link": "https://github.com/login?return_to=%2Fwinfunc%2Fopcode",
+        "description": "A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.",
+        "stars": "17,132",
+        "forks": "1,273"
+    }
+]
