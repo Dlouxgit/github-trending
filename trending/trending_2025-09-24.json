@@ -1,0 +1,128 @@
+[
+    {
+        "title": "gin-gonic/gin",
+        "link": "https://github.com/login?return_to=%2Fgin-gonic%2Fgin",
+        "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+        "stars": "84,236",
+        "forks": "8,337"
+    },
+    {
+        "title": "LadybirdBrowser/ladybird",
+        "link": "https://github.com/login?return_to=%2FLadybirdBrowser%2Fladybird",
+        "description": "Truly independent web browser",
+        "stars": "48,339",
+        "forks": "2,091"
+    },
+    {
+        "title": "gofiber/fiber",
+        "link": "https://github.com/sponsors/gofiber",
+        "description": "⚡️ Express inspired web framework written in Go",
+        "stars": "37,782",
+        "forks": "1,871"
+    },
+    {
+        "title": "eslint/eslint",
+        "link": "https://github.com/sponsors/eslint",
+        "description": "Find and fix problems in your JavaScript code.",
+        "stars": "26,448",
+        "forks": "4,807"
+    },
+    {
+        "title": "fmtlib/fmt",
+        "link": "https://github.com/login?return_to=%2Ffmtlib%2Ffmt",
+        "description": "A modern formatting library",
+        "stars": "22,537",
+        "forks": "2,721"
+    },
+    {
+        "title": "mtdvio/every-programmer-should-know",
+        "link": "https://github.com/login?return_to=%2Fmtdvio%2Fevery-programmer-should-know",
+        "description": "A collection of (mostly) technical things every software developer should know about",
+        "stars": "90,720",
+        "forks": "8,202"
+    },
+    {
+        "title": "nvm-sh/nvm",
+        "link": "https://github.com/login?return_to=%2Fnvm-sh%2Fnvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "stars": "87,059",
+        "forks": "9,320"
+    },
+    {
+        "title": "OpenZeppelin/openzeppelin-contracts",
+        "link": "https://github.com/login?return_to=%2FOpenZeppelin%2Fopenzeppelin-contracts",
+        "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+        "stars": "26,384",
+        "forks": "12,192"
+    },
+    {
+        "title": "Gar-b-age/CookLikeHOC",
+        "link": "https://github.com/login?return_to=%2FGar-b-age%2FCookLikeHOC",
+        "description": "🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
+        "stars": "17,375",
+        "forks": "1,702"
+    },
+    {
+        "title": "EbookFoundation/free-programming-books",
+        "link": "https://github.com/sponsors/EbookFoundation",
+        "description": "📚 Freely available programming books",
+        "stars": "370,072",
+        "forks": "64,286"
+    },
+    {
+        "title": "WECENG/ticket-purchase",
+        "link": "https://github.com/login?return_to=%2FWECENG%2Fticket-purchase",
+        "description": "大麦自动抢票，支持人员、城市、日期场次、价格选择",
+        "stars": "3,145",
+        "forks": "430"
+    },
+    {
+        "title": "HKUDS/AI-Researcher",
+        "link": "https://github.com/login?return_to=%2FHKUDS%2FAI-Researcher",
+        "description": "[NeurIPS2025] \"AI-Researcher: Autonomous Scientific Innovation\" -- A production-ready version: https://novix.science/chat",
+        "stars": "2,888",
+        "forks": "335"
+    },
+    {
+        "title": "foundry-rs/foundry",
+        "link": "https://github.com/login?return_to=%2Ffoundry-rs%2Ffoundry",
+        "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+        "stars": "9,501",
+        "forks": "2,159"
+    },
+    {
+        "title": "microsoft/TypeScript",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FTypeScript",
+        "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+        "stars": "106,073",
+        "forks": "13,008"
+    },
+    {
+        "title": "helm/helm",
+        "link": "https://github.com/login?return_to=%2Fhelm%2Fhelm",
+        "description": "The Kubernetes Package Manager",
+        "stars": "28,524",
+        "forks": "7,333"
+    },
+    {
+        "title": "tldraw/tldraw",
+        "link": "https://github.com/login?return_to=%2Ftldraw%2Ftldraw",
+        "description": "very good whiteboard SDK / infinite canvas SDK",
+        "stars": "42,708",
+        "forks": "2,747"
+    },
+    {
+        "title": "smartcontractkit/chainlink",
+        "link": "https://github.com/login?return_to=%2Fsmartcontractkit%2Fchainlink",
+        "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+        "stars": "7,571",
+        "forks": "1,842"
+    },
+    {
+        "title": "Kludex/uvicorn",
+        "link": "https://github.com/sponsors/Kludex",
+        "description": "An ASGI web server, for Python. 🦄",
+        "stars": "9,740",
+        "forks": "850"
+    }
+]
