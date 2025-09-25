@@ -1,0 +1,121 @@
+[
+    {
+        "title": "cloudflare/capnweb",
+        "link": "https://github.com/login?return_to=%2Fcloudflare%2Fcapnweb",
+        "description": "JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system",
+        "stars": "1,773",
+        "forks": "46"
+    },
+    {
+        "title": "elastic/elasticsearch",
+        "link": "https://github.com/login?return_to=%2Felastic%2Felasticsearch",
+        "description": "Free and Open Source, Distributed, RESTful Search Engine",
+        "stars": "74,315",
+        "forks": "25,486"
+    },
+    {
+        "title": "LadybirdBrowser/ladybird",
+        "link": "https://github.com/login?return_to=%2FLadybirdBrowser%2Fladybird",
+        "description": "Truly independent web browser",
+        "stars": "48,580",
+        "forks": "2,105"
+    },
+    {
+        "title": "HKUDS/RAG-Anything",
+        "link": "https://github.com/login?return_to=%2FHKUDS%2FRAG-Anything",
+        "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+        "stars": "5,551",
+        "forks": "653"
+    },
+    {
+        "title": "ultralytics/ultralytics",
+        "link": "https://github.com/login?return_to=%2Fultralytics%2Fultralytics",
+        "description": "Ultralytics YOLO 🚀",
+        "stars": "46,046",
+        "forks": "8,969"
+    },
+    {
+        "title": "istio/istio",
+        "link": "https://github.com/login?return_to=%2Fistio%2Fistio",
+        "description": "Connect, secure, control, and observe services.",
+        "stars": "37,357",
+        "forks": "8,078"
+    },
+    {
+        "title": "gin-gonic/gin",
+        "link": "https://github.com/login?return_to=%2Fgin-gonic%2Fgin",
+        "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+        "stars": "84,969",
+        "forks": "8,374"
+    },
+    {
+        "title": "freqtrade/freqtrade",
+        "link": "https://github.com/login?return_to=%2Ffreqtrade%2Ffreqtrade",
+        "description": "Free, open source crypto trading bot",
+        "stars": "42,955",
+        "forks": "8,702"
+    },
+    {
+        "title": "bytedance/Dolphin",
+        "link": "https://github.com/login?return_to=%2Fbytedance%2FDolphin",
+        "description": "The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.",
+        "stars": "6,448",
+        "forks": "529"
+    },
+    {
+        "title": "aliasrobotics/cai",
+        "link": "https://github.com/login?return_to=%2Faliasrobotics%2Fcai",
+        "description": "Cybersecurity AI (CAI), the framework for AI Security",
+        "stars": "4,227",
+        "forks": "583"
+    },
+    {
+        "title": "Gar-b-age/CookLikeHOC",
+        "link": "https://github.com/login?return_to=%2FGar-b-age%2FCookLikeHOC",
+        "description": "🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
+        "stars": "17,959",
+        "forks": "1,771"
+    },
+    {
+        "title": "mtdvio/every-programmer-should-know",
+        "link": "https://github.com/login?return_to=%2Fmtdvio%2Fevery-programmer-should-know",
+        "description": "A collection of (mostly) technical things every software developer should know about",
+        "stars": "91,707",
+        "forks": "8,264"
+    },
+    {
+        "title": "solana-labs/solana",
+        "link": "https://github.com/login?return_to=%2Fsolana-labs%2Fsolana",
+        "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+        "stars": "14,484",
+        "forks": "5,196"
+    },
+    {
+        "title": "siyuan-note/siyuan",
+        "link": "https://github.com/login?return_to=%2Fsiyuan-note%2Fsiyuan",
+        "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+        "stars": "37,736",
+        "forks": "2,320"
+    },
+    {
+        "title": "django/django",
+        "link": "https://github.com/sponsors/django",
+        "description": "The Web framework for perfectionists with deadlines.",
+        "stars": "85,152",
+        "forks": "33,006"
+    },
+    {
+        "title": "ByteByteGoHq/system-design-101",
+        "link": "https://github.com/login?return_to=%2FByteByteGoHq%2Fsystem-design-101",
+        "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+        "stars": "76,857",
+        "forks": "8,305"
+    },
+    {
+        "title": "exo-explore/exo",
+        "link": "https://github.com/login?return_to=%2Fexo-explore%2Fexo",
+        "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+        "stars": "31,219",
+        "forks": "2,072"
+    }
+]
