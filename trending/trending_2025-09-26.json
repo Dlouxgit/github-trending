@@ -1,0 +1,114 @@
+[
+    {
+        "title": "gin-gonic/gin",
+        "link": "https://github.com/login?return_to=%2Fgin-gonic%2Fgin",
+        "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+        "stars": "85,469",
+        "forks": "8,401"
+    },
+    {
+        "title": "humanlayer/humanlayer",
+        "link": "https://github.com/login?return_to=%2Fhumanlayer%2Fhumanlayer",
+        "description": "The best way to get AI to solve hard problems in complex codebases.",
+        "stars": "2,949",
+        "forks": "262"
+    },
+    {
+        "title": "yt-dlp/yt-dlp",
+        "link": "https://github.com/login?return_to=%2Fyt-dlp%2Fyt-dlp",
+        "description": "A feature-rich command-line audio/video downloader",
+        "stars": "127,879",
+        "forks": "10,252"
+    },
+    {
+        "title": "TheAlgorithms/Python",
+        "link": "https://github.com/login?return_to=%2FTheAlgorithms%2FPython",
+        "description": "All Algorithms implemented in Python",
+        "stars": "209,136",
+        "forks": "48,143"
+    },
+    {
+        "title": "ZuodaoTech/everyone-can-use-english",
+        "link": "https://github.com/login?return_to=%2FZuodaoTech%2Feveryone-can-use-english",
+        "description": "人人都能用英语",
+        "stars": "29,261",
+        "forks": "4,236"
+    },
+    {
+        "title": "Olow304/memvid",
+        "link": "https://github.com/login?return_to=%2FOlow304%2Fmemvid",
+        "description": "Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.",
+        "stars": "8,958",
+        "forks": "748"
+    },
+    {
+        "title": "TanStack/router",
+        "link": "https://github.com/login?return_to=%2FTanStack%2Frouter",
+        "description": "🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.",
+        "stars": "11,275",
+        "forks": "1,219"
+    },
+    {
+        "title": "LadybirdBrowser/ladybird",
+        "link": "https://github.com/login?return_to=%2FLadybirdBrowser%2Fladybird",
+        "description": "Truly independent web browser",
+        "stars": "48,800",
+        "forks": "2,116"
+    },
+    {
+        "title": "coinbase/x402",
+        "link": "https://github.com/login?return_to=%2Fcoinbase%2Fx402",
+        "description": "A payments protocol for the internet. Built on HTTP.",
+        "stars": "1,338",
+        "forks": "244"
+    },
+    {
+        "title": "Asabeneh/30-Days-Of-Python",
+        "link": "https://github.com/sponsors/Asabeneh",
+        "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+        "stars": "50,096",
+        "forks": "9,559"
+    },
+    {
+        "title": "elastic/elasticsearch",
+        "link": "https://github.com/login?return_to=%2Felastic%2Felasticsearch",
+        "description": "Free and Open Source, Distributed, RESTful Search Engine",
+        "stars": "74,703",
+        "forks": "25,503"
+    },
+    {
+        "title": "OpenZeppelin/openzeppelin-contracts",
+        "link": "https://github.com/login?return_to=%2FOpenZeppelin%2Fopenzeppelin-contracts",
+        "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+        "stars": "26,465",
+        "forks": "12,200"
+    },
+    {
+        "title": "confident-ai/deepeval",
+        "link": "https://github.com/login?return_to=%2Fconfident-ai%2Fdeepeval",
+        "description": "The LLM Evaluation Framework",
+        "stars": "11,172",
+        "forks": "963"
+    },
+    {
+        "title": "cloudflare/capnweb",
+        "link": "https://github.com/login?return_to=%2Fcloudflare%2Fcapnweb",
+        "description": "JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system",
+        "stars": "2,474",
+        "forks": "74"
+    },
+    {
+        "title": "smartcontractkit/chainlink",
+        "link": "https://github.com/login?return_to=%2Fsmartcontractkit%2Fchainlink",
+        "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+        "stars": "7,721",
+        "forks": "1,855"
+    },
+    {
+        "title": "onyx-dot-app/onyx",
+        "link": "https://github.com/login?return_to=%2Fonyx-dot-app%2Fonyx",
+        "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+        "stars": "13,787",
+        "forks": "1,918"
+    }
+]
