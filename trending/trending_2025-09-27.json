@@ -1,0 +1,107 @@
+[
+    {
+        "title": "ZuodaoTech/everyone-can-use-english",
+        "link": "https://github.com/login?return_to=%2FZuodaoTech%2Feveryone-can-use-english",
+        "description": "人人都能用英语",
+        "stars": "29,988",
+        "forks": "4,300"
+    },
+    {
+        "title": "HKUDS/RAG-Anything",
+        "link": "https://github.com/login?return_to=%2FHKUDS%2FRAG-Anything",
+        "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+        "stars": "6,349",
+        "forks": "717"
+    },
+    {
+        "title": "humanlayer/humanlayer",
+        "link": "https://github.com/login?return_to=%2Fhumanlayer%2Fhumanlayer",
+        "description": "The best way to get AI to solve hard problems in complex codebases.",
+        "stars": "3,246",
+        "forks": "276"
+    },
+    {
+        "title": "gin-gonic/gin",
+        "link": "https://github.com/login?return_to=%2Fgin-gonic%2Fgin",
+        "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+        "stars": "85,880",
+        "forks": "8,418"
+    },
+    {
+        "title": "basecamp/omarchy",
+        "link": "https://github.com/login?return_to=%2Fbasecamp%2Fomarchy",
+        "description": "Opinionated Arch/Hyprland Setup",
+        "stars": "10,909",
+        "forks": "1,070"
+    },
+    {
+        "title": "onyx-dot-app/onyx",
+        "link": "https://github.com/login?return_to=%2Fonyx-dot-app%2Fonyx",
+        "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+        "stars": "14,114",
+        "forks": "1,940"
+    },
+    {
+        "title": "ericciarla/trendFinder",
+        "link": "https://github.com/login?return_to=%2Fericciarla%2FtrendFinder",
+        "description": "Stay on top of trending topics on social media and the web with AI",
+        "stars": "3,654",
+        "forks": "396"
+    },
+    {
+        "title": "netdata/netdata",
+        "link": "https://github.com/login?return_to=%2Fnetdata%2Fnetdata",
+        "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+        "stars": "76,127",
+        "forks": "6,170"
+    },
+    {
+        "title": "jellyfin/jellyfin",
+        "link": "https://github.com/login?return_to=%2Fjellyfin%2Fjellyfin",
+        "description": "The Free Software Media System - Server Backend & API",
+        "stars": "43,758",
+        "forks": "3,931"
+    },
+    {
+        "title": "bytedance/Dolphin",
+        "link": "https://github.com/login?return_to=%2Fbytedance%2FDolphin",
+        "description": "The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.",
+        "stars": "6,828",
+        "forks": "546"
+    },
+    {
+        "title": "google-gemini/gemini-cli",
+        "link": "https://github.com/login?return_to=%2Fgoogle-gemini%2Fgemini-cli",
+        "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+        "stars": "76,950",
+        "forks": "8,261"
+    },
+    {
+        "title": "exo-explore/exo",
+        "link": "https://github.com/login?return_to=%2Fexo-explore%2Fexo",
+        "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+        "stars": "31,494",
+        "forks": "2,090"
+    },
+    {
+        "title": "is-a-dev/register",
+        "link": "https://github.com/login?return_to=%2Fis-a-dev%2Fregister",
+        "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+        "stars": "7,789",
+        "forks": "14,213"
+    },
+    {
+        "title": "google-gemini/cookbook",
+        "link": "https://github.com/login?return_to=%2Fgoogle-gemini%2Fcookbook",
+        "description": "Examples and guides for using the Gemini API",
+        "stars": "14,899",
+        "forks": "2,125"
+    },
+    {
+        "title": "ultralytics/ultralytics",
+        "link": "https://github.com/login?return_to=%2Fultralytics%2Fultralytics",
+        "description": "Ultralytics YOLO 🚀",
+        "stars": "46,405",
+        "forks": "8,991"
+    }
+]
