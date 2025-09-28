@@ -1,0 +1,142 @@
+[
+    {
+        "title": "humanlayer/humanlayer",
+        "link": "https://github.com/login?return_to=%2Fhumanlayer%2Fhumanlayer",
+        "description": "The best way to get AI coding agents to solve hard problems in complex codebases.",
+        "stars": "3,983",
+        "forks": "320"
+    },
+    {
+        "title": "onyx-dot-app/onyx",
+        "link": "https://github.com/login?return_to=%2Fonyx-dot-app%2Fonyx",
+        "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+        "stars": "14,367",
+        "forks": "1,954"
+    },
+    {
+        "title": "coinbase/x402",
+        "link": "https://github.com/login?return_to=%2Fcoinbase%2Fx402",
+        "description": "A payments protocol for the internet. Built on HTTP.",
+        "stars": "1,578",
+        "forks": "260"
+    },
+    {
+        "title": "HKUDS/RAG-Anything",
+        "link": "https://github.com/login?return_to=%2FHKUDS%2FRAG-Anything",
+        "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+        "stars": "6,911",
+        "forks": "777"
+    },
+    {
+        "title": "gin-gonic/gin",
+        "link": "https://github.com/login?return_to=%2Fgin-gonic%2Fgin",
+        "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+        "stars": "85,969",
+        "forks": "8,423"
+    },
+    {
+        "title": "harry0703/MoneyPrinterTurbo",
+        "link": "https://github.com/login?return_to=%2Fharry0703%2FMoneyPrinterTurbo",
+        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+        "stars": "40,318",
+        "forks": "5,876"
+    },
+    {
+        "title": "frappe/erpnext",
+        "link": "https://github.com/login?return_to=%2Ffrappe%2Ferpnext",
+        "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+        "stars": "28,780",
+        "forks": "9,411"
+    },
+    {
+        "title": "modelcontextprotocol/typescript-sdk",
+        "link": "https://github.com/login?return_to=%2Fmodelcontextprotocol%2Ftypescript-sdk",
+        "description": "The official TypeScript SDK for Model Context Protocol servers and clients",
+        "stars": "9,983",
+        "forks": "1,287"
+    },
+    {
+        "title": "ZuodaoTech/everyone-can-use-english",
+        "link": "https://github.com/login?return_to=%2FZuodaoTech%2Feveryone-can-use-english",
+        "description": "人人都能用英语",
+        "stars": "30,459",
+        "forks": "4,347"
+    },
+    {
+        "title": "directus/directus",
+        "link": "https://github.com/sponsors/directus",
+        "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
+        "stars": "32,565",
+        "forks": "4,397"
+    },
+    {
+        "title": "Olow304/memvid",
+        "link": "https://github.com/login?return_to=%2FOlow304%2Fmemvid",
+        "description": "Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.",
+        "stars": "9,411",
+        "forks": "778"
+    },
+    {
+        "title": "imputnet/helium",
+        "link": "https://github.com/login?return_to=%2Fimputnet%2Fhelium",
+        "description": "Private, fast, and honest web browser",
+        "stars": "3,527",
+        "forks": "40"
+    },
+    {
+        "title": "roboflow/supervision",
+        "link": "https://github.com/login?return_to=%2Froboflow%2Fsupervision",
+        "description": "We write your reusable computer vision tools. 💜",
+        "stars": "35,303",
+        "forks": "2,902"
+    },
+    {
+        "title": "oauth2-proxy/oauth2-proxy",
+        "link": "https://github.com/login?return_to=%2Foauth2-proxy%2Foauth2-proxy",
+        "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+        "stars": "12,232",
+        "forks": "1,818"
+    },
+    {
+        "title": "ai-dynamo/dynamo",
+        "link": "https://github.com/login?return_to=%2Fai-dynamo%2Fdynamo",
+        "description": "A Datacenter Scale Distributed Inference Serving Framework",
+        "stars": "5,139",
+        "forks": "615"
+    },
+    {
+        "title": "basecamp/omarchy",
+        "link": "https://github.com/login?return_to=%2Fbasecamp%2Fomarchy",
+        "description": "Opinionated Arch/Hyprland Setup",
+        "stars": "11,281",
+        "forks": "1,088"
+    },
+    {
+        "title": "e2b-dev/awesome-ai-agents",
+        "link": "https://github.com/login?return_to=%2Fe2b-dev%2Fawesome-ai-agents",
+        "description": "A list of AI autonomous agents",
+        "stars": "22,914",
+        "forks": "1,892"
+    },
+    {
+        "title": "wanghongenpin/proxypin",
+        "link": "https://github.com/login?return_to=%2Fwanghongenpin%2Fproxypin",
+        "description": "Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems",
+        "stars": "10,443",
+        "forks": "899"
+    },
+    {
+        "title": "dotnet/aspnetcore",
+        "link": "https://github.com/login?return_to=%2Fdotnet%2Faspnetcore",
+        "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+        "stars": "37,166",
+        "forks": "10,453"
+    },
+    {
+        "title": "jellyfin/jellyfin",
+        "link": "https://github.com/login?return_to=%2Fjellyfin%2Fjellyfin",
+        "description": "The Free Software Media System - Server Backend & API",
+        "stars": "43,889",
+        "forks": "3,943"
+    }
+]
