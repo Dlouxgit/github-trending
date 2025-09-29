@@ -1,0 +1,121 @@
+[
+    {
+        "title": "commaai/openpilot",
+        "link": "https://github.com/login?return_to=%2Fcommaai%2Fopenpilot",
+        "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+        "stars": "56,706",
+        "forks": "10,178"
+    },
+    {
+        "title": "kamranahmedse/developer-roadmap",
+        "link": "https://github.com/sponsors/kamranahmedse",
+        "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+        "stars": "338,224",
+        "forks": "42,935"
+    },
+    {
+        "title": "rasbt/LLMs-from-scratch",
+        "link": "https://github.com/login?return_to=%2Frasbt%2FLLMs-from-scratch",
+        "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+        "stars": "73,340",
+        "forks": "10,675"
+    },
+    {
+        "title": "humanlayer/humanlayer",
+        "link": "https://github.com/login?return_to=%2Fhumanlayer%2Fhumanlayer",
+        "description": "The best way to get AI coding agents to solve hard problems in complex codebases.",
+        "stars": "4,595",
+        "forks": "358"
+    },
+    {
+        "title": "typst/typst",
+        "link": "https://github.com/sponsors/typst",
+        "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+        "stars": "46,107",
+        "forks": "1,238"
+    },
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "70,540",
+        "forks": "9,021"
+    },
+    {
+        "title": "microsoft/qlib",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fqlib",
+        "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.",
+        "stars": "31,440",
+        "forks": "4,842"
+    },
+    {
+        "title": "sst/opencode",
+        "link": "https://github.com/sponsors/sst",
+        "description": "AI coding agent, built for the terminal.",
+        "stars": "25,359",
+        "forks": "1,829"
+    },
+    {
+        "title": "harry0703/MoneyPrinterTurbo",
+        "link": "https://github.com/login?return_to=%2Fharry0703%2FMoneyPrinterTurbo",
+        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+        "stars": "40,720",
+        "forks": "5,919"
+    },
+    {
+        "title": "ZuodaoTech/everyone-can-use-english",
+        "link": "https://github.com/login?return_to=%2FZuodaoTech%2Feveryone-can-use-english",
+        "description": "人人都能用英语",
+        "stars": "30,686",
+        "forks": "4,371"
+    },
+    {
+        "title": "frappe/erpnext",
+        "link": "https://github.com/login?return_to=%2Ffrappe%2Ferpnext",
+        "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+        "stars": "28,985",
+        "forks": "9,436"
+    },
+    {
+        "title": "basecamp/omarchy",
+        "link": "https://github.com/login?return_to=%2Fbasecamp%2Fomarchy",
+        "description": "Opinionated Arch/Hyprland Setup",
+        "stars": "11,626",
+        "forks": "1,104"
+    },
+    {
+        "title": "jellyfin/jellyfin",
+        "link": "https://github.com/login?return_to=%2Fjellyfin%2Fjellyfin",
+        "description": "The Free Software Media System - Server Backend & API",
+        "stars": "44,010",
+        "forks": "3,955"
+    },
+    {
+        "title": "rapid7/metasploit-framework",
+        "link": "https://github.com/login?return_to=%2Frapid7%2Fmetasploit-framework",
+        "description": "Metasploit Framework",
+        "stars": "36,557",
+        "forks": "14,540"
+    },
+    {
+        "title": "onyx-dot-app/onyx",
+        "link": "https://github.com/login?return_to=%2Fonyx-dot-app%2Fonyx",
+        "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+        "stars": "14,641",
+        "forks": "1,978"
+    },
+    {
+        "title": "yt-dlp/yt-dlp",
+        "link": "https://github.com/login?return_to=%2Fyt-dlp%2Fyt-dlp",
+        "description": "A feature-rich command-line audio/video downloader",
+        "stars": "128,676",
+        "forks": "10,313"
+    },
+    {
+        "title": "microsoft/ai-agents-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fai-agents-for-beginners",
+        "description": "12 Lessons to Get Started Building AI Agents",
+        "stars": "40,294",
+        "forks": "13,124"
+    }
+]
