@@ -1,0 +1,128 @@
+[
+    {
+        "title": "harry0703/MoneyPrinterTurbo",
+        "link": "https://github.com/login?return_to=%2Fharry0703%2FMoneyPrinterTurbo",
+        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+        "stars": "43,725",
+        "forks": "6,189"
+    },
+    {
+        "title": "nextcloud/server",
+        "link": "https://github.com/login?return_to=%2Fnextcloud%2Fserver",
+        "description": "☁️ Nextcloud server, a safe home for all your data",
+        "stars": "31,312",
+        "forks": "4,466"
+    },
+    {
+        "title": "typst/typst",
+        "link": "https://github.com/sponsors/typst",
+        "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+        "stars": "46,370",
+        "forks": "1,252"
+    },
+    {
+        "title": "fastapi/fastapi",
+        "link": "https://github.com/login?return_to=%2Ffastapi%2Ffastapi",
+        "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+        "stars": "90,164",
+        "forks": "7,978"
+    },
+    {
+        "title": "commaai/openpilot",
+        "link": "https://github.com/login?return_to=%2Fcommaai%2Fopenpilot",
+        "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+        "stars": "57,923",
+        "forks": "10,278"
+    },
+    {
+        "title": "DevCaress/guia-entrevistas-de-programacion",
+        "link": "https://github.com/login?return_to=%2FDevCaress%2Fguia-entrevistas-de-programacion",
+        "description": "No description provided",
+        "stars": "6,052",
+        "forks": "838"
+    },
+    {
+        "title": "anthropics/claude-agent-sdk-python",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-agent-sdk-python",
+        "description": "No description provided",
+        "stars": "1,510",
+        "forks": "203"
+    },
+    {
+        "title": "juliangarnier/anime",
+        "link": "https://github.com/sponsors/juliangarnier",
+        "description": "JavaScript animation engine",
+        "stars": "64,350",
+        "forks": "4,302"
+    },
+    {
+        "title": "kamranahmedse/developer-roadmap",
+        "link": "https://github.com/sponsors/kamranahmedse",
+        "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+        "stars": "339,064",
+        "forks": "43,004"
+    },
+    {
+        "title": "Done-0/fuck-u-code",
+        "link": "https://github.com/login?return_to=%2FDone-0%2Ffuck-u-code",
+        "description": "Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告",
+        "stars": "4,522",
+        "forks": "224"
+    },
+    {
+        "title": "microsoft/ai-agents-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fai-agents-for-beginners",
+        "description": "12 Lessons to Get Started Building AI Agents",
+        "stars": "41,166",
+        "forks": "13,336"
+    },
+    {
+        "title": "rasbt/LLMs-from-scratch",
+        "link": "https://github.com/login?return_to=%2Frasbt%2FLLMs-from-scratch",
+        "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+        "stars": "73,956",
+        "forks": "10,756"
+    },
+    {
+        "title": "anthropics/claude-code",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "stars": "34,954",
+        "forks": "2,160"
+    },
+    {
+        "title": "bregman-arie/devops-exercises",
+        "link": "https://github.com/sponsors/bregman-arie",
+        "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+        "stars": "78,810",
+        "forks": "17,797"
+    },
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "70,912",
+        "forks": "9,081"
+    },
+    {
+        "title": "Byaidu/PDFMathTranslate",
+        "link": "https://github.com/login?return_to=%2FByaidu%2FPDFMathTranslate",
+        "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero",
+        "stars": "28,147",
+        "forks": "2,482"
+    },
+    {
+        "title": "cjpais/Handy",
+        "link": "https://github.com/sponsors/cjpais",
+        "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+        "stars": "1,113",
+        "forks": "70"
+    },
+    {
+        "title": "SDWebImage/SDWebImage",
+        "link": "https://github.com/login?return_to=%2FSDWebImage%2FSDWebImage",
+        "description": "Asynchronous image downloader with cache support as a UIImageView category",
+        "stars": "25,594",
+        "forks": "5,992"
+    }
+]
