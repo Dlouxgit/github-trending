@@ -1,0 +1,107 @@
+[
+    {
+        "title": "harry0703/MoneyPrinterTurbo",
+        "link": "https://github.com/login?return_to=%2Fharry0703%2FMoneyPrinterTurbo",
+        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+        "stars": "44,942",
+        "forks": "6,306"
+    },
+    {
+        "title": "Done-0/fuck-u-code",
+        "link": "https://github.com/login?return_to=%2FDone-0%2Ffuck-u-code",
+        "description": "Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告",
+        "stars": "4,670",
+        "forks": "229"
+    },
+    {
+        "title": "anthropics/claude-agent-sdk-python",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-agent-sdk-python",
+        "description": "No description provided",
+        "stars": "1,814",
+        "forks": "236"
+    },
+    {
+        "title": "lobehub/lobe-chat",
+        "link": "https://github.com/sponsors/lobehub",
+        "description": "🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.",
+        "stars": "66,276",
+        "forks": "13,731"
+    },
+    {
+        "title": "nextcloud/server",
+        "link": "https://github.com/login?return_to=%2Fnextcloud%2Fserver",
+        "description": "☁️ Nextcloud server, a safe home for all your data",
+        "stars": "31,663",
+        "forks": "4,483"
+    },
+    {
+        "title": "github/awesome-copilot",
+        "link": "https://github.com/login?return_to=%2Fgithub%2Fawesome-copilot",
+        "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
+        "stars": "8,748",
+        "forks": "997"
+    },
+    {
+        "title": "SDWebImage/SDWebImage",
+        "link": "https://github.com/login?return_to=%2FSDWebImage%2FSDWebImage",
+        "description": "Asynchronous image downloader with cache support as a UIImageView category",
+        "stars": "25,662",
+        "forks": "5,995"
+    },
+    {
+        "title": "mlabonne/llm-course",
+        "link": "https://github.com/login?return_to=%2Fmlabonne%2Fllm-course",
+        "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+        "stars": "64,036",
+        "forks": "7,077"
+    },
+    {
+        "title": "aquasecurity/trivy",
+        "link": "https://github.com/login?return_to=%2Faquasecurity%2Ftrivy",
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "stars": "29,205",
+        "forks": "2,761"
+    },
+    {
+        "title": "lukas-blecher/LaTeX-OCR",
+        "link": "https://github.com/login?return_to=%2Flukas-blecher%2FLaTeX-OCR",
+        "description": "pix2tex: Using a ViT to convert images of equations into LaTeX code.",
+        "stars": "15,488",
+        "forks": "1,243"
+    },
+    {
+        "title": "PHPMailer/PHPMailer",
+        "link": "https://github.com/login?return_to=%2FPHPMailer%2FPHPMailer",
+        "description": "The classic email sending library for PHP",
+        "stars": "21,806",
+        "forks": "9,870"
+    },
+    {
+        "title": "commaai/openpilot",
+        "link": "https://github.com/login?return_to=%2Fcommaai%2Fopenpilot",
+        "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+        "stars": "58,096",
+        "forks": "10,279"
+    },
+    {
+        "title": "microsoft/ai-agents-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fai-agents-for-beginners",
+        "description": "12 Lessons to Get Started Building AI Agents",
+        "stars": "41,445",
+        "forks": "13,399"
+    },
+    {
+        "title": "YILING0013/AI_NovelGenerator",
+        "link": "https://github.com/login?return_to=%2FYILING0013%2FAI_NovelGenerator",
+        "description": "使用ai生成多章节的长篇小说，自动衔接上下文、伏笔",
+        "stars": "2,190",
+        "forks": "445"
+    },
+    {
+        "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+        "link": "https://github.com/login?return_to=%2Fx1xhlol%2Fsystem-prompts-and-models-of-ai-tools",
+        "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+        "stars": "89,263",
+        "forks": "24,356"
+    }
+]
