@@ -1,0 +1,149 @@
+[
+    {
+        "title": "nextcloud/server",
+        "link": "https://github.com/login?return_to=%2Fnextcloud%2Fserver",
+        "description": "☁️ Nextcloud server, a safe home for all your data",
+        "stars": "32,255",
+        "forks": "4,515"
+    },
+    {
+        "title": "google/tunix",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Ftunix",
+        "description": "A JAX-native LLM Post-Training Library",
+        "stars": "916",
+        "forks": "81"
+    },
+    {
+        "title": "pathwaycom/pathway",
+        "link": "https://github.com/login?return_to=%2Fpathwaycom%2Fpathway",
+        "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+        "stars": "43,984",
+        "forks": "1,344"
+    },
+    {
+        "title": "cjpais/Handy",
+        "link": "https://github.com/sponsors/cjpais",
+        "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+        "stars": "1,572",
+        "forks": "87"
+    },
+    {
+        "title": "anthropics/claude-agent-sdk-python",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-agent-sdk-python",
+        "description": "No description provided",
+        "stars": "1,987",
+        "forks": "252"
+    },
+    {
+        "title": "atuinsh/desktop",
+        "link": "https://github.com/sponsors/atuinsh",
+        "description": "📖 Runbooks that run",
+        "stars": "964",
+        "forks": "27"
+    },
+    {
+        "title": "SDWebImage/SDWebImage",
+        "link": "https://github.com/login?return_to=%2FSDWebImage%2FSDWebImage",
+        "description": "Asynchronous image downloader with cache support as a UIImageView category",
+        "stars": "25,701",
+        "forks": "5,999"
+    },
+    {
+        "title": "Lightricks/LTX-Video",
+        "link": "https://github.com/login?return_to=%2FLightricks%2FLTX-Video",
+        "description": "Official repository for LTX-Video",
+        "stars": "8,196",
+        "forks": "731"
+    },
+    {
+        "title": "juspay/hyperswitch",
+        "link": "https://github.com/login?return_to=%2Fjuspay%2Fhyperswitch",
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "stars": "34,881",
+        "forks": "4,248"
+    },
+    {
+        "title": "immich-app/immich",
+        "link": "https://github.com/login?return_to=%2Fimmich-app%2Fimmich",
+        "description": "High performance self-hosted photo and video management solution.",
+        "stars": "78,902",
+        "forks": "4,146"
+    },
+    {
+        "title": "chiphuyen/aie-book",
+        "link": "https://github.com/login?return_to=%2Fchiphuyen%2Faie-book",
+        "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
+        "stars": "9,810",
+        "forks": "1,347"
+    },
+    {
+        "title": "actions/runner-images",
+        "link": "https://github.com/login?return_to=%2Factions%2Frunner-images",
+        "description": "GitHub Actions runner images",
+        "stars": "11,982",
+        "forks": "3,518"
+    },
+    {
+        "title": "harry0703/MoneyPrinterTurbo",
+        "link": "https://github.com/login?return_to=%2Fharry0703%2FMoneyPrinterTurbo",
+        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+        "stars": "45,476",
+        "forks": "6,357"
+    },
+    {
+        "title": "simstudioai/sim",
+        "link": "https://github.com/login?return_to=%2Fsimstudioai%2Fsim",
+        "description": "Open-source platform to build and deploy AI agent workflows.",
+        "stars": "16,084",
+        "forks": "2,036"
+    },
+    {
+        "title": "MudBlazor/MudBlazor",
+        "link": "https://github.com/sponsors/MudBlazor",
+        "description": "Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility",
+        "stars": "9,601",
+        "forks": "1,518"
+    },
+    {
+        "title": "hsliuping/TradingAgents-CN",
+        "link": "https://github.com/login?return_to=%2Fhsliuping%2FTradingAgents-CN",
+        "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+        "stars": "7,794",
+        "forks": "1,895"
+    },
+    {
+        "title": "quarkusio/quarkus",
+        "link": "https://github.com/login?return_to=%2Fquarkusio%2Fquarkus",
+        "description": "Quarkus: Supersonic Subatomic Java.",
+        "stars": "15,052",
+        "forks": "2,969"
+    },
+    {
+        "title": "anthropics/claude-code",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "stars": "35,303",
+        "forks": "2,185"
+    },
+    {
+        "title": "enescingoz/awesome-n8n-templates",
+        "link": "https://github.com/sponsors/enescingoz",
+        "description": "Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.",
+        "stars": "12,951",
+        "forks": "3,792"
+    },
+    {
+        "title": "kestra-io/kestra",
+        "link": "https://github.com/login?return_to=%2Fkestra-io%2Fkestra",
+        "description": "Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.",
+        "stars": "21,533",
+        "forks": "1,912"
+    },
+    {
+        "title": "tigerbeetle/tigerbeetle",
+        "link": "https://github.com/login?return_to=%2Ftigerbeetle%2Ftigerbeetle",
+        "description": "The financial transactions database designed for mission critical safety and performance.",
+        "stars": "13,715",
+        "forks": "673"
+    }
+]
