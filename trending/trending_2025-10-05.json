@@ -1,0 +1,149 @@
+[
+    {
+        "title": "juspay/hyperswitch",
+        "link": "https://github.com/login?return_to=%2Fjuspay%2Fhyperswitch",
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "stars": "35,622",
+        "forks": "4,301"
+    },
+    {
+        "title": "meshery/meshery",
+        "link": "https://github.com/login?return_to=%2Fmeshery%2Fmeshery",
+        "description": "Meshery, the cloud native manager",
+        "stars": "8,308",
+        "forks": "2,661"
+    },
+    {
+        "title": "google/tunix",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Ftunix",
+        "description": "A JAX-native LLM Post-Training Library",
+        "stars": "1,473",
+        "forks": "127"
+    },
+    {
+        "title": "Stremio/stremio-web",
+        "link": "https://github.com/login?return_to=%2FStremio%2Fstremio-web",
+        "description": "Stremio - Freedom to Stream",
+        "stars": "1,905",
+        "forks": "404"
+    },
+    {
+        "title": "tigerbeetle/tigerbeetle",
+        "link": "https://github.com/login?return_to=%2Ftigerbeetle%2Ftigerbeetle",
+        "description": "The financial transactions database designed for mission critical safety and performance.",
+        "stars": "13,894",
+        "forks": "685"
+    },
+    {
+        "title": "paaatrick/playball",
+        "link": "https://github.com/login?return_to=%2Fpaaatrick%2Fplayball",
+        "description": "Watch MLB games from the comfort of your own terminal",
+        "stars": "1,055",
+        "forks": "41"
+    },
+    {
+        "title": "AykutSarac/jsoncrack.com",
+        "link": "https://github.com/login?return_to=%2FAykutSarac%2Fjsoncrack.com",
+        "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+        "stars": "41,777",
+        "forks": "2,981"
+    },
+    {
+        "title": "simular-ai/Agent-S",
+        "link": "https://github.com/login?return_to=%2Fsimular-ai%2FAgent-S",
+        "description": "Agent S: an open agentic framework that uses computers like a human",
+        "stars": "6,534",
+        "forks": "712"
+    },
+    {
+        "title": "kestra-io/kestra",
+        "link": "https://github.com/login?return_to=%2Fkestra-io%2Fkestra",
+        "description": "Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.",
+        "stars": "21,795",
+        "forks": "1,951"
+    },
+    {
+        "title": "microsoft/BitNet",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FBitNet",
+        "description": "Official inference framework for 1-bit LLMs",
+        "stars": "22,564",
+        "forks": "1,762"
+    },
+    {
+        "title": "Infisical/infisical",
+        "link": "https://github.com/sponsors/Infisical",
+        "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
+        "stars": "20,447",
+        "forks": "1,394"
+    },
+    {
+        "title": "signalapp/libsignal",
+        "link": "https://github.com/login?return_to=%2Fsignalapp%2Flibsignal",
+        "description": "Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.",
+        "stars": "4,901",
+        "forks": "601"
+    },
+    {
+        "title": "MudBlazor/MudBlazor",
+        "link": "https://github.com/sponsors/MudBlazor",
+        "description": "Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility",
+        "stars": "9,668",
+        "forks": "1,524"
+    },
+    {
+        "title": "pathwaycom/pathway",
+        "link": "https://github.com/login?return_to=%2Fpathwaycom%2Fpathway",
+        "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+        "stars": "44,675",
+        "forks": "1,367"
+    },
+    {
+        "title": "glide-browser/glide",
+        "link": "https://github.com/login?return_to=%2Fglide-browser%2Fglide",
+        "description": "An extensible and keyboard-focused web browser",
+        "stars": "539",
+        "forks": "11"
+    },
+    {
+        "title": "dbt-labs/dbt-core",
+        "link": "https://github.com/login?return_to=%2Fdbt-labs%2Fdbt-core",
+        "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+        "stars": "11,556",
+        "forks": "1,979"
+    },
+    {
+        "title": "hsliuping/TradingAgents-CN",
+        "link": "https://github.com/login?return_to=%2Fhsliuping%2FTradingAgents-CN",
+        "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+        "stars": "9,058",
+        "forks": "2,033"
+    },
+    {
+        "title": "airweave-ai/airweave",
+        "link": "https://github.com/login?return_to=%2Fairweave-ai%2Fairweave",
+        "description": "Airweave lets agents search any app",
+        "stars": "3,854",
+        "forks": "472"
+    },
+    {
+        "title": "microsoft/agent-framework",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fagent-framework",
+        "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+        "stars": "2,190",
+        "forks": "235"
+    },
+    {
+        "title": "pathwaycom/llm-app",
+        "link": "https://github.com/login?return_to=%2Fpathwaycom%2Fllm-app",
+        "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
+        "stars": "41,360",
+        "forks": "1,111"
+    },
+    {
+        "title": "MotiaDev/motia",
+        "link": "https://github.com/login?return_to=%2FMotiaDev%2Fmotia",
+        "description": "Multi-Language Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.",
+        "stars": "9,132",
+        "forks": "693"
+    }
+]
