@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Stremio/stremio-web",
+        "link": "https://github.com/login?return_to=%2FStremio%2Fstremio-web",
+        "description": "Stremio - Freedom to Stream",
+        "stars": "5,520",
+        "forks": "686"
+    },
+    {
+        "title": "Infisical/infisical",
+        "link": "https://github.com/sponsors/Infisical",
+        "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
+        "stars": "22,277",
+        "forks": "1,502"
+    },
+    {
+        "title": "browserbase/stagehand",
+        "link": "https://github.com/login?return_to=%2Fbrowserbase%2Fstagehand",
+        "description": "The AI Browser Automation Framework",
+        "stars": "17,541",
+        "forks": "1,096"
+    },
+    {
+        "title": "TapXWorld/ChinaTextbook",
+        "link": "https://github.com/login?return_to=%2FTapXWorld%2FChinaTextbook",
+        "description": "所有小初高、大学PDF教材。",
+        "stars": "51,585",
+        "forks": "11,612"
+    },
+    {
+        "title": "BeehiveInnovations/zen-mcp-server",
+        "link": "https://github.com/sponsors/BeehiveInnovations",
+        "description": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.",
+        "stars": "8,324",
+        "forks": "703"
+    },
+    {
+        "title": "trycua/cua",
+        "link": "https://github.com/sponsors/trycua",
+        "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+        "stars": "10,352",
+        "forks": "566"
+    },
+    {
+        "title": "aandrew-me/ytDownloader",
+        "link": "https://github.com/login?return_to=%2Faandrew-me%2FytDownloader",
+        "description": "Desktop App for downloading Videos and Audios from hundreds of sites",
+        "stars": "3,866",
+        "forks": "284"
+    },
+    {
+        "title": "openemr/openemr",
+        "link": "https://github.com/sponsors/openemr",
+        "description": "The most popular open source electronic health records and medical practice management solution.",
+        "stars": "4,201",
+        "forks": "2,545"
+    },
+    {
+        "title": "thingsboard/thingsboard",
+        "link": "https://github.com/login?return_to=%2Fthingsboard%2Fthingsboard",
+        "description": "Open-source IoT Platform - Device management, data collection, processing and visualization.",
+        "stars": "19,989",
+        "forks": "5,837"
+    },
+    {
+        "title": "dyad-sh/dyad",
+        "link": "https://github.com/login?return_to=%2Fdyad-sh%2Fdyad",
+        "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
+        "stars": "15,747",
+        "forks": "1,666"
+    },
+    {
+        "title": "shadcn-ui/ui",
+        "link": "https://github.com/login?return_to=%2Fshadcn-ui%2Fui",
+        "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+        "stars": "96,827",
+        "forks": "6,897"
+    },
+    {
+        "title": "MODSetter/SurfSense",
+        "link": "https://github.com/sponsors/MODSetter",
+        "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9",
+        "stars": "8,588",
+        "forks": "655"
+    }
+]
