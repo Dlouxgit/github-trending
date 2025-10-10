@@ -1,0 +1,93 @@
+[
+    {
+        "title": "Stremio/stremio-web",
+        "link": "https://github.com/login?return_to=%2FStremio%2Fstremio-web",
+        "description": "Stremio - Freedom to Stream",
+        "stars": "6,734",
+        "forks": "778"
+    },
+    {
+        "title": "MODSetter/SurfSense",
+        "link": "https://github.com/sponsors/MODSetter",
+        "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9",
+        "stars": "8,882",
+        "forks": "677"
+    },
+    {
+        "title": "google/computer-use-preview",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Fcomputer-use-preview",
+        "description": "No description provided",
+        "stars": "668",
+        "forks": "75"
+    },
+    {
+        "title": "TibixDev/winboat",
+        "link": "https://github.com/login?return_to=%2FTibixDev%2Fwinboat",
+        "description": "Run Windows apps on 🐧 Linux with ✨ seamless integration",
+        "stars": "8,304",
+        "forks": "215"
+    },
+    {
+        "title": "timelinize/timelinize",
+        "link": "https://github.com/login?return_to=%2Ftimelinize%2Ftimelinize",
+        "description": "Store your data from all your accounts and devices in a single cohesive timeline on your own computer",
+        "stars": "2,184",
+        "forks": "64"
+    },
+    {
+        "title": "rust-lang/rustfmt",
+        "link": "https://github.com/login?return_to=%2Frust-lang%2Frustfmt",
+        "description": "Format Rust code",
+        "stars": "6,541",
+        "forks": "957"
+    },
+    {
+        "title": "PixelGuys/Cubyz",
+        "link": "https://github.com/login?return_to=%2FPixelGuys%2FCubyz",
+        "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
+        "stars": "1,138",
+        "forks": "99"
+    },
+    {
+        "title": "openai/openai-agents-python",
+        "link": "https://github.com/login?return_to=%2Fopenai%2Fopenai-agents-python",
+        "description": "A lightweight, powerful framework for multi-agent workflows",
+        "stars": "15,983",
+        "forks": "2,646"
+    },
+    {
+        "title": "TapXWorld/ChinaTextbook",
+        "link": "https://github.com/login?return_to=%2FTapXWorld%2FChinaTextbook",
+        "description": "所有小初高、大学PDF教材。",
+        "stars": "52,129",
+        "forks": "11,720"
+    },
+    {
+        "title": "browserbase/stagehand",
+        "link": "https://github.com/login?return_to=%2Fbrowserbase%2Fstagehand",
+        "description": "The AI Browser Automation Framework",
+        "stars": "17,883",
+        "forks": "1,122"
+    },
+    {
+        "title": "rustdesk/rustdesk",
+        "link": "https://github.com/sponsors/rustdesk",
+        "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+        "stars": "99,559",
+        "forks": "14,640"
+    },
+    {
+        "title": "FlowiseAI/Flowise",
+        "link": "https://github.com/sponsors/FlowiseAI",
+        "description": "Build AI Agents, Visually",
+        "stars": "45,105",
+        "forks": "22,677"
+    },
+    {
+        "title": "winapps-org/winapps",
+        "link": "https://github.com/login?return_to=%2Fwinapps-org%2Fwinapps",
+        "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/",
+        "stars": "10,847",
+        "forks": "332"
+    }
+]
