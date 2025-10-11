@@ -1,0 +1,107 @@
+[
+    {
+        "title": "browserbase/stagehand",
+        "link": "https://github.com/login?return_to=%2Fbrowserbase%2Fstagehand",
+        "description": "The AI Browser Automation Framework",
+        "stars": "18,127",
+        "forks": "1,145"
+    },
+    {
+        "title": "78/xiaozhi-esp32",
+        "link": "https://github.com/login?return_to=%2F78%2Fxiaozhi-esp32",
+        "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
+        "stars": "19,416",
+        "forks": "3,973"
+    },
+    {
+        "title": "anthropics/claude-code",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "stars": "36,183",
+        "forks": "2,275"
+    },
+    {
+        "title": "TapXWorld/ChinaTextbook",
+        "link": "https://github.com/login?return_to=%2FTapXWorld%2FChinaTextbook",
+        "description": "所有小初高、大学PDF教材。",
+        "stars": "52,561",
+        "forks": "11,794"
+    },
+    {
+        "title": "TibixDev/winboat",
+        "link": "https://github.com/login?return_to=%2FTibixDev%2Fwinboat",
+        "description": "Run Windows apps on 🐧 Linux with ✨ seamless integration",
+        "stars": "9,266",
+        "forks": "239"
+    },
+    {
+        "title": "microsoft/RD-Agent",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FRD-Agent",
+        "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report",
+        "stars": "8,345",
+        "forks": "876"
+    },
+    {
+        "title": "MODSetter/SurfSense",
+        "link": "https://github.com/sponsors/MODSetter",
+        "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9",
+        "stars": "9,136",
+        "forks": "702"
+    },
+    {
+        "title": "CapSoftware/Cap",
+        "link": "https://github.com/login?return_to=%2FCapSoftware%2FCap",
+        "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+        "stars": "12,393",
+        "forks": "846"
+    },
+    {
+        "title": "Stremio/stremio-web",
+        "link": "https://github.com/login?return_to=%2FStremio%2Fstremio-web",
+        "description": "Stremio - Freedom to Stream",
+        "stars": "7,243",
+        "forks": "820"
+    },
+    {
+        "title": "xyflow/xyflow",
+        "link": "https://github.com/sponsors/xyflow",
+        "description": "React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.",
+        "stars": "32,440",
+        "forks": "2,132"
+    },
+    {
+        "title": "supermemoryai/supermemory",
+        "link": "https://github.com/login?return_to=%2Fsupermemoryai%2Fsupermemory",
+        "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+        "stars": "11,454",
+        "forks": "1,199"
+    },
+    {
+        "title": "evershopcommerce/evershop",
+        "link": "https://github.com/login?return_to=%2Fevershopcommerce%2Fevershop",
+        "description": "🛍️ Typescript E-commerce Platform",
+        "stars": "6,361",
+        "forks": "1,789"
+    },
+    {
+        "title": "PixelGuys/Cubyz",
+        "link": "https://github.com/login?return_to=%2FPixelGuys%2FCubyz",
+        "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
+        "stars": "1,498",
+        "forks": "109"
+    },
+    {
+        "title": "coze-dev/coze-studio",
+        "link": "https://github.com/login?return_to=%2Fcoze-dev%2Fcoze-studio",
+        "description": "An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.",
+        "stars": "17,531",
+        "forks": "2,432"
+    },
+    {
+        "title": "WECENG/ticket-purchase",
+        "link": "https://github.com/login?return_to=%2FWECENG%2Fticket-purchase",
+        "description": "大麦自动抢票，支持人员、城市、日期场次、价格选择",
+        "stars": "4,447",
+        "forks": "587"
+    }
+]
