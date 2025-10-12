@@ -1,0 +1,86 @@
+[
+    {
+        "title": "anthropics/claude-code",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "stars": "36,965",
+        "forks": "2,326"
+    },
+    {
+        "title": "QwenLM/Qwen3-VL",
+        "link": "https://github.com/login?return_to=%2FQwenLM%2FQwen3-VL",
+        "description": "Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
+        "stars": "14,059",
+        "forks": "1,070"
+    },
+    {
+        "title": "MODSetter/SurfSense",
+        "link": "https://github.com/sponsors/MODSetter",
+        "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9",
+        "stars": "9,346",
+        "forks": "720"
+    },
+    {
+        "title": "davila7/claude-code-templates",
+        "link": "https://github.com/login?return_to=%2Fdavila7%2Fclaude-code-templates",
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "stars": "7,230",
+        "forks": "637"
+    },
+    {
+        "title": "timelinize/timelinize",
+        "link": "https://github.com/login?return_to=%2Ftimelinize%2Ftimelinize",
+        "description": "Store your data from all your accounts and devices in a single cohesive timeline on your own computer",
+        "stars": "2,569",
+        "forks": "78"
+    },
+    {
+        "title": "PixelGuys/Cubyz",
+        "link": "https://github.com/login?return_to=%2FPixelGuys%2FCubyz",
+        "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
+        "stars": "1,812",
+        "forks": "120"
+    },
+    {
+        "title": "supermemoryai/supermemory",
+        "link": "https://github.com/login?return_to=%2Fsupermemoryai%2Fsupermemory",
+        "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+        "stars": "11,800",
+        "forks": "1,229"
+    },
+    {
+        "title": "evershopcommerce/evershop",
+        "link": "https://github.com/login?return_to=%2Fevershopcommerce%2Fevershop",
+        "description": "🛍️ Typescript E-commerce Platform",
+        "stars": "6,793",
+        "forks": "1,834"
+    },
+    {
+        "title": "CapSoftware/Cap",
+        "link": "https://github.com/login?return_to=%2FCapSoftware%2FCap",
+        "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+        "stars": "12,671",
+        "forks": "862"
+    },
+    {
+        "title": "dataease/SQLBot",
+        "link": "https://github.com/login?return_to=%2Fdataease%2FSQLBot",
+        "description": "🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.",
+        "stars": "3,804",
+        "forks": "375"
+    },
+    {
+        "title": "TibixDev/winboat",
+        "link": "https://github.com/login?return_to=%2FTibixDev%2Fwinboat",
+        "description": "Run Windows apps on 🐧 Linux with ✨ seamless integration",
+        "stars": "9,991",
+        "forks": "256"
+    },
+    {
+        "title": "clash-verge-rev/clash-verge-rev",
+        "link": "https://github.com/sponsors/clash-verge-rev",
+        "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+        "stars": "77,510",
+        "forks": "5,794"
+    }
+]
