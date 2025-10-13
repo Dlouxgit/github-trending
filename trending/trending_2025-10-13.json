@@ -1,0 +1,142 @@
+[
+    {
+        "title": "anthropics/claude-code",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "stars": "37,923",
+        "forks": "2,374"
+    },
+    {
+        "title": "davila7/claude-code-templates",
+        "link": "https://github.com/login?return_to=%2Fdavila7%2Fclaude-code-templates",
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "stars": "7,512",
+        "forks": "646"
+    },
+    {
+        "title": "evershopcommerce/evershop",
+        "link": "https://github.com/login?return_to=%2Fevershopcommerce%2Fevershop",
+        "description": "🛍️ Typescript E-commerce Platform",
+        "stars": "7,155",
+        "forks": "1,866"
+    },
+    {
+        "title": "78/xiaozhi-esp32",
+        "link": "https://github.com/login?return_to=%2F78%2Fxiaozhi-esp32",
+        "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
+        "stars": "19,844",
+        "forks": "4,019"
+    },
+    {
+        "title": "daytonaio/daytona",
+        "link": "https://github.com/login?return_to=%2Fdaytonaio%2Fdaytona",
+        "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+        "stars": "22,944",
+        "forks": "2,377"
+    },
+    {
+        "title": "TapXWorld/ChinaTextbook",
+        "link": "https://github.com/login?return_to=%2FTapXWorld%2FChinaTextbook",
+        "description": "所有小初高、大学PDF教材。",
+        "stars": "53,071",
+        "forks": "11,907"
+    },
+    {
+        "title": "WECENG/ticket-purchase",
+        "link": "https://github.com/login?return_to=%2FWECENG%2Fticket-purchase",
+        "description": "大麦自动抢票，支持人员、城市、日期场次、价格选择",
+        "stars": "4,822",
+        "forks": "613"
+    },
+    {
+        "title": "DIYgod/RSSHub",
+        "link": "https://github.com/sponsors/DIYgod",
+        "description": "🧡 Everything is RSSible",
+        "stars": "39,149",
+        "forks": "8,595"
+    },
+    {
+        "title": "DearVa/Everywhere",
+        "link": "https://github.com/login?return_to=%2FDearVa%2FEverywhere",
+        "description": "A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.",
+        "stars": "552",
+        "forks": "28"
+    },
+    {
+        "title": "Anduin2017/HowToCook",
+        "link": "https://github.com/login?return_to=%2FAnduin2017%2FHowToCook",
+        "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
+        "stars": "94,836",
+        "forks": "10,617"
+    },
+    {
+        "title": "coze-dev/coze-studio",
+        "link": "https://github.com/login?return_to=%2Fcoze-dev%2Fcoze-studio",
+        "description": "An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.",
+        "stars": "17,748",
+        "forks": "2,452"
+    },
+    {
+        "title": "lobehub/lobe-chat",
+        "link": "https://github.com/sponsors/lobehub",
+        "description": "🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.",
+        "stars": "66,710",
+        "forks": "13,807"
+    },
+    {
+        "title": "PixelGuys/Cubyz",
+        "link": "https://github.com/login?return_to=%2FPixelGuys%2FCubyz",
+        "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
+        "stars": "2,120",
+        "forks": "131"
+    },
+    {
+        "title": "basecamp/omarchy",
+        "link": "https://github.com/login?return_to=%2Fbasecamp%2Fomarchy",
+        "description": "Opinionated Arch/Hyprland Setup",
+        "stars": "13,665",
+        "forks": "1,274"
+    },
+    {
+        "title": "TibixDev/winboat",
+        "link": "https://github.com/login?return_to=%2FTibixDev%2Fwinboat",
+        "description": "Run Windows apps on 🐧 Linux with ✨ seamless integration",
+        "stars": "10,580",
+        "forks": "269"
+    },
+    {
+        "title": "alibaba/spring-ai-alibaba",
+        "link": "https://github.com/login?return_to=%2Falibaba%2Fspring-ai-alibaba",
+        "description": "Agentic AI Framework for Java Developers",
+        "stars": "6,129",
+        "forks": "1,312"
+    },
+    {
+        "title": "oven-sh/bun",
+        "link": "https://github.com/login?return_to=%2Foven-sh%2Fbun",
+        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+        "stars": "81,096",
+        "forks": "3,384"
+    },
+    {
+        "title": "huggingface/diffusers",
+        "link": "https://github.com/login?return_to=%2Fhuggingface%2Fdiffusers",
+        "description": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.",
+        "stars": "31,144",
+        "forks": "6,406"
+    },
+    {
+        "title": "Klavis-AI/klavis",
+        "link": "https://github.com/login?return_to=%2FKlavis-AI%2Fklavis",
+        "description": "Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale",
+        "stars": "4,814",
+        "forks": "452"
+    },
+    {
+        "title": "opendatalab/MinerU",
+        "link": "https://github.com/login?return_to=%2Fopendatalab%2FMinerU",
+        "description": "Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.",
+        "stars": "45,894",
+        "forks": "3,806"
+    }
+]
