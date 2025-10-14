@@ -1,0 +1,107 @@
+[
+    {
+        "title": "anthropics/prompt-eng-interactive-tutorial",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fprompt-eng-interactive-tutorial",
+        "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+        "stars": "20,995",
+        "forks": "2,014"
+    },
+    {
+        "title": "coleam00/Archon",
+        "link": "https://github.com/login?return_to=%2Fcoleam00%2FArchon",
+        "description": "Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.",
+        "stars": "12,683",
+        "forks": "2,192"
+    },
+    {
+        "title": "anthropics/claude-code",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "stars": "38,599",
+        "forks": "2,430"
+    },
+    {
+        "title": "asgeirtj/system_prompts_leaks",
+        "link": "https://github.com/login?return_to=%2Fasgeirtj%2Fsystem_prompts_leaks",
+        "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+        "stars": "22,305",
+        "forks": "3,438"
+    },
+    {
+        "title": "Klavis-AI/klavis",
+        "link": "https://github.com/login?return_to=%2FKlavis-AI%2Fklavis",
+        "description": "Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale",
+        "stars": "5,011",
+        "forks": "466"
+    },
+    {
+        "title": "public-apis/public-apis",
+        "link": "https://github.com/login?return_to=%2Fpublic-apis%2Fpublic-apis",
+        "description": "A collective list of free APIs",
+        "stars": "369,044",
+        "forks": "38,851"
+    },
+    {
+        "title": "clash-verge-rev/clash-verge-rev",
+        "link": "https://github.com/sponsors/clash-verge-rev",
+        "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+        "stars": "77,782",
+        "forks": "5,808"
+    },
+    {
+        "title": "oven-sh/bun",
+        "link": "https://github.com/login?return_to=%2Foven-sh%2Fbun",
+        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+        "stars": "81,292",
+        "forks": "3,396"
+    },
+    {
+        "title": "ggml-org/llama.cpp",
+        "link": "https://github.com/login?return_to=%2Fggml-org%2Fllama.cpp",
+        "description": "LLM inference in C/C++",
+        "stars": "87,692",
+        "forks": "13,323"
+    },
+    {
+        "title": "PixelGuys/Cubyz",
+        "link": "https://github.com/login?return_to=%2FPixelGuys%2FCubyz",
+        "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
+        "stars": "2,376",
+        "forks": "139"
+    },
+    {
+        "title": "basecamp/omarchy",
+        "link": "https://github.com/login?return_to=%2Fbasecamp%2Fomarchy",
+        "description": "Opinionated Arch/Hyprland Setup",
+        "stars": "13,907",
+        "forks": "1,295"
+    },
+    {
+        "title": "davila7/claude-code-templates",
+        "link": "https://github.com/login?return_to=%2Fdavila7%2Fclaude-code-templates",
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "stars": "7,846",
+        "forks": "662"
+    },
+    {
+        "title": "Raphire/Win11Debloat",
+        "link": "https://github.com/sponsors/Raphire",
+        "description": "A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+        "stars": "28,853",
+        "forks": "1,171"
+    },
+    {
+        "title": "dair-ai/Prompt-Engineering-Guide",
+        "link": "https://github.com/sponsors/dair-ai",
+        "description": "🐙 Guides, papers, lecture, notebooks and resources for prompt engineering",
+        "stars": "63,261",
+        "forks": "6,618"
+    },
+    {
+        "title": "nitrojs/nitro",
+        "link": "https://github.com/login?return_to=%2Fnitrojs%2Fnitro",
+        "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.",
+        "stars": "8,161",
+        "forks": "673"
+    }
+]
