@@ -1,0 +1,107 @@
+[
+    {
+        "title": "anthropics/prompt-eng-interactive-tutorial",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fprompt-eng-interactive-tutorial",
+        "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+        "stars": "22,904",
+        "forks": "2,141"
+    },
+    {
+        "title": "nvm-sh/nvm",
+        "link": "https://github.com/login?return_to=%2Fnvm-sh%2Fnvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "stars": "87,479",
+        "forks": "9,413"
+    },
+    {
+        "title": "GorvGoyl/Clone-Wars",
+        "link": "https://github.com/sponsors/GorvGoyl",
+        "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
+        "stars": "30,420",
+        "forks": "2,719"
+    },
+    {
+        "title": "alibaba/spring-ai-alibaba",
+        "link": "https://github.com/login?return_to=%2Falibaba%2Fspring-ai-alibaba",
+        "description": "Agentic AI Framework for Java Developers",
+        "stars": "6,268",
+        "forks": "1,340"
+    },
+    {
+        "title": "datawhalechina/happy-llm",
+        "link": "https://github.com/login?return_to=%2Fdatawhalechina%2Fhappy-llm",
+        "description": "📚 从零开始的大语言模型原理与实践教程",
+        "stars": "19,466",
+        "forks": "1,689"
+    },
+    {
+        "title": "asgeirtj/system_prompts_leaks",
+        "link": "https://github.com/login?return_to=%2Fasgeirtj%2Fsystem_prompts_leaks",
+        "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+        "stars": "22,646",
+        "forks": "3,470"
+    },
+    {
+        "title": "opendatalab/MinerU",
+        "link": "https://github.com/login?return_to=%2Fopendatalab%2FMinerU",
+        "description": "Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.",
+        "stars": "46,336",
+        "forks": "3,837"
+    },
+    {
+        "title": "nitrojs/nitro",
+        "link": "https://github.com/login?return_to=%2Fnitrojs%2Fnitro",
+        "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.",
+        "stars": "8,495",
+        "forks": "693"
+    },
+    {
+        "title": "Klavis-AI/klavis",
+        "link": "https://github.com/login?return_to=%2FKlavis-AI%2Fklavis",
+        "description": "Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale",
+        "stars": "5,161",
+        "forks": "471"
+    },
+    {
+        "title": "chili-chips-ba/wireguard-fpga",
+        "link": "https://github.com/login?return_to=%2Fchili-chips-ba%2Fwireguard-fpga",
+        "description": "Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package. Bujrum!",
+        "stars": "1,048",
+        "forks": "19"
+    },
+    {
+        "title": "dair-ai/Prompt-Engineering-Guide",
+        "link": "https://github.com/sponsors/dair-ai",
+        "description": "🐙 Guides, papers, lecture, notebooks and resources for prompt engineering",
+        "stars": "63,659",
+        "forks": "6,652"
+    },
+    {
+        "title": "1Panel-dev/MaxKB",
+        "link": "https://github.com/login?return_to=%2F1Panel-dev%2FMaxKB",
+        "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。",
+        "stars": "18,602",
+        "forks": "2,422"
+    },
+    {
+        "title": "public-apis/public-apis",
+        "link": "https://github.com/login?return_to=%2Fpublic-apis%2Fpublic-apis",
+        "description": "A collective list of free APIs",
+        "stars": "369,755",
+        "forks": "38,903"
+    },
+    {
+        "title": "KellerJordan/modded-nanogpt",
+        "link": "https://github.com/login?return_to=%2FKellerJordan%2Fmodded-nanogpt",
+        "description": "NanoGPT (124M) in 3 minutes",
+        "stars": "3,342",
+        "forks": "449"
+    },
+    {
+        "title": "volcengine/MineContext",
+        "link": "https://github.com/login?return_to=%2Fvolcengine%2FMineContext",
+        "description": "MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）",
+        "stars": "1,680",
+        "forks": "76"
+    }
+]
