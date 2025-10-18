@@ -1,0 +1,121 @@
+[
+    {
+        "title": "jingyaogong/minimind",
+        "link": "https://github.com/login?return_to=%2Fjingyaogong%2Fminimind",
+        "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+        "stars": "29,164",
+        "forks": "3,388"
+    },
+    {
+        "title": "nvm-sh/nvm",
+        "link": "https://github.com/login?return_to=%2Fnvm-sh%2Fnvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "stars": "88,246",
+        "forks": "9,457"
+    },
+    {
+        "title": "kamranahmedse/developer-roadmap",
+        "link": "https://github.com/sponsors/kamranahmedse",
+        "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+        "stars": "341,040",
+        "forks": "43,143"
+    },
+    {
+        "title": "dockur/windows",
+        "link": "https://github.com/login?return_to=%2Fdockur%2Fwindows",
+        "description": "Windows inside a Docker container.",
+        "stars": "47,510",
+        "forks": "3,517"
+    },
+    {
+        "title": "HuLaSpark/HuLa",
+        "link": "https://github.com/login?return_to=%2FHuLaSpark%2FHuLa",
+        "description": "🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）🎉 10月20号 3.0版本重磅发布，敬请期待🎉",
+        "stars": "3,990",
+        "forks": "518"
+    },
+    {
+        "title": "reflex-dev/reflex",
+        "link": "https://github.com/login?return_to=%2Freflex-dev%2Freflex",
+        "description": "🕸️ Web apps in pure Python 🐍",
+        "stars": "26,650",
+        "forks": "1,578"
+    },
+    {
+        "title": "lfnovo/open-notebook",
+        "link": "https://github.com/login?return_to=%2Flfnovo%2Fopen-notebook",
+        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+        "stars": "5,167",
+        "forks": "547"
+    },
+    {
+        "title": "stamparm/maltrail",
+        "link": "https://github.com/login?return_to=%2Fstamparm%2Fmaltrail",
+        "description": "Malicious traffic detection system",
+        "stars": "7,500",
+        "forks": "1,168"
+    },
+    {
+        "title": "linexjlin/GPTs",
+        "link": "https://github.com/login?return_to=%2Flinexjlin%2FGPTs",
+        "description": "leaked prompts of GPTs",
+        "stars": "31,027",
+        "forks": "4,227"
+    },
+    {
+        "title": "keycloak/keycloak",
+        "link": "https://github.com/login?return_to=%2Fkeycloak%2Fkeycloak",
+        "description": "Open Source Identity and Access Management For Modern Applications and Services",
+        "stars": "30,335",
+        "forks": "7,721"
+    },
+    {
+        "title": "devlikeapro/waha",
+        "link": "https://github.com/login?return_to=%2Fdevlikeapro%2Fwaha",
+        "description": "WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)",
+        "stars": "5,122",
+        "forks": "975"
+    },
+    {
+        "title": "PaddlePaddle/PaddleOCR",
+        "link": "https://github.com/login?return_to=%2FPaddlePaddle%2FPaddleOCR",
+        "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+        "stars": "57,956",
+        "forks": "8,895"
+    },
+    {
+        "title": "karpathy/nanoGPT",
+        "link": "https://github.com/login?return_to=%2Fkarpathy%2FnanoGPT",
+        "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+        "stars": "46,510",
+        "forks": "7,840"
+    },
+    {
+        "title": "modelcontextprotocol/java-sdk",
+        "link": "https://github.com/login?return_to=%2Fmodelcontextprotocol%2Fjava-sdk",
+        "description": "The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI",
+        "stars": "2,638",
+        "forks": "691"
+    },
+    {
+        "title": "shiyu-coder/Kronos",
+        "link": "https://github.com/login?return_to=%2Fshiyu-coder%2FKronos",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "stars": "7,772",
+        "forks": "1,619"
+    },
+    {
+        "title": "microsoft/PowerToys",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FPowerToys",
+        "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
+        "stars": "124,594",
+        "forks": "7,415"
+    },
+    {
+        "title": "wavetermdev/waveterm",
+        "link": "https://github.com/login?return_to=%2Fwavetermdev%2Fwaveterm",
+        "description": "An open-source, cross-platform terminal for seamless workflows",
+        "stars": "11,653",
+        "forks": "472"
+    }
+]
