@@ -1,0 +1,142 @@
+[
+    {
+        "title": "anthropics/claude-cookbooks",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-cookbooks",
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "stars": "23,534",
+        "forks": "2,413"
+    },
+    {
+        "title": "SagerNet/sing-box",
+        "link": "https://github.com/login?return_to=%2FSagerNet%2Fsing-box",
+        "description": "The universal proxy platform",
+        "stars": "27,364",
+        "forks": "3,192"
+    },
+    {
+        "title": "DrewThomasson/ebook2audiobook",
+        "link": "https://github.com/login?return_to=%2FDrewThomasson%2Febook2audiobook",
+        "description": "Generate audiobooks from e-books, voice cloning & 1107+ languages!",
+        "stars": "12,492",
+        "forks": "946"
+    },
+    {
+        "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+        "link": "https://github.com/login?return_to=%2Fx1xhlol%2Fsystem-prompts-and-models-of-ai-tools",
+        "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+        "stars": "92,245",
+        "forks": "25,008"
+    },
+    {
+        "title": "huggingface/lerobot",
+        "link": "https://github.com/login?return_to=%2Fhuggingface%2Flerobot",
+        "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+        "stars": "18,293",
+        "forks": "2,797"
+    },
+    {
+        "title": "wavetermdev/waveterm",
+        "link": "https://github.com/login?return_to=%2Fwavetermdev%2Fwaveterm",
+        "description": "An open-source, cross-platform terminal for seamless workflows",
+        "stars": "12,209",
+        "forks": "489"
+    },
+    {
+        "title": "karpathy/micrograd",
+        "link": "https://github.com/login?return_to=%2Fkarpathy%2Fmicrograd",
+        "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+        "stars": "13,172",
+        "forks": "1,954"
+    },
+    {
+        "title": "huggingface/chat-ui",
+        "link": "https://github.com/login?return_to=%2Fhuggingface%2Fchat-ui",
+        "description": "Open source codebase powering the HuggingChat app",
+        "stars": "9,608",
+        "forks": "1,465"
+    },
+    {
+        "title": "TheAlgorithms/Python",
+        "link": "https://github.com/login?return_to=%2FTheAlgorithms%2FPython",
+        "description": "All Algorithms implemented in Python",
+        "stars": "211,632",
+        "forks": "48,845"
+    },
+    {
+        "title": "lfnovo/open-notebook",
+        "link": "https://github.com/login?return_to=%2Flfnovo%2Fopen-notebook",
+        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+        "stars": "6,190",
+        "forks": "623"
+    },
+    {
+        "title": "Anuken/Mindustry",
+        "link": "https://github.com/login?return_to=%2FAnuken%2FMindustry",
+        "description": "The automation tower defense RTS",
+        "stars": "25,139",
+        "forks": "3,239"
+    },
+    {
+        "title": "Skyvern-AI/skyvern",
+        "link": "https://github.com/login?return_to=%2FSkyvern-AI%2Fskyvern",
+        "description": "Automate browser-based workflows with LLMs and Computer Vision",
+        "stars": "14,973",
+        "forks": "1,272"
+    },
+    {
+        "title": "PaddlePaddle/PaddleOCR",
+        "link": "https://github.com/login?return_to=%2FPaddlePaddle%2FPaddleOCR",
+        "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+        "stars": "59,550",
+        "forks": "9,014"
+    },
+    {
+        "title": "clockworklabs/SpacetimeDB",
+        "link": "https://github.com/login?return_to=%2Fclockworklabs%2FSpacetimeDB",
+        "description": "Multiplayer at the speed of light",
+        "stars": "17,938",
+        "forks": "626"
+    },
+    {
+        "title": "basecamp/omarchy",
+        "link": "https://github.com/login?return_to=%2Fbasecamp%2Fomarchy",
+        "description": "Opinionated Arch/Hyprland Setup",
+        "stars": "15,052",
+        "forks": "1,374"
+    },
+    {
+        "title": "BurntSushi/ripgrep",
+        "link": "https://github.com/sponsors/BurntSushi",
+        "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+        "stars": "56,487",
+        "forks": "2,270"
+    },
+    {
+        "title": "mountain-loop/yaak",
+        "link": "https://github.com/login?return_to=%2Fmountain-loop%2Fyaak",
+        "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",
+        "stars": "8,944",
+        "forks": "317"
+    },
+    {
+        "title": "tokio-rs/tokio",
+        "link": "https://github.com/sponsors/tokio-rs",
+        "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+        "stars": "29,912",
+        "forks": "2,802"
+    },
+    {
+        "title": "EbookFoundation/free-programming-books",
+        "link": "https://github.com/sponsors/EbookFoundation",
+        "description": "📚 Freely available programming books",
+        "stars": "373,919",
+        "forks": "64,964"
+    },
+    {
+        "title": "Atlas-OS/Atlas",
+        "link": "https://github.com/login?return_to=%2FAtlas-OS%2FAtlas",
+        "description": "🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.",
+        "stars": "17,390",
+        "forks": "621"
+    }
+]
