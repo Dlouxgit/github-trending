@@ -1,0 +1,135 @@
+[
+    {
+        "title": "mountain-loop/yaak",
+        "link": "https://github.com/login?return_to=%2Fmountain-loop%2Fyaak",
+        "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",
+        "stars": "10,350",
+        "forks": "359"
+    },
+    {
+        "title": "louislam/uptime-kuma",
+        "link": "https://github.com/sponsors/louislam",
+        "description": "A fancy self-hosted monitoring tool",
+        "stars": "76,489",
+        "forks": "6,777"
+    },
+    {
+        "title": "lfnovo/open-notebook",
+        "link": "https://github.com/login?return_to=%2Flfnovo%2Fopen-notebook",
+        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+        "stars": "6,768",
+        "forks": "684"
+    },
+    {
+        "title": "DrewThomasson/ebook2audiobook",
+        "link": "https://github.com/login?return_to=%2FDrewThomasson%2Febook2audiobook",
+        "description": "Generate audiobooks from e-books, voice cloning & 1107+ languages!",
+        "stars": "12,919",
+        "forks": "975"
+    },
+    {
+        "title": "anthropics/claude-cookbooks",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-cookbooks",
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "stars": "24,342",
+        "forks": "2,455"
+    },
+    {
+        "title": "sharkdp/bat",
+        "link": "https://github.com/sponsors/sharkdp",
+        "description": "A cat(1) clone with wings.",
+        "stars": "55,327",
+        "forks": "1,382"
+    },
+    {
+        "title": "Skyvern-AI/skyvern",
+        "link": "https://github.com/login?return_to=%2FSkyvern-AI%2Fskyvern",
+        "description": "Automate browser-based workflows with LLMs and Computer Vision",
+        "stars": "15,136",
+        "forks": "1,282"
+    },
+    {
+        "title": "oceanbase/miniob",
+        "link": "https://github.com/login?return_to=%2Foceanbase%2Fminiob",
+        "description": "MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.",
+        "stars": "4,114",
+        "forks": "1,478"
+    },
+    {
+        "title": "k2-fsa/sherpa-onnx",
+        "link": "https://github.com/login?return_to=%2Fk2-fsa%2Fsherpa-onnx",
+        "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
+        "stars": "7,931",
+        "forks": "912"
+    },
+    {
+        "title": "servo/servo",
+        "link": "https://github.com/sponsors/servo",
+        "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+        "stars": "32,496",
+        "forks": "3,291"
+    },
+    {
+        "title": "dyad-sh/dyad",
+        "link": "https://github.com/login?return_to=%2Fdyad-sh%2Fdyad",
+        "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
+        "stars": "16,523",
+        "forks": "1,794"
+    },
+    {
+        "title": "Anuken/Mindustry",
+        "link": "https://github.com/login?return_to=%2FAnuken%2FMindustry",
+        "description": "The automation tower defense RTS",
+        "stars": "25,298",
+        "forks": "3,241"
+    },
+    {
+        "title": "PaddlePaddle/PaddleOCR",
+        "link": "https://github.com/login?return_to=%2FPaddlePaddle%2FPaddleOCR",
+        "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+        "stars": "60,081",
+        "forks": "9,052"
+    },
+    {
+        "title": "huggingface/chat-ui",
+        "link": "https://github.com/login?return_to=%2Fhuggingface%2Fchat-ui",
+        "description": "Open source codebase powering the HuggingChat app",
+        "stars": "9,785",
+        "forks": "1,475"
+    },
+    {
+        "title": "EbookFoundation/free-programming-books",
+        "link": "https://github.com/sponsors/EbookFoundation",
+        "description": "📚 Freely available programming books",
+        "stars": "374,362",
+        "forks": "65,024"
+    },
+    {
+        "title": "is-a-dev/register",
+        "link": "https://github.com/login?return_to=%2Fis-a-dev%2Fregister",
+        "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+        "stars": "8,756",
+        "forks": "15,675"
+    },
+    {
+        "title": "jaywcjlove/awesome-mac",
+        "link": "https://github.com/login?return_to=%2Fjaywcjlove%2Fawesome-mac",
+        "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+        "stars": "90,614",
+        "forks": "6,868"
+    },
+    {
+        "title": "clockworklabs/SpacetimeDB",
+        "link": "https://github.com/login?return_to=%2Fclockworklabs%2FSpacetimeDB",
+        "description": "Multiplayer at the speed of light",
+        "stars": "18,079",
+        "forks": "631"
+    },
+    {
+        "title": "harvard-edge/cs249r_book",
+        "link": "https://github.com/login?return_to=%2Fharvard-edge%2Fcs249r_book",
+        "description": "Introduction to Machine Learning Systems",
+        "stars": "3,986",
+        "forks": "437"
+    }
+]
