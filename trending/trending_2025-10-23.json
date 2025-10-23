@@ -1,0 +1,121 @@
+[
+    {
+        "title": "mountain-loop/yaak",
+        "link": "https://github.com/login?return_to=%2Fmountain-loop%2Fyaak",
+        "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",
+        "stars": "12,092",
+        "forks": "431"
+    },
+    {
+        "title": "servo/servo",
+        "link": "https://github.com/sponsors/servo",
+        "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+        "stars": "32,807",
+        "forks": "3,302"
+    },
+    {
+        "title": "emcie-co/parlant",
+        "link": "https://github.com/login?return_to=%2Femcie-co%2Fparlant",
+        "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+        "stars": "14,232",
+        "forks": "1,149"
+    },
+    {
+        "title": "guofei9987/blind_watermark",
+        "link": "https://github.com/login?return_to=%2Fguofei9987%2Fblind_watermark",
+        "description": "Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！",
+        "stars": "7,835",
+        "forks": "874"
+    },
+    {
+        "title": "lfnovo/open-notebook",
+        "link": "https://github.com/login?return_to=%2Flfnovo%2Fopen-notebook",
+        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+        "stars": "7,321",
+        "forks": "731"
+    },
+    {
+        "title": "dyad-sh/dyad",
+        "link": "https://github.com/login?return_to=%2Fdyad-sh%2Fdyad",
+        "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
+        "stars": "16,731",
+        "forks": "1,813"
+    },
+    {
+        "title": "fishaudio/fish-speech",
+        "link": "https://github.com/login?return_to=%2Ffishaudio%2Ffish-speech",
+        "description": "SOTA Open Source TTS",
+        "stars": "23,503",
+        "forks": "1,934"
+    },
+    {
+        "title": "huggingface/chat-ui",
+        "link": "https://github.com/login?return_to=%2Fhuggingface%2Fchat-ui",
+        "description": "Open source codebase powering the HuggingChat app",
+        "stars": "9,975",
+        "forks": "1,493"
+    },
+    {
+        "title": "rossant/awesome-math",
+        "link": "https://github.com/login?return_to=%2Frossant%2Fawesome-math",
+        "description": "A curated list of awesome mathematics resources",
+        "stars": "10,460",
+        "forks": "1,066"
+    },
+    {
+        "title": "drawdb-io/drawdb",
+        "link": "https://github.com/login?return_to=%2Fdrawdb-io%2Fdrawdb",
+        "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+        "stars": "33,652",
+        "forks": "2,538"
+    },
+    {
+        "title": "DrewThomasson/ebook2audiobook",
+        "link": "https://github.com/login?return_to=%2FDrewThomasson%2Febook2audiobook",
+        "description": "Generate audiobooks from e-books, voice cloning & 1107+ languages!",
+        "stars": "13,292",
+        "forks": "1,000"
+    },
+    {
+        "title": "clockworklabs/SpacetimeDB",
+        "link": "https://github.com/login?return_to=%2Fclockworklabs%2FSpacetimeDB",
+        "description": "Multiplayer at the speed of light",
+        "stars": "18,236",
+        "forks": "636"
+    },
+    {
+        "title": "anthropics/claude-cookbooks",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-cookbooks",
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "stars": "24,667",
+        "forks": "2,480"
+    },
+    {
+        "title": "zyronon/TypeWords",
+        "link": "https://github.com/login?return_to=%2Fzyronon%2FTypeWords",
+        "description": "练习英语，一次敲击，一点进步；Practice English, One Keystroke at a Time.",
+        "stars": "4,174",
+        "forks": "501"
+    },
+    {
+        "title": "tauri-apps/tauri",
+        "link": "https://github.com/sponsors/tauri-apps",
+        "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+        "stars": "97,906",
+        "forks": "3,125"
+    },
+    {
+        "title": "remix-run/react-router",
+        "link": "https://github.com/login?return_to=%2Fremix-run%2Freact-router",
+        "description": "Declarative routing for React",
+        "stars": "55,729",
+        "forks": "10,743"
+    },
+    {
+        "title": "harvard-edge/cs249r_book",
+        "link": "https://github.com/login?return_to=%2Fharvard-edge%2Fcs249r_book",
+        "description": "Introduction to Machine Learning Systems",
+        "stars": "4,345",
+        "forks": "461"
+    }
+]
