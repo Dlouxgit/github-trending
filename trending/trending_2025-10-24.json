@@ -1,0 +1,114 @@
+[
+    {
+        "title": "minio/minio",
+        "link": "https://github.com/login?return_to=%2Fminio%2Fminio",
+        "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+        "stars": "56,600",
+        "forks": "6,305"
+    },
+    {
+        "title": "guofei9987/blind_watermark",
+        "link": "https://github.com/login?return_to=%2Fguofei9987%2Fblind_watermark",
+        "description": "Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！",
+        "stars": "8,813",
+        "forks": "935"
+    },
+    {
+        "title": "mountain-loop/yaak",
+        "link": "https://github.com/login?return_to=%2Fmountain-loop%2Fyaak",
+        "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",
+        "stars": "13,247",
+        "forks": "458"
+    },
+    {
+        "title": "LadybirdBrowser/ladybird",
+        "link": "https://github.com/login?return_to=%2FLadybirdBrowser%2Fladybird",
+        "description": "Truly independent web browser",
+        "stars": "50,447",
+        "forks": "2,207"
+    },
+    {
+        "title": "paperless-ngx/paperless-ngx",
+        "link": "https://github.com/login?return_to=%2Fpaperless-ngx%2Fpaperless-ngx",
+        "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+        "stars": "33,164",
+        "forks": "2,067"
+    },
+    {
+        "title": "dyad-sh/dyad",
+        "link": "https://github.com/login?return_to=%2Fdyad-sh%2Fdyad",
+        "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
+        "stars": "16,942",
+        "forks": "1,827"
+    },
+    {
+        "title": "k2-fsa/sherpa-onnx",
+        "link": "https://github.com/login?return_to=%2Fk2-fsa%2Fsherpa-onnx",
+        "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
+        "stars": "8,171",
+        "forks": "926"
+    },
+    {
+        "title": "rossant/awesome-math",
+        "link": "https://github.com/login?return_to=%2Frossant%2Fawesome-math",
+        "description": "A curated list of awesome mathematics resources",
+        "stars": "11,113",
+        "forks": "1,114"
+    },
+    {
+        "title": "louislam/uptime-kuma",
+        "link": "https://github.com/sponsors/louislam",
+        "description": "A fancy self-hosted monitoring tool",
+        "stars": "76,959",
+        "forks": "6,804"
+    },
+    {
+        "title": "harvard-edge/cs249r_book",
+        "link": "https://github.com/login?return_to=%2Fharvard-edge%2Fcs249r_book",
+        "description": "Introduction to Machine Learning Systems",
+        "stars": "4,667",
+        "forks": "476"
+    },
+    {
+        "title": "yt-dlp/yt-dlp",
+        "link": "https://github.com/login?return_to=%2Fyt-dlp%2Fyt-dlp",
+        "description": "A feature-rich command-line audio/video downloader",
+        "stars": "131,918",
+        "forks": "10,599"
+    },
+    {
+        "title": "meta-pytorch/torchforge",
+        "link": "https://github.com/login?return_to=%2Fmeta-pytorch%2Ftorchforge",
+        "description": "PyTorch-native post-training at scale",
+        "stars": "298",
+        "forks": "29"
+    },
+    {
+        "title": "lukasmasuch/best-of-ml-python",
+        "link": "https://github.com/login?return_to=%2Flukasmasuch%2Fbest-of-ml-python",
+        "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+        "stars": "22,394",
+        "forks": "3,010"
+    },
+    {
+        "title": "guofei9987/scikit-opt",
+        "link": "https://github.com/login?return_to=%2Fguofei9987%2Fscikit-opt",
+        "description": "Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling salesman)",
+        "stars": "6,046",
+        "forks": "1,047"
+    },
+    {
+        "title": "jaywcjlove/awesome-mac",
+        "link": "https://github.com/login?return_to=%2Fjaywcjlove%2Fawesome-mac",
+        "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+        "stars": "91,085",
+        "forks": "6,903"
+    },
+    {
+        "title": "hoppscotch/hoppscotch",
+        "link": "https://github.com/sponsors/hoppscotch",
+        "description": "Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)",
+        "stars": "75,375",
+        "forks": "5,298"
+    }
+]
