@@ -1,0 +1,135 @@
+[
+    {
+        "title": "LadybirdBrowser/ladybird",
+        "link": "https://github.com/login?return_to=%2FLadybirdBrowser%2Fladybird",
+        "description": "Truly independent web browser",
+        "stars": "51,458",
+        "forks": "2,270"
+    },
+    {
+        "title": "guofei9987/blind_watermark",
+        "link": "https://github.com/login?return_to=%2Fguofei9987%2Fblind_watermark",
+        "description": "Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！",
+        "stars": "9,639",
+        "forks": "991"
+    },
+    {
+        "title": "hoppscotch/hoppscotch",
+        "link": "https://github.com/sponsors/hoppscotch",
+        "description": "Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)",
+        "stars": "75,683",
+        "forks": "5,322"
+    },
+    {
+        "title": "zephyrproject-rtos/zephyr",
+        "link": "https://github.com/login?return_to=%2Fzephyrproject-rtos%2Fzephyr",
+        "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+        "stars": "13,407",
+        "forks": "8,106"
+    },
+    {
+        "title": "minio/minio",
+        "link": "https://github.com/login?return_to=%2Fminio%2Fminio",
+        "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+        "stars": "57,142",
+        "forks": "6,351"
+    },
+    {
+        "title": "emcie-co/parlant",
+        "link": "https://github.com/login?return_to=%2Femcie-co%2Fparlant",
+        "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+        "stars": "14,641",
+        "forks": "1,194"
+    },
+    {
+        "title": "zyronon/TypeWords",
+        "link": "https://github.com/login?return_to=%2Fzyronon%2FTypeWords",
+        "description": "练习英语，一次敲击，一点进步；Practice English, one strike, one step forward",
+        "stars": "4,573",
+        "forks": "535"
+    },
+    {
+        "title": "paperless-ngx/paperless-ngx",
+        "link": "https://github.com/login?return_to=%2Fpaperless-ngx%2Fpaperless-ngx",
+        "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+        "stars": "33,373",
+        "forks": "2,081"
+    },
+    {
+        "title": "PowerShell/PowerShell",
+        "link": "https://github.com/login?return_to=%2FPowerShell%2FPowerShell",
+        "description": "PowerShell for every system!",
+        "stars": "50,478",
+        "forks": "8,010"
+    },
+    {
+        "title": "Lightricks/LTX-Video",
+        "link": "https://github.com/login?return_to=%2FLightricks%2FLTX-Video",
+        "description": "Official repository for LTX-Video",
+        "stars": "8,434",
+        "forks": "755"
+    },
+    {
+        "title": "OpenMind/OM1",
+        "link": "https://github.com/login?return_to=%2FOpenMind%2FOM1",
+        "description": "Modular AI runtime for robots",
+        "stars": "1,047",
+        "forks": "363"
+    },
+    {
+        "title": "yt-dlp/yt-dlp",
+        "link": "https://github.com/login?return_to=%2Fyt-dlp%2Fyt-dlp",
+        "description": "A feature-rich command-line audio/video downloader",
+        "stars": "132,240",
+        "forks": "10,626"
+    },
+    {
+        "title": "isaac-sim/IsaacSim",
+        "link": "https://github.com/login?return_to=%2Fisaac-sim%2FIsaacSim",
+        "description": "NVIDIA Isaac Sim™ is an open-source application on NVIDIA Omniverse for developing, simulating, and testing AI-driven robots in realistic virtual environments.",
+        "stars": "1,704",
+        "forks": "206"
+    },
+    {
+        "title": "seaweedfs/seaweedfs",
+        "link": "https://github.com/login?return_to=%2Fseaweedfs%2Fseaweedfs",
+        "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+        "stars": "26,406",
+        "forks": "2,498"
+    },
+    {
+        "title": "rustfs/rustfs",
+        "link": "https://github.com/login?return_to=%2Frustfs%2Frustfs",
+        "description": "🚀 RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+        "stars": "10,121",
+        "forks": "484"
+    },
+    {
+        "title": "drawdb-io/drawdb",
+        "link": "https://github.com/login?return_to=%2Fdrawdb-io%2Fdrawdb",
+        "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+        "stars": "34,112",
+        "forks": "2,553"
+    },
+    {
+        "title": "directus/directus",
+        "link": "https://github.com/sponsors/directus",
+        "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
+        "stars": "33,170",
+        "forks": "4,433"
+    },
+    {
+        "title": "dyad-sh/dyad",
+        "link": "https://github.com/login?return_to=%2Fdyad-sh%2Fdyad",
+        "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
+        "stars": "17,123",
+        "forks": "1,840"
+    },
+    {
+        "title": "elastic/elasticsearch",
+        "link": "https://github.com/login?return_to=%2Felastic%2Felasticsearch",
+        "description": "Free and Open Source, Distributed, RESTful Search Engine",
+        "stars": "75,209",
+        "forks": "25,575"
+    }
+]
