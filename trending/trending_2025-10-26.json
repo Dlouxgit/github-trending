@@ -1,0 +1,114 @@
+[
+    {
+        "title": "LadybirdBrowser/ladybird",
+        "link": "https://github.com/login?return_to=%2FLadybirdBrowser%2Fladybird",
+        "description": "Truly independent web browser",
+        "stars": "52,552",
+        "forks": "2,316"
+    },
+    {
+        "title": "TheRobotStudio/SO-ARM100",
+        "link": "https://github.com/login?return_to=%2FTheRobotStudio%2FSO-ARM100",
+        "description": "Standard Open Arm 100",
+        "stars": "3,815",
+        "forks": "321"
+    },
+    {
+        "title": "coinbase/x402",
+        "link": "https://github.com/login?return_to=%2Fcoinbase%2Fx402",
+        "description": "A payments protocol for the internet. Built on HTTP.",
+        "stars": "2,561",
+        "forks": "397"
+    },
+    {
+        "title": "guofei9987/blind_watermark",
+        "link": "https://github.com/login?return_to=%2Fguofei9987%2Fblind_watermark",
+        "description": "Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！",
+        "stars": "10,072",
+        "forks": "1,021"
+    },
+    {
+        "title": "paperless-ngx/paperless-ngx",
+        "link": "https://github.com/login?return_to=%2Fpaperless-ngx%2Fpaperless-ngx",
+        "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+        "stars": "33,532",
+        "forks": "2,096"
+    },
+    {
+        "title": "zephyrproject-rtos/zephyr",
+        "link": "https://github.com/login?return_to=%2Fzephyrproject-rtos%2Fzephyr",
+        "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+        "stars": "13,483",
+        "forks": "8,116"
+    },
+    {
+        "title": "hoppscotch/hoppscotch",
+        "link": "https://github.com/sponsors/hoppscotch",
+        "description": "Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)",
+        "stars": "75,921",
+        "forks": "5,344"
+    },
+    {
+        "title": "public-apis/public-apis",
+        "link": "https://github.com/login?return_to=%2Fpublic-apis%2Fpublic-apis",
+        "description": "A collective list of free APIs",
+        "stars": "372,588",
+        "forks": "39,311"
+    },
+    {
+        "title": "ubicloud/ubicloud",
+        "link": "https://github.com/login?return_to=%2Fubicloud%2Fubicloud",
+        "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+        "stars": "11,063",
+        "forks": "498"
+    },
+    {
+        "title": "yt-dlp/yt-dlp",
+        "link": "https://github.com/login?return_to=%2Fyt-dlp%2Fyt-dlp",
+        "description": "A feature-rich command-line audio/video downloader",
+        "stars": "132,555",
+        "forks": "10,644"
+    },
+    {
+        "title": "OpenMind/OM1",
+        "link": "https://github.com/login?return_to=%2FOpenMind%2FOM1",
+        "description": "Modular AI runtime for robots",
+        "stars": "1,188",
+        "forks": "390"
+    },
+    {
+        "title": "jaywcjlove/awesome-mac",
+        "link": "https://github.com/login?return_to=%2Fjaywcjlove%2Fawesome-mac",
+        "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+        "stars": "91,629",
+        "forks": "6,936"
+    },
+    {
+        "title": "ashishps1/awesome-system-design-resources",
+        "link": "https://github.com/login?return_to=%2Fashishps1%2Fawesome-system-design-resources",
+        "description": "Learn System Design concepts and prepare for interviews using free resources.",
+        "stars": "27,023",
+        "forks": "6,332"
+    },
+    {
+        "title": "minio/minio",
+        "link": "https://github.com/login?return_to=%2Fminio%2Fminio",
+        "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+        "stars": "57,309",
+        "forks": "6,370"
+    },
+    {
+        "title": "k2-fsa/sherpa-onnx",
+        "link": "https://github.com/login?return_to=%2Fk2-fsa%2Fsherpa-onnx",
+        "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
+        "stars": "8,396",
+        "forks": "944"
+    },
+    {
+        "title": "cjpais/Handy",
+        "link": "https://github.com/sponsors/cjpais",
+        "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+        "stars": "3,187",
+        "forks": "204"
+    }
+]
