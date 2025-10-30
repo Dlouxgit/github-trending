@@ -1,0 +1,86 @@
+[
+    {
+        "title": "smartcontractkit/chainlink",
+        "link": "https://github.com/login?return_to=%2Fsmartcontractkit%2Fchainlink",
+        "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+        "stars": "7,900",
+        "forks": "1,889"
+    },
+    {
+        "title": "cjpais/Handy",
+        "link": "https://github.com/sponsors/cjpais",
+        "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+        "stars": "4,503",
+        "forks": "283"
+    },
+    {
+        "title": "qeeqbox/social-analyzer",
+        "link": "https://github.com/sponsors/qeeqbox",
+        "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
+        "stars": "15,755",
+        "forks": "1,294"
+    },
+    {
+        "title": "open-telemetry/opentelemetry-collector",
+        "link": "https://github.com/login?return_to=%2Fopen-telemetry%2Fopentelemetry-collector",
+        "description": "OpenTelemetry Collector",
+        "stars": "5,972",
+        "forks": "1,754"
+    },
+    {
+        "title": "microsoft/Web-Dev-For-Beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FWeb-Dev-For-Beginners",
+        "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+        "stars": "92,758",
+        "forks": "14,389"
+    },
+    {
+        "title": "protocolbuffers/protobuf",
+        "link": "https://github.com/login?return_to=%2Fprotocolbuffers%2Fprotobuf",
+        "description": "Protocol Buffers - Google's data interchange format",
+        "stars": "69,443",
+        "forks": "15,922"
+    },
+    {
+        "title": "Beingpax/VoiceInk",
+        "link": "https://github.com/login?return_to=%2FBeingpax%2FVoiceInk",
+        "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
+        "stars": "2,294",
+        "forks": "278"
+    },
+    {
+        "title": "block/goose",
+        "link": "https://github.com/login?return_to=%2Fblock%2Fgoose",
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "stars": "21,070",
+        "forks": "1,914"
+    },
+    {
+        "title": "allenai/olmocr",
+        "link": "https://github.com/login?return_to=%2Fallenai%2Folmocr",
+        "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+        "stars": "15,090",
+        "forks": "1,150"
+    },
+    {
+        "title": "dotnet/eShop",
+        "link": "https://github.com/login?return_to=%2Fdotnet%2FeShop",
+        "description": "A reference .NET application implementing an eCommerce site",
+        "stars": "9,405",
+        "forks": "3,185"
+    },
+    {
+        "title": "toeverything/AFFiNE",
+        "link": "https://github.com/sponsors/toeverything",
+        "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+        "stars": "58,497",
+        "forks": "3,982"
+    },
+    {
+        "title": "microsoft/agent-lightning",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fagent-lightning",
+        "description": "The absolute trainer to light up AI agents.",
+        "stars": "3,934",
+        "forks": "266"
+    }
+]
