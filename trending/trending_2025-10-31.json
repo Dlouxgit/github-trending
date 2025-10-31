@@ -1,0 +1,114 @@
+[
+    {
+        "title": "helm/helm",
+        "link": "https://github.com/login?return_to=%2Fhelm%2Fhelm",
+        "description": "The Kubernetes Package Manager",
+        "stars": "28,797",
+        "forks": "7,375"
+    },
+    {
+        "title": "storybookjs/storybook",
+        "link": "https://github.com/login?return_to=%2Fstorybookjs%2Fstorybook",
+        "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+        "stars": "88,382",
+        "forks": "9,747"
+    },
+    {
+        "title": "open-telemetry/opentelemetry-collector",
+        "link": "https://github.com/login?return_to=%2Fopen-telemetry%2Fopentelemetry-collector",
+        "description": "OpenTelemetry Collector",
+        "stars": "6,074",
+        "forks": "1,763"
+    },
+    {
+        "title": "qeeqbox/social-analyzer",
+        "link": "https://github.com/sponsors/qeeqbox",
+        "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
+        "stars": "16,337",
+        "forks": "1,330"
+    },
+    {
+        "title": "patchy631/ai-engineering-hub",
+        "link": "https://github.com/sponsors/patchy631",
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "stars": "19,845",
+        "forks": "3,327"
+    },
+    {
+        "title": "yhirose/cpp-httplib",
+        "link": "https://github.com/login?return_to=%2Fyhirose%2Fcpp-httplib",
+        "description": "A C++ header-only HTTP/HTTPS server and client library",
+        "stars": "15,274",
+        "forks": "2,532"
+    },
+    {
+        "title": "allenai/olmocr",
+        "link": "https://github.com/login?return_to=%2Fallenai%2Folmocr",
+        "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+        "stars": "15,368",
+        "forks": "1,171"
+    },
+    {
+        "title": "Project-MONAI/MONAI",
+        "link": "https://github.com/login?return_to=%2FProject-MONAI%2FMONAI",
+        "description": "AI Toolkit for Healthcare Imaging",
+        "stars": "7,146",
+        "forks": "1,302"
+    },
+    {
+        "title": "janhq/jan",
+        "link": "https://github.com/login?return_to=%2Fjanhq%2Fjan",
+        "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+        "stars": "38,598",
+        "forks": "2,332"
+    },
+    {
+        "title": "mem0ai/mem0",
+        "link": "https://github.com/login?return_to=%2Fmem0ai%2Fmem0",
+        "description": "Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.",
+        "stars": "42,273",
+        "forks": "4,544"
+    },
+    {
+        "title": "iam-veeramalla/aws-devops-zero-to-hero",
+        "link": "https://github.com/sponsors/iam-veeramalla",
+        "description": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",
+        "stars": "9,386",
+        "forks": "13,224"
+    },
+    {
+        "title": "microsoft/agent-lightning",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fagent-lightning",
+        "description": "The absolute trainer to light up AI agents.",
+        "stars": "4,374",
+        "forks": "303"
+    },
+    {
+        "title": "Tencent/WeKnora",
+        "link": "https://github.com/login?return_to=%2FTencent%2FWeKnora",
+        "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+        "stars": "6,920",
+        "forks": "789"
+    },
+    {
+        "title": "projectdiscovery/nuclei-templates",
+        "link": "https://github.com/login?return_to=%2Fprojectdiscovery%2Fnuclei-templates",
+        "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+        "stars": "11,150",
+        "forks": "3,112"
+    },
+    {
+        "title": "microsoft/Web-Dev-For-Beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FWeb-Dev-For-Beginners",
+        "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+        "stars": "93,138",
+        "forks": "14,459"
+    },
+    {
+        "title": "nvm-sh/nvm",
+        "link": "https://github.com/login?return_to=%2Fnvm-sh%2Fnvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "stars": "88,677",
+        "forks": "9,494"
+    }
+]
