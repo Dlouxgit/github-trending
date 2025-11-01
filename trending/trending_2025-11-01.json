@@ -1,0 +1,107 @@
+[
+    {
+        "title": "nvm-sh/nvm",
+        "link": "https://github.com/login?return_to=%2Fnvm-sh%2Fnvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "stars": "88,761",
+        "forks": "9,506"
+    },
+    {
+        "title": "Wei-Shaw/claude-relay-service",
+        "link": "https://github.com/login?return_to=%2FWei-Shaw%2Fclaude-relay-service",
+        "description": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+        "stars": "4,672",
+        "forks": "779"
+    },
+    {
+        "title": "ventoy/Ventoy",
+        "link": "https://github.com/login?return_to=%2Fventoy%2FVentoy",
+        "description": "A new bootable USB solution.",
+        "stars": "71,892",
+        "forks": "4,543"
+    },
+    {
+        "title": "projectdiscovery/nuclei-templates",
+        "link": "https://github.com/login?return_to=%2Fprojectdiscovery%2Fnuclei-templates",
+        "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+        "stars": "11,221",
+        "forks": "3,117"
+    },
+    {
+        "title": "fmtlib/fmt",
+        "link": "https://github.com/login?return_to=%2Ffmtlib%2Ffmt",
+        "description": "A modern formatting library",
+        "stars": "22,803",
+        "forks": "2,765"
+    },
+    {
+        "title": "qeeqbox/social-analyzer",
+        "link": "https://github.com/sponsors/qeeqbox",
+        "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
+        "stars": "16,801",
+        "forks": "1,367"
+    },
+    {
+        "title": "open-telemetry/opentelemetry-collector",
+        "link": "https://github.com/login?return_to=%2Fopen-telemetry%2Fopentelemetry-collector",
+        "description": "OpenTelemetry Collector",
+        "stars": "6,158",
+        "forks": "1,768"
+    },
+    {
+        "title": "yhirose/cpp-httplib",
+        "link": "https://github.com/login?return_to=%2Fyhirose%2Fcpp-httplib",
+        "description": "A C++ header-only HTTP/HTTPS server and client library",
+        "stars": "15,375",
+        "forks": "2,539"
+    },
+    {
+        "title": "microsoft/agent-lightning",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fagent-lightning",
+        "description": "The absolute trainer to light up AI agents.",
+        "stars": "5,133",
+        "forks": "369"
+    },
+    {
+        "title": "666ghj/BettaFish",
+        "link": "https://github.com/login?return_to=%2F666ghj%2FBettaFish",
+        "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+        "stars": "2,293",
+        "forks": "306"
+    },
+    {
+        "title": "hiyouga/LLaMA-Factory",
+        "link": "https://github.com/login?return_to=%2Fhiyouga%2FLLaMA-Factory",
+        "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+        "stars": "61,464",
+        "forks": "7,437"
+    },
+    {
+        "title": "smartcontractkit/chainlink",
+        "link": "https://github.com/login?return_to=%2Fsmartcontractkit%2Fchainlink",
+        "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+        "stars": "8,024",
+        "forks": "1,897"
+    },
+    {
+        "title": "dotnet/eShop",
+        "link": "https://github.com/login?return_to=%2Fdotnet%2FeShop",
+        "description": "A reference .NET application implementing an eCommerce site",
+        "stars": "9,514",
+        "forks": "3,205"
+    },
+    {
+        "title": "patchy631/ai-engineering-hub",
+        "link": "https://github.com/sponsors/patchy631",
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "stars": "20,163",
+        "forks": "3,360"
+    },
+    {
+        "title": "microsoft/Web-Dev-For-Beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FWeb-Dev-For-Beginners",
+        "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+        "stars": "93,467",
+        "forks": "14,507"
+    }
+]
