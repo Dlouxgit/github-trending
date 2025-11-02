@@ -1,0 +1,107 @@
+[
+    {
+        "title": "get-convex/chef",
+        "link": "https://github.com/login?return_to=%2Fget-convex%2Fchef",
+        "description": "The only AI app builder that knows backend",
+        "stars": "2,722",
+        "forks": "524"
+    },
+    {
+        "title": "suitenumerique/docs",
+        "link": "https://github.com/login?return_to=%2Fsuitenumerique%2Fdocs",
+        "description": "A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.",
+        "stars": "14,207",
+        "forks": "430"
+    },
+    {
+        "title": "Tencent/WeKnora",
+        "link": "https://github.com/login?return_to=%2FTencent%2FWeKnora",
+        "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+        "stars": "7,195",
+        "forks": "812"
+    },
+    {
+        "title": "janhq/jan",
+        "link": "https://github.com/login?return_to=%2Fjanhq%2Fjan",
+        "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+        "stars": "38,950",
+        "forks": "2,348"
+    },
+    {
+        "title": "microsoft/Web-Dev-For-Beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FWeb-Dev-For-Beginners",
+        "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+        "stars": "93,741",
+        "forks": "14,550"
+    },
+    {
+        "title": "hacksider/Deep-Live-Cam",
+        "link": "https://github.com/sponsors/hacksider",
+        "description": "real time face swap and one-click video deepfake with only a single image",
+        "stars": "74,748",
+        "forks": "10,881"
+    },
+    {
+        "title": "juspay/hyperswitch",
+        "link": "https://github.com/login?return_to=%2Fjuspay%2Fhyperswitch",
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "stars": "38,919",
+        "forks": "4,513"
+    },
+    {
+        "title": "nvm-sh/nvm",
+        "link": "https://github.com/login?return_to=%2Fnvm-sh%2Fnvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "stars": "88,836",
+        "forks": "9,511"
+    },
+    {
+        "title": "github/copilot-cli",
+        "link": "https://github.com/login?return_to=%2Fgithub%2Fcopilot-cli",
+        "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
+        "stars": "4,522",
+        "forks": "288"
+    },
+    {
+        "title": "YunaiV/ruoyi-vue-pro",
+        "link": "https://github.com/login?return_to=%2FYunaiV%2Fruoyi-vue-pro",
+        "description": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+        "stars": "33,880",
+        "forks": "7,314"
+    },
+    {
+        "title": "hanxi/xiaomusic",
+        "link": "https://github.com/login?return_to=%2Fhanxi%2Fxiaomusic",
+        "description": "使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。",
+        "stars": "6,535",
+        "forks": "639"
+    },
+    {
+        "title": "666ghj/BettaFish",
+        "link": "https://github.com/login?return_to=%2F666ghj%2FBettaFish",
+        "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+        "stars": "3,299",
+        "forks": "365"
+    },
+    {
+        "title": "pathwaycom/llm-app",
+        "link": "https://github.com/login?return_to=%2Fpathwaycom%2Fllm-app",
+        "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
+        "stars": "46,414",
+        "forks": "1,192"
+    },
+    {
+        "title": "lingodotdev/lingo.dev",
+        "link": "https://github.com/sponsors/lingodotdev",
+        "description": "⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:",
+        "stars": "4,033",
+        "forks": "607"
+    },
+    {
+        "title": "ossu/computer-science",
+        "link": "https://github.com/login?return_to=%2Fossu%2Fcomputer-science",
+        "description": "🎓 Path to a free self-taught education in Computer Science!",
+        "stars": "196,743",
+        "forks": "24,526"
+    }
+]
