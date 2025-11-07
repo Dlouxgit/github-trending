@@ -1,0 +1,93 @@
+[
+    {
+        "title": "666ghj/BettaFish",
+        "link": "https://github.com/login?return_to=%2F666ghj%2FBettaFish",
+        "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+        "stars": "18,259",
+        "forks": "3,541"
+    },
+    {
+        "title": "Skyvern-AI/skyvern",
+        "link": "https://github.com/login?return_to=%2FSkyvern-AI%2Fskyvern",
+        "description": "Automate browser based workflows with AI",
+        "stars": "16,737",
+        "forks": "1,417"
+    },
+    {
+        "title": "nocobase/nocobase",
+        "link": "https://github.com/login?return_to=%2Fnocobase%2Fnocobase",
+        "description": "NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.",
+        "stars": "18,262",
+        "forks": "2,069"
+    },
+    {
+        "title": "mudler/LocalAI",
+        "link": "https://github.com/sponsors/mudler",
+        "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+        "stars": "37,581",
+        "forks": "2,957"
+    },
+    {
+        "title": "sst/opentui",
+        "link": "https://github.com/sponsors/sst",
+        "description": "OpenTUI is a library for building terminal user interfaces (TUIs)",
+        "stars": "4,638",
+        "forks": "172"
+    },
+    {
+        "title": "imthenachoman/How-To-Secure-A-Linux-Server",
+        "link": "https://github.com/sponsors/imthenachoman",
+        "description": "An evolving how-to guide for securing a Linux server.",
+        "stars": "22,308",
+        "forks": "1,427"
+    },
+    {
+        "title": "modelcontextprotocol/go-sdk",
+        "link": "https://github.com/login?return_to=%2Fmodelcontextprotocol%2Fgo-sdk",
+        "description": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
+        "stars": "2,785",
+        "forks": "252"
+    },
+    {
+        "title": "ad-on-is/rachoon",
+        "link": "https://github.com/login?return_to=%2Fad-on-is%2Frachoon",
+        "description": "🦝 Rachoon — A self-hostable way to handle invoices",
+        "stars": "440",
+        "forks": "23"
+    },
+    {
+        "title": "KotatsuApp/Kotatsu",
+        "link": "https://github.com/login?return_to=%2FKotatsuApp%2FKotatsu",
+        "description": "Manga reader for Android",
+        "stars": "7,252",
+        "forks": "374"
+    },
+    {
+        "title": "ggml-org/ggml",
+        "link": "https://github.com/login?return_to=%2Fggml-org%2Fggml",
+        "description": "Tensor library for machine learning",
+        "stars": "13,452",
+        "forks": "1,380"
+    },
+    {
+        "title": "FFmpeg/asm-lessons",
+        "link": "https://github.com/login?return_to=%2FFFmpeg%2Fasm-lessons",
+        "description": "FFMPEG Assembly Language Lessons",
+        "stars": "9,842",
+        "forks": "296"
+    },
+    {
+        "title": "localstack/localstack",
+        "link": "https://github.com/login?return_to=%2Flocalstack%2Flocalstack",
+        "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+        "stars": "62,004",
+        "forks": "4,336"
+    },
+    {
+        "title": "PKUFlyingPig/cs-self-learning",
+        "link": "https://github.com/login?return_to=%2FPKUFlyingPig%2Fcs-self-learning",
+        "description": "计算机自学指南",
+        "stars": "68,894",
+        "forks": "7,694"
+    }
+]
