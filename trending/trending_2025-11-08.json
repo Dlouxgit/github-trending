@@ -1,0 +1,142 @@
+[
+    {
+        "title": "prometheus/alertmanager",
+        "link": "https://github.com/login?return_to=%2Fprometheus%2Falertmanager",
+        "description": "Prometheus Alertmanager",
+        "stars": "7,686",
+        "forks": "2,328"
+    },
+    {
+        "title": "666ghj/BettaFish",
+        "link": "https://github.com/login?return_to=%2F666ghj%2FBettaFish",
+        "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+        "stars": "21,577",
+        "forks": "4,180"
+    },
+    {
+        "title": "simstudioai/sim",
+        "link": "https://github.com/login?return_to=%2Fsimstudioai%2Fsim",
+        "description": "Open-source platform to build and deploy AI agent workflows.",
+        "stars": "17,629",
+        "forks": "2,341"
+    },
+    {
+        "title": "lima-vm/lima",
+        "link": "https://github.com/login?return_to=%2Flima-vm%2Flima",
+        "description": "Linux virtual machines, with a focus on running containers",
+        "stars": "18,442",
+        "forks": "729"
+    },
+    {
+        "title": "awslabs/mcp",
+        "link": "https://github.com/login?return_to=%2Fawslabs%2Fmcp",
+        "description": "AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.",
+        "stars": "7,066",
+        "forks": "1,042"
+    },
+    {
+        "title": "usestrix/strix",
+        "link": "https://github.com/login?return_to=%2Fusestrix%2Fstrix",
+        "description": "✨ Open-source AI hackers for your apps 👨🏻‍💻",
+        "stars": "3,345",
+        "forks": "418"
+    },
+    {
+        "title": "blakeblackshear/frigate",
+        "link": "https://github.com/sponsors/blakeblackshear",
+        "description": "NVR with realtime local object detection for IP cameras",
+        "stars": "26,858",
+        "forks": "2,482"
+    },
+    {
+        "title": "imthenachoman/How-To-Secure-A-Linux-Server",
+        "link": "https://github.com/sponsors/imthenachoman",
+        "description": "An evolving how-to guide for securing a Linux server.",
+        "stars": "22,729",
+        "forks": "1,447"
+    },
+    {
+        "title": "FFmpeg/asm-lessons",
+        "link": "https://github.com/login?return_to=%2FFFmpeg%2Fasm-lessons",
+        "description": "FFmpeg Assembly Language Lessons",
+        "stars": "10,243",
+        "forks": "308"
+    },
+    {
+        "title": "ad-on-is/rachoon",
+        "link": "https://github.com/login?return_to=%2Fad-on-is%2Frachoon",
+        "description": "🦝 Rachoon — A self-hostable way to handle invoices",
+        "stars": "629",
+        "forks": "38"
+    },
+    {
+        "title": "TheAlgorithms/Python",
+        "link": "https://github.com/login?return_to=%2FTheAlgorithms%2FPython",
+        "description": "All Algorithms implemented in Python",
+        "stars": "212,705",
+        "forks": "49,192"
+    },
+    {
+        "title": "jwasham/coding-interview-university",
+        "link": "https://github.com/login?return_to=%2Fjwasham%2Fcoding-interview-university",
+        "description": "A complete computer science study plan to become a software engineer.",
+        "stars": "332,822",
+        "forks": "81,164"
+    },
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "75,467",
+        "forks": "9,933"
+    },
+    {
+        "title": "GoogleCloudPlatform/vertex-ai-creative-studio",
+        "link": "https://github.com/login?return_to=%2FGoogleCloudPlatform%2Fvertex-ai-creative-studio",
+        "description": "GenMedia Creative Studio is a Vertex AI generative media user experience highlighting the use of Imagen, Veo, Gemini 🍌, Gemini TTS, Chirp 3, Lyria and other generative media APIs on Google Cloud.",
+        "stars": "721",
+        "forks": "223"
+    },
+    {
+        "title": "GopeedLab/gopeed",
+        "link": "https://github.com/login?return_to=%2FGopeedLab%2Fgopeed",
+        "description": "A modern download manager that supports all platforms. Built with Golang and Flutter.",
+        "stars": "21,475",
+        "forks": "1,483"
+    },
+    {
+        "title": "Skyvern-AI/skyvern",
+        "link": "https://github.com/login?return_to=%2FSkyvern-AI%2Fskyvern",
+        "description": "Automate browser based workflows with AI",
+        "stars": "17,017",
+        "forks": "1,437"
+    },
+    {
+        "title": "antiwork/gumroad",
+        "link": "https://github.com/login?return_to=%2Fantiwork%2Fgumroad",
+        "description": "Sell stuff and see what sticks",
+        "stars": "7,453",
+        "forks": "1,402"
+    },
+    {
+        "title": "coder/code-server",
+        "link": "https://github.com/login?return_to=%2Fcoder%2Fcode-server",
+        "description": "VS Code in the browser",
+        "stars": "74,670",
+        "forks": "6,333"
+    },
+    {
+        "title": "remix-run/react-router",
+        "link": "https://github.com/login?return_to=%2Fremix-run%2Freact-router",
+        "description": "Declarative routing for React",
+        "stars": "55,874",
+        "forks": "10,761"
+    },
+    {
+        "title": "dbeaver/dbeaver",
+        "link": "https://github.com/login?return_to=%2Fdbeaver%2Fdbeaver",
+        "description": "Free universal database tool and SQL client",
+        "stars": "46,285",
+        "forks": "3,904"
+    }
+]
