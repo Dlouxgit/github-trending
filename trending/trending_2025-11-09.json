@@ -1,0 +1,128 @@
+[
+    {
+        "title": "usestrix/strix",
+        "link": "https://github.com/login?return_to=%2Fusestrix%2Fstrix",
+        "description": "✨ Open-source AI hackers for your apps 👨🏻‍💻",
+        "stars": "4,759",
+        "forks": "523"
+    },
+    {
+        "title": "umami-software/umami",
+        "link": "https://github.com/login?return_to=%2Fumami-software%2Fumami",
+        "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
+        "stars": "32,325",
+        "forks": "5,794"
+    },
+    {
+        "title": "prometheus/alertmanager",
+        "link": "https://github.com/login?return_to=%2Fprometheus%2Falertmanager",
+        "description": "Prometheus Alertmanager",
+        "stars": "7,923",
+        "forks": "2,343"
+    },
+    {
+        "title": "lima-vm/lima",
+        "link": "https://github.com/login?return_to=%2Flima-vm%2Flima",
+        "description": "Linux virtual machines, with a focus on running containers",
+        "stars": "18,596",
+        "forks": "742"
+    },
+    {
+        "title": "nocobase/nocobase",
+        "link": "https://github.com/login?return_to=%2Fnocobase%2Fnocobase",
+        "description": "NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.",
+        "stars": "18,931",
+        "forks": "2,119"
+    },
+    {
+        "title": "dbeaver/dbeaver",
+        "link": "https://github.com/login?return_to=%2Fdbeaver%2Fdbeaver",
+        "description": "Free universal database tool and SQL client",
+        "stars": "46,505",
+        "forks": "3,914"
+    },
+    {
+        "title": "localstack/localstack",
+        "link": "https://github.com/login?return_to=%2Flocalstack%2Flocalstack",
+        "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+        "stars": "62,586",
+        "forks": "4,381"
+    },
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "75,778",
+        "forks": "9,976"
+    },
+    {
+        "title": "666ghj/BettaFish",
+        "link": "https://github.com/login?return_to=%2F666ghj%2FBettaFish",
+        "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+        "stars": "23,078",
+        "forks": "4,421"
+    },
+    {
+        "title": "airweave-ai/airweave",
+        "link": "https://github.com/login?return_to=%2Fairweave-ai%2Fairweave",
+        "description": "Context retrieval for AI agents across apps and databases",
+        "stars": "4,767",
+        "forks": "576"
+    },
+    {
+        "title": "TodePond/GulfOfMexico",
+        "link": "https://github.com/login?return_to=%2FTodePond%2FGulfOfMexico",
+        "description": "perfect programming language",
+        "stars": "12,956",
+        "forks": "450"
+    },
+    {
+        "title": "penpot/penpot",
+        "link": "https://github.com/login?return_to=%2Fpenpot%2Fpenpot",
+        "description": "Penpot: The open-source design tool for design and code collaboration",
+        "stars": "41,270",
+        "forks": "2,277"
+    },
+    {
+        "title": "awslabs/mcp",
+        "link": "https://github.com/login?return_to=%2Fawslabs%2Fmcp",
+        "description": "AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.",
+        "stars": "7,251",
+        "forks": "1,051"
+    },
+    {
+        "title": "public-apis/public-apis",
+        "link": "https://github.com/login?return_to=%2Fpublic-apis%2Fpublic-apis",
+        "description": "A collective list of free APIs",
+        "stars": "377,071",
+        "forks": "39,915"
+    },
+    {
+        "title": "thinking-machines-lab/tinker-cookbook",
+        "link": "https://github.com/login?return_to=%2Fthinking-machines-lab%2Ftinker-cookbook",
+        "description": "Post-training with Tinker",
+        "stars": "1,534",
+        "forks": "120"
+    },
+    {
+        "title": "ad-on-is/rachoon",
+        "link": "https://github.com/login?return_to=%2Fad-on-is%2Frachoon",
+        "description": "🦝 Rachoon — A self-hostable way to handle invoices",
+        "stars": "757",
+        "forks": "47"
+    },
+    {
+        "title": "FFmpeg/asm-lessons",
+        "link": "https://github.com/login?return_to=%2FFFmpeg%2Fasm-lessons",
+        "description": "FFmpeg Assembly Language Lessons",
+        "stars": "10,777",
+        "forks": "327"
+    },
+    {
+        "title": "jamwithai/arxiv-paper-curator",
+        "link": "https://github.com/login?return_to=%2Fjamwithai%2Farxiv-paper-curator",
+        "description": "No description provided",
+        "stars": "1,347",
+        "forks": "424"
+    }
+]
