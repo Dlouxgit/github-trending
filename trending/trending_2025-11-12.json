@@ -1,0 +1,121 @@
+[
+    {
+        "title": "sansan0/TrendRadar",
+        "link": "https://github.com/login?return_to=%2Fsansan0%2FTrendRadar",
+        "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点",
+        "stars": "6,582",
+        "forks": "4,664"
+    },
+    {
+        "title": "google/adk-go",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Fadk-go",
+        "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+        "stars": "2,446",
+        "forks": "136"
+    },
+    {
+        "title": "usestrix/strix",
+        "link": "https://github.com/login?return_to=%2Fusestrix%2Fstrix",
+        "description": "✨ Open-source AI hackers for your apps 👨🏻‍💻",
+        "stars": "9,643",
+        "forks": "868"
+    },
+    {
+        "title": "bobeff/open-source-games",
+        "link": "https://github.com/login?return_to=%2Fbobeff%2Fopen-source-games",
+        "description": "A list of open source games.",
+        "stars": "3,099",
+        "forks": "225"
+    },
+    {
+        "title": "TapXWorld/ChinaTextbook",
+        "link": "https://github.com/login?return_to=%2FTapXWorld%2FChinaTextbook",
+        "description": "所有小初高、大学PDF教材。",
+        "stars": "55,318",
+        "forks": "12,395"
+    },
+    {
+        "title": "serverless-dns/serverless-dns",
+        "link": "https://github.com/sponsors/serverless-dns",
+        "description": "The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io",
+        "stars": "2,875",
+        "forks": "2,078"
+    },
+    {
+        "title": "yichuan-w/LEANN",
+        "link": "https://github.com/login?return_to=%2Fyichuan-w%2FLEANN",
+        "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+        "stars": "4,081",
+        "forks": "414"
+    },
+    {
+        "title": "yangshun/tech-interview-handbook",
+        "link": "https://github.com/sponsors/yangshun",
+        "description": "💯 Curated coding interview preparation materials for busy software engineers",
+        "stars": "132,027",
+        "forks": "16,012"
+    },
+    {
+        "title": "microsoft/ai-agents-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fai-agents-for-beginners",
+        "description": "12 Lessons to Get Started Building AI Agents",
+        "stars": "44,584",
+        "forks": "15,102"
+    },
+    {
+        "title": "LizardByte/Sunshine",
+        "link": "https://github.com/sponsors/LizardByte",
+        "description": "Self-hosted game stream host for Moonlight.",
+        "stars": "31,179",
+        "forks": "1,491"
+    },
+    {
+        "title": "dgtlmoon/changedetection.io",
+        "link": "https://github.com/login?return_to=%2Fdgtlmoon%2Fchangedetection.io",
+        "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
+        "stars": "28,565",
+        "forks": "1,583"
+    },
+    {
+        "title": "davila7/claude-code-templates",
+        "link": "https://github.com/login?return_to=%2Fdavila7%2Fclaude-code-templates",
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "stars": "10,919",
+        "forks": "947"
+    },
+    {
+        "title": "google/adk-docs",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Fadk-docs",
+        "description": "An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+        "stars": "787",
+        "forks": "566"
+    },
+    {
+        "title": "nvm-sh/nvm",
+        "link": "https://github.com/login?return_to=%2Fnvm-sh%2Fnvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "stars": "89,026",
+        "forks": "9,538"
+    },
+    {
+        "title": "AtsushiSakai/PythonRobotics",
+        "link": "https://github.com/sponsors/AtsushiSakai",
+        "description": "Python sample codes and textbook for robotics algorithms.",
+        "stars": "26,416",
+        "forks": "6,954"
+    },
+    {
+        "title": "google/adk-web",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Fadk-web",
+        "description": "Agent Development Kit Web (adk web) is the built-in developer UI that is integrated with Agent Development Kit for easier agent development and debugging.",
+        "stars": "498",
+        "forks": "144"
+    },
+    {
+        "title": "WICG/email-verification-protocol",
+        "link": "https://github.com/login?return_to=%2FWICG%2Femail-verification-protocol",
+        "description": "verified autofill",
+        "stars": "305",
+        "forks": "12"
+    }
+]
