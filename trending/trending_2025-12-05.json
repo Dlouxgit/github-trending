@@ -1,0 +1,121 @@
+[
+    {
+        "title": "basecamp/fizzy",
+        "link": "https://github.com/login?return_to=%2Fbasecamp%2Ffizzy",
+        "description": "Kanban as it should be. Not as it has been.",
+        "stars": "3,057",
+        "forks": "338"
+    },
+    {
+        "title": "oven-sh/bun",
+        "link": "https://github.com/login?return_to=%2Foven-sh%2Fbun",
+        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+        "stars": "83,570",
+        "forks": "3,683"
+    },
+    {
+        "title": "DayuanJiang/next-ai-draw-io",
+        "link": "https://github.com/sponsors/DayuanJiang",
+        "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+        "stars": "3,147",
+        "forks": "392"
+    },
+    {
+        "title": "openai/codex",
+        "link": "https://github.com/login?return_to=%2Fopenai%2Fcodex",
+        "description": "Lightweight coding agent that runs in your terminal",
+        "stars": "51,845",
+        "forks": "6,576"
+    },
+    {
+        "title": "LadybirdBrowser/ladybird",
+        "link": "https://github.com/login?return_to=%2FLadybirdBrowser%2Fladybird",
+        "description": "Truly independent web browser",
+        "stars": "56,327",
+        "forks": "2,521"
+    },
+    {
+        "title": "ashishpatel26/500-AI-Agents-Projects",
+        "link": "https://github.com/login?return_to=%2Fashishpatel26%2F500-AI-Agents-Projects",
+        "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+        "stars": "17,961",
+        "forks": "3,349"
+    },
+    {
+        "title": "sst/opencode",
+        "link": "https://github.com/sponsors/sst",
+        "description": "The AI coding agent built for the terminal.",
+        "stars": "35,512",
+        "forks": "2,946"
+    },
+    {
+        "title": "ZJU-LLMs/Foundations-of-LLMs",
+        "link": "https://github.com/login?return_to=%2FZJU-LLMs%2FFoundations-of-LLMs",
+        "description": "No description provided",
+        "stars": "13,009",
+        "forks": "1,217"
+    },
+    {
+        "title": "trustedsec/social-engineer-toolkit",
+        "link": "https://github.com/login?return_to=%2Ftrustedsec%2Fsocial-engineer-toolkit",
+        "description": "The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.",
+        "stars": "13,041",
+        "forks": "3,128"
+    },
+    {
+        "title": "Flowseal/zapret-discord-youtube",
+        "link": "https://github.com/login?return_to=%2FFlowseal%2Fzapret-discord-youtube",
+        "description": "No description provided",
+        "stars": "18,758",
+        "forks": "1,449"
+    },
+    {
+        "title": "microsoft/ML-For-Beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FML-For-Beginners",
+        "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+        "stars": "79,749",
+        "forks": "18,569"
+    },
+    {
+        "title": "kubernetes/kubernetes",
+        "link": "https://github.com/login?return_to=%2Fkubernetes%2Fkubernetes",
+        "description": "Production-Grade Container Scheduling and Management",
+        "stars": "119,008",
+        "forks": "41,843"
+    },
+    {
+        "title": "lynx-family/lynx",
+        "link": "https://github.com/login?return_to=%2Flynx-family%2Flynx",
+        "description": "Empower the Web community and invite more to build across platforms.",
+        "stars": "13,666",
+        "forks": "472"
+    },
+    {
+        "title": "codecrafters-io/build-your-own-x",
+        "link": "https://github.com/login?return_to=%2Fcodecrafters-io%2Fbuild-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "stars": "446,236",
+        "forks": "41,865"
+    },
+    {
+        "title": "wshobson/agents",
+        "link": "https://github.com/sponsors/wshobson",
+        "description": "Intelligent automation and multi-agent orchestration for Claude Code",
+        "stars": "21,956",
+        "forks": "2,462"
+    },
+    {
+        "title": "bin456789/reinstall",
+        "link": "https://github.com/sponsors/bin456789",
+        "description": "一键DD/重装脚本 (One-click reinstall OS on VPS)",
+        "stars": "9,283",
+        "forks": "1,541"
+    },
+    {
+        "title": "bobeff/open-source-games",
+        "link": "https://github.com/login?return_to=%2Fbobeff%2Fopen-source-games",
+        "description": "A list of open source games.",
+        "stars": "10,251",
+        "forks": "765"
+    }
+]
