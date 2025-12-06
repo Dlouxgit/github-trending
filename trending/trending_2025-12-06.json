@@ -1,0 +1,107 @@
+[
+    {
+        "title": "basecamp/fizzy",
+        "link": "https://github.com/login?return_to=%2Fbasecamp%2Ffizzy",
+        "description": "Kanban as it should be. Not as it has been.",
+        "stars": "4,366",
+        "forks": "425"
+    },
+    {
+        "title": "rustfs/rustfs",
+        "link": "https://github.com/login?return_to=%2Frustfs%2Frustfs",
+        "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+        "stars": "14,430",
+        "forks": "630"
+    },
+    {
+        "title": "trustedsec/social-engineer-toolkit",
+        "link": "https://github.com/login?return_to=%2Ftrustedsec%2Fsocial-engineer-toolkit",
+        "description": "The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.",
+        "stars": "13,290",
+        "forks": "3,140"
+    },
+    {
+        "title": "DayuanJiang/next-ai-draw-io",
+        "link": "https://github.com/sponsors/DayuanJiang",
+        "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+        "stars": "3,948",
+        "forks": "443"
+    },
+    {
+        "title": "facebook/react",
+        "link": "https://github.com/login?return_to=%2Ffacebook%2Freact",
+        "description": "The library for web and native user interfaces.",
+        "stars": "241,199",
+        "forks": "50,011"
+    },
+    {
+        "title": "CorentinTh/it-tools",
+        "link": "https://github.com/sponsors/CorentinTh",
+        "description": "Collection of handy online tools for developers, with great UX.",
+        "stars": "34,761",
+        "forks": "4,313"
+    },
+    {
+        "title": "vercel/next.js",
+        "link": "https://github.com/login?return_to=%2Fvercel%2Fnext.js",
+        "description": "The React Framework",
+        "stars": "136,194",
+        "forks": "29,981"
+    },
+    {
+        "title": "ashishpatel26/500-AI-Agents-Projects",
+        "link": "https://github.com/login?return_to=%2Fashishpatel26%2F500-AI-Agents-Projects",
+        "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+        "stars": "18,445",
+        "forks": "3,399"
+    },
+    {
+        "title": "sinelaw/fresh",
+        "link": "https://github.com/sponsors/sinelaw",
+        "description": "Text editor for your terminal: easy, powerful and fast",
+        "stars": "549",
+        "forks": "14"
+    },
+    {
+        "title": "oven-sh/bun",
+        "link": "https://github.com/login?return_to=%2Foven-sh%2Fbun",
+        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+        "stars": "84,135",
+        "forks": "3,716"
+    },
+    {
+        "title": "mtdvio/every-programmer-should-know",
+        "link": "https://github.com/sponsors/mtdvio",
+        "description": "A collection of (mostly) technical things every software developer should know about",
+        "stars": "95,899",
+        "forks": "8,521"
+    },
+    {
+        "title": "microsoft/VibeVoice",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FVibeVoice",
+        "description": "Open-Source Frontier Voice AI",
+        "stars": "10,540",
+        "forks": "1,358"
+    },
+    {
+        "title": "Flowseal/zapret-discord-youtube",
+        "link": "https://github.com/login?return_to=%2FFlowseal%2Fzapret-discord-youtube",
+        "description": "No description provided",
+        "stars": "18,841",
+        "forks": "1,467"
+    },
+    {
+        "title": "sst/opencode",
+        "link": "https://github.com/sponsors/sst",
+        "description": "The open source coding agent.",
+        "stars": "36,008",
+        "forks": "2,989"
+    },
+    {
+        "title": "TelegramMessenger/Telegram-iOS",
+        "link": "https://github.com/login?return_to=%2FTelegramMessenger%2FTelegram-iOS",
+        "description": "Telegram-iOS",
+        "stars": "7,553",
+        "forks": "2,184"
+    }
+]
