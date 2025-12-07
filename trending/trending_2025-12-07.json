@@ -1,0 +1,114 @@
+[
+    {
+        "title": "microsoft/VibeVoice",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FVibeVoice",
+        "description": "Open-Source Frontier Voice AI",
+        "stars": "11,072",
+        "forks": "1,395"
+    },
+    {
+        "title": "rustfs/rustfs",
+        "link": "https://github.com/login?return_to=%2Frustfs%2Frustfs",
+        "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+        "stars": "15,149",
+        "forks": "651"
+    },
+    {
+        "title": "RosettaCommons/foundry",
+        "link": "https://github.com/login?return_to=%2FRosettaCommons%2Ffoundry",
+        "description": "Central repository for biomolecular foundation models with shared trainers and pipeline components",
+        "stars": "417",
+        "forks": "58"
+    },
+    {
+        "title": "sinelaw/fresh",
+        "link": "https://github.com/sponsors/sinelaw",
+        "description": "Text editor for your terminal: easy, powerful and fast",
+        "stars": "826",
+        "forks": "24"
+    },
+    {
+        "title": "patchy631/ai-engineering-hub",
+        "link": "https://github.com/sponsors/patchy631",
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "stars": "21,430",
+        "forks": "3,561"
+    },
+    {
+        "title": "psviderski/uncloud",
+        "link": "https://github.com/sponsors/psviderski",
+        "description": "A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨",
+        "stars": "3,840",
+        "forks": "98"
+    },
+    {
+        "title": "oven-sh/bun",
+        "link": "https://github.com/login?return_to=%2Foven-sh%2Fbun",
+        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+        "stars": "84,391",
+        "forks": "3,738"
+    },
+    {
+        "title": "facebook/react",
+        "link": "https://github.com/login?return_to=%2Ffacebook%2Freact",
+        "description": "The library for web and native user interfaces.",
+        "stars": "241,319",
+        "forks": "50,019"
+    },
+    {
+        "title": "lynx-family/lynx",
+        "link": "https://github.com/login?return_to=%2Flynx-family%2Flynx",
+        "description": "Empower the Web community and invite more to build across platforms.",
+        "stars": "13,776",
+        "forks": "477"
+    },
+    {
+        "title": "DevCaress/guia-entrevistas-de-programacion",
+        "link": "https://github.com/login?return_to=%2FDevCaress%2Fguia-entrevistas-de-programacion",
+        "description": "No description provided",
+        "stars": "6,705",
+        "forks": "927"
+    },
+    {
+        "title": "sapientinc/HRM",
+        "link": "https://github.com/login?return_to=%2Fsapientinc%2FHRM",
+        "description": "Hierarchical Reasoning Model Official Release",
+        "stars": "12,062",
+        "forks": "1,761"
+    },
+    {
+        "title": "projectdiscovery/nuclei-templates",
+        "link": "https://github.com/login?return_to=%2Fprojectdiscovery%2Fnuclei-templates",
+        "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+        "stars": "11,541",
+        "forks": "3,206"
+    },
+    {
+        "title": "paritytech/polkadot-sdk",
+        "link": "https://github.com/login?return_to=%2Fparitytech%2Fpolkadot-sdk",
+        "description": "The Parity Polkadot Blockchain SDK",
+        "stars": "2,593",
+        "forks": "1,088"
+    },
+    {
+        "title": "golang/go",
+        "link": "https://github.com/login?return_to=%2Fgolang%2Fgo",
+        "description": "The Go programming language",
+        "stars": "131,244",
+        "forks": "18,530"
+    },
+    {
+        "title": "anthropics/claude-quickstarts",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-quickstarts",
+        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "stars": "10,869",
+        "forks": "1,972"
+    },
+    {
+        "title": "aquasecurity/trivy",
+        "link": "https://github.com/login?return_to=%2Faquasecurity%2Ftrivy",
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "stars": "30,191",
+        "forks": "2,834"
+    }
+]
