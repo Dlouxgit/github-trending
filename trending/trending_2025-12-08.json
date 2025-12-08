@@ -1,0 +1,100 @@
+[
+    {
+        "title": "microsoft/VibeVoice",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FVibeVoice",
+        "description": "Open-Source Frontier Voice AI",
+        "stars": "12,200",
+        "forks": "1,504"
+    },
+    {
+        "title": "NVIDIA/cutile-python",
+        "link": "https://github.com/login?return_to=%2FNVIDIA%2Fcutile-python",
+        "description": "cuTile is a programming model for writing parallel kernels for NVIDIA GPUs",
+        "stars": "732",
+        "forks": "31"
+    },
+    {
+        "title": "patchy631/ai-engineering-hub",
+        "link": "https://github.com/sponsors/patchy631",
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "stars": "21,778",
+        "forks": "3,597"
+    },
+    {
+        "title": "TelegramMessenger/Telegram-iOS",
+        "link": "https://github.com/login?return_to=%2FTelegramMessenger%2FTelegram-iOS",
+        "description": "Telegram-iOS",
+        "stars": "7,641",
+        "forks": "2,199"
+    },
+    {
+        "title": "anthropics/claude-quickstarts",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-quickstarts",
+        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "stars": "11,154",
+        "forks": "1,999"
+    },
+    {
+        "title": "rustfs/rustfs",
+        "link": "https://github.com/login?return_to=%2Frustfs%2Frustfs",
+        "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+        "stars": "15,543",
+        "forks": "671"
+    },
+    {
+        "title": "sst/opencode",
+        "link": "https://github.com/sponsors/sst",
+        "description": "The open source coding agent.",
+        "stars": "36,765",
+        "forks": "3,068"
+    },
+    {
+        "title": "BeehiveInnovations/pal-mcp-server",
+        "link": "https://github.com/sponsors/BeehiveInnovations",
+        "description": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.",
+        "stars": "10,144",
+        "forks": "853"
+    },
+    {
+        "title": "microsoft/Foundry-Local",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FFoundry-Local",
+        "description": "No description provided",
+        "stars": "1,398",
+        "forks": "175"
+    },
+    {
+        "title": "sinelaw/fresh",
+        "link": "https://github.com/sponsors/sinelaw",
+        "description": "Text editor for your terminal: easy, powerful and fast",
+        "stars": "1,065",
+        "forks": "33"
+    },
+    {
+        "title": "ashishpatel26/500-AI-Agents-Projects",
+        "link": "https://github.com/login?return_to=%2Fashishpatel26%2F500-AI-Agents-Projects",
+        "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+        "stars": "19,287",
+        "forks": "3,492"
+    },
+    {
+        "title": "blakeblackshear/frigate",
+        "link": "https://github.com/sponsors/blakeblackshear",
+        "description": "NVR with realtime local object detection for IP cameras",
+        "stars": "27,671",
+        "forks": "2,580"
+    },
+    {
+        "title": "lfnovo/open-notebook",
+        "link": "https://github.com/login?return_to=%2Flfnovo%2Fopen-notebook",
+        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+        "stars": "12,605",
+        "forks": "1,277"
+    },
+    {
+        "title": "activepieces/activepieces",
+        "link": "https://github.com/login?return_to=%2Factivepieces%2Factivepieces",
+        "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+        "stars": "19,498",
+        "forks": "3,005"
+    }
+]
