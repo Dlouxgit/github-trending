@@ -1,0 +1,79 @@
+[
+    {
+        "title": "microsoft/VibeVoice",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FVibeVoice",
+        "description": "Open-Source Frontier Voice AI",
+        "stars": "14,375",
+        "forks": "1,655"
+    },
+    {
+        "title": "sinelaw/fresh",
+        "link": "https://github.com/sponsors/sinelaw",
+        "description": "Text editor for your terminal: easy, powerful and fast",
+        "stars": "1,316",
+        "forks": "41"
+    },
+    {
+        "title": "winapps-org/winapps",
+        "link": "https://github.com/login?return_to=%2Fwinapps-org%2Fwinapps",
+        "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/",
+        "stars": "13,241",
+        "forks": "415"
+    },
+    {
+        "title": "patchy631/ai-engineering-hub",
+        "link": "https://github.com/sponsors/patchy631",
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "stars": "22,394",
+        "forks": "3,636"
+    },
+    {
+        "title": "slidevjs/slidev",
+        "link": "https://github.com/login?return_to=%2Fslidevjs%2Fslidev",
+        "description": "Presentation Slides for Developers",
+        "stars": "42,719",
+        "forks": "1,830"
+    },
+    {
+        "title": "cloudflare/vibesdk",
+        "link": "https://github.com/login?return_to=%2Fcloudflare%2Fvibesdk",
+        "description": "An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack",
+        "stars": "3,729",
+        "forks": "928"
+    },
+    {
+        "title": "lfnovo/open-notebook",
+        "link": "https://github.com/login?return_to=%2Flfnovo%2Fopen-notebook",
+        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+        "stars": "13,218",
+        "forks": "1,325"
+    },
+    {
+        "title": "anthropics/claude-quickstarts",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-quickstarts",
+        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "stars": "11,496",
+        "forks": "2,029"
+    },
+    {
+        "title": "666ghj/BettaFish",
+        "link": "https://github.com/login?return_to=%2F666ghj%2FBettaFish",
+        "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+        "stars": "31,635",
+        "forks": "6,087"
+    },
+    {
+        "title": "microsoft/Foundry-Local",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FFoundry-Local",
+        "description": "No description provided",
+        "stars": "1,576",
+        "forks": "184"
+    },
+    {
+        "title": "microsoft/ML-For-Beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FML-For-Beginners",
+        "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+        "stars": "80,671",
+        "forks": "18,921"
+    }
+]
