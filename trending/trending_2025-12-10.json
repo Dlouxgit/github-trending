@@ -1,0 +1,93 @@
+[
+    {
+        "title": "KaijuEngine/kaiju",
+        "link": "https://github.com/login?return_to=%2FKaijuEngine%2Fkaiju",
+        "description": "General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor",
+        "stars": "1,616",
+        "forks": "57"
+    },
+    {
+        "title": "thedotmack/claude-mem",
+        "link": "https://github.com/login?return_to=%2Fthedotmack%2Fclaude-mem",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "stars": "1,478",
+        "forks": "113"
+    },
+    {
+        "title": "dyad-sh/dyad",
+        "link": "https://github.com/login?return_to=%2Fdyad-sh%2Fdyad",
+        "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
+        "stars": "18,011",
+        "forks": "1,997"
+    },
+    {
+        "title": "microsoft/VibeVoice",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FVibeVoice",
+        "description": "Open-Source Frontier Voice AI",
+        "stars": "16,342",
+        "forks": "1,795"
+    },
+    {
+        "title": "NVIDIA/cutile-python",
+        "link": "https://github.com/login?return_to=%2FNVIDIA%2Fcutile-python",
+        "description": "cuTile is a programming model for writing parallel kernels for NVIDIA GPUs",
+        "stars": "1,206",
+        "forks": "57"
+    },
+    {
+        "title": "google/adk-samples",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Fadk-samples",
+        "description": "A collection of sample agents built with Agent Development Kit (ADK)",
+        "stars": "7,061",
+        "forks": "2,010"
+    },
+    {
+        "title": "patchy631/ai-engineering-hub",
+        "link": "https://github.com/sponsors/patchy631",
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "stars": "22,795",
+        "forks": "3,678"
+    },
+    {
+        "title": "zhu-xlab/GlobalBuildingAtlas",
+        "link": "https://github.com/login?return_to=%2Fzhu-xlab%2FGlobalBuildingAtlas",
+        "description": "No description provided",
+        "stars": "1,131",
+        "forks": "121"
+    },
+    {
+        "title": "666ghj/BettaFish",
+        "link": "https://github.com/login?return_to=%2F666ghj%2FBettaFish",
+        "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+        "stars": "32,019",
+        "forks": "6,154"
+    },
+    {
+        "title": "microsoft/generative-ai-for-beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fgenerative-ai-for-beginners",
+        "description": "21 Lessons, Get Started Building with Generative AI",
+        "stars": "103,062",
+        "forks": "54,787"
+    },
+    {
+        "title": "sst/opencode",
+        "link": "https://github.com/sponsors/sst",
+        "description": "The open source coding agent.",
+        "stars": "37,538",
+        "forks": "3,144"
+    },
+    {
+        "title": "srbhr/Resume-Matcher",
+        "link": "https://github.com/sponsors/srbhr",
+        "description": "Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.",
+        "stars": "24,334",
+        "forks": "4,533"
+    },
+    {
+        "title": "Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+        "link": "https://github.com/login?return_to=%2FJohnshall%2FShadowrocket-ADBlock-Rules-Forever",
+        "description": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。",
+        "stars": "20,141",
+        "forks": "1,296"
+    }
+]
