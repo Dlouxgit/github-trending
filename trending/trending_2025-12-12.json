@@ -1,0 +1,93 @@
+[
+    {
+        "title": "thedotmack/claude-mem",
+        "link": "https://github.com/login?return_to=%2Fthedotmack%2Fclaude-mem",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "stars": "3,810",
+        "forks": "219"
+    },
+    {
+        "title": "Tencent/WeKnora",
+        "link": "https://github.com/login?return_to=%2FTencent%2FWeKnora",
+        "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+        "stars": "8,134",
+        "forks": "914"
+    },
+    {
+        "title": "block/goose",
+        "link": "https://github.com/login?return_to=%2Fblock%2Fgoose",
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "stars": "23,805",
+        "forks": "2,132"
+    },
+    {
+        "title": "KaijuEngine/kaiju",
+        "link": "https://github.com/login?return_to=%2FKaijuEngine%2Fkaiju",
+        "description": "General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor",
+        "stars": "3,381",
+        "forks": "108"
+    },
+    {
+        "title": "tempoxyz/tempo",
+        "link": "https://github.com/login?return_to=%2Ftempoxyz%2Ftempo",
+        "description": "the blockchain for payments",
+        "stars": "343",
+        "forks": "58"
+    },
+    {
+        "title": "YimMenu/YimMenuV2",
+        "link": "https://github.com/login?return_to=%2FYimMenu%2FYimMenuV2",
+        "description": "Experimental menu for GTA 5: Enhanced",
+        "stars": "750",
+        "forks": "213"
+    },
+    {
+        "title": "mlabonne/llm-course",
+        "link": "https://github.com/login?return_to=%2Fmlabonne%2Fllm-course",
+        "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+        "stars": "69,882",
+        "forks": "7,981"
+    },
+    {
+        "title": "agentsmd/agents.md",
+        "link": "https://github.com/login?return_to=%2Fagentsmd%2Fagents.md",
+        "description": "AGENTS.md — a simple, open format for guiding coding agents",
+        "stars": "10,329",
+        "forks": "789"
+    },
+    {
+        "title": "HotCakeX/Harden-Windows-Security",
+        "link": "https://github.com/login?return_to=%2FHotCakeX%2FHarden-Windows-Security",
+        "description": "Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨",
+        "stars": "3,566",
+        "forks": "277"
+    },
+    {
+        "title": "TapXWorld/ChinaTextbook",
+        "link": "https://github.com/login?return_to=%2FTapXWorld%2FChinaTextbook",
+        "description": "所有小初高、大学PDF教材。",
+        "stars": "61,646",
+        "forks": "13,673"
+    },
+    {
+        "title": "mindsdb/mindsdb",
+        "link": "https://github.com/login?return_to=%2Fmindsdb%2Fmindsdb",
+        "description": "Federated query engine for AI - The only MCP Server you'll ever need",
+        "stars": "37,645",
+        "forks": "6,041"
+    },
+    {
+        "title": "GoogleCloudPlatform/agent-starter-pack",
+        "link": "https://github.com/login?return_to=%2FGoogleCloudPlatform%2Fagent-starter-pack",
+        "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.",
+        "stars": "4,122",
+        "forks": "1,088"
+    },
+    {
+        "title": "rustdesk/rustdesk",
+        "link": "https://github.com/sponsors/rustdesk",
+        "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+        "stars": "103,952",
+        "forks": "15,338"
+    }
+]
