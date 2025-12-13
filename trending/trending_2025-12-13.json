@@ -1,0 +1,100 @@
+[
+    {
+        "title": "thedotmack/claude-mem",
+        "link": "https://github.com/login?return_to=%2Fthedotmack%2Fclaude-mem",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "stars": "4,720",
+        "forks": "267"
+    },
+    {
+        "title": "block/goose",
+        "link": "https://github.com/login?return_to=%2Fblock%2Fgoose",
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "stars": "24,063",
+        "forks": "2,144"
+    },
+    {
+        "title": "datawhalechina/hello-agents",
+        "link": "https://github.com/login?return_to=%2Fdatawhalechina%2Fhello-agents",
+        "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+        "stars": "8,320",
+        "forks": "897"
+    },
+    {
+        "title": "agentsmd/agents.md",
+        "link": "https://github.com/login?return_to=%2Fagentsmd%2Fagents.md",
+        "description": "AGENTS.md — a simple, open format for guiding coding agents",
+        "stars": "10,864",
+        "forks": "809"
+    },
+    {
+        "title": "GoogleCloudPlatform/agent-starter-pack",
+        "link": "https://github.com/login?return_to=%2FGoogleCloudPlatform%2Fagent-starter-pack",
+        "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.",
+        "stars": "4,389",
+        "forks": "1,116"
+    },
+    {
+        "title": "YimMenu/YimMenuV2",
+        "link": "https://github.com/login?return_to=%2FYimMenu%2FYimMenuV2",
+        "description": "Experimental menu for GTA 5: Enhanced",
+        "stars": "808",
+        "forks": "234"
+    },
+    {
+        "title": "refly-ai/refly",
+        "link": "https://github.com/login?return_to=%2Frefly-ai%2Frefly",
+        "description": "Vibe Workflow Platform for Non-technical Creators.",
+        "stars": "5,199",
+        "forks": "474"
+    },
+    {
+        "title": "HotCakeX/Harden-Windows-Security",
+        "link": "https://github.com/login?return_to=%2FHotCakeX%2FHarden-Windows-Security",
+        "description": "Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨",
+        "stars": "3,701",
+        "forks": "280"
+    },
+    {
+        "title": "DayuanJiang/next-ai-draw-io",
+        "link": "https://github.com/sponsors/DayuanJiang",
+        "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+        "stars": "8,241",
+        "forks": "875"
+    },
+    {
+        "title": "tursodatabase/turso",
+        "link": "https://github.com/login?return_to=%2Ftursodatabase%2Fturso",
+        "description": "Turso is an in-process SQL database, compatible with SQLite.",
+        "stars": "15,217",
+        "forks": "628"
+    },
+    {
+        "title": "langgenius/dify",
+        "link": "https://github.com/login?return_to=%2Flanggenius%2Fdify",
+        "description": "Production-ready platform for agentic workflow development.",
+        "stars": "121,406",
+        "forks": "18,873"
+    },
+    {
+        "title": "tempoxyz/tempo",
+        "link": "https://github.com/login?return_to=%2Ftempoxyz%2Ftempo",
+        "description": "the blockchain for payments",
+        "stars": "444",
+        "forks": "65"
+    },
+    {
+        "title": "infiniflow/ragflow",
+        "link": "https://github.com/login?return_to=%2Finfiniflow%2Fragflow",
+        "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+        "stars": "69,682",
+        "forks": "7,553"
+    },
+    {
+        "title": "grpc/grpc-go",
+        "link": "https://github.com/login?return_to=%2Fgrpc%2Fgrpc-go",
+        "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+        "stars": "22,618",
+        "forks": "4,625"
+    }
+]
