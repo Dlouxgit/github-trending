@@ -1,0 +1,107 @@
+[
+    {
+        "title": "CopilotKit/CopilotKit",
+        "link": "https://github.com/login?return_to=%2FCopilotKit%2FCopilotKit",
+        "description": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁",
+        "stars": "26,183",
+        "forks": "3,435"
+    },
+    {
+        "title": "DayuanJiang/next-ai-draw-io",
+        "link": "https://github.com/sponsors/DayuanJiang",
+        "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+        "stars": "9,121",
+        "forks": "960"
+    },
+    {
+        "title": "thedotmack/claude-mem",
+        "link": "https://github.com/sponsors/thedotmack",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "stars": "5,251",
+        "forks": "299"
+    },
+    {
+        "title": "mindsdb/mindsdb",
+        "link": "https://github.com/login?return_to=%2Fmindsdb%2Fmindsdb",
+        "description": "Federated query engine for AI - The only MCP Server you'll ever need",
+        "stars": "37,825",
+        "forks": "6,054"
+    },
+    {
+        "title": "simstudioai/sim",
+        "link": "https://github.com/login?return_to=%2Fsimstudioai%2Fsim",
+        "description": "Open-source platform to build and deploy AI agent workflows.",
+        "stars": "19,470",
+        "forks": "2,584"
+    },
+    {
+        "title": "Tencent/WeKnora",
+        "link": "https://github.com/login?return_to=%2FTencent%2FWeKnora",
+        "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+        "stars": "8,557",
+        "forks": "939"
+    },
+    {
+        "title": "spipm/Depixelization_poc",
+        "link": "https://github.com/login?return_to=%2Fspipm%2FDepixelization_poc",
+        "description": "Depix is a PoC for a technique to recover plaintext from pixelized screenshots.",
+        "stars": "3,624",
+        "forks": "275"
+    },
+    {
+        "title": "YimMenu/YimMenuV2",
+        "link": "https://github.com/login?return_to=%2FYimMenu%2FYimMenuV2",
+        "description": "Experimental menu for GTA 5: Enhanced",
+        "stars": "855",
+        "forks": "258"
+    },
+    {
+        "title": "tursodatabase/turso",
+        "link": "https://github.com/login?return_to=%2Ftursodatabase%2Fturso",
+        "description": "Turso is an in-process SQL database, compatible with SQLite.",
+        "stars": "15,367",
+        "forks": "630"
+    },
+    {
+        "title": "langgenius/dify",
+        "link": "https://github.com/login?return_to=%2Flanggenius%2Fdify",
+        "description": "Production-ready platform for agentic workflow development.",
+        "stars": "121,601",
+        "forks": "18,897"
+    },
+    {
+        "title": "datawhalechina/hello-agents",
+        "link": "https://github.com/login?return_to=%2Fdatawhalechina%2Fhello-agents",
+        "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+        "stars": "8,716",
+        "forks": "932"
+    },
+    {
+        "title": "agentsmd/agents.md",
+        "link": "https://github.com/login?return_to=%2Fagentsmd%2Fagents.md",
+        "description": "AGENTS.md — a simple, open format for guiding coding agents",
+        "stars": "11,240",
+        "forks": "832"
+    },
+    {
+        "title": "shadcn-ui/ui",
+        "link": "https://github.com/login?return_to=%2Fshadcn-ui%2Fui",
+        "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+        "stars": "102,004",
+        "forks": "7,423"
+    },
+    {
+        "title": "karpathy/nanoGPT",
+        "link": "https://github.com/login?return_to=%2Fkarpathy%2FnanoGPT",
+        "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+        "stars": "51,015",
+        "forks": "8,547"
+    },
+    {
+        "title": "ChromeDevTools/chrome-devtools-mcp",
+        "link": "https://github.com/login?return_to=%2FChromeDevTools%2Fchrome-devtools-mcp",
+        "description": "Chrome DevTools for coding agents",
+        "stars": "16,619",
+        "forks": "1,027"
+    }
+]
