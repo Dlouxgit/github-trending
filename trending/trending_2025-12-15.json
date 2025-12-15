@@ -1,0 +1,107 @@
+[
+    {
+        "title": "simstudioai/sim",
+        "link": "https://github.com/login?return_to=%2Fsimstudioai%2Fsim",
+        "description": "Open-source platform to build and deploy AI agent workflows.",
+        "stars": "20,319",
+        "forks": "2,636"
+    },
+    {
+        "title": "openai/codex",
+        "link": "https://github.com/login?return_to=%2Fopenai%2Fcodex",
+        "description": "Lightweight coding agent that runs in your terminal",
+        "stars": "53,170",
+        "forks": "6,762"
+    },
+    {
+        "title": "mdn/content",
+        "link": "https://github.com/login?return_to=%2Fmdn%2Fcontent",
+        "description": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.",
+        "stars": "10,024",
+        "forks": "22,985"
+    },
+    {
+        "title": "Morganamilo/paru",
+        "link": "https://github.com/sponsors/Morganamilo",
+        "description": "Feature packed AUR helper",
+        "stars": "7,818",
+        "forks": "288"
+    },
+    {
+        "title": "Mebus/cupp",
+        "link": "https://github.com/login?return_to=%2FMebus%2Fcupp",
+        "description": "Common User Passwords Profiler (CUPP)",
+        "stars": "5,214",
+        "forks": "1,337"
+    },
+    {
+        "title": "ZJU-LLMs/Foundations-of-LLMs",
+        "link": "https://github.com/login?return_to=%2FZJU-LLMs%2FFoundations-of-LLMs",
+        "description": "A book for Learning the Foundations of LLMs",
+        "stars": "13,694",
+        "forks": "1,275"
+    },
+    {
+        "title": "daytonaio/daytona",
+        "link": "https://github.com/login?return_to=%2Fdaytonaio%2Fdaytona",
+        "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+        "stars": "37,249",
+        "forks": "2,786"
+    },
+    {
+        "title": "shadcn-ui/ui",
+        "link": "https://github.com/login?return_to=%2Fshadcn-ui%2Fui",
+        "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+        "stars": "102,348",
+        "forks": "7,444"
+    },
+    {
+        "title": "datawhalechina/hello-agents",
+        "link": "https://github.com/login?return_to=%2Fdatawhalechina%2Fhello-agents",
+        "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+        "stars": "9,096",
+        "forks": "968"
+    },
+    {
+        "title": "HuLaSpark/HuLa",
+        "link": "https://github.com/login?return_to=%2FHuLaSpark%2FHuLa",
+        "description": "🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）",
+        "stars": "5,943",
+        "forks": "796"
+    },
+    {
+        "title": "thedotmack/claude-mem",
+        "link": "https://github.com/sponsors/thedotmack",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "stars": "5,819",
+        "forks": "338"
+    },
+    {
+        "title": "thinking-machines-lab/tinker-cookbook",
+        "link": "https://github.com/login?return_to=%2Fthinking-machines-lab%2Ftinker-cookbook",
+        "description": "Post-training with Tinker",
+        "stars": "2,479",
+        "forks": "230"
+    },
+    {
+        "title": "tursodatabase/turso",
+        "link": "https://github.com/login?return_to=%2Ftursodatabase%2Fturso",
+        "description": "Turso is an in-process SQL database, compatible with SQLite.",
+        "stars": "15,510",
+        "forks": "634"
+    },
+    {
+        "title": "Tencent/WeKnora",
+        "link": "https://github.com/login?return_to=%2FTencent%2FWeKnora",
+        "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+        "stars": "8,772",
+        "forks": "953"
+    },
+    {
+        "title": "virattt/ai-hedge-fund",
+        "link": "https://github.com/login?return_to=%2Fvirattt%2Fai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "stars": "42,740",
+        "forks": "7,608"
+    }
+]
