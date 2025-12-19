@@ -1,0 +1,44 @@
+[
+    {
+        "title": "anthropics/claude-code",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "stars": "46,716",
+        "forks": "3,277"
+    },
+    {
+        "title": "virattt/ai-hedge-fund",
+        "link": "https://github.com/login?return_to=%2Fvirattt%2Fai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "stars": "43,614",
+        "forks": "7,725"
+    },
+    {
+        "title": "astral-sh/ty",
+        "link": "https://github.com/login?return_to=%2Fastral-sh%2Fty",
+        "description": "An extremely fast Python type checker and language server, written in Rust.",
+        "stars": "14,836",
+        "forks": "154"
+    },
+    {
+        "title": "letta-ai/letta",
+        "link": "https://github.com/login?return_to=%2Fletta-ai%2Fletta",
+        "description": "Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.",
+        "stars": "19,873",
+        "forks": "2,086"
+    },
+    {
+        "title": "schollz/croc",
+        "link": "https://github.com/sponsors/schollz",
+        "description": "Easily and securely send things from one computer to another 🐊 📦",
+        "stars": "32,929",
+        "forks": "1,295"
+    },
+    {
+        "title": "resemble-ai/chatterbox",
+        "link": "https://github.com/login?return_to=%2Fresemble-ai%2Fchatterbox",
+        "description": "SoTA open-source TTS",
+        "stars": "16,240",
+        "forks": "2,224"
+    }
+]
