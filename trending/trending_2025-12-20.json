@@ -1,0 +1,72 @@
+[
+    {
+        "title": "jaywcjlove/awesome-mac",
+        "link": "https://github.com/login?return_to=%2Fjaywcjlove%2Fawesome-mac",
+        "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+        "stars": "96,334",
+        "forks": "7,239"
+    },
+    {
+        "title": "anthropics/claude-code",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "stars": "47,152",
+        "forks": "3,310"
+    },
+    {
+        "title": "NVIDIA-NeMo/Gym",
+        "link": "https://github.com/login?return_to=%2FNVIDIA-NeMo%2FGym",
+        "description": "Build RL environments for LLM training",
+        "stars": "458",
+        "forks": "31"
+    },
+    {
+        "title": "GreyDGL/PentestGPT",
+        "link": "https://github.com/login?return_to=%2FGreyDGL%2FPentestGPT",
+        "description": "A GPT-empowered penetration testing tool",
+        "stars": "9,608",
+        "forks": "1,405"
+    },
+    {
+        "title": "exo-explore/exo",
+        "link": "https://github.com/login?return_to=%2Fexo-explore%2Fexo",
+        "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+        "stars": "33,663",
+        "forks": "2,290"
+    },
+    {
+        "title": "swisskyrepo/PayloadsAllTheThings",
+        "link": "https://github.com/sponsors/swisskyrepo",
+        "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+        "stars": "72,602",
+        "forks": "16,348"
+    },
+    {
+        "title": "sgl-project/mini-sglang",
+        "link": "https://github.com/login?return_to=%2Fsgl-project%2Fmini-sglang",
+        "description": "No description provided",
+        "stars": "1,462",
+        "forks": "104"
+    },
+    {
+        "title": "google/adk-js",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Fadk-js",
+        "description": "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+        "stars": "398",
+        "forks": "31"
+    },
+    {
+        "title": "afshinea/stanford-cs-229-machine-learning",
+        "link": "https://github.com/login?return_to=%2Fafshinea%2Fstanford-cs-229-machine-learning",
+        "description": "VIP cheatsheets for Stanford's CS 229 Machine Learning",
+        "stars": "19,014",
+        "forks": "4,139"
+    },
+    {
+        "title": "metabase/metabase",
+        "link": "https://github.com/login?return_to=%2Fmetabase%2Fmetabase",
+        "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
+        "stars": "45,154",
+        "forks": "6,099"
+    }
+]
