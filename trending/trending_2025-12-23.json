@@ -1,0 +1,121 @@
+[
+    {
+        "title": "exo-explore/exo",
+        "link": "https://github.com/login?return_to=%2Fexo-explore%2Fexo",
+        "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+        "stars": "37,066",
+        "forks": "2,484"
+    },
+    {
+        "title": "iptv-org/iptv",
+        "link": "https://github.com/login?return_to=%2Fiptv-org%2Fiptv",
+        "description": "Collection of publicly available IPTV channels from all over the world",
+        "stars": "106,460",
+        "forks": "4,931"
+    },
+    {
+        "title": "swisskyrepo/PayloadsAllTheThings",
+        "link": "https://github.com/sponsors/swisskyrepo",
+        "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+        "stars": "73,387",
+        "forks": "16,395"
+    },
+    {
+        "title": "GreyDGL/PentestGPT",
+        "link": "https://github.com/login?return_to=%2FGreyDGL%2FPentestGPT",
+        "description": "A GPT-empowered penetration testing tool",
+        "stars": "10,346",
+        "forks": "1,544"
+    },
+    {
+        "title": "anthropics/skills",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fskills",
+        "description": "Public repository for Agent Skills",
+        "stars": "25,041",
+        "forks": "2,341"
+    },
+    {
+        "title": "cocoindex-io/cocoindex",
+        "link": "https://github.com/login?return_to=%2Fcocoindex-io%2Fcocoindex",
+        "description": "Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!",
+        "stars": "4,783",
+        "forks": "367"
+    },
+    {
+        "title": "danielmiessler/Fabric",
+        "link": "https://github.com/sponsors/danielmiessler",
+        "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+        "stars": "36,075",
+        "forks": "3,654"
+    },
+    {
+        "title": "tensorflow/tensorflow",
+        "link": "https://github.com/login?return_to=%2Ftensorflow%2Ftensorflow",
+        "description": "An Open Source Machine Learning Framework for Everyone",
+        "stars": "192,989",
+        "forks": "75,143"
+    },
+    {
+        "title": "rendercv/rendercv",
+        "link": "https://github.com/login?return_to=%2Frendercv%2Frendercv",
+        "description": "Typst-based CV/resume generator for academics and engineers",
+        "stars": "5,112",
+        "forks": "422"
+    },
+    {
+        "title": "home-assistant/core",
+        "link": "https://github.com/login?return_to=%2Fhome-assistant%2Fcore",
+        "description": "🏡 Open source home automation that puts local control and privacy first.",
+        "stars": "83,483",
+        "forks": "36,249"
+    },
+    {
+        "title": "Semperis/EntraGoat",
+        "link": "https://github.com/login?return_to=%2FSemperis%2FEntraGoat",
+        "description": "A deliberately vulnerable Microsoft Entra ID environment. Learn identity security through hands-on, realistic attack challenges.",
+        "stars": "802",
+        "forks": "80"
+    },
+    {
+        "title": "google/langextract",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Flangextract",
+        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+        "stars": "18,231",
+        "forks": "1,301"
+    },
+    {
+        "title": "expressjs/express",
+        "link": "https://github.com/login?return_to=%2Fexpressjs%2Fexpress",
+        "description": "Fast, unopinionated, minimalist web framework for node.",
+        "stars": "68,401",
+        "forks": "21,863"
+    },
+    {
+        "title": "lintsinghua/DeepAudit",
+        "link": "https://github.com/login?return_to=%2Flintsinghua%2FDeepAudit",
+        "description": "DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再昂贵，让审计不再复杂。",
+        "stars": "2,434",
+        "forks": "249"
+    },
+    {
+        "title": "cloudcommunity/Free-Certifications",
+        "link": "https://github.com/login?return_to=%2Fcloudcommunity%2FFree-Certifications",
+        "description": "A curated list of free courses with certifications. Also available at https://free-certifications.com/",
+        "stars": "48,086",
+        "forks": "3,209"
+    },
+    {
+        "title": "codecrafters-io/build-your-own-x",
+        "link": "https://github.com/login?return_to=%2Fcodecrafters-io%2Fbuild-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "stars": "451,182",
+        "forks": "42,321"
+    },
+    {
+        "title": "mudler/LocalAI",
+        "link": "https://github.com/sponsors/mudler",
+        "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+        "stars": "40,507",
+        "forks": "3,262"
+    }
+]
