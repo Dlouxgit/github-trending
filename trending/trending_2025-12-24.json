@@ -1,0 +1,100 @@
+[
+    {
+        "title": "rendercv/rendercv",
+        "link": "https://github.com/login?return_to=%2Frendercv%2Frendercv",
+        "description": "Typst-based CV/resume generator for academics and engineers",
+        "stars": "6,982",
+        "forks": "519"
+    },
+    {
+        "title": "exo-explore/exo",
+        "link": "https://github.com/login?return_to=%2Fexo-explore%2Fexo",
+        "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+        "stars": "37,903",
+        "forks": "2,534"
+    },
+    {
+        "title": "google/langextract",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Flangextract",
+        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+        "stars": "18,668",
+        "forks": "1,321"
+    },
+    {
+        "title": "yichuan-w/LEANN",
+        "link": "https://github.com/login?return_to=%2Fyichuan-w%2FLEANN",
+        "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+        "stars": "5,465",
+        "forks": "549"
+    },
+    {
+        "title": "safety-research/bloom",
+        "link": "https://github.com/login?return_to=%2Fsafety-research%2Fbloom",
+        "description": "bloom - evaluate any behavior immediately  🌸🌱",
+        "stars": "567",
+        "forks": "80"
+    },
+    {
+        "title": "stan-smith/FossFLOW",
+        "link": "https://github.com/sponsors/stan-smith",
+        "description": "Make beautiful isometric infrastructure diagrams",
+        "stars": "14,559",
+        "forks": "938"
+    },
+    {
+        "title": "vendure-ecommerce/vendure",
+        "link": "https://github.com/login?return_to=%2Fvendure-ecommerce%2Fvendure",
+        "description": "The most customizable commerce platform built with TypeScript, NestJS and GraphQL.",
+        "stars": "7,101",
+        "forks": "1,247"
+    },
+    {
+        "title": "cloudcommunity/Free-Certifications",
+        "link": "https://github.com/login?return_to=%2Fcloudcommunity%2FFree-Certifications",
+        "description": "A curated list of free courses with certifications. Also available at https://free-certifications.com/",
+        "stars": "48,447",
+        "forks": "3,218"
+    },
+    {
+        "title": "open-webui/open-webui",
+        "link": "https://github.com/login?return_to=%2Fopen-webui%2Fopen-webui",
+        "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+        "stars": "118,681",
+        "forks": "16,715"
+    },
+    {
+        "title": "davila7/claude-code-templates",
+        "link": "https://github.com/login?return_to=%2Fdavila7%2Fclaude-code-templates",
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "stars": "13,357",
+        "forks": "1,170"
+    },
+    {
+        "title": "makeplane/plane",
+        "link": "https://github.com/login?return_to=%2Fmakeplane%2Fplane",
+        "description": "🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.",
+        "stars": "41,090",
+        "forks": "3,032"
+    },
+    {
+        "title": "xerrors/Yuxi-Know",
+        "link": "https://github.com/login?return_to=%2Fxerrors%2FYuxi-Know",
+        "description": "结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.",
+        "stars": "2,868",
+        "forks": "359"
+    },
+    {
+        "title": "swisskyrepo/PayloadsAllTheThings",
+        "link": "https://github.com/sponsors/swisskyrepo",
+        "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+        "stars": "73,622",
+        "forks": "16,408"
+    },
+    {
+        "title": "vllm-project/vllm-omni",
+        "link": "https://github.com/sponsors/vllm-project",
+        "description": "A framework for efficient model inference with omni-modality models",
+        "stars": "1,410",
+        "forks": "188"
+    }
+]
