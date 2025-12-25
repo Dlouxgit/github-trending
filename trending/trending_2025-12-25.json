@@ -1,0 +1,114 @@
+[
+    {
+        "title": "rendercv/rendercv",
+        "link": "https://github.com/login?return_to=%2Frendercv%2Frendercv",
+        "description": "Typst-based CV/resume generator for academics and engineers",
+        "stars": "9,125",
+        "forks": "638"
+    },
+    {
+        "title": "twitter/the-algorithm",
+        "link": "https://github.com/login?return_to=%2Ftwitter%2Fthe-algorithm",
+        "description": "Source code for the X Recommendation Algorithm",
+        "stars": "68,522",
+        "forks": "12,702"
+    },
+    {
+        "title": "google/langextract",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Flangextract",
+        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+        "stars": "19,063",
+        "forks": "1,339"
+    },
+    {
+        "title": "vllm-project/vllm-omni",
+        "link": "https://github.com/sponsors/vllm-project",
+        "description": "A framework for efficient model inference with omni-modality models",
+        "stars": "1,577",
+        "forks": "201"
+    },
+    {
+        "title": "stan-smith/FossFLOW",
+        "link": "https://github.com/sponsors/stan-smith",
+        "description": "Make beautiful isometric infrastructure diagrams",
+        "stars": "14,963",
+        "forks": "969"
+    },
+    {
+        "title": "davila7/claude-code-templates",
+        "link": "https://github.com/login?return_to=%2Fdavila7%2Fclaude-code-templates",
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "stars": "13,635",
+        "forks": "1,185"
+    },
+    {
+        "title": "safety-research/bloom",
+        "link": "https://github.com/login?return_to=%2Fsafety-research%2Fbloom",
+        "description": "bloom - evaluate any behavior immediately  🌸🌱",
+        "stars": "760",
+        "forks": "96"
+    },
+    {
+        "title": "makeplane/plane",
+        "link": "https://github.com/login?return_to=%2Fmakeplane%2Fplane",
+        "description": "🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.",
+        "stars": "41,416",
+        "forks": "3,057"
+    },
+    {
+        "title": "yichuan-w/LEANN",
+        "link": "https://github.com/login?return_to=%2Fyichuan-w%2FLEANN",
+        "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+        "stars": "5,805",
+        "forks": "577"
+    },
+    {
+        "title": "danielmiessler/Fabric",
+        "link": "https://github.com/sponsors/danielmiessler",
+        "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+        "stars": "36,524",
+        "forks": "3,674"
+    },
+    {
+        "title": "apurvsinghgautam/robin",
+        "link": "https://github.com/login?return_to=%2Fapurvsinghgautam%2Frobin",
+        "description": "AI-Powered Dark Web OSINT Tool",
+        "stars": "2,577",
+        "forks": "563"
+    },
+    {
+        "title": "langgenius/dify",
+        "link": "https://github.com/login?return_to=%2Flanggenius%2Fdify",
+        "description": "Production-ready platform for agentic workflow development.",
+        "stars": "122,981",
+        "forks": "19,131"
+    },
+    {
+        "title": "anthropics/skills",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fskills",
+        "description": "Public repository for Agent Skills",
+        "stars": "26,574",
+        "forks": "2,451"
+    },
+    {
+        "title": "etcd-io/etcd",
+        "link": "https://github.com/login?return_to=%2Fetcd-io%2Fetcd",
+        "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+        "stars": "51,126",
+        "forks": "10,254"
+    },
+    {
+        "title": "facebookresearch/dinov3",
+        "link": "https://github.com/login?return_to=%2Ffacebookresearch%2Fdinov3",
+        "description": "Reference PyTorch implementation and models for DINOv3",
+        "stars": "9,017",
+        "forks": "664"
+    },
+    {
+        "title": "vendure-ecommerce/vendure",
+        "link": "https://github.com/login?return_to=%2Fvendure-ecommerce%2Fvendure",
+        "description": "The most customizable commerce platform built with TypeScript, NestJS and GraphQL.",
+        "stars": "7,366",
+        "forks": "1,264"
+    }
+]
