@@ -1,0 +1,65 @@
+[
+    {
+        "title": "rendercv/rendercv",
+        "link": "https://github.com/login?return_to=%2Frendercv%2Frendercv",
+        "description": "CV/resume generator for academics and engineers, YAML to PDF",
+        "stars": "10,830",
+        "forks": "722"
+    },
+    {
+        "title": "xerrors/Yuxi-Know",
+        "link": "https://github.com/login?return_to=%2Fxerrors%2FYuxi-Know",
+        "description": "结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.",
+        "stars": "3,189",
+        "forks": "393"
+    },
+    {
+        "title": "twitter/the-algorithm",
+        "link": "https://github.com/login?return_to=%2Ftwitter%2Fthe-algorithm",
+        "description": "Source code for the X Recommendation Algorithm",
+        "stars": "68,797",
+        "forks": "12,722"
+    },
+    {
+        "title": "vendure-ecommerce/vendure",
+        "link": "https://github.com/login?return_to=%2Fvendure-ecommerce%2Fvendure",
+        "description": "The most customizable commerce platform built with TypeScript, NestJS and GraphQL.",
+        "stars": "7,589",
+        "forks": "1,287"
+    },
+    {
+        "title": "yichuan-w/LEANN",
+        "link": "https://github.com/login?return_to=%2Fyichuan-w%2FLEANN",
+        "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+        "stars": "6,113",
+        "forks": "605"
+    },
+    {
+        "title": "resemble-ai/chatterbox",
+        "link": "https://github.com/login?return_to=%2Fresemble-ai%2Fchatterbox",
+        "description": "SoTA open-source TTS",
+        "stars": "17,760",
+        "forks": "2,370"
+    },
+    {
+        "title": "makeplane/plane",
+        "link": "https://github.com/login?return_to=%2Fmakeplane%2Fplane",
+        "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+        "stars": "41,800",
+        "forks": "3,073"
+    },
+    {
+        "title": "vllm-project/vllm-omni",
+        "link": "https://github.com/sponsors/vllm-project",
+        "description": "A framework for efficient model inference with omni-modality models",
+        "stars": "1,712",
+        "forks": "215"
+    },
+    {
+        "title": "ModelTC/LightX2V",
+        "link": "https://github.com/login?return_to=%2FModelTC%2FLightX2V",
+        "description": "Light Video Generation Inference Framework",
+        "stars": "1,434",
+        "forks": "94"
+    }
+]
