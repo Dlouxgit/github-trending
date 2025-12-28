@@ -1,0 +1,37 @@
+[
+    {
+        "title": "TheAlgorithms/Python",
+        "link": "https://github.com/login?return_to=%2FTheAlgorithms%2FPython",
+        "description": "All Algorithms implemented in Python",
+        "stars": "215,571",
+        "forks": "49,741"
+    },
+    {
+        "title": "xerrors/Yuxi-Know",
+        "link": "https://github.com/login?return_to=%2Fxerrors%2FYuxi-Know",
+        "description": "结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.",
+        "stars": "3,470",
+        "forks": "419"
+    },
+    {
+        "title": "agrinman/tunnelto",
+        "link": "https://github.com/login?return_to=%2Fagrinman%2Ftunnelto",
+        "description": "Expose your local web server to the internet with a public URL.",
+        "stars": "3,739",
+        "forks": "206"
+    },
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "84,516",
+        "forks": "12,014"
+    },
+    {
+        "title": "rendercv/rendercv",
+        "link": "https://github.com/login?return_to=%2Frendercv%2Frendercv",
+        "description": "CV/resume generator for academics and engineers, YAML to PDF",
+        "stars": "12,678",
+        "forks": "836"
+    }
+]
