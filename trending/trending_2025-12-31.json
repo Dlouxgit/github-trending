@@ -1,0 +1,93 @@
+[
+    {
+        "title": "BloopAI/vibe-kanban",
+        "link": "https://github.com/login?return_to=%2FBloopAI%2Fvibe-kanban",
+        "description": "Get 10X more out of Claude Code, Codex or any coding agent",
+        "stars": "9,099",
+        "forks": "845"
+    },
+    {
+        "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+        "link": "https://github.com/login?return_to=%2Fx1xhlol%2Fsystem-prompts-and-models-of-ai-tools",
+        "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+        "stars": "104,116",
+        "forks": "27,635"
+    },
+    {
+        "title": "QuantConnect/Lean",
+        "link": "https://github.com/sponsors/QuantConnect",
+        "description": "Lean Algorithmic Trading Engine by QuantConnect (Python, C#)",
+        "stars": "15,196",
+        "forks": "4,124"
+    },
+    {
+        "title": "jrouwe/JoltPhysics",
+        "link": "https://github.com/login?return_to=%2Fjrouwe%2FJoltPhysics",
+        "description": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West.",
+        "stars": "9,022",
+        "forks": "613"
+    },
+    {
+        "title": "timescale/pg-aiguide",
+        "link": "https://github.com/login?return_to=%2Ftimescale%2Fpg-aiguide",
+        "description": "MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.",
+        "stars": "804",
+        "forks": "44"
+    },
+    {
+        "title": "resemble-ai/chatterbox",
+        "link": "https://github.com/login?return_to=%2Fresemble-ai%2Fchatterbox",
+        "description": "SoTA open-source TTS",
+        "stars": "19,646",
+        "forks": "2,569"
+    },
+    {
+        "title": "RustPython/RustPython",
+        "link": "https://github.com/login?return_to=%2FRustPython%2FRustPython",
+        "description": "A Python Interpreter written in Rust",
+        "stars": "21,510",
+        "forks": "1,393"
+    },
+    {
+        "title": "sinelaw/fresh",
+        "link": "https://github.com/sponsors/sinelaw",
+        "description": "Text editor for your terminal: easy, powerful and fast",
+        "stars": "4,340",
+        "forks": "141"
+    },
+    {
+        "title": "alexta69/metube",
+        "link": "https://github.com/login?return_to=%2Falexta69%2Fmetube",
+        "description": "Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)",
+        "stars": "11,576",
+        "forks": "783"
+    },
+    {
+        "title": "anthropics/skills",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fskills",
+        "description": "Public repository for Agent Skills",
+        "stars": "30,221",
+        "forks": "2,760"
+    },
+    {
+        "title": "cjpais/Handy",
+        "link": "https://github.com/sponsors/cjpais",
+        "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+        "stars": "9,472",
+        "forks": "659"
+    },
+    {
+        "title": "sst/opencode",
+        "link": "https://github.com/sponsors/sst",
+        "description": "The open source coding agent.",
+        "stars": "44,483",
+        "forks": "3,819"
+    },
+    {
+        "title": "louislam/uptime-kuma",
+        "link": "https://github.com/sponsors/louislam",
+        "description": "A fancy self-hosted monitoring tool",
+        "stars": "80,520",
+        "forks": "7,175"
+    }
+]
