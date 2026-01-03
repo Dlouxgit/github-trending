@@ -1,0 +1,65 @@
+[
+    {
+        "title": "HQarroum/docker-android",
+        "link": "https://github.com/login?return_to=%2FHQarroum%2Fdocker-android",
+        "description": "🤖 A minimal and customizable Docker image running the Android emulator as a service.",
+        "stars": "1,762",
+        "forks": "107"
+    },
+    {
+        "title": "nocodb/nocodb",
+        "link": "https://github.com/sponsors/nocodb",
+        "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+        "stars": "59,918",
+        "forks": "4,453"
+    },
+    {
+        "title": "openai/openai-cookbook",
+        "link": "https://github.com/login?return_to=%2Fopenai%2Fopenai-cookbook",
+        "description": "Examples and guides for using the OpenAI API",
+        "stars": "70,416",
+        "forks": "11,815"
+    },
+    {
+        "title": "ourongxing/newsnow",
+        "link": "https://github.com/sponsors/ourongxing",
+        "description": "Elegant reading of real-time and hottest news",
+        "stars": "16,025",
+        "forks": "4,707"
+    },
+    {
+        "title": "rossant/awesome-math",
+        "link": "https://github.com/login?return_to=%2Frossant%2Fawesome-math",
+        "description": "A curated list of awesome mathematics resources",
+        "stars": "12,969",
+        "forks": "1,270"
+    },
+    {
+        "title": "usememos/memos",
+        "link": "https://github.com/sponsors/usememos",
+        "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
+        "stars": "48,909",
+        "forks": "3,526"
+    },
+    {
+        "title": "GitHubDaily/GitHubDaily",
+        "link": "https://github.com/login?return_to=%2FGitHubDaily%2FGitHubDaily",
+        "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
+        "stars": "43,823",
+        "forks": "4,417"
+    },
+    {
+        "title": "SYSTRAN/faster-whisper",
+        "link": "https://github.com/login?return_to=%2FSYSTRAN%2Ffaster-whisper",
+        "description": "Faster Whisper transcription with CTranslate2",
+        "stars": "20,052",
+        "forks": "1,676"
+    },
+    {
+        "title": "Koenkk/zigbee2mqtt",
+        "link": "https://github.com/sponsors/Koenkk",
+        "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+        "stars": "14,510",
+        "forks": "1,882"
+    }
+]
