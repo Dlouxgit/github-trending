@@ -1,0 +1,58 @@
+[
+    {
+        "title": "usememos/memos",
+        "link": "https://github.com/sponsors/usememos",
+        "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
+        "stars": "50,206",
+        "forks": "3,617"
+    },
+    {
+        "title": "ourongxing/newsnow",
+        "link": "https://github.com/sponsors/ourongxing",
+        "description": "Elegant reading of real-time and hottest news",
+        "stars": "16,306",
+        "forks": "4,759"
+    },
+    {
+        "title": "pathwaycom/pathway",
+        "link": "https://github.com/login?return_to=%2Fpathwaycom%2Fpathway",
+        "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+        "stars": "55,967",
+        "forks": "1,528"
+    },
+    {
+        "title": "OpenBB-finance/OpenBB",
+        "link": "https://github.com/sponsors/OpenBB-finance",
+        "description": "Financial data platform for analysts, quants and AI agents.",
+        "stars": "56,453",
+        "forks": "5,495"
+    },
+    {
+        "title": "HQarroum/docker-android",
+        "link": "https://github.com/login?return_to=%2FHQarroum%2Fdocker-android",
+        "description": "🤖 A minimal and customizable Docker image running the Android emulator as a service.",
+        "stars": "2,153",
+        "forks": "131"
+    },
+    {
+        "title": "beancount/beancount",
+        "link": "https://github.com/login?return_to=%2Fbeancount%2Fbeancount",
+        "description": "Beancount: Double-Entry Accounting from Text Files.",
+        "stars": "4,965",
+        "forks": "385"
+    },
+    {
+        "title": "maplibre/maplibre-gl-js",
+        "link": "https://github.com/sponsors/maplibre",
+        "description": "MapLibre GL JS - Interactive vector tile maps in the browser",
+        "stars": "9,088",
+        "forks": "957"
+    },
+    {
+        "title": "nukeop/nuclear",
+        "link": "https://github.com/sponsors/nukeop",
+        "description": "Streaming music player that finds free music for you",
+        "stars": "16,795",
+        "forks": "1,254"
+    }
+]
