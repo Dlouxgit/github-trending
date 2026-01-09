@@ -1,0 +1,107 @@
+[
+    {
+        "title": "ChromeDevTools/chrome-devtools-mcp",
+        "link": "https://github.com/login?return_to=%2FChromeDevTools%2Fchrome-devtools-mcp",
+        "description": "Chrome DevTools for coding agents",
+        "stars": "19,360",
+        "forks": "1,193"
+    },
+    {
+        "title": "anthropics/claude-code",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "stars": "53,416",
+        "forks": "3,839"
+    },
+    {
+        "title": "nothings/stb",
+        "link": "https://github.com/login?return_to=%2Fnothings%2Fstb",
+        "description": "stb single-file public domain libraries for C/C++",
+        "stars": "31,652",
+        "forks": "7,971"
+    },
+    {
+        "title": "MiroMindAI/MiroThinker",
+        "link": "https://github.com/login?return_to=%2FMiroMindAI%2FMiroThinker",
+        "description": "MiroThinker is an open-source search agent suite, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.",
+        "stars": "3,464",
+        "forks": "222"
+    },
+    {
+        "title": "protocolbuffers/protobuf",
+        "link": "https://github.com/login?return_to=%2Fprotocolbuffers%2Fprotobuf",
+        "description": "Protocol Buffers - Google's data interchange format",
+        "stars": "70,239",
+        "forks": "15,996"
+    },
+    {
+        "title": "thedotmack/claude-mem",
+        "link": "https://github.com/sponsors/thedotmack",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "stars": "12,516",
+        "forks": "778"
+    },
+    {
+        "title": "xpipe-io/xpipe",
+        "link": "https://github.com/sponsors/xpipe-io",
+        "description": "Access your entire server infrastructure from your local desktop",
+        "stars": "12,867",
+        "forks": "502"
+    },
+    {
+        "title": "NVlabs/alpasim",
+        "link": "https://github.com/login?return_to=%2FNVlabs%2Falpasim",
+        "description": "No description provided",
+        "stars": "531",
+        "forks": "43"
+    },
+    {
+        "title": "Lissy93/web-check",
+        "link": "https://github.com/sponsors/Lissy93",
+        "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+        "stars": "28,984",
+        "forks": "2,328"
+    },
+    {
+        "title": "google/googletest",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Fgoogletest",
+        "description": "GoogleTest - Google Testing and Mocking Framework",
+        "stars": "37,860",
+        "forks": "10,654"
+    },
+    {
+        "title": "apache/superset",
+        "link": "https://github.com/login?return_to=%2Fapache%2Fsuperset",
+        "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+        "stars": "69,844",
+        "forks": "16,457"
+    },
+    {
+        "title": "memvid/memvid",
+        "link": "https://github.com/login?return_to=%2Fmemvid%2Fmemvid",
+        "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+        "stars": "11,745",
+        "forks": "974"
+    },
+    {
+        "title": "Lightricks/ComfyUI-LTXVideo",
+        "link": "https://github.com/login?return_to=%2FLightricks%2FComfyUI-LTXVideo",
+        "description": "LTX-Video Support for ComfyUI",
+        "stars": "2,653",
+        "forks": "264"
+    },
+    {
+        "title": "NevaMind-AI/memU",
+        "link": "https://github.com/login?return_to=%2FNevaMind-AI%2FmemU",
+        "description": "Memory infrastructure for LLMs and AI agents",
+        "stars": "3,818",
+        "forks": "256"
+    },
+    {
+        "title": "HKUDS/VideoRAG",
+        "link": "https://github.com/login?return_to=%2FHKUDS%2FVideoRAG",
+        "description": "[KDD'2026] \"VideoRAG: Chat with Your Videos\"",
+        "stars": "2,048",
+        "forks": "288"
+    }
+]
