@@ -1,0 +1,86 @@
+[
+    {
+        "title": "ChromeDevTools/chrome-devtools-mcp",
+        "link": "https://github.com/login?return_to=%2FChromeDevTools%2Fchrome-devtools-mcp",
+        "description": "Chrome DevTools for coding agents",
+        "stars": "19,752",
+        "forks": "1,208"
+    },
+    {
+        "title": "anthropics/claude-code",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "stars": "54,161",
+        "forks": "3,902"
+    },
+    {
+        "title": "obra/superpowers",
+        "link": "https://github.com/sponsors/obra",
+        "description": "Claude Code superpowers: core skills library",
+        "stars": "15,367",
+        "forks": "1,233"
+    },
+    {
+        "title": "tailwindlabs/tailwindcss",
+        "link": "https://github.com/login?return_to=%2Ftailwindlabs%2Ftailwindcss",
+        "description": "A utility-first CSS framework for rapid UI development.",
+        "stars": "92,475",
+        "forks": "4,928"
+    },
+    {
+        "title": "netbirdio/netbird",
+        "link": "https://github.com/sponsors/netbirdio",
+        "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+        "stars": "20,857",
+        "forks": "1,019"
+    },
+    {
+        "title": "C4illin/ConvertX",
+        "link": "https://github.com/sponsors/C4illin",
+        "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
+        "stars": "13,942",
+        "forks": "743"
+    },
+    {
+        "title": "Lightricks/ComfyUI-LTXVideo",
+        "link": "https://github.com/login?return_to=%2FLightricks%2FComfyUI-LTXVideo",
+        "description": "LTX-Video Support for ComfyUI",
+        "stars": "2,787",
+        "forks": "272"
+    },
+    {
+        "title": "MiroMindAI/MiroThinker",
+        "link": "https://github.com/login?return_to=%2FMiroMindAI%2FMiroThinker",
+        "description": "MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.",
+        "stars": "3,946",
+        "forks": "248"
+    },
+    {
+        "title": "google/googletest",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Fgoogletest",
+        "description": "GoogleTest - Google Testing and Mocking Framework",
+        "stars": "37,941",
+        "forks": "10,659"
+    },
+    {
+        "title": "bytedance/UI-TARS-desktop",
+        "link": "https://github.com/login?return_to=%2Fbytedance%2FUI-TARS-desktop",
+        "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+        "stars": "21,817",
+        "forks": "2,095"
+    },
+    {
+        "title": "Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+        "link": "https://github.com/login?return_to=%2FJohnshall%2FShadowrocket-ADBlock-Rules-Forever",
+        "description": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。",
+        "stars": "21,508",
+        "forks": "1,401"
+    },
+    {
+        "title": "anomalyco/opencode",
+        "link": "https://github.com/sponsors/anomalyco",
+        "description": "The open source coding agent.",
+        "stars": "57,421",
+        "forks": "4,906"
+    }
+]
