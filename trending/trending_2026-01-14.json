@@ -1,0 +1,65 @@
+[
+    {
+        "title": "obra/superpowers",
+        "link": "https://github.com/sponsors/obra",
+        "description": "Claude Code superpowers: core skills library",
+        "stars": "20,471",
+        "forks": "1,551"
+    },
+    {
+        "title": "icloud-photos-downloader/icloud_photos_downloader",
+        "link": "https://github.com/login?return_to=%2Ficloud-photos-downloader%2Ficloud_photos_downloader",
+        "description": "A command-line tool to download photos from iCloud",
+        "stars": "11,013",
+        "forks": "731"
+    },
+    {
+        "title": "blakeblackshear/frigate",
+        "link": "https://github.com/sponsors/blakeblackshear",
+        "description": "NVR with realtime local object detection for IP cameras",
+        "stars": "28,974",
+        "forks": "2,706"
+    },
+    {
+        "title": "twitter/the-algorithm",
+        "link": "https://github.com/login?return_to=%2Ftwitter%2Fthe-algorithm",
+        "description": "Source code for the X Recommendation Algorithm",
+        "stars": "69,552",
+        "forks": "12,858"
+    },
+    {
+        "title": "home-assistant/home-assistant.io",
+        "link": "https://github.com/login?return_to=%2Fhome-assistant%2Fhome-assistant.io",
+        "description": "📘 Home Assistant User documentation",
+        "stars": "8,327",
+        "forks": "8,116"
+    },
+    {
+        "title": "chidiwilliams/buzz",
+        "link": "https://github.com/login?return_to=%2Fchidiwilliams%2Fbuzz",
+        "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+        "stars": "16,788",
+        "forks": "1,248"
+    },
+    {
+        "title": "adam-maj/tiny-gpu",
+        "link": "https://github.com/login?return_to=%2Fadam-maj%2Ftiny-gpu",
+        "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+        "stars": "9,842",
+        "forks": "773"
+    },
+    {
+        "title": "Free-TV/IPTV",
+        "link": "https://github.com/login?return_to=%2FFree-TV%2FIPTV",
+        "description": "M3U Playlist for free TV channels",
+        "stars": "10,606",
+        "forks": "1,728"
+    },
+    {
+        "title": "onlook-dev/onlook",
+        "link": "https://github.com/login?return_to=%2Fonlook-dev%2Fonlook",
+        "description": "The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI",
+        "stars": "24,111",
+        "forks": "1,779"
+    }
+]
