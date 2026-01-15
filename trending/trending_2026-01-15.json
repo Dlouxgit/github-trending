@@ -1,0 +1,51 @@
+[
+    {
+        "title": "obra/superpowers",
+        "link": "https://github.com/sponsors/obra",
+        "description": "Claude Code superpowers: core skills library",
+        "stars": "22,343",
+        "forks": "1,683"
+    },
+    {
+        "title": "twitter/the-algorithm",
+        "link": "https://github.com/login?return_to=%2Ftwitter%2Fthe-algorithm",
+        "description": "Source code for the X Recommendation Algorithm",
+        "stars": "69,889",
+        "forks": "12,899"
+    },
+    {
+        "title": "dev-sec/ansible-collection-hardening",
+        "link": "https://github.com/login?return_to=%2Fdev-sec%2Fansible-collection-hardening",
+        "description": "This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL",
+        "stars": "5,016",
+        "forks": "798"
+    },
+    {
+        "title": "mudler/LocalAI",
+        "link": "https://github.com/sponsors/mudler",
+        "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+        "stars": "41,576",
+        "forks": "3,404"
+    },
+    {
+        "title": "grab/cursor-talk-to-figma-mcp",
+        "link": "https://github.com/login?return_to=%2Fgrab%2Fcursor-talk-to-figma-mcp",
+        "description": "TalkToFigma: MCP integration between Cursor and Figma, allowing Cursor Agentic AI to communicate with Figma for reading designs and modifying them programmatically.",
+        "stars": "6,006",
+        "forks": "635"
+    },
+    {
+        "title": "zoicware/RemoveWindowsAI",
+        "link": "https://github.com/login?return_to=%2Fzoicware%2FRemoveWindowsAI",
+        "description": "Force Remove Copilot, Recall and More in Windows 11",
+        "stars": "8,447",
+        "forks": "263"
+    },
+    {
+        "title": "rancher/rancher",
+        "link": "https://github.com/login?return_to=%2Francher%2Francher",
+        "description": "Complete container management platform",
+        "stars": "25,154",
+        "forks": "3,142"
+    }
+]
