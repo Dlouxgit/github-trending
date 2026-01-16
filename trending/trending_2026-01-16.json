@@ -1,0 +1,72 @@
+[
+    {
+        "title": "eigent-ai/eigent",
+        "link": "https://github.com/login?return_to=%2Feigent-ai%2Feigent",
+        "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.",
+        "stars": "6,103",
+        "forks": "694"
+    },
+    {
+        "title": "blakeblackshear/frigate",
+        "link": "https://github.com/sponsors/blakeblackshear",
+        "description": "NVR with realtime local object detection for IP cameras",
+        "stars": "29,374",
+        "forks": "2,739"
+    },
+    {
+        "title": "obra/superpowers",
+        "link": "https://github.com/sponsors/obra",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "stars": "24,392",
+        "forks": "1,814"
+    },
+    {
+        "title": "cilium/cilium",
+        "link": "https://github.com/login?return_to=%2Fcilium%2Fcilium",
+        "description": "eBPF-based Networking, Security, and Observability",
+        "stars": "23,357",
+        "forks": "3,538"
+    },
+    {
+        "title": "wavetermdev/waveterm",
+        "link": "https://github.com/login?return_to=%2Fwavetermdev%2Fwaveterm",
+        "description": "An open-source, cross-platform terminal for seamless workflows",
+        "stars": "16,453",
+        "forks": "709"
+    },
+    {
+        "title": "ultralytics/ultralytics",
+        "link": "https://github.com/login?return_to=%2Fultralytics%2Fultralytics",
+        "description": "Ultralytics YOLO 🚀",
+        "stars": "51,436",
+        "forks": "9,900"
+    },
+    {
+        "title": "mudler/LocalAI",
+        "link": "https://github.com/sponsors/mudler",
+        "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+        "stars": "41,926",
+        "forks": "3,433"
+    },
+    {
+        "title": "google-ai-edge/mediapipe",
+        "link": "https://github.com/login?return_to=%2Fgoogle-ai-edge%2Fmediapipe",
+        "description": "Cross-platform, customizable ML solutions for live and streaming media.",
+        "stars": "33,209",
+        "forks": "5,735"
+    },
+    {
+        "title": "puckeditor/puck",
+        "link": "https://github.com/login?return_to=%2Fpuckeditor%2Fpuck",
+        "description": "The visual editor for React",
+        "stars": "10,658",
+        "forks": "749"
+    },
+    {
+        "title": "twitter/the-algorithm",
+        "link": "https://github.com/login?return_to=%2Ftwitter%2Fthe-algorithm",
+        "description": "Source code for the X Recommendation Algorithm",
+        "stars": "70,233",
+        "forks": "12,935"
+    }
+]
