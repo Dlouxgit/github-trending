@@ -1,0 +1,65 @@
+[
+    {
+        "title": "obra/superpowers",
+        "link": "https://github.com/sponsors/obra",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "stars": "26,105",
+        "forks": "1,944"
+    },
+    {
+        "title": "Gentleman-Programming/Gentleman.Dots",
+        "link": "https://github.com/login?return_to=%2FGentleman-Programming%2FGentleman.Dots",
+        "description": "My personal configuration for LazyVim !",
+        "stars": "1,157",
+        "forks": "182"
+    },
+    {
+        "title": "google/langextract",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Flangextract",
+        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+        "stars": "21,192",
+        "forks": "1,473"
+    },
+    {
+        "title": "cjpais/Handy",
+        "link": "https://github.com/sponsors/cjpais",
+        "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+        "stars": "11,842",
+        "forks": "780"
+    },
+    {
+        "title": "puckeditor/puck",
+        "link": "https://github.com/login?return_to=%2Fpuckeditor%2Fpuck",
+        "description": "The visual editor for React",
+        "stars": "11,060",
+        "forks": "771"
+    },
+    {
+        "title": "ultralytics/ultralytics",
+        "link": "https://github.com/login?return_to=%2Fultralytics%2Fultralytics",
+        "description": "Ultralytics YOLO 🚀",
+        "stars": "51,773",
+        "forks": "9,919"
+    },
+    {
+        "title": "eigent-ai/eigent",
+        "link": "https://github.com/login?return_to=%2Feigent-ai%2Feigent",
+        "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.",
+        "stars": "7,542",
+        "forks": "814"
+    },
+    {
+        "title": "iOfficeAI/AionUi",
+        "link": "https://github.com/login?return_to=%2FiOfficeAI%2FAionUi",
+        "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
+        "stars": "4,304",
+        "forks": "354"
+    },
+    {
+        "title": "agentsmd/agents.md",
+        "link": "https://github.com/login?return_to=%2Fagentsmd%2Fagents.md",
+        "description": "AGENTS.md — a simple, open format for guiding coding agents",
+        "stars": "15,369",
+        "forks": "1,068"
+    }
+]
