@@ -1,0 +1,65 @@
+[
+    {
+        "title": "iOfficeAI/AionUi",
+        "link": "https://github.com/login?return_to=%2FiOfficeAI%2FAionUi",
+        "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
+        "stars": "5,685",
+        "forks": "443"
+    },
+    {
+        "title": "yt-dlp/yt-dlp",
+        "link": "https://github.com/login?return_to=%2Fyt-dlp%2Fyt-dlp",
+        "description": "A feature-rich command-line audio/video downloader",
+        "stars": "142,505",
+        "forks": "11,509"
+    },
+    {
+        "title": "nautechsystems/nautilus_trader",
+        "link": "https://github.com/login?return_to=%2Fnautechsystems%2Fnautilus_trader",
+        "description": "A high-performance algorithmic trading platform and event-driven backtester",
+        "stars": "17,613",
+        "forks": "2,096"
+    },
+    {
+        "title": "google/langextract",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Flangextract",
+        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+        "stars": "22,088",
+        "forks": "1,529"
+    },
+    {
+        "title": "OpenBMB/VoxCPM",
+        "link": "https://github.com/login?return_to=%2FOpenBMB%2FVoxCPM",
+        "description": "VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning",
+        "stars": "4,266",
+        "forks": "516"
+    },
+    {
+        "title": "yichuan-w/LEANN",
+        "link": "https://github.com/login?return_to=%2Fyichuan-w%2FLEANN",
+        "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+        "stars": "8,992",
+        "forks": "786"
+    },
+    {
+        "title": "Flowseal/zapret-discord-youtube",
+        "link": "https://github.com/login?return_to=%2FFlowseal%2Fzapret-discord-youtube",
+        "description": "No description provided",
+        "stars": "21,236",
+        "forks": "1,774"
+    },
+    {
+        "title": "tobi/try",
+        "link": "https://github.com/login?return_to=%2Ftobi%2Ftry",
+        "description": "fresh directories for every vibe",
+        "stars": "2,708",
+        "forks": "98"
+    },
+    {
+        "title": "Mebus/cupp",
+        "link": "https://github.com/login?return_to=%2FMebus%2Fcupp",
+        "description": "Common User Passwords Profiler (CUPP)",
+        "stars": "5,558",
+        "forks": "1,758"
+    }
+]
