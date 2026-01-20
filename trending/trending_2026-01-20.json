@@ -1,0 +1,58 @@
+[
+    {
+        "title": "OpenBMB/VoxCPM",
+        "link": "https://github.com/login?return_to=%2FOpenBMB%2FVoxCPM",
+        "description": "VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning",
+        "stars": "4,905",
+        "forks": "574"
+    },
+    {
+        "title": "google/langextract",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Flangextract",
+        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+        "stars": "22,703",
+        "forks": "1,565"
+    },
+    {
+        "title": "iOfficeAI/AionUi",
+        "link": "https://github.com/login?return_to=%2FiOfficeAI%2FAionUi",
+        "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
+        "stars": "6,856",
+        "forks": "524"
+    },
+    {
+        "title": "czlonkowski/n8n-mcp",
+        "link": "https://github.com/sponsors/czlonkowski",
+        "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+        "stars": "12,191",
+        "forks": "2,218"
+    },
+    {
+        "title": "nautechsystems/nautilus_trader",
+        "link": "https://github.com/login?return_to=%2Fnautechsystems%2Fnautilus_trader",
+        "description": "A high-performance algorithmic trading platform and event-driven backtester",
+        "stars": "18,060",
+        "forks": "2,123"
+    },
+    {
+        "title": "ahujasid/blender-mcp",
+        "link": "https://github.com/sponsors/ahujasid",
+        "description": "No description provided",
+        "stars": "15,929",
+        "forks": "1,517"
+    },
+    {
+        "title": "yichuan-w/LEANN",
+        "link": "https://github.com/login?return_to=%2Fyichuan-w%2FLEANN",
+        "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+        "stars": "9,325",
+        "forks": "806"
+    },
+    {
+        "title": "DavidXanatos/TaskExplorer",
+        "link": "https://github.com/login?return_to=%2FDavidXanatos%2FTaskExplorer",
+        "description": "Power full Task Manager",
+        "stars": "2,466",
+        "forks": "212"
+    }
+]
