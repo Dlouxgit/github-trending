@@ -1,0 +1,51 @@
+[
+    {
+        "title": "microsoft/agent-lightning",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fagent-lightning",
+        "description": "The absolute trainer to light up AI agents.",
+        "stars": "10,785",
+        "forks": "884"
+    },
+    {
+        "title": "iOfficeAI/AionUi",
+        "link": "https://github.com/login?return_to=%2FiOfficeAI%2FAionUi",
+        "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
+        "stars": "7,836",
+        "forks": "592"
+    },
+    {
+        "title": "google/langextract",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Flangextract",
+        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+        "stars": "23,207",
+        "forks": "1,595"
+    },
+    {
+        "title": "AlexxIT/go2rtc",
+        "link": "https://github.com/login?return_to=%2FAlexxIT%2Fgo2rtc",
+        "description": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+        "stars": "11,542",
+        "forks": "876"
+    },
+    {
+        "title": "lukasz-madon/awesome-remote-job",
+        "link": "https://github.com/login?return_to=%2Flukasz-madon%2Fawesome-remote-job",
+        "description": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python",
+        "stars": "42,589",
+        "forks": "4,423"
+    },
+    {
+        "title": "tobi/try",
+        "link": "https://github.com/login?return_to=%2Ftobi%2Ftry",
+        "description": "fresh directories for every vibe",
+        "stars": "2,943",
+        "forks": "110"
+    },
+    {
+        "title": "DavidXanatos/TaskExplorer",
+        "link": "https://github.com/login?return_to=%2FDavidXanatos%2FTaskExplorer",
+        "description": "Power full Task Manager",
+        "stars": "2,760",
+        "forks": "227"
+    }
+]
