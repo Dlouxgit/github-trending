@@ -1,0 +1,93 @@
+[
+    {
+        "title": "remotion-dev/remotion",
+        "link": "https://github.com/login?return_to=%2Fremotion-dev%2Fremotion",
+        "description": "🎥 Make videos programmatically with React",
+        "stars": "28,471",
+        "forks": "1,688"
+    },
+    {
+        "title": "microsoft/VibeVoice",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FVibeVoice",
+        "description": "Open-Source Frontier Voice AI",
+        "stars": "21,274",
+        "forks": "2,338"
+    },
+    {
+        "title": "block/goose",
+        "link": "https://github.com/login?return_to=%2Fblock%2Fgoose",
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "stars": "27,606",
+        "forks": "2,493"
+    },
+    {
+        "title": "ai-dynamo/dynamo",
+        "link": "https://github.com/login?return_to=%2Fai-dynamo%2Fdynamo",
+        "description": "A Datacenter Scale Distributed Inference Serving Framework",
+        "stars": "5,916",
+        "forks": "807"
+    },
+    {
+        "title": "browser-use/browser-use",
+        "link": "https://github.com/login?return_to=%2Fbrowser-use%2Fbrowser-use",
+        "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+        "stars": "76,385",
+        "forks": "9,102"
+    },
+    {
+        "title": "github/copilot-cli",
+        "link": "https://github.com/login?return_to=%2Fgithub%2Fcopilot-cli",
+        "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
+        "stars": "7,240",
+        "forks": "954"
+    },
+    {
+        "title": "Asabeneh/30-Days-Of-Python",
+        "link": "https://github.com/sponsors/Asabeneh",
+        "description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+        "stars": "56,347",
+        "forks": "10,788"
+    },
+    {
+        "title": "anthropics/claude-code",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "stars": "59,965",
+        "forks": "4,462"
+    },
+    {
+        "title": "deepseek-ai/FlashMLA",
+        "link": "https://github.com/login?return_to=%2Fdeepseek-ai%2FFlashMLA",
+        "description": "FlashMLA: Efficient Multi-head Latent Attention Kernels",
+        "stars": "12,320",
+        "forks": "962"
+    },
+    {
+        "title": "microsoft/Data-Science-For-Beginners",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FData-Science-For-Beginners",
+        "description": "10 Weeks, 20 Lessons, Data Science for All!",
+        "stars": "33,376",
+        "forks": "6,875"
+    },
+    {
+        "title": "OpenBMB/UltraRAG",
+        "link": "https://github.com/login?return_to=%2FOpenBMB%2FUltraRAG",
+        "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
+        "stars": "2,963",
+        "forks": "237"
+    },
+    {
+        "title": "lyogavin/airllm",
+        "link": "https://github.com/sponsors/lyogavin",
+        "description": "AirLLM 70B inference with single 4GB GPU",
+        "stars": "8,643",
+        "forks": "787"
+    },
+    {
+        "title": "KellerJordan/modded-nanogpt",
+        "link": "https://github.com/login?return_to=%2FKellerJordan%2Fmodded-nanogpt",
+        "description": "NanoGPT (124M) in 2 minutes",
+        "stars": "4,385",
+        "forks": "582"
+    }
+]
