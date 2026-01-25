@@ -1,0 +1,72 @@
+[
+    {
+        "title": "remotion-dev/remotion",
+        "link": "https://github.com/login?return_to=%2Fremotion-dev%2Fremotion",
+        "description": "🎥 Make videos programmatically with React",
+        "stars": "29,572",
+        "forks": "1,778"
+    },
+    {
+        "title": "VectifyAI/PageIndex",
+        "link": "https://github.com/login?return_to=%2FVectifyAI%2FPageIndex",
+        "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+        "stars": "8,402",
+        "forks": "625"
+    },
+    {
+        "title": "OpenBMB/UltraRAG",
+        "link": "https://github.com/login?return_to=%2FOpenBMB%2FUltraRAG",
+        "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
+        "stars": "3,468",
+        "forks": "261"
+    },
+    {
+        "title": "browser-use/browser-use",
+        "link": "https://github.com/login?return_to=%2Fbrowser-use%2Fbrowser-use",
+        "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+        "stars": "76,803",
+        "forks": "9,131"
+    },
+    {
+        "title": "block/goose",
+        "link": "https://github.com/login?return_to=%2Fblock%2Fgoose",
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "stars": "28,388",
+        "forks": "2,551"
+    },
+    {
+        "title": "Blaizzy/mlx-audio",
+        "link": "https://github.com/sponsors/Blaizzy",
+        "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
+        "stars": "3,530",
+        "forks": "293"
+    },
+    {
+        "title": "simstudioai/sim",
+        "link": "https://github.com/login?return_to=%2Fsimstudioai%2Fsim",
+        "description": "Open-source platform to build and deploy AI agent workflows.",
+        "stars": "26,159",
+        "forks": "3,262"
+    },
+    {
+        "title": "microsoft/VibeVoice",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FVibeVoice",
+        "description": "Open-Source Frontier Voice AI",
+        "stars": "21,660",
+        "forks": "2,362"
+    },
+    {
+        "title": "putyy/res-downloader",
+        "link": "https://github.com/login?return_to=%2Fputyy%2Fres-downloader",
+        "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+        "stars": "14,378",
+        "forks": "1,788"
+    },
+    {
+        "title": "AI4Finance-Foundation/FinRobot",
+        "link": "https://github.com/login?return_to=%2FAI4Finance-Foundation%2FFinRobot",
+        "description": "FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀",
+        "stars": "5,237",
+        "forks": "931"
+    }
+]
