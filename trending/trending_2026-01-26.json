@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Blaizzy/mlx-audio",
+        "link": "https://github.com/sponsors/Blaizzy",
+        "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
+        "stars": "4,302",
+        "forks": "338"
+    },
+    {
+        "title": "VectifyAI/PageIndex",
+        "link": "https://github.com/login?return_to=%2FVectifyAI%2FPageIndex",
+        "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+        "stars": "9,090",
+        "forks": "668"
+    },
+    {
+        "title": "remotion-dev/remotion",
+        "link": "https://github.com/login?return_to=%2Fremotion-dev%2Fremotion",
+        "description": "🎥 Make videos programmatically with React",
+        "stars": "30,694",
+        "forks": "1,856"
+    },
+    {
+        "title": "qarmin/czkawka",
+        "link": "https://github.com/sponsors/qarmin",
+        "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+        "stars": "28,588",
+        "forks": "933"
+    },
+    {
+        "title": "OpenBMB/UltraRAG",
+        "link": "https://github.com/login?return_to=%2FOpenBMB%2FUltraRAG",
+        "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
+        "stars": "4,074",
+        "forks": "286"
+    },
+    {
+        "title": "microsoft/VibeVoice",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FVibeVoice",
+        "description": "Open-Source Frontier Voice AI",
+        "stars": "22,056",
+        "forks": "2,394"
+    },
+    {
+        "title": "openai/codex",
+        "link": "https://github.com/login?return_to=%2Fopenai%2Fcodex",
+        "description": "Lightweight coding agent that runs in your terminal",
+        "stars": "57,452",
+        "forks": "7,444"
+    },
+    {
+        "title": "supermemoryai/supermemory",
+        "link": "https://github.com/login?return_to=%2Fsupermemoryai%2Fsupermemory",
+        "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+        "stars": "14,721",
+        "forks": "1,543"
+    },
+    {
+        "title": "Psiphon-Inc/conduit",
+        "link": "https://github.com/login?return_to=%2FPsiphon-Inc%2Fconduit",
+        "description": "Conduit Client",
+        "stars": "89",
+        "forks": "39"
+    }
+]
