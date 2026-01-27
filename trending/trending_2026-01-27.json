@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Blaizzy/mlx-audio",
+        "link": "https://github.com/sponsors/Blaizzy",
+        "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
+        "stars": "5,112",
+        "forks": "381"
+    },
+    {
+        "title": "VectifyAI/PageIndex",
+        "link": "https://github.com/login?return_to=%2FVectifyAI%2FPageIndex",
+        "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+        "stars": "9,793",
+        "forks": "715"
+    },
+    {
+        "title": "supermemoryai/supermemory",
+        "link": "https://github.com/login?return_to=%2Fsupermemoryai%2Fsupermemory",
+        "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+        "stars": "15,119",
+        "forks": "1,571"
+    },
+    {
+        "title": "block/goose",
+        "link": "https://github.com/login?return_to=%2Fblock%2Fgoose",
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "stars": "29,168",
+        "forks": "2,624"
+    },
+    {
+        "title": "remotion-dev/remotion",
+        "link": "https://github.com/login?return_to=%2Fremotion-dev%2Fremotion",
+        "description": "🎥 Make videos programmatically with React",
+        "stars": "32,005",
+        "forks": "1,930"
+    },
+    {
+        "title": "AI4Finance-Foundation/FinRobot",
+        "link": "https://github.com/login?return_to=%2FAI4Finance-Foundation%2FFinRobot",
+        "description": "FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀",
+        "stars": "5,707",
+        "forks": "975"
+    },
+    {
+        "title": "k4yt3x/video2x",
+        "link": "https://github.com/sponsors/k4yt3x",
+        "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
+        "stars": "18,064",
+        "forks": "1,604"
+    },
+    {
+        "title": "business-science/ai-data-science-team",
+        "link": "https://github.com/login?return_to=%2Fbusiness-science%2Fai-data-science-team",
+        "description": "An AI-powered data science team of agents to help you perform common data science tasks 10X faster.",
+        "stars": "4,195",
+        "forks": "772"
+    }
+]
