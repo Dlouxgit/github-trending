@@ -1,0 +1,44 @@
+[
+    {
+        "title": "badlogic/pi-mono",
+        "link": "https://github.com/sponsors/badlogic",
+        "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+        "stars": "2,736",
+        "forks": "339"
+    },
+    {
+        "title": "supermemoryai/supermemory",
+        "link": "https://github.com/login?return_to=%2Fsupermemoryai%2Fsupermemory",
+        "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+        "stars": "15,587",
+        "forks": "1,589"
+    },
+    {
+        "title": "Blaizzy/mlx-audio",
+        "link": "https://github.com/sponsors/Blaizzy",
+        "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
+        "stars": "5,447",
+        "forks": "392"
+    },
+    {
+        "title": "Free-TV/IPTV",
+        "link": "https://github.com/login?return_to=%2FFree-TV%2FIPTV",
+        "description": "M3U Playlist for free TV channels",
+        "stars": "12,575",
+        "forks": "1,884"
+    },
+    {
+        "title": "hashicorp/vault",
+        "link": "https://github.com/login?return_to=%2Fhashicorp%2Fvault",
+        "description": "A tool for secrets management, encryption as a service, and privileged access management",
+        "stars": "34,119",
+        "forks": "4,523"
+    },
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "90,193",
+        "forks": "13,023"
+    }
+]
