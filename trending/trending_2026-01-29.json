@@ -1,0 +1,93 @@
+[
+    {
+        "title": "moltbot/moltbot",
+        "link": "https://github.com/sponsors/moltbot",
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+        "stars": "89,647",
+        "forks": "12,228"
+    },
+    {
+        "title": "badlogic/pi-mono",
+        "link": "https://github.com/sponsors/badlogic",
+        "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+        "stars": "3,152",
+        "forks": "384"
+    },
+    {
+        "title": "hashicorp/vault",
+        "link": "https://github.com/login?return_to=%2Fhashicorp%2Fvault",
+        "description": "A tool for secrets management, encryption as a service, and privileged access management",
+        "stars": "34,392",
+        "forks": "4,541"
+    },
+    {
+        "title": "asgeirtj/system_prompts_leaks",
+        "link": "https://github.com/sponsors/asgeirtj",
+        "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+        "stars": "26,648",
+        "forks": "4,252"
+    },
+    {
+        "title": "NevaMind-AI/memU",
+        "link": "https://github.com/login?return_to=%2FNevaMind-AI%2FmemU",
+        "description": "Memory for 24/7 proactive agents like moltbot (clawdbot).",
+        "stars": "5,577",
+        "forks": "391"
+    },
+    {
+        "title": "modelcontextprotocol/ext-apps",
+        "link": "https://github.com/login?return_to=%2Fmodelcontextprotocol%2Fext-apps",
+        "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
+        "stars": "671",
+        "forks": "95"
+    },
+    {
+        "title": "MoonshotAI/kimi-cli",
+        "link": "https://github.com/login?return_to=%2FMoonshotAI%2Fkimi-cli",
+        "description": "Kimi Code CLI is your next CLI agent.",
+        "stars": "4,581",
+        "forks": "446"
+    },
+    {
+        "title": "kubernetes/ingress-nginx",
+        "link": "https://github.com/login?return_to=%2Fkubernetes%2Fingress-nginx",
+        "description": "Ingress NGINX Controller for Kubernetes",
+        "stars": "19,357",
+        "forks": "8,513"
+    },
+    {
+        "title": "protocolbuffers/protobuf",
+        "link": "https://github.com/login?return_to=%2Fprotocolbuffers%2Fprotobuf",
+        "description": "Protocol Buffers - Google's data interchange format",
+        "stars": "70,453",
+        "forks": "16,018"
+    },
+    {
+        "title": "lobehub/lobehub",
+        "link": "https://github.com/sponsors/lobehub",
+        "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+        "stars": "70,909",
+        "forks": "14,498"
+    },
+    {
+        "title": "ran-j/PS2Recomp",
+        "link": "https://github.com/login?return_to=%2Fran-j%2FPS2Recomp",
+        "description": "Playstation 2 Static Recompiler & Runtime Tool to make native PC ports",
+        "stars": "1,478",
+        "forks": "28"
+    },
+    {
+        "title": "bambulab/BambuStudio",
+        "link": "https://github.com/login?return_to=%2Fbambulab%2FBambuStudio",
+        "description": "PC Software for BambuLab and other 3D printers",
+        "stars": "3,842",
+        "forks": "586"
+    },
+    {
+        "title": "GetStream/Vision-Agents",
+        "link": "https://github.com/login?return_to=%2FGetStream%2FVision-Agents",
+        "description": "Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.",
+        "stars": "4,211",
+        "forks": "367"
+    }
+]
