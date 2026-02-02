@@ -1,0 +1,79 @@
+[
+    {
+        "title": "openclaw/openclaw",
+        "link": "https://github.com/sponsors/openclaw",
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+        "stars": "142,574",
+        "forks": "21,299"
+    },
+    {
+        "title": "ThePrimeagen/99",
+        "link": "https://github.com/sponsors/ThePrimeagen",
+        "description": "Neovim AI agent done right",
+        "stars": "2,759",
+        "forks": "122"
+    },
+    {
+        "title": "pedramamini/Maestro",
+        "link": "https://github.com/login?return_to=%2Fpedramamini%2FMaestro",
+        "description": "Agent Orchestration Command Center",
+        "stars": "981",
+        "forks": "121"
+    },
+    {
+        "title": "kovidgoyal/calibre",
+        "link": "https://github.com/sponsors/kovidgoyal",
+        "description": "The official source code repository for the calibre ebook manager",
+        "stars": "23,639",
+        "forks": "2,535"
+    },
+    {
+        "title": "badlogic/pi-mono",
+        "link": "https://github.com/sponsors/badlogic",
+        "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+        "stars": "4,972",
+        "forks": "536"
+    },
+    {
+        "title": "thedotmack/claude-mem",
+        "link": "https://github.com/sponsors/thedotmack",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "stars": "16,451",
+        "forks": "1,150"
+    },
+    {
+        "title": "microsoft/agent-lightning",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fagent-lightning",
+        "description": "The absolute trainer to light up AI agents.",
+        "stars": "12,975",
+        "forks": "1,069"
+    },
+    {
+        "title": "amantus-ai/vibetunnel",
+        "link": "https://github.com/login?return_to=%2Famantus-ai%2Fvibetunnel",
+        "description": "Turn any browser into your terminal & command your agents on the go.",
+        "stars": "3,554",
+        "forks": "231"
+    },
+    {
+        "title": "steipete/CodexBar",
+        "link": "https://github.com/sponsors/steipete",
+        "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+        "stars": "3,933",
+        "forks": "261"
+    },
+    {
+        "title": "j178/prek",
+        "link": "https://github.com/sponsors/j178",
+        "description": "⚡ Better `pre-commit`, re-engineered in Rust",
+        "stars": "4,259",
+        "forks": "126"
+    },
+    {
+        "title": "vita-epfl/Stable-Video-Infinity",
+        "link": "https://github.com/login?return_to=%2Fvita-epfl%2FStable-Video-Infinity",
+        "description": "[ICLR 26] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling",
+        "stars": "1,741",
+        "forks": "135"
+    }
+]
