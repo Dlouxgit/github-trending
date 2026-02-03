@@ -1,0 +1,86 @@
+[
+    {
+        "title": "thedotmack/claude-mem",
+        "link": "https://github.com/sponsors/thedotmack",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "stars": "18,177",
+        "forks": "1,252"
+    },
+    {
+        "title": "ThePrimeagen/99",
+        "link": "https://github.com/sponsors/ThePrimeagen",
+        "description": "Neovim AI agent done right",
+        "stars": "3,045",
+        "forks": "130"
+    },
+    {
+        "title": "termux/termux-app",
+        "link": "https://github.com/sponsors/termux",
+        "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+        "stars": "49,940",
+        "forks": "5,943"
+    },
+    {
+        "title": "pedramamini/Maestro",
+        "link": "https://github.com/login?return_to=%2Fpedramamini%2FMaestro",
+        "description": "Agent Orchestration Command Center",
+        "stars": "1,296",
+        "forks": "142"
+    },
+    {
+        "title": "netbirdio/netbird",
+        "link": "https://github.com/sponsors/netbirdio",
+        "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+        "stars": "21,989",
+        "forks": "1,071"
+    },
+    {
+        "title": "OpenBMB/ChatDev",
+        "link": "https://github.com/login?return_to=%2FOpenBMB%2FChatDev",
+        "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+        "stars": "29,417",
+        "forks": "3,666"
+    },
+    {
+        "title": "autobrr/qui",
+        "link": "https://github.com/login?return_to=%2Fautobrr%2Fqui",
+        "description": "A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.",
+        "stars": "2,856",
+        "forks": "77"
+    },
+    {
+        "title": "badlogic/pi-mono",
+        "link": "https://github.com/sponsors/badlogic",
+        "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+        "stars": "5,602",
+        "forks": "581"
+    },
+    {
+        "title": "VectifyAI/PageIndex",
+        "link": "https://github.com/login?return_to=%2FVectifyAI%2FPageIndex",
+        "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+        "stars": "12,540",
+        "forks": "896"
+    },
+    {
+        "title": "karpathy/nanochat",
+        "link": "https://github.com/login?return_to=%2Fkarpathy%2Fnanochat",
+        "description": "The best ChatGPT that $100 can buy.",
+        "stars": "41,659",
+        "forks": "5,392"
+    },
+    {
+        "title": "kovidgoyal/calibre",
+        "link": "https://github.com/sponsors/kovidgoyal",
+        "description": "The official source code repository for the calibre ebook manager",
+        "stars": "23,807",
+        "forks": "2,544"
+    },
+    {
+        "title": "langchain-ai/rag-from-scratch",
+        "link": "https://github.com/login?return_to=%2Flangchain-ai%2Frag-from-scratch",
+        "description": "No description provided",
+        "stars": "6,982",
+        "forks": "1,788"
+    }
+]
