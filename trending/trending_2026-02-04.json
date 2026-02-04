@@ -1,0 +1,79 @@
+[
+    {
+        "title": "thedotmack/claude-mem",
+        "link": "https://github.com/sponsors/thedotmack",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "stars": "20,389",
+        "forks": "1,374"
+    },
+    {
+        "title": "masoncl/review-prompts",
+        "link": "https://github.com/login?return_to=%2Fmasoncl%2Freview-prompts",
+        "description": "AI review prompts",
+        "stars": "366",
+        "forks": "34"
+    },
+    {
+        "title": "openai/skills",
+        "link": "https://github.com/login?return_to=%2Fopenai%2Fskills",
+        "description": "Skills Catalog for Codex",
+        "stars": "3,058",
+        "forks": "180"
+    },
+    {
+        "title": "automazeio/ccpm",
+        "link": "https://github.com/login?return_to=%2Fautomazeio%2Fccpm",
+        "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
+        "stars": "6,725",
+        "forks": "699"
+    },
+    {
+        "title": "obra/superpowers",
+        "link": "https://github.com/sponsors/obra",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "stars": "43,579",
+        "forks": "3,304"
+    },
+    {
+        "title": "virattt/dexter",
+        "link": "https://github.com/login?return_to=%2Fvirattt%2Fdexter",
+        "description": "An autonomous agent for deep financial research",
+        "stars": "10,098",
+        "forks": "1,229"
+    },
+    {
+        "title": "karpathy/nanochat",
+        "link": "https://github.com/login?return_to=%2Fkarpathy%2Fnanochat",
+        "description": "The best ChatGPT that $100 can buy.",
+        "stars": "42,036",
+        "forks": "5,430"
+    },
+    {
+        "title": "kovidgoyal/calibre",
+        "link": "https://github.com/sponsors/kovidgoyal",
+        "description": "The official source code repository for the calibre ebook manager",
+        "stars": "23,933",
+        "forks": "2,550"
+    },
+    {
+        "title": "OpenBMB/ChatDev",
+        "link": "https://github.com/login?return_to=%2FOpenBMB%2FChatDev",
+        "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+        "stars": "29,793",
+        "forks": "3,688"
+    },
+    {
+        "title": "pedramamini/Maestro",
+        "link": "https://github.com/login?return_to=%2Fpedramamini%2FMaestro",
+        "description": "Agent Orchestration Command Center",
+        "stars": "1,506",
+        "forks": "157"
+    },
+    {
+        "title": "vm0-ai/vm0",
+        "link": "https://github.com/login?return_to=%2Fvm0-ai%2Fvm0",
+        "description": "the easiest way to run natural language-described workflows automatically",
+        "stars": "714",
+        "forks": "26"
+    }
+]
