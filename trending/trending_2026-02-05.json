@@ -1,0 +1,86 @@
+[
+    {
+        "title": "thedotmack/claude-mem",
+        "link": "https://github.com/sponsors/thedotmack",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "stars": "22,594",
+        "forks": "1,497"
+    },
+    {
+        "title": "openai/skills",
+        "link": "https://github.com/login?return_to=%2Fopenai%2Fskills",
+        "description": "Skills Catalog for Codex",
+        "stars": "3,718",
+        "forks": "213"
+    },
+    {
+        "title": "disler/claude-code-hooks-mastery",
+        "link": "https://github.com/login?return_to=%2Fdisler%2Fclaude-code-hooks-mastery",
+        "description": "Master Claude Code Hooks",
+        "stars": "2,378",
+        "forks": "504"
+    },
+    {
+        "title": "OpenBMB/ChatDev",
+        "link": "https://github.com/login?return_to=%2FOpenBMB%2FChatDev",
+        "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+        "stars": "29,985",
+        "forks": "3,706"
+    },
+    {
+        "title": "ankitects/anki",
+        "link": "https://github.com/login?return_to=%2Fankitects%2Fanki",
+        "description": "Anki is a smart spaced repetition flashcard program",
+        "stars": "26,173",
+        "forks": "2,785"
+    },
+    {
+        "title": "open-telemetry/opentelemetry-collector-contrib",
+        "link": "https://github.com/login?return_to=%2Fopen-telemetry%2Fopentelemetry-collector-contrib",
+        "description": "Contrib repository for the OpenTelemetry Collector",
+        "stars": "4,351",
+        "forks": "3,299"
+    },
+    {
+        "title": "Canner/WrenAI",
+        "link": "https://github.com/login?return_to=%2FCanner%2FWrenAI",
+        "description": "⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.",
+        "stars": "13,942",
+        "forks": "1,507"
+    },
+    {
+        "title": "pedramamini/Maestro",
+        "link": "https://github.com/login?return_to=%2Fpedramamini%2FMaestro",
+        "description": "Agent Orchestration Command Center",
+        "stars": "1,663",
+        "forks": "165"
+    },
+    {
+        "title": "nvm-sh/nvm",
+        "link": "https://github.com/login?return_to=%2Fnvm-sh%2Fnvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "stars": "91,255",
+        "forks": "9,820"
+    },
+    {
+        "title": "microsoft/qlib",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Fqlib",
+        "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.",
+        "stars": "36,547",
+        "forks": "5,689"
+    },
+    {
+        "title": "LadybirdBrowser/ladybird",
+        "link": "https://github.com/login?return_to=%2FLadybirdBrowser%2Fladybird",
+        "description": "Truly independent web browser",
+        "stars": "58,277",
+        "forks": "2,644"
+    },
+    {
+        "title": "likec4/likec4",
+        "link": "https://github.com/sponsors/likec4",
+        "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+        "stars": "1,452",
+        "forks": "120"
+    }
+]
