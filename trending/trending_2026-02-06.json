@@ -1,0 +1,79 @@
+[
+    {
+        "title": "bytedance/UI-TARS-desktop",
+        "link": "https://github.com/login?return_to=%2Fbytedance%2FUI-TARS-desktop",
+        "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+        "stars": "26,736",
+        "forks": "2,615"
+    },
+    {
+        "title": "openai/skills",
+        "link": "https://github.com/login?return_to=%2Fopenai%2Fskills",
+        "description": "Skills Catalog for Codex",
+        "stars": "4,303",
+        "forks": "245"
+    },
+    {
+        "title": "thedotmack/claude-mem",
+        "link": "https://github.com/sponsors/thedotmack",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "stars": "23,740",
+        "forks": "1,571"
+    },
+    {
+        "title": "j178/prek",
+        "link": "https://github.com/sponsors/j178",
+        "description": "⚡ Better `pre-commit`, re-engineered in Rust",
+        "stars": "5,525",
+        "forks": "146"
+    },
+    {
+        "title": "topoteretes/cognee",
+        "link": "https://github.com/sponsors/topoteretes",
+        "description": "Memory for AI Agents in 6 lines of code",
+        "stars": "11,852",
+        "forks": "1,158"
+    },
+    {
+        "title": "obra/superpowers",
+        "link": "https://github.com/sponsors/obra",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "stars": "45,397",
+        "forks": "3,433"
+    },
+    {
+        "title": "aquasecurity/trivy",
+        "link": "https://github.com/login?return_to=%2Faquasecurity%2Ftrivy",
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "stars": "31,372",
+        "forks": "2,910"
+    },
+    {
+        "title": "fish-shell/fish-shell",
+        "link": "https://github.com/login?return_to=%2Ffish-shell%2Ffish-shell",
+        "description": "The user-friendly command line shell.",
+        "stars": "32,393",
+        "forks": "2,214"
+    },
+    {
+        "title": "nvm-sh/nvm",
+        "link": "https://github.com/login?return_to=%2Fnvm-sh%2Fnvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "stars": "91,379",
+        "forks": "9,828"
+    },
+    {
+        "title": "linshenkx/prompt-optimizer",
+        "link": "https://github.com/login?return_to=%2Flinshenkx%2Fprompt-optimizer",
+        "description": "一款提示词优化器，助力于编写高质量的提示词",
+        "stars": "19,371",
+        "forks": "2,398"
+    },
+    {
+        "title": "ZeroTworu/anet",
+        "link": "https://github.com/login?return_to=%2FZeroTworu%2Fanet",
+        "description": "Simple Rust VPN Client / Server",
+        "stars": "367",
+        "forks": "30"
+    }
+]
