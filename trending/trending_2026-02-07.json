@@ -1,0 +1,58 @@
+[
+    {
+        "title": "openai/skills",
+        "link": "https://github.com/login?return_to=%2Fopenai%2Fskills",
+        "description": "Skills Catalog for Codex",
+        "stars": "4,884",
+        "forks": "279"
+    },
+    {
+        "title": "bytedance/UI-TARS-desktop",
+        "link": "https://github.com/login?return_to=%2Fbytedance%2FUI-TARS-desktop",
+        "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+        "stars": "27,123",
+        "forks": "2,642"
+    },
+    {
+        "title": "nvm-sh/nvm",
+        "link": "https://github.com/login?return_to=%2Fnvm-sh%2Fnvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "stars": "91,506",
+        "forks": "9,834"
+    },
+    {
+        "title": "likec4/likec4",
+        "link": "https://github.com/sponsors/likec4",
+        "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+        "stars": "1,821",
+        "forks": "136"
+    },
+    {
+        "title": "aquasecurity/trivy",
+        "link": "https://github.com/login?return_to=%2Faquasecurity%2Ftrivy",
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "stars": "31,544",
+        "forks": "2,921"
+    },
+    {
+        "title": "ZeroTworu/anet",
+        "link": "https://github.com/login?return_to=%2FZeroTworu%2Fanet",
+        "description": "Simple Rust VPN Client / Server",
+        "stars": "536",
+        "forks": "47"
+    },
+    {
+        "title": "Flowseal/zapret-discord-youtube",
+        "link": "https://github.com/login?return_to=%2FFlowseal%2Fzapret-discord-youtube",
+        "description": "No description provided",
+        "stars": "21,970",
+        "forks": "1,830"
+    },
+    {
+        "title": "DataExpert-io/data-engineer-handbook",
+        "link": "https://github.com/login?return_to=%2FDataExpert-io%2Fdata-engineer-handbook",
+        "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+        "stars": "39,881",
+        "forks": "7,618"
+    }
+]
