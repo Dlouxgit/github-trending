@@ -1,0 +1,86 @@
+[
+    {
+        "title": "KeygraphHQ/shannon",
+        "link": "https://github.com/login?return_to=%2FKeygraphHQ%2Fshannon",
+        "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+        "stars": "10,149",
+        "forks": "1,284"
+    },
+    {
+        "title": "openai/skills",
+        "link": "https://github.com/login?return_to=%2Fopenai%2Fskills",
+        "description": "Skills Catalog for Codex",
+        "stars": "6,078",
+        "forks": "332"
+    },
+    {
+        "title": "microsoft/litebox",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Flitebox",
+        "description": "A security-focused library OS supporting kernel- and user-mode execution",
+        "stars": "1,150",
+        "forks": "50"
+    },
+    {
+        "title": "p-e-w/heretic",
+        "link": "https://github.com/login?return_to=%2Fp-e-w%2Fheretic",
+        "description": "Fully automatic censorship removal for language models",
+        "stars": "4,754",
+        "forks": "455"
+    },
+    {
+        "title": "obra/superpowers",
+        "link": "https://github.com/sponsors/obra",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "stars": "47,018",
+        "forks": "3,569"
+    },
+    {
+        "title": "OpenBMB/MiniCPM-o",
+        "link": "https://github.com/login?return_to=%2FOpenBMB%2FMiniCPM-o",
+        "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
+        "stars": "23,170",
+        "forks": "1,763"
+    },
+    {
+        "title": "aquasecurity/trivy",
+        "link": "https://github.com/login?return_to=%2Faquasecurity%2Ftrivy",
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "stars": "31,694",
+        "forks": "2,928"
+    },
+    {
+        "title": "wavetermdev/waveterm",
+        "link": "https://github.com/login?return_to=%2Fwavetermdev%2Fwaveterm",
+        "description": "An open-source, cross-platform terminal for seamless workflows",
+        "stars": "17,150",
+        "forks": "763"
+    },
+    {
+        "title": "viarotel-org/escrcpy",
+        "link": "https://github.com/login?return_to=%2Fviarotel-org%2Fescrcpy",
+        "description": "📱 Display and control your Android device graphically with scrcpy.",
+        "stars": "7,850",
+        "forks": "571"
+    },
+    {
+        "title": "ComposioHQ/awesome-claude-skills",
+        "link": "https://github.com/login?return_to=%2FComposioHQ%2Fawesome-claude-skills",
+        "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+        "stars": "32,049",
+        "forks": "3,068"
+    },
+    {
+        "title": "likec4/likec4",
+        "link": "https://github.com/sponsors/likec4",
+        "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+        "stars": "2,090",
+        "forks": "147"
+    },
+    {
+        "title": "gitbutlerapp/gitbutler",
+        "link": "https://github.com/login?return_to=%2Fgitbutlerapp%2Fgitbutler",
+        "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+        "stars": "18,013",
+        "forks": "775"
+    }
+]
