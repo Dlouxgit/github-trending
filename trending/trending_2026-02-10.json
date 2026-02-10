@@ -1,0 +1,93 @@
+[
+    {
+        "title": "KeygraphHQ/shannon",
+        "link": "https://github.com/login?return_to=%2FKeygraphHQ%2Fshannon",
+        "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+        "stars": "17,498",
+        "forks": "1,838"
+    },
+    {
+        "title": "virattt/dexter",
+        "link": "https://github.com/login?return_to=%2Fvirattt%2Fdexter",
+        "description": "An autonomous agent for deep financial research",
+        "stars": "13,589",
+        "forks": "1,627"
+    },
+    {
+        "title": "pydantic/monty",
+        "link": "https://github.com/sponsors/pydantic",
+        "description": "A minimal, secure Python interpreter written in Rust for use by AI",
+        "stars": "3,992",
+        "forks": "146"
+    },
+    {
+        "title": "hsliuping/TradingAgents-CN",
+        "link": "https://github.com/login?return_to=%2Fhsliuping%2FTradingAgents-CN",
+        "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+        "stars": "16,281",
+        "forks": "3,576"
+    },
+    {
+        "title": "iOfficeAI/AionUi",
+        "link": "https://github.com/login?return_to=%2FiOfficeAI%2FAionUi",
+        "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+        "stars": "13,867",
+        "forks": "1,063"
+    },
+    {
+        "title": "public-apis/public-apis",
+        "link": "https://github.com/login?return_to=%2Fpublic-apis%2Fpublic-apis",
+        "description": "A collective list of free APIs",
+        "stars": "397,253",
+        "forks": "42,494"
+    },
+    {
+        "title": "github/gh-aw",
+        "link": "https://github.com/login?return_to=%2Fgithub%2Fgh-aw",
+        "description": "GitHub Agentic Workflows",
+        "stars": "939",
+        "forks": "80"
+    },
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "93,182",
+        "forks": "13,515"
+    },
+    {
+        "title": "gitbutlerapp/gitbutler",
+        "link": "https://github.com/login?return_to=%2Fgitbutlerapp%2Fgitbutler",
+        "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+        "stars": "18,662",
+        "forks": "807"
+    },
+    {
+        "title": "microsoft/litebox",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2Flitebox",
+        "description": "A security-focused library OS supporting kernel- and user-mode execution",
+        "stars": "1,737",
+        "forks": "73"
+    },
+    {
+        "title": "openai/skills",
+        "link": "https://github.com/login?return_to=%2Fopenai%2Fskills",
+        "description": "Skills Catalog for Codex",
+        "stars": "7,563",
+        "forks": "430"
+    },
+    {
+        "title": "EveryInc/compound-engineering-plugin",
+        "link": "https://github.com/login?return_to=%2FEveryInc%2Fcompound-engineering-plugin",
+        "description": "Official Claude Code compound engineering plugin",
+        "stars": "7,882",
+        "forks": "627"
+    },
+    {
+        "title": "DrewThomasson/ebook2audiobook",
+        "link": "https://github.com/login?return_to=%2FDrewThomasson%2Febook2audiobook",
+        "description": "Generate audiobooks from e-books, voice cloning & 1158+ languages!",
+        "stars": "17,878",
+        "forks": "1,443"
+    }
+]
