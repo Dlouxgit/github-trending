@@ -1,0 +1,100 @@
+[
+    {
+        "title": "google/langextract",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Flangextract",
+        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+        "stars": "28,609",
+        "forks": "1,927"
+    },
+    {
+        "title": "iOfficeAI/AionUi",
+        "link": "https://github.com/login?return_to=%2FiOfficeAI%2FAionUi",
+        "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+        "stars": "14,496",
+        "forks": "1,106"
+    },
+    {
+        "title": "KeygraphHQ/shannon",
+        "link": "https://github.com/login?return_to=%2FKeygraphHQ%2Fshannon",
+        "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+        "stars": "19,822",
+        "forks": "2,029"
+    },
+    {
+        "title": "github/gh-aw",
+        "link": "https://github.com/login?return_to=%2Fgithub%2Fgh-aw",
+        "description": "GitHub Agentic Workflows",
+        "stars": "1,366",
+        "forks": "107"
+    },
+    {
+        "title": "EveryInc/compound-engineering-plugin",
+        "link": "https://github.com/login?return_to=%2FEveryInc%2Fcompound-engineering-plugin",
+        "description": "Official Claude Code compound engineering plugin",
+        "stars": "8,189",
+        "forks": "642"
+    },
+    {
+        "title": "hsliuping/TradingAgents-CN",
+        "link": "https://github.com/login?return_to=%2Fhsliuping%2FTradingAgents-CN",
+        "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+        "stars": "16,697",
+        "forks": "3,620"
+    },
+    {
+        "title": "gitbutlerapp/gitbutler",
+        "link": "https://github.com/login?return_to=%2Fgitbutlerapp%2Fgitbutler",
+        "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+        "stars": "19,045",
+        "forks": "820"
+    },
+    {
+        "title": "carlvellotti/claude-code-pm-course",
+        "link": "https://github.com/login?return_to=%2Fcarlvellotti%2Fclaude-code-pm-course",
+        "description": "Interactive course teaching Product Managers how to use Claude Code effectively",
+        "stars": "845",
+        "forks": "145"
+    },
+    {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/login?return_to=%2FShubhamsaboo%2Fawesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "stars": "93,647",
+        "forks": "13,584"
+    },
+    {
+        "title": "drawdb-io/drawdb",
+        "link": "https://github.com/login?return_to=%2Fdrawdb-io%2Fdrawdb",
+        "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+        "stars": "36,345",
+        "forks": "2,839"
+    },
+    {
+        "title": "pydantic/monty",
+        "link": "https://github.com/sponsors/pydantic",
+        "description": "A minimal, secure Python interpreter written in Rust for use by AI",
+        "stars": "4,561",
+        "forks": "162"
+    },
+    {
+        "title": "cheahjs/free-llm-api-resources",
+        "link": "https://github.com/login?return_to=%2Fcheahjs%2Ffree-llm-api-resources",
+        "description": "A list of free LLM inference resources accessible via API.",
+        "stars": "8,728",
+        "forks": "853"
+    },
+    {
+        "title": "Jeffallan/claude-skills",
+        "link": "https://github.com/login?return_to=%2FJeffallan%2Fclaude-skills",
+        "description": "65 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+        "stars": "825",
+        "forks": "72"
+    },
+    {
+        "title": "virattt/dexter",
+        "link": "https://github.com/login?return_to=%2Fvirattt%2Fdexter",
+        "description": "An autonomous agent for deep financial research",
+        "stars": "14,170",
+        "forks": "1,702"
+    }
+]
