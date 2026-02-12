@@ -1,0 +1,51 @@
+[
+    {
+        "title": "google/langextract",
+        "link": "https://github.com/login?return_to=%2Fgoogle%2Flangextract",
+        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+        "stars": "30,520",
+        "forks": "2,037"
+    },
+    {
+        "title": "github/gh-aw",
+        "link": "https://github.com/login?return_to=%2Fgithub%2Fgh-aw",
+        "description": "GitHub Agentic Workflows",
+        "stars": "1,752",
+        "forks": "124"
+    },
+    {
+        "title": "microsoft/PowerToys",
+        "link": "https://github.com/login?return_to=%2Fmicrosoft%2FPowerToys",
+        "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+        "stars": "129,419",
+        "forks": "7,695"
+    },
+    {
+        "title": "ChromeDevTools/chrome-devtools-mcp",
+        "link": "https://github.com/login?return_to=%2FChromeDevTools%2Fchrome-devtools-mcp",
+        "description": "Chrome DevTools for coding agents",
+        "stars": "24,007",
+        "forks": "1,420"
+    },
+    {
+        "title": "EveryInc/compound-engineering-plugin",
+        "link": "https://github.com/login?return_to=%2FEveryInc%2Fcompound-engineering-plugin",
+        "description": "Official Claude Code compound engineering plugin",
+        "stars": "8,488",
+        "forks": "661"
+    },
+    {
+        "title": "patchy631/ai-engineering-hub",
+        "link": "https://github.com/sponsors/patchy631",
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "stars": "28,658",
+        "forks": "4,678"
+    },
+    {
+        "title": "cheahjs/free-llm-api-resources",
+        "link": "https://github.com/login?return_to=%2Fcheahjs%2Ffree-llm-api-resources",
+        "description": "A list of free LLM inference resources accessible via API.",
+        "stars": "9,545",
+        "forks": "925"
+    }
+]
