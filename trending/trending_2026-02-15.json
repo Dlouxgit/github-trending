@@ -1,0 +1,79 @@
+[
+    {
+        "title": "tambo-ai/tambo",
+        "link": "https://github.com/login?return_to=%2Ftambo-ai%2Ftambo",
+        "description": "Generative UI SDK for React",
+        "stars": "9,635",
+        "forks": "465"
+    },
+    {
+        "title": "SynkraAI/aios-core",
+        "link": "https://github.com/login?return_to=%2FSynkraAI%2Faios-core",
+        "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+        "stars": "615",
+        "forks": "243"
+    },
+    {
+        "title": "rowboatlabs/rowboat",
+        "link": "https://github.com/login?return_to=%2Frowboatlabs%2Frowboat",
+        "description": "Open-source AI coworker, with memory",
+        "stars": "6,105",
+        "forks": "502"
+    },
+    {
+        "title": "minio/minio",
+        "link": "https://github.com/login?return_to=%2Fminio%2Fminio",
+        "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+        "stars": "60,279",
+        "forks": "7,013"
+    },
+    {
+        "title": "ChromeDevTools/chrome-devtools-mcp",
+        "link": "https://github.com/login?return_to=%2FChromeDevTools%2Fchrome-devtools-mcp",
+        "description": "Chrome DevTools for coding agents",
+        "stars": "25,103",
+        "forks": "1,479"
+    },
+    {
+        "title": "alibaba/zvec",
+        "link": "https://github.com/login?return_to=%2Falibaba%2Fzvec",
+        "description": "A lightweight, lightning-fast, in-process vector database",
+        "stars": "1,292",
+        "forks": "69"
+    },
+    {
+        "title": "ruvnet/wifi-densepose",
+        "link": "https://github.com/login?return_to=%2Fruvnet%2Fwifi-densepose",
+        "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
+        "stars": "6,180",
+        "forks": "552"
+    },
+    {
+        "title": "Zipstack/unstract",
+        "link": "https://github.com/login?return_to=%2FZipstack%2Funstract",
+        "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+        "stars": "6,323",
+        "forks": "600"
+    },
+    {
+        "title": "letta-ai/letta-code",
+        "link": "https://github.com/login?return_to=%2Fletta-ai%2Fletta-code",
+        "description": "The memory-first coding agent",
+        "stars": "1,223",
+        "forks": "136"
+    },
+    {
+        "title": "ruby/ruby",
+        "link": "https://github.com/login?return_to=%2Fruby%2Fruby",
+        "description": "The Ruby Programming Language",
+        "stars": "23,373",
+        "forks": "5,563"
+    },
+    {
+        "title": "cinnyapp/cinny",
+        "link": "https://github.com/login?return_to=%2Fcinnyapp%2Fcinny",
+        "description": "Yet another matrix client",
+        "stars": "3,050",
+        "forks": "411"
+    }
+]
