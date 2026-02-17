@@ -1,0 +1,72 @@
+[
+    {
+        "title": "alibaba/zvec",
+        "link": "https://github.com/login?return_to=%2Falibaba%2Fzvec",
+        "description": "A lightweight, lightning-fast, in-process vector database",
+        "stars": "3,653",
+        "forks": "192"
+    },
+    {
+        "title": "nautechsystems/nautilus_trader",
+        "link": "https://github.com/login?return_to=%2Fnautechsystems%2Fnautilus_trader",
+        "description": "A high-performance algorithmic trading platform and event-driven backtester",
+        "stars": "19,792",
+        "forks": "2,323"
+    },
+    {
+        "title": "rowboatlabs/rowboat",
+        "link": "https://github.com/login?return_to=%2Frowboatlabs%2Frowboat",
+        "description": "Open-source AI coworker, with memory",
+        "stars": "7,336",
+        "forks": "621"
+    },
+    {
+        "title": "steipete/gogcli",
+        "link": "https://github.com/sponsors/steipete",
+        "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+        "stars": "3,519",
+        "forks": "299"
+    },
+    {
+        "title": "openclaw/openclaw",
+        "link": "https://github.com/sponsors/openclaw",
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+        "stars": "201,804",
+        "forks": "36,192"
+    },
+    {
+        "title": "SynkraAI/aios-core",
+        "link": "https://github.com/login?return_to=%2FSynkraAI%2Faios-core",
+        "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+        "stars": "998",
+        "forks": "355"
+    },
+    {
+        "title": "letta-ai/letta-code",
+        "link": "https://github.com/login?return_to=%2Fletta-ai%2Fletta-code",
+        "description": "The memory-first coding agent",
+        "stars": "1,463",
+        "forks": "156"
+    },
+    {
+        "title": "ruvnet/wifi-densepose",
+        "link": "https://github.com/login?return_to=%2Fruvnet%2Fwifi-densepose",
+        "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
+        "stars": "6,809",
+        "forks": "585"
+    },
+    {
+        "title": "seerr-team/seerr",
+        "link": "https://github.com/login?return_to=%2Fseerr-team%2Fseerr",
+        "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
+        "stars": "9,082",
+        "forks": "602"
+    },
+    {
+        "title": "hummingbot/hummingbot",
+        "link": "https://github.com/sponsors/hummingbot",
+        "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
+        "stars": "16,583",
+        "forks": "4,386"
+    }
+]
