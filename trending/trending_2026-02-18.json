@@ -1,0 +1,93 @@
+[
+    {
+        "title": "p-e-w/heretic",
+        "link": "https://github.com/login?return_to=%2Fp-e-w%2Fheretic",
+        "description": "Fully automatic censorship removal for language models",
+        "stars": "7,263",
+        "forks": "735"
+    },
+    {
+        "title": "seerr-team/seerr",
+        "link": "https://github.com/login?return_to=%2Fseerr-team%2Fseerr",
+        "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
+        "stars": "9,339",
+        "forks": "612"
+    },
+    {
+        "title": "obra/superpowers",
+        "link": "https://github.com/sponsors/obra",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "stars": "53,640",
+        "forks": "4,072"
+    },
+    {
+        "title": "steipete/gogcli",
+        "link": "https://github.com/sponsors/steipete",
+        "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+        "stars": "3,880",
+        "forks": "320"
+    },
+    {
+        "title": "alibaba/zvec",
+        "link": "https://github.com/login?return_to=%2Falibaba%2Fzvec",
+        "description": "A lightweight, lightning-fast, in-process vector database",
+        "stars": "4,509",
+        "forks": "239"
+    },
+    {
+        "title": "openclaw/openclaw",
+        "link": "https://github.com/sponsors/openclaw",
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+        "stars": "205,553",
+        "forks": "37,478"
+    },
+    {
+        "title": "SynkraAI/aios-core",
+        "link": "https://github.com/login?return_to=%2FSynkraAI%2Faios-core",
+        "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+        "stars": "1,210",
+        "forks": "407"
+    },
+    {
+        "title": "ashishps1/awesome-system-design-resources",
+        "link": "https://github.com/login?return_to=%2Fashishps1%2Fawesome-system-design-resources",
+        "description": "Learn System Design concepts and prepare for interviews using free resources.",
+        "stars": "32,836",
+        "forks": "7,302"
+    },
+    {
+        "title": "steipete/summarize",
+        "link": "https://github.com/sponsors/steipete",
+        "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
+        "stars": "3,457",
+        "forks": "218"
+    },
+    {
+        "title": "hummingbot/hummingbot",
+        "link": "https://github.com/sponsors/hummingbot",
+        "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
+        "stars": "17,062",
+        "forks": "4,418"
+    },
+    {
+        "title": "anthropics/claude-quickstarts",
+        "link": "https://github.com/login?return_to=%2Fanthropics%2Fclaude-quickstarts",
+        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "stars": "14,500",
+        "forks": "2,428"
+    },
+    {
+        "title": "davila7/claude-code-templates",
+        "link": "https://github.com/login?return_to=%2Fdavila7%2Fclaude-code-templates",
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "stars": "20,733",
+        "forks": "1,936"
+    },
+    {
+        "title": "OpenCTI-Platform/opencti",
+        "link": "https://github.com/login?return_to=%2FOpenCTI-Platform%2Fopencti",
+        "description": "Open Cyber Threat Intelligence Platform",
+        "stars": "8,417",
+        "forks": "1,227"
+    }
+]
