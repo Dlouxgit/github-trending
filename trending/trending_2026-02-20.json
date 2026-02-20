@@ -1,0 +1,58 @@
+[
+    {
+        "title": "obra/superpowers",
+        "link": "https://github.com/sponsors/obra",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "stars": "55,427",
+        "forks": "4,196"
+    },
+    {
+        "title": "RichardAtCT/claude-code-telegram",
+        "link": "https://github.com/login?return_to=%2FRichardAtCT%2Fclaude-code-telegram",
+        "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
+        "stars": "977",
+        "forks": "129"
+    },
+    {
+        "title": "open-mercato/open-mercato",
+        "link": "https://github.com/login?return_to=%2Fopen-mercato%2Fopen-mercato",
+        "description": "AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!",
+        "stars": "743",
+        "forks": "116"
+    },
+    {
+        "title": "harvard-edge/cs249r_book",
+        "link": "https://github.com/login?return_to=%2Fharvard-edge%2Fcs249r_book",
+        "description": "Introduction to Machine Learning Systems",
+        "stars": "20,218",
+        "forks": "2,330"
+    },
+    {
+        "title": "HailToDodongo/pyrite64",
+        "link": "https://github.com/login?return_to=%2FHailToDodongo%2Fpyrite64",
+        "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
+        "stars": "1,770",
+        "forks": "63"
+    },
+    {
+        "title": "openclaw/openclaw",
+        "link": "https://github.com/sponsors/openclaw",
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+        "stars": "211,976",
+        "forks": "39,329"
+    },
+    {
+        "title": "freemocap/freemocap",
+        "link": "https://github.com/login?return_to=%2Ffreemocap%2Ffreemocap",
+        "description": "Free Motion Capture for Everyone 💀✨",
+        "stars": "5,216",
+        "forks": "419"
+    },
+    {
+        "title": "p-e-w/heretic",
+        "link": "https://github.com/login?return_to=%2Fp-e-w%2Fheretic",
+        "description": "Fully automatic censorship removal for language models",
+        "stars": "8,509",
+        "forks": "851"
+    }
+]
